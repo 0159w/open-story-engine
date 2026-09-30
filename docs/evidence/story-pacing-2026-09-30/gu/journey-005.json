@@ -1,0 +1,285 @@
+{
+  "branch_id": "branch_62fa38ba-43c0-4a48-b38d-29273ff3274a",
+  "threads": [
+    {
+      "id": "opening-thread-1",
+      "title": "木牌刻痕里为何有金屑",
+      "status": "abandoned",
+      "source": "opening",
+      "openedBranchId": null,
+      "causeBranchId": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+      "reason": "顾长离明确放弃调查金屑，将纸包交回执事。",
+      "evidence": "“退出？”你把木牌搁在石台边缘，又摸出那只纸包，一并推过去，“试炼我不参加了。金屑的事，我也不查了。”\n\n执事没有立刻去接。他先看了看木牌，再看了看纸包，最后看回你，眉头慢慢拧起来。\n\n“你可想清楚了。”他开口，声音不高，周围却有几个新弟子悄悄侧过耳朵，“玄霄宗外门试炼，一年一回。今日踏出这道石阶，明年再来，便要从头核验根骨、重走引荐的路子。你荐书上的名字，我这就划去。”\n\n“想清楚了。”\n\n他这才伸手，先把木牌翻过来，指腹在背面那道刻痕上抹了一下。刻痕里的黑泥还在，他没细看，随手将木牌丢进石台下一只竹筐。筐里已经躺着几块同样的木牌，边角磕碰，像是往年留下的。\n\n接着是纸包。执事捏起它，在掌心掂了掂，没有打开。\n\n“这是什么？”\n\n“木牌刻痕里刮下来的。”你说，“一点金屑。”\n\n他的手指顿了一下。纸包很轻，轻得几乎感觉不到分量。他盯着它看了两息，忽然问：“你刮它做什么？”\n\n“看着不像泥。”\n\n执事沉默片刻，把纸包收进袖中，没有再多问。他重新拿起笔，在簿子上划了一道，笔尖压得很重，纸面发出细微的沙沙声。",
+      "priority": "unknown",
+      "recoveryWindow": "unknown"
+    },
+    {
+      "id": "opening-thread-2",
+      "title": "如何完成第一场外门试炼",
+      "status": "abandoned",
+      "source": "opening",
+      "openedBranchId": null,
+      "causeBranchId": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+      "reason": "顾长离主动退出试炼，交回木牌，该问题不再适用。",
+      "evidence": "“退出？”你把木牌搁在石台边缘，又摸出那只纸包，一并推过去，“试炼我不参加了。金屑的事，我也不查了。”\n\n执事没有立刻去接。他先看了看木牌，再看了看纸包，最后看回你，眉头慢慢拧起来。\n\n“你可想清楚了。”他开口，声音不高，周围却有几个新弟子悄悄侧过耳朵，“玄霄宗外门试炼，一年一回。今日踏出这道石阶，明年再来，便要从头核验根骨、重走引荐的路子。你荐书上的名字，我这就划去。”\n\n“想清楚了。”\n\n他这才伸手，先把木牌翻过来，指腹在背面那道刻痕上抹了一下。刻痕里的黑泥还在，他没细看，随手将木牌丢进石台下一只竹筐。筐里已经躺着几块同样的木牌，边角磕碰，像是往年留下的。",
+      "priority": "unknown",
+      "recoveryWindow": "unknown"
+    }
+  ],
+  "goals": [
+    {
+      "id": "opening-goal-1",
+      "title": "木牌刻痕里为何有金屑",
+      "status": "abandoned",
+      "characterId": "character_e663361ab1c7",
+      "dependencies": [],
+      "source": "player_branch",
+      "evidence": "“退出？”你把木牌搁在石台边缘，又摸出那只纸包，一并推过去，“试炼我不参加了。金屑的事，我也不查了。”\n\n执事没有立刻去接。他先看了看木牌，再看了看纸包，最后看回你，眉头慢慢拧起来。\n\n“你可想清楚了。”他开口，声音不高，周围却有几个新弟子悄悄侧过耳朵，“玄霄宗外门试炼，一年一回。今日踏出这道石阶，明年再来，便要从头核验根骨、重走引荐的路子。你荐书上的名字，我这就划去。”\n\n“想清楚了。”\n\n他这才伸手，先把木牌翻过来，指腹在背面那道刻痕上抹了一下。刻痕里的黑泥还在，他没细看，随手将木牌丢进石台下一只竹筐。筐里已经躺着几块同样的木牌，边角磕碰，像是往年留下的。\n\n接着是纸包。执事捏起它，在掌心掂了掂，没有打开。\n\n“这是什么？”\n\n“木牌刻痕里刮下来的。”你说，“一点金屑。”\n\n他的手指顿了一下。纸包很轻，轻得几乎感觉不到分量。他盯着它看了两息，忽然问：“你刮它做什么？”\n\n“看着不像泥。”\n\n执事沉默片刻，把纸包收进袖中，没有再多问。他重新拿起笔，在簿子上划了一道，笔尖压得很重，纸面发出细微的沙沙声。",
+      "causeBranchId": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+      "reason": "顾长离明确向执事表示金屑的事不再查，并将纸包交回。",
+      "successor": ""
+    },
+    {
+      "id": "opening-goal-2",
+      "title": "如何完成第一场外门试炼",
+      "status": "abandoned",
+      "characterId": "character_e663361ab1c7",
+      "dependencies": [],
+      "source": "player_branch",
+      "evidence": "“退出？”你把木牌搁在石台边缘，又摸出那只纸包，一并推过去，“试炼我不参加了。金屑的事，我也不查了。”\n\n执事没有立刻去接。他先看了看木牌，再看了看纸包，最后看回你，眉头慢慢拧起来。\n\n“你可想清楚了。”他开口，声音不高，周围却有几个新弟子悄悄侧过耳朵，“玄霄宗外门试炼，一年一回。今日踏出这道石阶，明年再来，便要从头核验根骨、重走引荐的路子。你荐书上的名字，我这就划去。”\n\n“想清楚了。”\n\n他这才伸手，先把木牌翻过来，指腹在背面那道刻痕上抹了一下。刻痕里的黑泥还在，他没细看，随手将木牌丢进石台下一只竹筐。筐里已经躺着几块同样的木牌，边角磕碰，像是往年留下的。",
+      "causeBranchId": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+      "reason": "顾长离主动退出试炼，交回木牌，试炼目标不再适用。",
+      "successor": ""
+    }
+  ],
+  "playthrough_length": {
+    "target_minutes": 150,
+    "typical_minutes": [
+      120,
+      180
+    ],
+    "target_cjk": 30000,
+    "consumed_cjk": 4619,
+    "completed_turns": 5,
+    "estimate_only": true
+  },
+  "ledger_coverage": {
+    "goals": "recorded",
+    "threads": "recorded"
+  },
+  "role_name": "顾长离",
+  "goal": "当前没有进行中的目标",
+  "progress": null,
+  "progress_label": "本路线历程",
+  "choices_made": 5,
+  "milestones": [],
+  "current_task": "当前阶段已收束，新的目标将在后续行动中记录",
+  "status": "active",
+  "feedback": [
+    "顾长离连续五天在码头搬运，每日上工前按约点清旧损、干活、当日领钱，晚上仍住旧仓房，除吃饭外攒下工钱，共一百六十七文。第五天收工后他向周领工提出歇一天去官道车马店还二十文欠账，周领工准假，让他后天辰时再来，位置留着，并提醒若当天赶不回来，后天晚半个时辰扣五文、不撵人。顾长离答钱够，收工后往旧仓房走，准备次日一早去官道。"
+  ],
+  "clues": [
+    "你已看过木牌三遍，刮出一粒金屑并包进纸里。",
+    "试炼要求日落前取回青露草，另有白线、禁止争抢伤人和进入封闭区域的规定。",
+    "你听过北河城，刚与陆照临互通姓名。"
+  ],
+  "people": [
+    {
+      "id": "character_ae4cb42b9b49",
+      "name": "陆照临",
+      "is_player": false,
+      "first_page": 1,
+      "last_page": 1,
+      "identity": "身份随剧情逐渐明确",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_74396796-c57b-46a9-9631-cacff473f3c9",
+        "page": 1,
+        "quote": "有人问你是否认识这块木头。你回了一句反问，才报上自己的名字：顾长离。他叫陆照临。你听过北河城，却不认识他；这只是第一次互通姓名，他为何来到这里，你还不知道。",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": "/images/taixu-lu-zhaolin-v1.png",
+        "source": "published",
+        "fallback_key": "person-6"
+      },
+      "status": {
+        "code": "unknown",
+        "label": "状态未确认",
+        "permanence": null,
+        "evidence": null
+      }
+    },
+    {
+      "id": "character_e663361ab1c7",
+      "name": "顾长离",
+      "is_player": true,
+      "first_page": 1,
+      "last_page": 6,
+      "identity": "玄霄宗的新弟子，观察细致，话语冷淡。第一次外门试炼将开始，你却先发现了木牌上的…",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_74396796-c57b-46a9-9631-cacff473f3c9",
+        "page": 1,
+        "quote": "你把木牌翻到背面。日落前取回青露草，越过白线便取消资格——规矩刻得清楚，刻痕里的黑泥却夹着一点金屑。你已刮下一粒，用纸包好。",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": "/images/taixu-gu-changli-v1.png",
+        "source": "published",
+        "fallback_key": "person-8"
+      },
+      "status": {
+        "code": "alive",
+        "label": "存活",
+        "permanence": "temporary",
+        "evidence": {
+          "branch_id": "branch_17ca50e7-aafe-4a11-a041-baeb3b37c3c8",
+          "page": 5,
+          "quote": "你接过钱，铜钱还带着他身上的体温。串子不重，攥在手里却实在。你数了一遍，三十文，一文不少。",
+          "source": "consequence"
+        }
+      }
+    },
+    {
+      "id": "character_trial_steward",
+      "name": "执事",
+      "is_player": false,
+      "first_page": 2,
+      "last_page": 2,
+      "identity": "身份随剧情逐渐明确",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+        "page": 2,
+        "quote": "执事点头，抬手往石阶下方一指。半山云雾正从那条路漫上来，石阶一级级没入白气里，看不见尽头。",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": null,
+        "source": "preset",
+        "fallback_key": "person-2"
+      },
+      "status": {
+        "code": "unknown",
+        "label": "状态未确认",
+        "permanence": null,
+        "evidence": null
+      }
+    },
+    {
+      "id": "character_dock_foreman",
+      "name": "周领工",
+      "is_player": false,
+      "first_page": 5,
+      "last_page": 6,
+      "identity": "身份随剧情逐渐明确",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_17ca50e7-aafe-4a11-a041-baeb3b37c3c8",
+        "page": 5,
+        "quote": "卯时差一刻，你走到跳板旁。周领工蹲在岸边一块石头上啃馍，见你来了，把最后一口塞进嘴里，站起来拍了拍手。",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": null,
+        "source": "preset",
+        "fallback_key": "person-2"
+      },
+      "status": {
+        "code": "unknown",
+        "label": "状态未确认",
+        "permanence": null,
+        "evidence": null
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source": "character_e663361ab1c7",
+      "target": "character_ae4cb42b9b49",
+      "label": "刚认识姓名",
+      "evidence": "刚认识姓名，没有共同调查或过命交情。",
+      "page": 1,
+      "origin": "opening"
+    },
+    {
+      "source": "character_e663361ab1c7",
+      "target": "character_trial_steward",
+      "label": "相遇",
+      "evidence": "你穿过人群，走向石台侧边那名执事",
+      "page": 2
+    }
+  ],
+  "recap": [
+    {
+      "branch_id": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+      "action": "我不参加试炼了，也不再调查金屑。向执事办理退出，交回木牌和纸包，问清退出的实际后果；我决定独自下山去青石镇谋生。",
+      "effects": [
+        "顾长离向试炼执事当面提出退出，交回木牌与包着金屑的纸包。执事确认退出后果：荐书作废、外门名册不留名、不得再以试炼弟子身份出入山门，并告知下山路径与青石镇方向。顾长离与陆照临点头作别，独自下到山脚，踏上通往青石镇的官道。",
+        "来到官道",
+        "目标已放下：木牌刻痕里为何有金屑",
+        "目标已放下：如何完成第一场外门试炼",
+        "问题已放下：木牌刻痕里为何有金屑",
+        "问题已放下：如何完成第一场外门试炼"
+      ]
+    },
+    {
+      "branch_id": "branch_729e06d0-2f47-4557-aabf-5eac4da5c5e7",
+      "action": "沿官道去青石镇，天黑找安全地方歇脚，天亮继续赶路。抵达后去码头向领工问有没有搬运活，工钱、管饭和当日结算怎么算；先听条件再决定。",
+      "effects": [
+        "顾长离沿官道东南行，日暮在路边车马店赊住一晚，扫院抵粥，天亮续行，午后抵达青石镇。他到码头向周领工问搬运活，周领工说明条件：按日结一天三十文、管一顿晌午饭、当日干完当日结，船晚到多干半个时辰另算五文，货损要赔、偷懒撵走不给钱，肯干明早卯时来。顾长离听完尚未答复。"
+      ]
+    },
+    {
+      "branch_id": "branch_70f02fe9-feba-4675-883a-31ae855348fd",
+      "action": "我愿意试做一天，但只承担自己过失造成的货损，原有破损要先当面点清，不能把旧损算我头上。若周领工同意，就请他指个安全的免费落脚处，明早按约上工，一直做到当日结算；若不同意，先听他答复。",
+      "effects": [
+        "顾长离向周领工提出只承担自己过失造成的货损、旧损须当面点清，并要求安全的免费落脚处。周领工答复：明早上工前先带他上船看一圈，当面记下已有磕碰并画押，认了再动手；落脚处指向码头西头旧仓房，可免费凑合一宿，但仓房东西不能乱动，动了从工钱里扣。双方约定卯时上工，迟到一刻算半个时辰。"
+      ]
+    },
+    {
+      "branch_id": "branch_17ca50e7-aafe-4a11-a041-baeb3b37c3c8",
+      "action": "同意先点清旧损再干活，今晚住旧仓房，不动其他东西。明早卯时跟周领工看货，旧损记好就开始搬运，正常做到当天收工领钱。我希望在青石镇靠自己的劳动安稳生活，不再回头追查宗门旧事。",
+      "effects": [
+        "顾长离答应周领工的条件，当晚住进码头西头旧仓房。次日卯时前到跳板旁，随周领工上船当面点清旧损并画押，随后开始搬运，干到日头偏西收工，周领工按约付给三十文工钱，并让他明天辰时再来。顾长离收下工钱，往旧仓房方向走。",
+        "来到旧仓房",
+        "顾长离已确认存活"
+      ]
+    },
+    {
+      "branch_id": "branch_62fa38ba-43c0-4a48-b38d-29273ff3274a",
+      "action": "继续在码头做五天搬运，每天按约检查明显旧损、干活、领钱，晚上仍住仓房。除了正常吃饭外把钱存下来；五天后请周领工安排我歇一天，我要去官道车马店归还欠掌柜的二十文住宿钱。途中若遇到需要我决定的新条件就先停下听明白。",
+      "effects": [
+        "顾长离连续五天在码头搬运，每日上工前按约点清旧损、干活、当日领钱，晚上仍住旧仓房，除吃饭外攒下工钱，共一百六十七文。第五天收工后他向周领工提出歇一天去官道车马店还二十文欠账，周领工准假，让他后天辰时再来，位置留着，并提醒若当天赶不回来，后天晚半个时辰扣五文、不撵人。顾长离答钱够，收工后往旧仓房走，准备次日一早去官道。"
+      ]
+    }
+  ],
+  "lineage": [
+    "branch_74396796-c57b-46a9-9631-cacff473f3c9",
+    "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+    "branch_729e06d0-2f47-4557-aabf-5eac4da5c5e7",
+    "branch_70f02fe9-feba-4675-883a-31ae855348fd",
+    "branch_17ca50e7-aafe-4a11-a041-baeb3b37c3c8",
+    "branch_62fa38ba-43c0-4a48-b38d-29273ff3274a"
+  ],
+  "route_health": {
+    "signals": [
+      "source_progress_stalled"
+    ],
+    "review_recommended": true,
+    "window": 3,
+    "unchanged_state_turns": 0,
+    "repeated_action_turns": 1,
+    "source_progress_streak": 5,
+    "closure_readiness": "checklist_clear",
+    "closure_outstanding_count": 0,
+    "ending_written": false,
+    "note": "停滞信号与收束清单仅作路线诊断；不表示应强制结束，也不表示自然结局已写成。"
+  },
+  "location": "旧仓房"
+}

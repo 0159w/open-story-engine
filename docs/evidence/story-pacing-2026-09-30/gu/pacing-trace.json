@@ -1,0 +1,464 @@
+[
+  {
+    "turn": 0,
+    "branchId": "branch_74396796-c57b-46a9-9631-cacff473f3c9",
+    "savedProgress": {
+      "consumedCjk": 240,
+      "completedTurns": 0,
+      "remainingCjk": 29760,
+      "remainingTurns": 45,
+      "suggestedPhase": "establish",
+      "pacing": "developing",
+      "plotCompletion": null
+    },
+    "revision": null,
+    "review": null,
+    "outcome": null,
+    "planBudgetPhase": null,
+    "priorPhaseWindow": null
+  },
+  {
+    "turn": 1,
+    "branchId": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+    "savedProgress": {
+      "consumedCjk": 1261,
+      "completedTurns": 1,
+      "remainingCjk": 28739,
+      "remainingTurns": 44,
+      "suggestedPhase": "establish",
+      "pacing": "developing",
+      "plotCompletion": null
+    },
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "revise",
+      "reason": "玩家明确放弃试炼与金屑调查，改走退出宗门、下山谋生路线，旧五阶段围绕试炼与金屑的安排失效，须重排未来可能并保留已发生的刮屑与互通姓名。",
+      "nextMilestone": "执事受理退出、收回木牌与纸包，并说明退出的实际后果；顾长离获知下山路径与青石镇方向。",
+      "phaseId": "establish",
+      "phaseReason": "旧目标被玩家主动放弃，本回合将完成退出交接并确立青石镇谋生这一新方向，属于新故事前提的建立阶段。",
+      "planChanged": true
+    },
+    "outcome": {
+      "summary": "顾长离正式退出玄霄宗外门试炼，交回木牌与纸包，执事告知退出后果并指路青石镇；他独自下山踏上官道，开始前往青石镇谋生。",
+      "paragraphId": "P25",
+      "evidenceQuote": "半个时辰后，你踩上平地。",
+      "basis": "observed"
+    },
+    "planBudgetPhase": null,
+    "priorPhaseWindow": {
+      "assessedPhase": null,
+      "consecutiveTurns": 0,
+      "consumedCjk": 0,
+      "reviewReasons": [],
+      "authority": "planning_assessment_not_completion"
+    }
+  },
+  {
+    "turn": 2,
+    "branchId": "branch_729e06d0-2f47-4557-aabf-5eac4da5c5e7",
+    "savedProgress": {
+      "consumedCjk": 2014,
+      "completedTurns": 2,
+      "remainingCjk": 27986,
+      "remainingTurns": 43,
+      "suggestedPhase": "establish",
+      "pacing": "developing",
+      "plotCompletion": null
+    },
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家行动与既有计划一致：沿官道赴青石镇、途中歇脚、抵达后到码头问搬运活并先听条件。这是从退出宗门转向山下谋生的自然延续，无需改道。",
+      "nextMilestone": "顾长离走完官道、在途中安全过夜，抵达青石镇码头向领工问明搬运活的工钱、管饭与结算方式，得到具体条件后停在决定前。",
+      "phaseId": "establish",
+      "phaseReason": "退出试炼与下山已落实，但青石镇立足尚未开始。本回合应完成赶路、歇脚与抵达码头问工，把谋生方向从意向变为具体接触。"
+    },
+    "outcome": {
+      "summary": "顾长离走完官道、途中在车马店赊住一夜，抵达青石镇码头，向周领工问明搬运活的工钱、管饭与当日结算条件；周领工给出具体条件并让他自己考虑，顾长离尚未答复。",
+      "paragraphId": "P17",
+      "evidenceQuote": "他顿了顿，又补一句：“丑话说前头，货损了要赔，偷懒耍滑的当场撵走，一文不给。你要是肯干，明早卯时过来，我姓周，喊我周领工就行。”",
+      "basis": "observed"
+    },
+    "planBudgetPhase": null,
+    "priorPhaseWindow": {
+      "assessedPhase": "establish",
+      "consecutiveTurns": 1,
+      "consumedCjk": 1021,
+      "reviewReasons": [],
+      "authority": "planning_assessment_not_completion"
+    }
+  },
+  {
+    "turn": 3,
+    "branchId": "branch_70f02fe9-feba-4675-883a-31ae855348fd",
+    "savedProgress": {
+      "consumedCjk": 2527,
+      "completedTurns": 3,
+      "remainingCjk": 27473,
+      "remainingTurns": 42,
+      "suggestedPhase": "establish",
+      "pacing": "developing",
+      "plotCompletion": null
+    },
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家在既有谋生方向上继续：接受试做一天但提出货损责任与旧损点清的条件，并索要免费落脚处。这与“青石镇立足”阶段一致，无需改道。",
+      "nextMilestone": "周领工对条件作出答复，明确货损责任与旧损点清方式，并给出落脚处或拒绝；顾长离得到是否上工的实际结果。",
+      "phaseId": "develop",
+      "phaseReason": "退出与下山已完成，顾长离已抵达青石镇并开始谈具体营生条件，本回合进入立足阶段：落实受雇条件、落脚处与上工安排。"
+    },
+    "outcome": {
+      "summary": "周领工对顾长离的条件作出明确答复：同意明早先上船当面点清旧损并画押、认了再动手，并指给码头西头旧仓房免费借宿；双方约定卯时上工，迟到一刻算半个时辰。",
+      "paragraphId": "P5",
+      "evidenceQuote": "“至于旧损——你还没上工，哪来的旧损？船上的货，破的烂的，装船前货主自己点过数，单子在船老大手里。你要怕背黑锅，明早来的时候，先跟我上船看一圈。哪箱哪袋有磕碰，我当着你的面记一笔，画个押。你认了，再动手。不认，这活你不接，我也不勉强。”",
+      "basis": "observed"
+    },
+    "planBudgetPhase": null,
+    "priorPhaseWindow": {
+      "assessedPhase": "establish",
+      "consecutiveTurns": 2,
+      "consumedCjk": 1774,
+      "reviewReasons": [],
+      "authority": "planning_assessment_not_completion"
+    }
+  },
+  {
+    "turn": 4,
+    "branchId": "branch_17ca50e7-aafe-4a11-a041-baeb3b37c3c8",
+    "savedProgress": {
+      "consumedCjk": 3830,
+      "completedTurns": 4,
+      "remainingCjk": 26170,
+      "remainingTurns": 41,
+      "suggestedPhase": "establish",
+      "pacing": "developing",
+      "plotCompletion": null
+    },
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家明确同意周领工的条件，接受先点清旧损再干活、住旧仓房、卯时上工、做到当日结算，并声明要在青石镇靠劳动安稳生活、不再追查宗门旧事。这与既有修订计划中“青石镇立足”的方向一致，无需改道。",
+      "nextMilestone": "顾长离当晚在旧仓房安顿，次日卯时与周领工上船当面点清旧损并画押，随后开始第一天搬运，至收工领到工钱。",
+      "phaseId": "develop",
+      "phaseReason": "退出试炼与下山已在上一回合完成，玩家本回合正式接受码头短工并确定落脚处，属于在青石镇建立营生与日常关系，应推进develop阶段。仍需推进的是：旧损点清是否顺利、第一天搬运是否出意外、工钱能否当日结清。"
+    },
+    "outcome": {
+      "summary": "顾长离完成在青石镇码头第一天搬运，周领工按约支付三十文工钱并让他明天辰时再来。",
+      "paragraphId": "P22",
+      "evidenceQuote": "“今天的。”他说，“明天还有一条船到，辰时来。”",
+      "basis": "observed"
+    },
+    "planBudgetPhase": null,
+    "priorPhaseWindow": {
+      "assessedPhase": "develop",
+      "consecutiveTurns": 1,
+      "consumedCjk": 513,
+      "reviewReasons": [],
+      "authority": "planning_assessment_not_completion"
+    }
+  },
+  {
+    "turn": 5,
+    "branchId": "branch_62fa38ba-43c0-4a48-b38d-29273ff3274a",
+    "savedProgress": {
+      "consumedCjk": 4619,
+      "completedTurns": 5,
+      "remainingCjk": 25381,
+      "remainingTurns": 40,
+      "suggestedPhase": "develop",
+      "pacing": "developing",
+      "plotCompletion": null
+    },
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家延续在青石镇码头谋生的路线，与既有develop阶段一致；本次是五天重复劳动的合并推进，不改变故事方向，只需在五天后处理歇工与还钱的新节点。",
+      "nextMilestone": "五天搬运的合并过渡完成，顾长离攒下工钱，并在第五天向周领工提出歇一天去还车马店二十文欠款，停在周领工答复或途中新条件出现处。",
+      "phaseId": "develop",
+      "phaseReason": "顾长离已在码头立足、建立与周领工的雇佣关系并领到首日工钱；当前仍需推进的是稳定谋生、积累工钱并处理车马店欠款这一具体牵挂，故本回合继续develop。"
+    },
+    "outcome": {
+      "summary": "顾长离连续五天在码头搬运，攒下一百六十七文工钱；第五天收工后向周领工提出歇一天去官道车马店还二十文欠账，周领工准假，让他后天辰时再来，位置留着。",
+      "paragraphId": "P16",
+      "evidenceQuote": "“行。”他说，“明天这条船我另找人。你后天辰时来，位置给你留着。”",
+      "basis": "observed"
+    },
+    "planBudgetPhase": null,
+    "priorPhaseWindow": {
+      "assessedPhase": "develop",
+      "consecutiveTurns": 2,
+      "consumedCjk": 1816,
+      "reviewReasons": [],
+      "authority": "planning_assessment_not_completion"
+    }
+  },
+  {
+    "turn": 6,
+    "branchId": "branch_cc67084d-d677-44ac-ab8e-92a53d0eda67",
+    "savedProgress": {
+      "consumedCjk": 5732,
+      "completedTurns": 6,
+      "remainingCjk": 24268,
+      "remainingTurns": 39,
+      "suggestedPhase": "develop",
+      "pacing": "developing",
+      "plotCompletion": null
+    },
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家行动与既有计划一致：继续在青石镇谋生，还清车马店欠款，明确不再回玄霄宗、不再查试炼与金屑。这属于develop阶段内日常生计与人际关系的自然推进，无需改道。",
+      "nextMilestone": "顾长离当面还清二十文、谢过粥与馍，听到掌柜对生意的答复，当天返回码头，为明早上工做准备。",
+      "phaseId": "develop",
+      "phaseReason": "顾长离已在码头立足、有稳定工钱与落脚处，本回合还清旧欠并了解车马店掌柜近况，是谋生关系网的具体积累；仍需推进的是他在青石镇的长期位置与退出后果的浮现。"
+    },
+    "outcome": {
+      "summary": "顾长离当面还清车马店二十文欠款，掌柜收下并确认数目；他问得掌柜对近来生意的答复后，当天返回码头旧仓房，余钱一百四十七文，准备明早辰时上工。",
+      "paragraphId": "P8",
+      "evidenceQuote": "“二十，没错。”她把钱揣进围裙兜里，语气平平的，没什么多余的话，“你倒记着。”",
+      "basis": "observed"
+    },
+    "planBudgetPhase": null,
+    "priorPhaseWindow": {
+      "assessedPhase": "develop",
+      "consecutiveTurns": 3,
+      "consumedCjk": 2605,
+      "reviewReasons": [],
+      "authority": "planning_assessment_not_completion"
+    }
+  },
+  {
+    "turn": 7,
+    "branchId": "branch_e08ee295-08ac-4030-9fef-fe5841408a1a",
+    "savedProgress": {
+      "consumedCjk": 6833,
+      "completedTurns": 7,
+      "remainingCjk": 23167,
+      "remainingTurns": 38,
+      "suggestedPhase": "develop",
+      "pacing": "developing",
+      "plotCompletion": null
+    },
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家继续在青石镇码头谋生，核对余钱、按约上工、询问长期排班，与既有develop阶段“青石镇立足”一致；明确拒绝旧宗门差事与金屑调查，旧目标已abandoned，不再重开。",
+      "nextMilestone": "顾长离重新点清实物余钱，确认是否少扣饭钱；按约上工后向周领工问明能否长期排班，得到明确答复或条件。",
+      "phaseId": "develop",
+      "phaseReason": "顾长离已退出试炼、还清欠款、连续多日搬运并攒下工钱，立足基础成立；当前仍需推进的是稳定收入与长期排班的实际结果，以及余钱核对是否与实物相符。"
+    },
+    "outcome": {
+      "summary": "顾长离向周领工问明长期排班：周领工答长期排班不由他说了算，但可给顾长离记名，有船先叫他，没船的日子自行找营生，工钱仍当日结；并让他明天辰时来卸粮船，后天看情况。",
+      "paragraphId": "P30",
+      "evidenceQuote": "“你要真想长干，我给你记个名。往后有船到，我先叫你。没船的日子，你自己找别的营生，我不拦。工钱还是当日结，干多少算多少。这样成不成？”",
+      "basis": "observed"
+    },
+    "planBudgetPhase": null,
+    "priorPhaseWindow": {
+      "assessedPhase": "develop",
+      "consecutiveTurns": 4,
+      "consumedCjk": 3718,
+      "reviewReasons": [],
+      "authority": "planning_assessment_not_completion"
+    }
+  },
+  {
+    "turn": 8,
+    "branchId": "branch_71665fdf-e05c-49e4-a445-a5575cbffc54",
+    "savedProgress": {
+      "consumedCjk": 8621,
+      "completedTurns": 8,
+      "remainingCjk": 21379,
+      "remainingTurns": 37,
+      "suggestedPhase": "develop",
+      "pacing": "developing",
+      "plotCompletion": null
+    },
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家继续在青石镇谋生路线：先完成粮船活并结算，再收工看房、问清租金押金水火修缮，未问清前不付定钱、不承诺其他差事。这与既有develop阶段“寻找活计与落脚处、建立日常关系”一致，无需改道。",
+      "nextMilestone": "完成粮船一天搬运并结算工钱，收工后到镇上找到一处可租房屋，问明租金、押金、水火与修缮归属，停在是否付定钱或接受条件的选择前。",
+      "phaseId": "develop",
+      "phaseReason": "顾长离已稳定在码头做工、还清旧欠、问明长期排班，并开始考虑入冬前租屋。当前仍需推进的是实际看房与问清租住条件，形成落脚处这一实质进展。"
+    },
+    "outcome": {
+      "summary": "顾长离实际到镇西吴宅看偏房，问清月租三十五文、押一个月、井水随便打、柴火自买或加五文用灶、小修房东管大梁房东出、墙皮自抹、押金搬走时退或抵末月租金；未付定钱，约定明天回话。",
+      "paragraphId": "P24",
+      "evidenceQuote": "“一个月三十五文。”她说，“押一个月，就是三十五文。住不满一个月退租，押金不退。”",
+      "basis": "observed"
+    },
+    "planBudgetPhase": null,
+    "priorPhaseWindow": {
+      "assessedPhase": "develop",
+      "consecutiveTurns": 5,
+      "consumedCjk": 4819,
+      "reviewReasons": [],
+      "authority": "planning_assessment_not_completion"
+    }
+  },
+  {
+    "turn": 9,
+    "branchId": "branch_81d72c9d-e56f-467b-bdc2-cd06791aba2e",
+    "savedProgress": {
+      "consumedCjk": 10090,
+      "completedTurns": 9,
+      "remainingCjk": 19910,
+      "remainingTurns": 36,
+      "suggestedPhase": "develop",
+      "pacing": "developing",
+      "plotCompletion": null
+    },
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家决定租下吴宅偏房、付押金拿钥匙、搬入并告知周领工，属于既有计划中「青石镇立足」阶段的自然推进，未偏离谋生与安家方向，也未重启已放弃的试炼或金屑调查，故沿用原计划。",
+      "nextMilestone": "顾长离与房东核对并写下租住条件，交押金拿钥匙，搬入偏房，并把新住处告知周领工，获得一个稳定落脚点。",
+      "phaseId": "develop",
+      "phaseReason": "顾长离已在码头获得记名排班、问清吴宅租住条件，本回合将落实租住与落脚点，把「立足」从谋生延伸到稳定住处；后续仍需处理租住后的日常生计与可能的人际牵连。"
+    },
+    "outcome": {
+      "summary": "顾长离与吴宅老妇人逐条写明租住条件，交押金三十五文，拿到偏房铜钥匙并实际搬入，余钱二百一十七文；随后到码头把新住处告知周领工，周领工记下并说明天没船、后天有盐船。",
+      "paragraphId": "P27",
+      "evidenceQuote": "搬进偏房，你把草席铺在板床上，试了试灶膛，烟道是通的。锅底那层锈你用砂石蹭了蹭，露出铁色。水缸空着，你到院里井边打了一桶水倒进去。屋里那股潮味散了些。你把剩下的钱重新数过：二百五十二减三十五，二百一十七。押金付了，租金月底再交三十五。你算了算，若天天有活，月底交完租金还能剩些；若没船，就得从这二百一十七里出。",
+      "basis": "observed"
+    },
+    "planBudgetPhase": null,
+    "priorPhaseWindow": {
+      "assessedPhase": "develop",
+      "consecutiveTurns": 6,
+      "consumedCjk": 6607,
+      "reviewReasons": [
+        "phase_budget_spent"
+      ],
+      "authority": "planning_assessment_not_completion"
+    }
+  },
+  {
+    "turn": 10,
+    "branchId": "branch_43df7264-9912-496d-94e4-22d548cf662b",
+    "savedProgress": {
+      "consumedCjk": 11340,
+      "completedTurns": 10,
+      "remainingCjk": 18660,
+      "remainingTurns": 35,
+      "suggestedPhase": "turn",
+      "pacing": "developing",
+      "plotCompletion": null
+    },
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家延续青石镇立足路线：归还误带的仓房旧席、自购新席、趁无船日寻找过冬手艺活，与既有谋生方向一致，未重启金屑或宗门旧事。",
+      "nextMilestone": "归还旧席并买新席，到铁匠铺问明是否收帮工、学艺条件与工钱，停在是否接受条件的选择前。",
+      "phaseId": "develop",
+      "phaseReason": "顾长离已租下吴宅偏房、与周领工建立排班关系，立足阶段的核心问题从落脚转向稳定收入。本次寻铁匠铺学徒正是该问题的实质推进。"
+    },
+    "outcome": {
+      "summary": "顾长离实际归还误带的仓房旧席、花十一文买新席铺回偏房，并到铁匠铺问明收帮工条件：头一个月无工钱管一顿晌午饭，一个月后行则一天八文管饭，不行就走；他听完未表态。",
+      "paragraphId": "P37",
+      "evidenceQuote": "“一个月后，我看你行不行。行，一天给你八文，管饭。不行，你走，我不留。”",
+      "basis": "observed"
+    },
+    "planBudgetPhase": null,
+    "priorPhaseWindow": {
+      "assessedPhase": "develop",
+      "consecutiveTurns": 7,
+      "consumedCjk": 8076,
+      "reviewReasons": [
+        "phase_budget_spent"
+      ],
+      "authority": "planning_assessment_not_completion"
+    }
+  },
+  {
+    "turn": 11,
+    "branchId": "branch_fb520bcb-0c53-423f-9b9d-9d2395070a36",
+    "savedProgress": {
+      "consumedCjk": 12424,
+      "completedTurns": 11,
+      "remainingCjk": 17576,
+      "remainingTurns": 34,
+      "suggestedPhase": "turn",
+      "pacing": "developing",
+      "plotCompletion": null
+    },
+    "revision": 2,
+    "review": {
+      "status": "recorded",
+      "decision": "revise",
+      "reason": "玩家明确拒绝铁匠铺“头一个月无工钱”的整月条件，改为只在码头无船日试工三天、每天管午饭、三天后双方再定，且不自动承诺一个月。这使旧提纲中围绕“是否接受整月学徒条件”的走向失效，须按新条件重排未来。",
+      "nextMilestone": "铁匠铺主对“三天试工、每天管午饭、不自动承诺整月”给出明确答复；若同意，顾长离当天即按指点做拉风箱、搬铁、扫炉灰等基础活，并得到第一天的实际反馈。",
+      "phaseId": "develop",
+      "phaseReason": "顾长离已解决落脚点（吴宅偏房、余钱二百零六文），当前核心问题转为：能否以低风险试工方式在无船日获得稳定饭食与手艺入口，同时保住码头短工收入。铁匠铺条件尚未谈成，试工结果与关系变化仍待推进。",
+      "planChanged": true
+    },
+    "outcome": {
+      "summary": "顾长离与铁匠铺汉子谈成三天试工：只在码头没船的日子来，每天管一顿午饭，三天后双方再定，不自动承诺一个月；汉子同意并让顾长离当天开始拉风箱、看火，明天辰时来。",
+      "paragraphId": "P15",
+      "evidenceQuote": "“成。”他说，“就按你说的。三天，管晌午一顿，不认月。三天后我说话，你也说话。”",
+      "basis": "observed"
+    },
+    "planBudgetPhase": "turn",
+    "priorPhaseWindow": {
+      "assessedPhase": "develop",
+      "consecutiveTurns": 8,
+      "consumedCjk": 9326,
+      "reviewReasons": [
+        "phase_budget_spent",
+        "budget_phase_ahead"
+      ],
+      "authority": "planning_assessment_not_completion"
+    }
+  },
+  {
+    "turn": 12,
+    "branchId": "branch_0d26c8e3-0204-40f4-90de-90e809a191c0",
+    "savedProgress": {
+      "consumedCjk": 13278,
+      "completedTurns": 12,
+      "remainingCjk": 16722,
+      "remainingTurns": 33,
+      "suggestedPhase": "turn",
+      "pacing": "developing",
+      "plotCompletion": null
+    },
+    "revision": 2,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家按既有三天试工约定推进，与当前计划一致：无船日到铁匠铺、有船回码头，试工结束再听师傅评价并自行决定是否长期做，不提前答应包月或拜师。剩余提纲仍服务这一谋生目标，无需改道。",
+      "nextMilestone": "完成三个无船日的试工，期间有船日照常上码头，试工结束时师傅当面给出能否留下与工钱的明确说法，停在顾长离决定是否长期做之前。",
+      "phaseId": "develop",
+      "phaseReason": "顾长离已租下偏房、谈成三天试工并开始拉风箱，落脚与试工条件已确立；当前仍需推进的是三天试工的实际表现、码头与铁匠铺两头兼顾的代价，以及试工结束后师傅的评价与工钱条件。"
+    },
+    "outcome": {
+      "summary": "顾长离完成三个没船日的铁匠铺试工，汉子当面给出留用条件：一天八文、管晌午饭、按天算不包月、冬天没船也天天给；顾长离尚未决定是否留下。",
+      "paragraphId": "P16",
+      "evidenceQuote": "“我这儿缺个帮手。你要留下，一天八文，管晌午饭。码头有船你去码头，没船来我这儿，工钱按天算，不包月。冬天码头没船，你天天来，我天天给。”",
+      "basis": "observed"
+    },
+    "planBudgetPhase": "turn",
+    "priorPhaseWindow": {
+      "assessedPhase": "develop",
+      "consecutiveTurns": 9,
+      "consumedCjk": 10410,
+      "reviewReasons": [
+        "phase_budget_spent",
+        "budget_phase_ahead"
+      ],
+      "authority": "planning_assessment_not_completion"
+    }
+  }
+]

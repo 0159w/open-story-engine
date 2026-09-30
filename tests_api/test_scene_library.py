@@ -126,9 +126,11 @@ class SceneLibraryTests(unittest.TestCase):
     def test_queue_bound_and_no_art_rule_never_spend(self):
         read, gateway = Mock(), Mock(available=True, model='mock')
         read.branch_view.return_value = self.node
-        finish, entered = Event(), Event()
+        finish, entered, both = Event(), Event(), Event()
         def generate(prompt):
-            entered.set(); finish.wait(3)
+            entered.set()
+            if gateway.generate.call_count >= 2: both.set()
+            finish.wait(3)
             return PNG, 'image/png'
         gateway.generate.side_effect = generate
         service = media_service(read, self.root / 'private', gateway)
@@ -141,12 +143,13 @@ class SceneLibraryTests(unittest.TestCase):
             for i in range(20):
                 service.ensure('s', str(i), subscriber='a', draw=True)
             self.assertTrue(entered.wait(1))
+            self.assertTrue(both.wait(1))
             self.assertEqual(len(service._jobs), service.MAX_JOBS)
             for i in range(20): service.release('s', str(i), 'a')
             self.assertFalse(any(j['status'] in ('queued', 'generating') for j in service._jobs.values()))
         finally:
             finish.set(); service._pool.shutdown(wait=True)
-        self.assertEqual(gateway.generate.call_count, 1)
+        self.assertEqual(gateway.generate.call_count, 2)
 
     def test_metrics_preserve_unknown_billing_and_unshown_completions(self):
         from open_story_engine.illustration_metrics import report
@@ -163,9 +166,10 @@ class SceneLibraryTests(unittest.TestCase):
     def test_explicit_draw_only_deduplicates_multitab_and_cancels_queued(self):
         read, gateway = Mock(), Mock(available=True, model='mock', usage=None)
         read.branch_view.return_value = self.node
-        entered, finish = Event(), Event()
+        entered, finish, both = Event(), Event(), Event()
         def generate(prompt):
             entered.set()
+            if gateway.generate.call_count >= 2: both.set()
             finish.wait(3)
             gateway.usage = {'total_tokens': 20}
             return PNG, 'image/png'
@@ -180,14 +184,17 @@ class SceneLibraryTests(unittest.TestCase):
             service.ensure('s', 'first', subscriber='b', draw=True)
             service.release('s', 'first', 'a')
             self.assertEqual(service.view('s', 'first')['items'][0]['status'], 'generating')
+            service.ensure('s', 'occupy-second', subscriber='a', draw=True)
+            self.assertTrue(both.wait(1))
             service.ensure('s', 'queued', subscriber='a', draw=True)
             service.release('s', 'queued', 'a')
             self.assertEqual(service.view('s', 'queued')['items'][0]['status'], 'cancelled')
             service.release('s', 'first', 'b')
+            service.release('s', 'occupy-second', 'a')
         finally:
             finish.set()
             service._pool.shutdown(wait=True)
-        self.assertEqual(gateway.generate.call_count, 1)
+        self.assertEqual(gateway.generate.call_count, 2)
         records = [json.loads(p.read_text()) for p in (self.root / 'private').glob('*.json') if not p.name.startswith('visit-')]
         running = next(r for r in records if r['bid'] == 'first')
         self.assertTrue(running['completed'])
@@ -199,14 +206,16 @@ class SceneLibraryTests(unittest.TestCase):
         restored = media_service(read, self.root / 'private', gateway)
         self.addCleanup(restored.close)
         restored.ensure('s', 'first', subscriber='new', draw=True, retry=True)
-        self.assertEqual(gateway.generate.call_count, 1)
+        self.assertEqual(gateway.generate.call_count, 2)
 
     def test_lease_and_deadline_cancel_without_next_http_poll(self):
         read, gateway = Mock(), Mock(available=True, model='mock')
         read.branch_view.return_value = self.node
-        finish, entered = Event(), Event()
+        finish, entered, both = Event(), Event(), Event()
         def generate(prompt):
-            entered.set(); finish.wait(3)
+            entered.set()
+            if gateway.generate.call_count >= 2: both.set()
+            finish.wait(3)
             return PNG, 'image/png'
         gateway.generate.side_effect = generate
         service = media_service(read, self.root / 'private', gateway)
@@ -215,6 +224,7 @@ class SceneLibraryTests(unittest.TestCase):
             service.ensure('s', 'first', subscriber='tab', draw=True)
             self.assertTrue(entered.wait(1))
             service.ensure('s', 'second', subscriber='tab', draw=True)
+            self.assertTrue(both.wait(1))
             with service._lock:
                 for job in service._jobs.values():
                     if job['bid'] == 'second': job['subscribers']['tab'] = 0
@@ -226,4 +236,4 @@ class SceneLibraryTests(unittest.TestCase):
             self.assertEqual({j['reason'] for j in service._jobs.values()}, {'deadline', 'no_subscribers'})
         finally:
             finish.set(); service._pool.shutdown(wait=True)
-        self.assertEqual(gateway.generate.call_count, 1)
+        self.assertEqual(gateway.generate.call_count, 2)

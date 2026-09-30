@@ -1,0 +1,390 @@
+[
+  {
+    "turn": 0,
+    "branchId": "branch_92bd14ea-9862-4119-84a8-f51602bdc031",
+    "savedProgress": {
+      "consumedCjk": 178,
+      "completedTurns": 0,
+      "remainingCjk": 29822,
+      "remainingTurns": 45,
+      "suggestedPhase": "establish",
+      "pacing": "developing",
+      "plotCompletion": null
+    },
+    "revision": null,
+    "review": null,
+    "outcome": null,
+    "planBudgetPhase": null,
+    "priorPhaseWindow": null
+  },
+  {
+    "turn": 1,
+    "branchId": "branch_30c039f9-3590-459a-be48-d10a0e17d1b3",
+    "savedProgress": {
+      "consumedCjk": 995,
+      "completedTurns": 1,
+      "remainingCjk": 29005,
+      "remainingTurns": 44,
+      "suggestedPhase": "establish",
+      "pacing": "developing",
+      "plotCompletion": null
+    },
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家以掌门身份要求沈砚秋当众分述删改旧档的经过，与既有目标（追责与宗门是否认错）一致，未偏离原计划。",
+      "nextMilestone": "沈砚秋当众分述删改经过，交出原件与痕迹所在，长老与来客对掌门暂缓统一档案、不许补改的处置作出即时反应。",
+      "phaseId": "establish",
+      "phaseReason": "故事刚开场，核心牵挂（陆沉舟记录被删、宗门旧档错误）尚未展开，本回合正是建立目标与关系的第一推动。",
+      "planChanged": true
+    },
+    "outcome": {
+      "summary": "沈砚秋当众承认亲手刮去《太虚遗录》旧本第三卷陆沉舟之名并补墨改写为“陆照临”，交出原件存放处与可验痕迹，并区分亲手、亲见与听说三部分。",
+      "paragraphId": "P7",
+      "evidenceQuote": "“我亲手删的，只有一处。”她说，“《太虚遗录》旧本第三卷，记天门初开前后名录的那一册。陆沉舟的名字原本在册，我用刀刮去了那一行，又在刮痕上补了墨，写成‘陆照临’。”",
+      "basis": "observed"
+    },
+    "planBudgetPhase": "establish",
+    "priorPhaseWindow": {
+      "assessedPhase": null,
+      "consecutiveTurns": 0,
+      "consumedCjk": 0,
+      "reviewReasons": [],
+      "authority": "planning_assessment_not_completion"
+    }
+  },
+  {
+    "turn": 2,
+    "branchId": "branch_65e7eeb9-0200-4d69-9434-89c364f10eef",
+    "savedProgress": {
+      "consumedCjk": 2074,
+      "completedTurns": 2,
+      "remainingCjk": 27926,
+      "remainingTurns": 43,
+      "suggestedPhase": "establish",
+      "pacing": "developing",
+      "plotCompletion": null
+    },
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家选择立即带沈砚秋与愿见证的长老前往库房取旧本验看，属于既有 establish 阶段“当众问档”的自然推进，不改变核心目标与后续追查方向；沈砚秋口供保留、不先归责，与旧计划一致。",
+      "nextMilestone": "旧本被取出并当场验看刮痕、补墨、纸背刀口与批注，实际所见成为可记录的证据，而非仅凭口供。",
+      "phaseId": "establish",
+      "phaseReason": "沈砚秋已当众承认删改并交出原件存放处，但原件尚未实际取出验看，责任归属与宗门认错与否仍悬而未决，本回合正推进这一未解问题。"
+    },
+    "outcome": {
+      "summary": "旧本《太虚遗录》第三卷被实际取出并当场验看：刮痕、补墨“陆照临”、纸背刀口与页边批注“此名不可留”均获确认，所见逐条记录并由老长老按指印、另两名长老核对无异议；叶青冥宣布旧本封存、不许再动。",
+      "paragraphId": "P9",
+      "evidenceQuote": "光斜切过纸面。第三卷名录那一页上，果然有一道细长的刮痕，从“陆”字起笔处一直拖到行末，纸面被刮得起了极细的毛，却没有磨平。刮痕上覆着一层墨色，比周围的原字新，浓淡也不匀，迎光时能看出补墨的边缘微微发亮。老长老把纸页轻轻翻过来，对着光看纸背——那道刮痕透过来，像一道浅浅的刀口，笔画的走向和正面完全对得上。",
+      "basis": "observed"
+    },
+    "planBudgetPhase": "establish",
+    "priorPhaseWindow": {
+      "assessedPhase": "establish",
+      "consecutiveTurns": 1,
+      "consumedCjk": 817,
+      "reviewReasons": [],
+      "authority": "planning_assessment_not_completion"
+    }
+  },
+  {
+    "turn": 3,
+    "branchId": "branch_40d5e99f-f712-4c63-86d1-5451fa9c8f20",
+    "savedProgress": {
+      "consumedCjk": 3857,
+      "completedTurns": 3,
+      "remainingCjk": 26143,
+      "remainingTurns": 42,
+      "suggestedPhase": "establish",
+      "pacing": "developing",
+      "plotCompletion": null
+    },
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家以掌门身份当众答复山门外众人，并请知情人当场陈述，与既有计划中「公开旧档错误、承担宗门责任」的方向一致，未改道。",
+      "nextMilestone": "叶青冥在山门外公开答复，宗门首次以掌门名义承认保管与查清责任，并听取在场知情人的具体损失或亲见经过。",
+      "phaseId": "establish",
+      "phaseReason": "旧本刮改已当场验看确认，沈砚秋口供已分开记录，但宗门是否公开认错、责任如何归属仍未定，山门外压力刚正面接触，仍处建立阶段。"
+    },
+    "outcome": {
+      "summary": "叶青冥以掌门名义在山门外公开承认旧档刮改与宗门保管责任，宣布旧本封存、逐件查核，并当场听取周砚山、陆姓老妇、陈姓弟子等知情人的具体损失与亲见经过，逐条记录。",
+      "paragraphId": "P7",
+      "evidenceQuote": "“旧档是玄霄宗保管的。谁删的、为什么删、上一代掌籍长老那行‘此名不可留’的批注算不算授意——这些还没查清。但保管之责在宗门，不在她一个人身上。我以掌门名义认这一条：玄霄宗承担查清的责任，也承担旧档出错的后果。不推给一个人，也不许谁再动那册旧本。”",
+      "basis": "observed"
+    },
+    "planBudgetPhase": "establish",
+    "priorPhaseWindow": {
+      "assessedPhase": "establish",
+      "consecutiveTurns": 2,
+      "consumedCjk": 1896,
+      "reviewReasons": [],
+      "authority": "planning_assessment_not_completion"
+    }
+  },
+  {
+    "turn": 4,
+    "branchId": "branch_3fa9ee45-deae-4b96-ad13-92174519985c",
+    "savedProgress": {
+      "consumedCjk": 5041,
+      "completedTurns": 4,
+      "remainingCjk": 24959,
+      "remainingTurns": 41,
+      "suggestedPhase": "develop",
+      "pacing": "developing",
+      "plotCompletion": null
+    },
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家行动与既有计划一致：继续推进旧档责任与查核，并把申诉分流给执事、七日后公开结果，属于建立阶段的自然延伸。未放弃旧目标，也未出现使旧安排失效的不可逆后果。",
+      "nextMilestone": "叶青冥将各申诉分派不同执事并定七日后公开结果，同时优先召见抄录天门记录的散修，请其出示底稿并与第三卷记录并排核对，当场得出有底稿可核或无底稿需补何物的实际结论。",
+      "phaseId": "establish",
+      "phaseReason": "沈砚秋的删改经过与原件痕迹已当众确认，宗门认错责任已公开承担；当前仍需推进的是逐件实查与天门记录底稿核对，尚未进入残印与旧名来路的系统追查。"
+    },
+    "outcome": {
+      "summary": "叶青冥将各申诉分派不同执事专办并定七日后公开结果，且召见抄录散修后查明：散修拿不出底稿，只提供北河城西市石桥旁“聚墨斋”卫掌柜及其子等线索，底稿与第三卷并排核对暂无法进行。",
+      "paragraphId": "P10",
+      "evidenceQuote": "“回掌门，底稿……不在我手上。”",
+      "basis": "observed"
+    },
+    "planBudgetPhase": "establish",
+    "priorPhaseWindow": {
+      "assessedPhase": "establish",
+      "consecutiveTurns": 3,
+      "consumedCjk": 3679,
+      "reviewReasons": [],
+      "authority": "planning_assessment_not_completion"
+    }
+  },
+  {
+    "turn": 5,
+    "branchId": "branch_ade0abd2-274d-43ac-b99d-8507e31c7fb8",
+    "savedProgress": {
+      "consumedCjk": 6646,
+      "completedTurns": 5,
+      "remainingCjk": 23354,
+      "remainingTurns": 40,
+      "suggestedPhase": "develop",
+      "pacing": "developing",
+      "plotCompletion": null
+    },
+    "revision": 2,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家要求派执事赴北河城按聚墨斋、卫家线索查访，并让各执事独立办七日、期满公开答复。这与既有计划中“逐件查核、七日后公开结果”的方向一致，只是把查访从发函推进为实际派人。旧计划中尚未发生的阶段仍服务当前目标，无需重排。",
+      "nextMilestone": "叶青冥正式派出赴北河城的查访人手，明确实物须经持有人同意方可带回、查不到如实写明，并安排七日独立办案与期满公开答复会的流程。",
+      "phaseId": "develop",
+      "phaseReason": "开局已建立掌门身份、旧档刮改与沈砚秋责任的核心牵挂，并当众承认宗门保管责任；当前需要推进的是实际查核与七日期限内的独立办案，而非重复建立目标。",
+      "planChanged": true
+    },
+    "outcome": {
+      "summary": "七日期满，石坪公开答复会实际召开，执事逐件念出五件实查结果：归元诀后半段被裁、陆家族谱涂改、差事路线刮改、聚墨斋底稿断线、旧阵封条模糊，均查不到经手人；叶青冥当众认下查到与没查到的部分。",
+      "paragraphId": "P23",
+      "evidenceQuote": "“今日念的，就是查到的和没查到的。”你说，“查到的，我认；没查到的，我也认。玄霄宗不会拿‘正在查’三个字拖你们。哪一件你们觉得还该往下查，报给执事，我让人接着查。哪一件你们觉得宗门该给个说法，现在就说。”",
+      "basis": "observed"
+    },
+    "planBudgetPhase": "develop",
+    "priorPhaseWindow": {
+      "assessedPhase": "establish",
+      "consecutiveTurns": 4,
+      "consumedCjk": 4863,
+      "reviewReasons": [
+        "phase_budget_spent",
+        "budget_phase_ahead"
+      ],
+      "authority": "planning_assessment_not_completion"
+    }
+  },
+  {
+    "turn": 6,
+    "branchId": "branch_174f8ba5-4e2d-45fd-ae57-c726c6e0ebd9",
+    "savedProgress": {
+      "consumedCjk": 8205,
+      "completedTurns": 6,
+      "remainingCjk": 21795,
+      "remainingTurns": 39,
+      "suggestedPhase": "develop",
+      "pacing": "developing",
+      "plotCompletion": null
+    },
+    "revision": 2,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家延续公开答复会后的追问处理，与既有计划中“公开答复会与真相的代价”阶段一致；未改道，无需重排未来阶段。",
+      "nextMilestone": "陈姓弟子当众说出他希望宗门现在做什么、哪些事对他和家人最要紧；叶青冥当场回应宗门能承担什么，不预设赔偿、不以不再追问为条件。",
+      "phaseId": "turn",
+      "phaseReason": "公开答复会已召开并念出五件查得与未查明结果，叶青冥当众认下；当前陈姓弟子迈步欲言，正是把查访结果转为具体诉求与宗门承担方式的关键节点。"
+    },
+    "outcome": {
+      "summary": "陈守拙当众说出三件诉求，叶青冥逐件回应并当场认下抚恤文书‘因公殉职’四字，承诺分办查核、七日内报结果。",
+      "paragraphId": "P22",
+      "evidenceQuote": "“第三件，你父亲算不算因公——这一条，得等前两件查清才能定。但有一条我现在就能说：抚恤文书上写‘因公殉职’，是宗门写的，宗门认这四个字。在查清之前，谁也不能拿‘顶罪’两个字往你父亲身上安。若查出来当年有人拿他顶了罪，宗门认这个错，也认这个责。”",
+      "basis": "observed"
+    },
+    "planBudgetPhase": "develop",
+    "priorPhaseWindow": {
+      "assessedPhase": "develop",
+      "consecutiveTurns": 1,
+      "consumedCjk": 1605,
+      "reviewReasons": [],
+      "authority": "planning_assessment_not_completion"
+    }
+  },
+  {
+    "turn": 7,
+    "branchId": "branch_83783c34-06ff-4a13-907c-e4c86251e425",
+    "savedProgress": {
+      "consumedCjk": 10073,
+      "completedTurns": 7,
+      "remainingCjk": 19927,
+      "remainingTurns": 38,
+      "suggestedPhase": "develop",
+      "pacing": "developing",
+      "plotCompletion": null
+    },
+    "revision": 2,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家要求按已定的两路分查执行、不再开会，并让执事在七日内实查经手名录与发文底簿、到期请陈守拙同听结果。这与既有计划中「陈守拙三件诉求的后续查核」及公开答复会路径一致，无需改道；本回合应把承诺落成实际查核与到期当面交代。",
+      "nextMilestone": "执事在七日内实际查经手名录与发文底簿，到期叶青冥请陈守拙同听结果，当场说明哪些能互相印证、哪些只有单方来源、哪些仍缺，并给出不再无限追加七日期限的处置。",
+      "phaseId": "turn",
+      "phaseReason": "公开答复会已开过，五件实查结果已当众认下，当前真正未解的是陈守拙三件诉求的后续查核与责任归属。本回合把七日之限兑现为实际查得与当面说明，属于把查访结果转化为不可回避的抉择阶段。"
+    },
+    "outcome": {
+      "summary": "七日后石坪当面交代两路查核结果：经手名录与发文底簿均在二十年前三月至五月缺页、断口为撕痕，十七名在册者无人记得，底簿两条记录皆非差事文书；叶青冥只认缺页时间重合一条可互相印证，其余保留来源，改路线者与所送文书仍答不了，并令继续查离宗去向不明者与搬卷宗经手人、不再另定七日之限。",
+      "paragraphId": "P20",
+      "evidenceQuote": "“两路查到的，能对上的只有一处。”你合上册子，看着石阶下的人，“经手名录缺的是三月至五月，发文底簿缺的也是三月至五月。两处缺页时间重合，这是能互相印证的。除此之外，两路各自查到的——十七人里没人记得、底簿上两条记录都不是差事文书——都只是单方说法，不能算数。”",
+      "basis": "observed"
+    },
+    "planBudgetPhase": "develop",
+    "priorPhaseWindow": {
+      "assessedPhase": "turn",
+      "consecutiveTurns": 1,
+      "consumedCjk": 1559,
+      "reviewReasons": [],
+      "authority": "planning_assessment_not_completion"
+    }
+  },
+  {
+    "turn": 8,
+    "branchId": "branch_42e6f2a6-4e46-4728-a368-1a1b354866b6",
+    "savedProgress": {
+      "consumedCjk": 11158,
+      "completedTurns": 8,
+      "remainingCjk": 18842,
+      "remainingTurns": 37,
+      "suggestedPhase": "turn",
+      "pacing": "developing",
+      "plotCompletion": null
+    },
+    "revision": 2,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家要求先停一下，核对陈守拙前后两次关于父亲差事季节的说法，并明确不得用三月至五月缺页直接对应其父差事。这与既有计划中公开答复会后的查核阶段一致，不改变主线方向，只是把未核实的推断降级为待核。",
+      "nextMilestone": "执事当众取出前次记录，陈守拙面对两次不同说法作出说明；叶青冥据此把月份标为未定，并令执事保存新线索、不另设必须由掌门再跑的手续。",
+      "phaseId": "develop",
+      "phaseReason": "公开答复会已召开，五件实查结果已当众念出，但陈守拙三件诉求的后续查核仍未结，且其父差事季节出现前后不一致，需要先澄清再决定下一步查核方向。"
+    },
+    "outcome": {
+      "summary": "叶青冥当众纠正自己先前把‘若在春天’压成一种可能的说法，令执事将陈砚差事月份记为未定、缺页与差事是否相关记为未查实，并记下陈母秋天与桃花刚开两句转述；两路继续查离宗去向不明者与搬卷宗经手人，不单为月份再跑。",
+      "paragraphId": "P19",
+      "evidenceQuote": "你转向执事：“把这一条改过来。陈砚差事月份，记为未定。缺页与差事是否相关，记为未查实。两处缺页本身是撕痕、是三月至五月，这一条不变，但不再往他父亲身上套。”",
+      "basis": "observed"
+    },
+    "planBudgetPhase": "develop",
+    "priorPhaseWindow": {
+      "assessedPhase": "turn",
+      "consecutiveTurns": 2,
+      "consumedCjk": 3427,
+      "reviewReasons": [],
+      "authority": "planning_assessment_not_completion"
+    }
+  },
+  {
+    "turn": 9,
+    "branchId": "branch_12d56bfa-31ec-4f67-8b6e-f1ce679fda5c",
+    "savedProgress": {
+      "consumedCjk": 11995,
+      "completedTurns": 9,
+      "remainingCjk": 18005,
+      "remainingTurns": 36,
+      "suggestedPhase": "turn",
+      "pacing": "developing",
+      "plotCompletion": null
+    },
+    "revision": 3,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家要求把陈守拙前后两种说法并列存档、当众读明，并维持月份未定、缺页关联未查实、抚恤因公结论不变。这与既有‘陈守拙三件诉求查核’线索一致，属同一问题的记录与公开交代，不改变长期方向，故沿用原计划。",
+      "nextMilestone": "执事当众并读秋天原话、春天原话与今日否认三条记录，叶青冥当场定下月份未定、缺页关联未查实、抚恤因公结论不变，并说明不替任何说法补造解释。",
+      "phaseId": "develop",
+      "phaseReason": "叶青冥已从认责、公开答复推进到逐件查核与记录纠错；当前仍需处理的是旧档查核中说法冲突如何留档、如何不替死者加罪，以及沈砚秋删名责任的后续，尚未到关键抉择或收束。",
+      "planChanged": true
+    },
+    "outcome": {
+      "summary": "叶青冥当众令执事并读秋天原话、春天原话与今日否认三处记录，定下三句并列留存不划不改；陈砚差事月份记为未定、缺页与差事关联记为未查实，并维持抚恤文书‘因公殉职’四字、不给死者加罪名。",
+      "paragraphId": "P11",
+      "evidenceQuote": "“这三句，并列留着。”你说，“不划，不改，不并成一句。秋天是他说的，春天也是他说的，今天否认也是他说的。三句都在册子上，谁问，照三句念。”",
+      "basis": "observed"
+    },
+    "planBudgetPhase": "turn",
+    "priorPhaseWindow": {
+      "assessedPhase": "develop",
+      "consecutiveTurns": 1,
+      "consumedCjk": 1085,
+      "reviewReasons": [
+        "budget_phase_ahead"
+      ],
+      "authority": "planning_assessment_not_completion"
+    }
+  },
+  {
+    "turn": 10,
+    "branchId": "branch_462f039c-dcec-42d9-b554-75d7f73164e5",
+    "savedProgress": {
+      "consumedCjk": 14372,
+      "completedTurns": 10,
+      "remainingCjk": 15628,
+      "remainingTurns": 35,
+      "suggestedPhase": "turn",
+      "pacing": "developing",
+      "plotCompletion": null
+    },
+    "revision": 3,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家行动与既有计划一致：两路查访交由执事保存跟进，不再反复批准手续；回议事殿讨论档案制度，正对应turn阶段‘删名之责与旧档边界’中长老要求重建统一档案的压力。沈砚秋删名责任尚未正式处置，本回合的规则讨论是其制度前提，不撤销任何既成结果。",
+      "nextMilestone": "议事殿内当场形成档案制度的具体分歧清单：删改留原文、签名理由、宗门外当事人查阅、掌门同受约束四条，各长老与沈砚秋分别说出支持、反对与顾虑，叶青冥据此得到可决断的选项。",
+      "phaseId": "turn",
+      "phaseReason": "已发生认责、公开答复、逐件查核与记录纠错，develop阶段的事实基础已足；当前问题转向‘玄霄宗往后如何记录’的制度抉择，沈砚秋删名责任与旧档边界仍需正式处置，故进入turn阶段。"
+    },
+    "outcome": {
+      "summary": "叶青冥在议事殿与沈砚秋及三位长老当场议定四条档案新规：删改留原文、落款签名理由、与本人直接相关记录可查可抄可请更正且遮处留痕、掌门同受约束；执事誊清后送议事殿复核并寻石匠刻于议事殿门口。",
+      "paragraphId": "P35",
+      "evidenceQuote": "一、凡删改旧档，原文不得刮去，须并列留存，注明删改日期。\n二、凡删改，须落款签名，写明理由；无签名、无理由者，视为无效。\n三、与本人直接相关之记录，本人或直系亲属可查、可抄、可请更正；牵涉他人处可遮，遮处须注明。\n四、此规约束掌籍，约束执事，约束掌门。掌门批注同样留原文、落款、理由。",
+      "basis": "observed"
+    },
+    "planBudgetPhase": "turn",
+    "priorPhaseWindow": {
+      "assessedPhase": "develop",
+      "consecutiveTurns": 2,
+      "consumedCjk": 1922,
+      "reviewReasons": [
+        "budget_phase_ahead"
+      ],
+      "authority": "planning_assessment_not_completion"
+    }
+  }
+]

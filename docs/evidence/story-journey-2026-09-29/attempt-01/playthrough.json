@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "public-api-playthrough/1",
+  "status": "failed",
+  "operations": [
+    {
+      "number": 0,
+      "path": "/sessions/stream",
+      "payload": {
+        "package_id": "taixu-relics-part1",
+        "version": "0.1.3",
+        "entry_point_id": "entry_ye_qingming_hall",
+        "source_character_id": "character_2cf2b083593b",
+        "identity_opening": true,
+        "request_id": "playthrough-d425624396794f4db380932b35b23823"
+      },
+      "status": "failed",
+      "httpStatus": 422,
+      "errorType": "HTTPStatusError",
+      "error": "Client error '422 Unprocessable Entity' for url 'http://127.0.0.1:8013/api/v1/sessions/stream'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/422",
+      "elapsedMs": 39
+    }
+  ],
+  "acceptance": "pending",
+  "userVisibleFailures": 1,
+  "replayIsLiveGeneration": false
+}

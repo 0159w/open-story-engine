@@ -1,0 +1,2092 @@
+[
+  {
+    "event": "delta",
+    "data": {
+      "text": "你穿过廊下那片湿青苔，回到祖师殿前。留在原处的长老们仍站在灯影里，有人抱着袖中的卷册，有人垂手望着你。山门外的声音比先前更密，像潮水拍在石阶上，一波退下去，又一波涌上来。\n\n你在殿门内侧站定，"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "没有立刻开口。殿里静得能听见灯芯里那点没有火苗的光在轻轻颤。\n\n“旧档房里看到的东西，我一件一件说。”你的声音不高，但殿前每个人都听得清，“记名簿丙册，中间偏后一处名字被浓墨涂去，沈砚秋当面认"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "了，原字是陆沉舟。执事交接录第四层，有一行转抄记录，写着奉掌门令涂去此条，末尾盖着执事堂印。空白簿第五层，纸页间夹着半行残字，纸边裁口与第六层拓本上的裁口吻合，断茬对得上，墨色也一致。”\n\n你"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "停了一下，目光扫过每一张脸。\n\n“拓本本身没有署名，没有日期。原始令文不在。拓本是谁拓的、这半行字是谁裁下来的、什么时候裁的，现在都不知道。谁要是问，就照这个说。多一个字，少一个字，我拿他是问"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "。”\n\n灰袍长老袖中的册子攥得更紧了些，嘴唇动了动，终究没出声。年纪最大的那位长老扶着柱子，慢慢点了点头。\n\n“掌门，”灰袍长老还是开了口，声音比方才低了许多，“山门外的人越聚越多。有人从北河"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "城来，有人从旧驿道来，都说要一个说法。您方才说照原样传——可原样传出去，各房记录若对不上，只怕……”\n\n“只怕什么，等听完再说。”你打断他，“现在我要做一件事。山门外的人，让他们自己推举两个愿"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "意进来核验的。不是听我说话，是进来看东西。谁推举的，谁自己站出来。我亲自听他们要看什么、凭什么看。”\n\n殿前静了一瞬。\n\n“掌门，”一位站在侧边的长老迟疑道，“让外人入祖师殿核验宗门旧档，这…"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "…没有先例。”\n\n“先例是给守规矩的人用的。”你说，“现在规矩本身被人动过。让他们进来。”\n\n灰袍长老看了你一眼，转身朝殿外走去。他的步子不快，但每一步都踩得很实。殿门外的声音随着他的身影接近"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "而低了下去，像有人抬手按住了潮头。\n\n你站在殿中等着。沈砚秋仍抱着那本《太虚遗录》立在灯侧，没有看你，也没有看殿门，目光落在自己脚尖前那一小块青石上。她的手指还沾着灯灰，指节因为抱书太久而微微"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "发白。\n\n殿外的声音重新响起来，先是低语，接着是几个人同时说话，又被谁压下去。灰袍长老的声音夹在中间，听不真切，只偶尔飘进来几个字：“……推举……两个……掌门亲问……”\n\n过了约莫一盏茶的工夫"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "，灰袍长老回来了。他身后跟着两个人。\n\n走在前面的那个，年纪约莫四十上下，穿一件洗得发白的靛蓝短褐，肩上搭着一条旧布巾，像是赶了很远的路。他进门时先看了一眼殿中的灯，又看了一眼你，没有行礼，只"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "是站定。后面那个年轻些，二十出头，背着一只半旧的竹箱，箱角磨得发亮，进门后把竹箱放在脚边，双手垂在身侧。\n\n“掌门，”灰袍长老侧身让开，“山门外推举了这两位。这位是北河城来的周姓匠人，这位是旧"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "驿道那边过来的，姓陈，说是替人送东西的。”\n\n靛蓝短褐的男人开口了，声音有些哑：“我叫周大石，北河城修桥的。我媳妇的娘家兄弟，三年前没了。家里人都说他从没来过北河城，可我明明记得他来过，还帮我"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "抬过桥板。我来，是想问一句——玄霄宗的旧档里，有没有他的名字。”\n\n你看着他。他的手掌粗大，指缝里嵌着洗不净的泥灰，说话时眼睛一直盯着你，没有躲。\n\n背竹箱的年轻人接着说：“我叫陈小满。这箱子"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "是我师父留下的，他去年冬天走的。箱子里有一卷手抄的功法，扉页上写着‘玄霄宗旧录’。我师父一辈子没提过玄霄宗，可这卷东西是他最要紧的。我想知道，这功法是不是从贵宗流出去的，我师父的名字，在不在贵"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "宗的册子上。”\n\n他说完，把竹箱往前推了半尺，没有打开，只是推到你面前。\n\n殿里的长老们互相看了看。灰袍长老站在门边，没有插话。\n\n你低头看了一眼那只竹箱，又抬起头，看着面前这两个人。山门外的"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "声音还在，但此刻殿内只剩下灯芯那点无声的颤，和两个人等着你开口的呼吸。"
+    }
+  },
+  {
+    "event": "done",
+    "data": {
+      "status": "written",
+      "request_id": "playthrough-041a09bf1f234658bdb4f0c422b6ccb0",
+      "deduplicated": false,
+      "branch": {
+        "id": "branch_a369694e-69c7-4d51-81f8-d48632459318",
+        "sessionId": "24f310b7-1654-58cf-8af8-1f3400bb2b6c",
+        "sequence": 3,
+        "parentId": "branch_d8e5ec8e-df6d-4d92-bdb7-732e83c51a13",
+        "kind": "generated",
+        "sourceNodeRef": "node_source_continuity",
+        "narrativeText": "你穿过廊下那片湿青苔，回到祖师殿前。留在原处的长老们仍站在灯影里，有人抱着袖中的卷册，有人垂手望着你。山门外的声音比先前更密，像潮水拍在石阶上，一波退下去，又一波涌上来。\n\n你在殿门内侧站定，没有立刻开口。殿里静得能听见灯芯里那点没有火苗的光在轻轻颤。\n\n“旧档房里看到的东西，我一件一件说。”你的声音不高，但殿前每个人都听得清，“记名簿丙册，中间偏后一处名字被浓墨涂去，沈砚秋当面认了，原字是陆沉舟。执事交接录第四层，有一行转抄记录，写着奉掌门令涂去此条，末尾盖着执事堂印。空白簿第五层，纸页间夹着半行残字，纸边裁口与第六层拓本上的裁口吻合，断茬对得上，墨色也一致。”\n\n你停了一下，目光扫过每一张脸。\n\n“拓本本身没有署名，没有日期。原始令文不在。拓本是谁拓的、这半行字是谁裁下来的、什么时候裁的，现在都不知道。谁要是问，就照这个说。多一个字，少一个字，我拿他是问。”\n\n灰袍长老袖中的册子攥得更紧了些，嘴唇动了动，终究没出声。年纪最大的那位长老扶着柱子，慢慢点了点头。\n\n“掌门，”灰袍长老还是开了口，声音比方才低了许多，“山门外的人越聚越多。有人从北河城来，有人从旧驿道来，都说要一个说法。您方才说照原样传——可原样传出去，各房记录若对不上，只怕……”\n\n“只怕什么，等听完再说。”你打断他，“现在我要做一件事。山门外的人，让他们自己推举两个愿意进来核验的。不是听我说话，是进来看东西。谁推举的，谁自己站出来。我亲自听他们要看什么、凭什么看。”\n\n殿前静了一瞬。\n\n“掌门，”一位站在侧边的长老迟疑道，“让外人入祖师殿核验宗门旧档，这……没有先例。”\n\n“先例是给守规矩的人用的。”你说，“现在规矩本身被人动过。让他们进来。”\n\n灰袍长老看了你一眼，转身朝殿外走去。他的步子不快，但每一步都踩得很实。殿门外的声音随着他的身影接近而低了下去，像有人抬手按住了潮头。\n\n你站在殿中等着。沈砚秋仍抱着那本《太虚遗录》立在灯侧，没有看你，也没有看殿门，目光落在自己脚尖前那一小块青石上。她的手指还沾着灯灰，指节因为抱书太久而微微发白。\n\n殿外的声音重新响起来，先是低语，接着是几个人同时说话，又被谁压下去。灰袍长老的声音夹在中间，听不真切，只偶尔飘进来几个字：“……推举……两个……掌门亲问……”\n\n过了约莫一盏茶的工夫，灰袍长老回来了。他身后跟着两个人。\n\n走在前面的那个，年纪约莫四十上下，穿一件洗得发白的靛蓝短褐，肩上搭着一条旧布巾，像是赶了很远的路。他进门时先看了一眼殿中的灯，又看了一眼你，没有行礼，只是站定。后面那个年轻些，二十出头，背着一只半旧的竹箱，箱角磨得发亮，进门后把竹箱放在脚边，双手垂在身侧。\n\n“掌门，”灰袍长老侧身让开，“山门外推举了这两位。这位是北河城来的周姓匠人，这位是旧驿道那边过来的，姓陈，说是替人送东西的。”\n\n靛蓝短褐的男人开口了，声音有些哑：“我叫周大石，北河城修桥的。我媳妇的娘家兄弟，三年前没了。家里人都说他从没来过北河城，可我明明记得他来过，还帮我抬过桥板。我来，是想问一句——玄霄宗的旧档里，有没有他的名字。”\n\n你看着他。他的手掌粗大，指缝里嵌着洗不净的泥灰，说话时眼睛一直盯着你，没有躲。\n\n背竹箱的年轻人接着说：“我叫陈小满。这箱子是我师父留下的，他去年冬天走的。箱子里有一卷手抄的功法，扉页上写着‘玄霄宗旧录’。我师父一辈子没提过玄霄宗，可这卷东西是他最要紧的。我想知道，这功法是不是从贵宗流出去的，我师父的名字，在不在贵宗的册子上。”\n\n他说完，把竹箱往前推了半尺，没有打开，只是推到你面前。\n\n殿里的长老们互相看了看。灰袍长老站在门边，没有插话。\n\n你低头看了一眼那只竹箱，又抬起头，看着面前这两个人。山门外的声音还在，但此刻殿内只剩下灯芯那点无声的颤，和两个人等着你开口的呼吸。",
+        "summary": "叶青冥回到祖师殿前，向长老们逐项说明旧档房所见：记名簿涂改、执事交接录转抄记录、空白簿半行残字与拓本裁口吻合，并明确拓本来历、原始令文、裁字者均未查明，要求照原样传、不得增删。他决定让山门外众人自行推举两名愿意核验的人入殿，亲自听其要求与证据。灰袍长老带回北河城修桥匠人周大石与旧驿道替人送物的陈小满。周大石询问旧档中是否有其失踪妻弟的名字；陈小满带来师父遗下的竹箱，内有一卷扉页写“玄霄宗旧录”的手抄功法，询问功法是否出自玄霄宗、师父名字是否在册。",
+        "branchState": {
+          "playerLocationId": "location_observed_838cba1074c88811",
+          "playerCharacterId": "character_2cf2b083593b",
+          "characterLocationIds": {
+            "character_2cf2b083593b": "location_observed_838cba1074c88811",
+            "character_aa4580d38571": "location_open_ancestral_hall",
+            "character_ae4cb42b9b49": "location_open_ancestral_hall",
+            "character_e663361ab1c7": "location_open_ancestral_hall",
+            "character_766c4e16f65d": "location_open_ancestral_hall",
+            "character_shen_yanqiu": "location_observed_838cba1074c88811",
+            "character_gray_robe_elder": "location_observed_838cba1074c88811",
+            "character_oldest_elder": "location_observed_838cba1074c88811"
+          },
+          "branchLedger": {
+            "schemaVersion": "branch-state-ledger/0.1",
+            "entries": [
+              {
+                "id": "ledger_000001_9346398bd6c7",
+                "sequence": 1,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:freeTextProgress",
+                "summary": "运行时状态字段“freeTextProgress”已由受控方向更新。",
+                "before": 0,
+                "after": 1,
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "direction_free_2b6dc52eb278",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000002_46e9c4f996ce",
+                "sequence": 2,
+                "kind": "character",
+                "operation": "added",
+                "entityId": "character_shen_yanqiu",
+                "summary": "玄霄宗执事，捧《太虚遗录》入祖师殿，承认删去旧记录；本回合依掌门之命逐项说明删改范围、亲手所改内容与现存原件，对不确定处明言不知。",
+                "before": null,
+                "after": {
+                  "id": "character_shen_yanqiu",
+                  "name": "沈砚秋",
+                  "summary": "玄霄宗执事，捧《太虚遗录》入祖师殿，承认删去旧记录；本回合依掌门之命逐项说明删改范围、亲手所改内容与现存原件，对不确定处明言不知。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000003_51fce347a9f3",
+                "sequence": 3,
+                "kind": "character",
+                "operation": "added",
+                "entityId": "character_elder_present",
+                "summary": "祖师殿内等待掌门对档案接管提议作出回应的长老群体；本回合依令各自封存记录，其中灰袍长老对暂不统一提出疑虑后收回册子。",
+                "before": null,
+                "after": {
+                  "id": "character_elder_present",
+                  "name": "在场长老",
+                  "summary": "祖师殿内等待掌门对档案接管提议作出回应的长老群体；本回合依令各自封存记录，其中灰袍长老对暂不统一提出疑虑后收回册子。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000004_e862124cb566",
+                "sequence": 4,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:goalLedger",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": null,
+                "after": [
+                  {
+                    "id": "opening-goal-1",
+                    "title": "沈砚秋删去陆沉舟记录的责任",
+                    "status": "active",
+                    "characterId": "character_2cf2b083593b",
+                    "dependencies": [],
+                    "source": "opening",
+                    "evidence": "你坐在祖师殿前听见对旧档案的追问，掌门身份要求你先面对被删去的名字。",
+                    "causeBranchId": null
+                  },
+                  {
+                    "id": "opening-goal-2",
+                    "title": "玄霄宗是否承认旧档案的错误",
+                    "status": "active",
+                    "characterId": "character_2cf2b083593b",
+                    "dependencies": [],
+                    "source": "opening",
+                    "evidence": "你坐在祖师殿前听见对旧档案的追问，掌门身份要求你先面对被删去的名字。",
+                    "causeBranchId": null
+                  }
+                ],
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_398c1ae4-9281-43b8-9c9a-d9a5a778948b",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000005_bfa6df1c7bef",
+                "sequence": 5,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:threadLedger",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": [
+                  {
+                    "id": "opening-thread-1",
+                    "title": "沈砚秋删去陆沉舟记录的责任",
+                    "status": "open",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": null,
+                    "reason": "",
+                    "evidence": "",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "id": "opening-thread-2",
+                    "title": "玄霄宗是否承认旧档案的错误",
+                    "status": "open",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": null,
+                    "reason": "",
+                    "evidence": "",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  }
+                ],
+                "after": [
+                  {
+                    "id": "opening-thread-1",
+                    "title": "沈砚秋删去陆沉舟记录的责任",
+                    "status": "open",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_398c1ae4-9281-43b8-9c9a-d9a5a778948b",
+                    "reason": "沈砚秋已说明删改范围、三处亲笔涂改与现存原件线索，但责任归属与处置仍待掌门决定。",
+                    "evidence": "“回掌门。我经手的删改，不在近三十年的卷册，主要在旧档房西架第三层到第五层——那是宗门早年收录的散卷，按年份捆扎，没有正式编目。我动过其中七捆，涉及天门旧录两卷、残印拓本一卷、还有几册记名簿。”\n\n她说到这里，喉间停了一下。\n\n“亲手改的，有三处。一处是记名簿上一行墨字，原写‘陆沉舟’，我以浓墨涂去，又在旁侧补了‘录事失考’四字。一处是天门旧录里一段批注，原批‘此印自外门入’，我划去‘外门’二字，改成‘来历未详’。还有一处，是残印拓本边角的一行小字，我裁去了半行，只留‘玄霄宗藏’四字。”\n\n殿中有人轻轻吸了口气。你没有打断。\n\n“原件，”沈砚秋继续道，“记名簿那一册还在旧档房西架第三层，涂改处未再动过。天门旧录两卷也在原处，批注划改可见。残印拓本我裁下的半行，当时没有销毁，夹在第五层一册空白簿页之间——但那册空白簿后来是否被人动过，我不知道。”\n\n“你不知道的，就说不知道。”你说。\n\n“是。我不知道那半行如今还在不在。也不知道除我之外，还有谁进过旧档房西架。”她声音很平，“这些是我能说清的。再往前的卷册，我没碰过；再往后的，我也没碰过。”",
+                    "priority": "high",
+                    "recoveryWindow": "near"
+                  },
+                  {
+                    "id": "opening-thread-2",
+                    "title": "玄霄宗是否承认旧档案的错误",
+                    "status": "open",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_398c1ae4-9281-43b8-9c9a-d9a5a778948b",
+                    "reason": "叶青冥已禁止统一改写并令长老各自封存，但宗门对外立场尚未定。",
+                    "evidence": "“在她说清楚之前，各位手里的记录各自留着，不许合并，不许重抄，更不许统一改写。谁手里的东西，谁自己封好。”\n\n沈砚秋把《太虚遗录》抱在胸前，指节微微发白。她低头想了一息，才抬眼看你。\n\n“回掌门。我经手的删改，不在近三十年的卷册，主要在旧档房西架第三层到第五层——那是宗门早年收录的散卷，按年份捆扎，没有正式编目。我动过其中七捆，涉及天门旧录两卷、残印拓本一卷、还有几册记名簿。”\n\n她说到这里，喉间停了一下。\n\n“亲手改的，有三处。一处是记名簿上一行墨字，原写‘陆沉舟’，我以浓墨涂去，又在旁侧补了‘录事失考’四字。一处是天门旧录里一段批注，原批‘此印自外门入’，我划去‘外门’二字，改成‘来历未详’。还有一处，是残印拓本边角的一行小字，我裁去了半行，只留‘玄霄宗藏’四字。”\n\n殿中有人轻轻吸了口气。你没有打断。\n\n“原件，”沈砚秋继续道，“记名簿那一册还在旧档房西架第三层，涂改处未再动过。天门旧录两卷也在原处，批注划改可见。残印拓本我裁下的半行，当时没有销毁，夹在第五层一册空白簿页之间——但那册空白簿后来是否被人动过，我不知道。”\n\n“你不知道的，就说不知道。”你说。\n\n“是。我不知道那半行如今还在不在。也不知道除我之外，还有谁进过旧档房西架。”她声音很平，“这些是我能说清的。再往前的卷册，我没碰过；再往后的，我也没碰过。”\n\n一位灰袍长老向前半步，手中还攥着一卷未封的册子：“掌门，山门外的人正等着。各房记录若各执一词，递出去的话前后不一，只怕——”\n\n“只怕什么，等听完再说。”你看了他一眼，“现在各自封存。谁手里的记录，谁自己收好。没有我的令，不得交出去，也不得改一个字。”\n\n灰袍长老嘴唇动了动，终究把册子收回袖中，退回了原位。其余几位长老也各自将手中的卷册合上，有的用布囊裹了，有的直接拢进袖里。殿前一时只剩下纸页摩擦的轻响。",
+                    "priority": "high",
+                    "recoveryWindow": "near"
+                  }
+                ],
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_398c1ae4-9281-43b8-9c9a-d9a5a778948b",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000006_d8e12b1d713e",
+                "sequence": 6,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:freeTextProgress",
+                "summary": "运行时状态字段“freeTextProgress”已由受控方向更新。",
+                "before": 1,
+                "after": 2,
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "direction_free_b28de64b570c",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000007_17b2518cf538",
+                "sequence": 7,
+                "kind": "location",
+                "operation": "added",
+                "entityId": "location_old_archive_room",
+                "summary": "祖师殿后偏院内的档案房，三面靠墙立着木架，西架第三至第六层存放记名簿、执事交接录、空白簿与拓本木匣。",
+                "before": null,
+                "after": {
+                  "id": "location_old_archive_room",
+                  "name": "旧档房",
+                  "summary": "祖师殿后偏院内的档案房，三面靠墙立着木架，西架第三至第六层存放记名簿、执事交接录、空白簿与拓本木匣。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000008_ae47df0cc4e4",
+                "sequence": 8,
+                "kind": "character",
+                "operation": "added",
+                "entityId": "character_gray_robe_elder",
+                "summary": "祖师殿中曾对暂不统一改写提出疑虑的长老，本回合第一个跟随叶青冥前往旧档房，亲眼核验涂改、转抄记录与半行纸片，最终点头并承诺照原样传。",
+                "before": null,
+                "after": {
+                  "id": "character_gray_robe_elder",
+                  "name": "灰袍长老",
+                  "summary": "祖师殿中曾对暂不统一改写提出疑虑的长老，本回合第一个跟随叶青冥前往旧档房，亲眼核验涂改、转抄记录与半行纸片，最终点头并承诺照原样传。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000009_3ab7db1aa981",
+                "sequence": 9,
+                "kind": "character",
+                "operation": "added",
+                "entityId": "character_oldest_elder",
+                "summary": "跟随前往旧档房的长老之一，认得执事堂印，核验后称掌门做得对。",
+                "before": null,
+                "after": {
+                  "id": "character_oldest_elder",
+                  "name": "年纪最大的那位长老",
+                  "summary": "跟随前往旧档房的长老之一，认得执事堂印，核验后称掌门做得对。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000010_3e180e22b994",
+                "sequence": 10,
+                "kind": "item",
+                "operation": "added",
+                "entityId": "item_registry_book_bing",
+                "summary": "旧档房西架第三层所存记名簿，中间偏后一处名字被浓墨涂去，沈砚秋承认原字为陆沉舟。",
+                "before": null,
+                "after": {
+                  "id": "item_registry_book_bing",
+                  "name": "记名簿·丙",
+                  "summary": "旧档房西架第三层所存记名簿，中间偏后一处名字被浓墨涂去，沈砚秋承认原字为陆沉舟。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000011_27909620e689",
+                "sequence": 11,
+                "kind": "item",
+                "operation": "added",
+                "entityId": "item_clerk_handover_record",
+                "summary": "旧档房西架第四层所存卷册，内有奉掌门令涂去记名簿丙册陆沉舟一条的转抄记录，末尾有执事堂印。",
+                "before": null,
+                "after": {
+                  "id": "item_clerk_handover_record",
+                  "name": "执事交接录",
+                  "summary": "旧档房西架第四层所存卷册，内有奉掌门令涂去记名簿丙册陆沉舟一条的转抄记录，末尾有执事堂印。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000012_daf527ffed76",
+                "sequence": 12,
+                "kind": "item",
+                "operation": "added",
+                "entityId": "item_blank_ledger",
+                "summary": "旧档房西架第五层所存无签条空白簿，纸页间夹有半行小字纸片。",
+                "before": null,
+                "after": {
+                  "id": "item_blank_ledger",
+                  "name": "空白簿",
+                  "summary": "旧档房西架第五层所存无签条空白簿，纸页间夹有半行小字纸片。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000013_c084b63d3711",
+                "sequence": 13,
+                "kind": "item",
+                "operation": "added",
+                "entityId": "item_half_line_slip",
+                "summary": "夹在空白簿中的半行小字纸片，与第六层拓本裁口断茬吻合，连读为“陆照临，非陆氏所出，天门所录，另册存之”。",
+                "before": null,
+                "after": {
+                  "id": "item_half_line_slip",
+                  "name": "半行纸片",
+                  "summary": "夹在空白簿中的半行小字纸片，与第六层拓本裁口断茬吻合，连读为“陆照临，非陆氏所出，天门所录，另册存之”。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000014_8a488cd59d42",
+                "sequence": 14,
+                "kind": "item",
+                "operation": "added",
+                "entityId": "item_rubbing_box",
+                "summary": "旧档房西架第六层所存木匣，内有数页拓本，第三页右侧有裁口，与半行纸片边缘吻合。",
+                "before": null,
+                "after": {
+                  "id": "item_rubbing_box",
+                  "name": "扁木匣",
+                  "summary": "旧档房西架第六层所存木匣，内有数页拓本，第三页右侧有裁口，与半行纸片边缘吻合。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000015_5cc515efa8b4",
+                "sequence": 15,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:goalLedger",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": [
+                  {
+                    "id": "opening-goal-1",
+                    "title": "沈砚秋删去陆沉舟记录的责任",
+                    "status": "active",
+                    "characterId": "character_2cf2b083593b",
+                    "dependencies": [],
+                    "source": "opening",
+                    "evidence": "你坐在祖师殿前听见对旧档案的追问，掌门身份要求你先面对被删去的名字。",
+                    "causeBranchId": null
+                  },
+                  {
+                    "id": "opening-goal-2",
+                    "title": "玄霄宗是否承认旧档案的错误",
+                    "status": "active",
+                    "characterId": "character_2cf2b083593b",
+                    "dependencies": [],
+                    "source": "opening",
+                    "evidence": "你坐在祖师殿前听见对旧档案的追问，掌门身份要求你先面对被删去的名字。",
+                    "causeBranchId": null
+                  }
+                ],
+                "after": [
+                  {
+                    "id": "opening-goal-1",
+                    "title": "沈砚秋删去陆沉舟记录的责任",
+                    "status": "active",
+                    "characterId": "character_2cf2b083593b",
+                    "dependencies": [],
+                    "source": "player_branch",
+                    "evidence": "“是。”沈砚秋答，“我改的。原字是陆沉舟。当时上面传话，说这个名字不能留在记名簿上。”\n\n灰袍长老凑近看了一眼，眉头拧起来：“传话的是谁？”\n\n“当时是前任掌门的令，经执事堂转到我手里。”沈砚秋说，“执事堂的记录在第四层，那卷《执事交接录》里应当有这一条。但我没有亲眼见过原始令文，只见过转抄。”\n\n你没有接话，把记名簿合上，放回第三层原位，又去抽第四层那卷《执事交接录》。这卷比记名簿厚，封皮上沾着灰。你翻开，一页页找。沈砚秋说的那条记录在靠后位置，字迹是另一人的，写着某年某月，奉掌门令，记名簿丙册陆沉舟一条着即涂去，经办人沈砚秋。记录末尾有执事堂的印，印色已经发暗。\n\n“有这条。”你说，把册子转向几位长老。\n\n灰袍长老看完，嘴唇动了动，没说出话。年纪最大的那位长老扶着架子，慢慢点头：“印是真的。执事堂的印，我认得。”\n\n你把《执事交接录》放回原处，转向第五层。\n\n第五层比下面几层空，只零星放着几册簿子，其中一册封皮空白，没有签条。沈砚秋的目光落在那册上，没有动。你把它抽出来，比记名簿薄，纸页发白，像是从未用过。\n\n你翻开。\n\n第一页空白。第二页空白。第三页——\n\n纸页之间夹着一小条纸片，边缘裁得整齐，只有半行小字，墨色偏淡，像是从某处拓本上裁下来的。你把纸片拈起来，凑到灯下。半行字是：“……照临，非陆氏所出，天门——”\n\n后面断了。\n\n你把纸片放回原页之间，合上空白簿，没有立刻说话。灰袍长老探过头来，看清那半行字，脸色变了：“陆照临？这说的是——”\n\n“先别急着认。”你说，“这半行是从哪里裁下来的，拓本原件在不在，都还没核。沈砚秋，拓本原件呢？”\n\n“在第六层，和残印拓本放在一处。”沈砚秋说，“但我上次动过之后，没有再查过第六层。”\n\n你把空白簿搁在案上，走向第六层。第六层比第五层更暗，小灯的光几乎照不到。你伸手摸索，摸到一只扁木匣，抽出来，打开。匣中放着几页拓本，纸色深浅不一。你逐页翻看，翻到第三页时，看见一处裁口——纸页右侧缺了窄窄一条，断口和空白簿里那半行纸片的边缘对得上。\n\n你把木匣端到灯下，和空白簿并排放着。几位长老围过来，没人说话。裁口和纸片并在一处，断茬吻合，半行字接上了前面拓本末尾的几个字，连起来读，是“……陆照临，非陆氏所出，天门所录，另册存之”。\n\n灰袍长老倒吸一口气。\n\n你盯着那两样东西看了很久。断茬吻合是真的，字迹墨色一致也是真的。但这半行字是谁写的、什么时候写的、为什么被裁下来，拓本本身没有署名，也没有日期。你把木匣合上，放回第六层原位，又把空白簿放回第五层。\n\n“都看见了。”你转身，面对跟来的几位长老，“记名簿涂改处、执事交接录的转抄记录、空白簿里的半行纸片、第六层拓本的裁口。能找到的，都在这里。找不到的——原始令文、拓本作者、裁下这半行的人是谁，现在都还不知道。”",
+                    "causeBranchId": "branch_d8e5ec8e-df6d-4d92-bdb7-732e83c51a13",
+                    "reason": "已核验涂改、转抄记录与半行纸片，但原始令文、拓本作者、裁字者仍未知，责任归属与处置未定。",
+                    "successor": ""
+                  },
+                  {
+                    "id": "opening-goal-2",
+                    "title": "玄霄宗是否承认旧档案的错误",
+                    "status": "active",
+                    "characterId": "character_2cf2b083593b",
+                    "dependencies": [],
+                    "source": "player_branch",
+                    "evidence": "“山门外等的是一句话，不是半句话。”你说，“今天看到的这些，谁要传出去，就照原样传：涂改是真的，转抄是真的，半行字是真的，其余不知道。谁要是添一个字、减一个字，我拿他是问。”\n\n灰袍长老把袖中的册子又攥紧了些，终究点头。年纪最大的那位长老扶着架子，慢慢坐到案边的矮凳上，喘着气说：“掌门，老朽活了这些年，头一回见旧档房的东西被这样一件件摆出来。你做得对。”\n\n沈砚秋站在灯侧，始终没有替你说话，也没有替自己辩解。她的手指垂在身侧，指尖沾了一点灯灰。\n\n你把小灯从木托上拿起来，照着几位长老的脸一一扫过，然后放回原处。\n\n“回去。”你说，“殿前的人还等着。但今天在这里看到的，先记在各人心里，不许先递出去。”",
+                    "causeBranchId": "branch_d8e5ec8e-df6d-4d92-bdb7-732e83c51a13",
+                    "reason": "叶青冥已令所见者照原样传、不得增删，但宗门对外立场尚未决定。",
+                    "successor": ""
+                  }
+                ],
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_d8e5ec8e-df6d-4d92-bdb7-732e83c51a13",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000016_4519af81d41f",
+                "sequence": 16,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:readerEntityStates",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": null,
+                "after": {
+                  "item_clerk_handover_record": {
+                    "转抄记录核验": "已核验，载有奉掌门令涂去陆沉舟一条，末有执事堂印"
+                  },
+                  "item_half_line_slip": {
+                    "内容与吻合": "与第六层拓本裁口断茬吻合，连读为“陆照临，非陆氏所出，天门所录，另册存之”"
+                  }
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_d8e5ec8e-df6d-4d92-bdb7-732e83c51a13",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000017_0cbdaf06164f",
+                "sequence": 17,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:freeTextProgress",
+                "summary": "运行时状态字段“freeTextProgress”已由受控方向更新。",
+                "before": 2,
+                "after": 3,
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "direction_free_297995a7c3d3",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000018_b4374a549dfa",
+                "sequence": 18,
+                "kind": "location",
+                "operation": "added",
+                "entityId": "location_observed_838cba1074c88811",
+                "summary": "本回合原文确认的场所：祖师殿",
+                "before": null,
+                "after": {
+                  "id": "location_observed_838cba1074c88811",
+                  "name": "祖师殿",
+                  "summary": "本回合原文确认的场所：祖师殿"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000019_2122d6d27ead",
+                "sequence": 19,
+                "kind": "character",
+                "operation": "added",
+                "entityId": "character_zhou_dashi",
+                "summary": "北河城修桥匠人，山门外推举入殿核验者之一；自称妻家兄弟三年前失踪、家人却说此人从未来过北河城，前来查问旧档中是否有其名字。",
+                "before": null,
+                "after": {
+                  "id": "character_zhou_dashi",
+                  "name": "周大石",
+                  "summary": "北河城修桥匠人，山门外推举入殿核验者之一；自称妻家兄弟三年前失踪、家人却说此人从未来过北河城，前来查问旧档中是否有其名字。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000020_5ffa225225b7",
+                "sequence": 20,
+                "kind": "character",
+                "operation": "added",
+                "entityId": "character_chen_xiaoman",
+                "summary": "旧驿道方向来的年轻人，替已故师父送物；带来一只竹箱，内有一卷扉页写“玄霄宗旧录”的手抄功法，前来查问功法来源与师父名字是否在册。",
+                "before": null,
+                "after": {
+                  "id": "character_chen_xiaoman",
+                  "name": "陈小满",
+                  "summary": "旧驿道方向来的年轻人，替已故师父送物；带来一只竹箱，内有一卷扉页写“玄霄宗旧录”的手抄功法，前来查问功法来源与师父名字是否在册。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000021_341c3716a607",
+                "sequence": 21,
+                "kind": "item",
+                "operation": "added",
+                "entityId": "item_bamboo_box",
+                "summary": "陈小满师父留下的半旧竹箱，箱角磨得发亮，内有一卷扉页写“玄霄宗旧录”的手抄功法；陈小满将其推至叶青冥面前，尚未打开。",
+                "before": null,
+                "after": {
+                  "id": "item_bamboo_box",
+                  "name": "竹箱",
+                  "summary": "陈小满师父留下的半旧竹箱，箱角磨得发亮，内有一卷扉页写“玄霄宗旧录”的手抄功法；陈小满将其推至叶青冥面前，尚未打开。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000022_26de4ea3573e",
+                "sequence": 22,
+                "kind": "item",
+                "operation": "added",
+                "entityId": "item_handwritten_manual",
+                "summary": "陈小满师父遗物，藏于竹箱内，扉页写“玄霄宗旧录”；来源与是否出自玄霄宗尚未核实。",
+                "before": null,
+                "after": {
+                  "id": "item_handwritten_manual",
+                  "name": "手抄的功法",
+                  "summary": "陈小满师父遗物，藏于竹箱内，扉页写“玄霄宗旧录”；来源与是否出自玄霄宗尚未核实。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000023_05b83f97883e",
+                "sequence": 23,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:goalLedger",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": [
+                  {
+                    "id": "opening-goal-1",
+                    "title": "沈砚秋删去陆沉舟记录的责任",
+                    "status": "active",
+                    "characterId": "character_2cf2b083593b",
+                    "dependencies": [],
+                    "source": "player_branch",
+                    "evidence": "“是。”沈砚秋答，“我改的。原字是陆沉舟。当时上面传话，说这个名字不能留在记名簿上。”\n\n灰袍长老凑近看了一眼，眉头拧起来：“传话的是谁？”\n\n“当时是前任掌门的令，经执事堂转到我手里。”沈砚秋说，“执事堂的记录在第四层，那卷《执事交接录》里应当有这一条。但我没有亲眼见过原始令文，只见过转抄。”\n\n你没有接话，把记名簿合上，放回第三层原位，又去抽第四层那卷《执事交接录》。这卷比记名簿厚，封皮上沾着灰。你翻开，一页页找。沈砚秋说的那条记录在靠后位置，字迹是另一人的，写着某年某月，奉掌门令，记名簿丙册陆沉舟一条着即涂去，经办人沈砚秋。记录末尾有执事堂的印，印色已经发暗。\n\n“有这条。”你说，把册子转向几位长老。\n\n灰袍长老看完，嘴唇动了动，没说出话。年纪最大的那位长老扶着架子，慢慢点头：“印是真的。执事堂的印，我认得。”\n\n你把《执事交接录》放回原处，转向第五层。\n\n第五层比下面几层空，只零星放着几册簿子，其中一册封皮空白，没有签条。沈砚秋的目光落在那册上，没有动。你把它抽出来，比记名簿薄，纸页发白，像是从未用过。\n\n你翻开。\n\n第一页空白。第二页空白。第三页——\n\n纸页之间夹着一小条纸片，边缘裁得整齐，只有半行小字，墨色偏淡，像是从某处拓本上裁下来的。你把纸片拈起来，凑到灯下。半行字是：“……照临，非陆氏所出，天门——”\n\n后面断了。\n\n你把纸片放回原页之间，合上空白簿，没有立刻说话。灰袍长老探过头来，看清那半行字，脸色变了：“陆照临？这说的是——”\n\n“先别急着认。”你说，“这半行是从哪里裁下来的，拓本原件在不在，都还没核。沈砚秋，拓本原件呢？”\n\n“在第六层，和残印拓本放在一处。”沈砚秋说，“但我上次动过之后，没有再查过第六层。”\n\n你把空白簿搁在案上，走向第六层。第六层比第五层更暗，小灯的光几乎照不到。你伸手摸索，摸到一只扁木匣，抽出来，打开。匣中放着几页拓本，纸色深浅不一。你逐页翻看，翻到第三页时，看见一处裁口——纸页右侧缺了窄窄一条，断口和空白簿里那半行纸片的边缘对得上。\n\n你把木匣端到灯下，和空白簿并排放着。几位长老围过来，没人说话。裁口和纸片并在一处，断茬吻合，半行字接上了前面拓本末尾的几个字，连起来读，是“……陆照临，非陆氏所出，天门所录，另册存之”。\n\n灰袍长老倒吸一口气。\n\n你盯着那两样东西看了很久。断茬吻合是真的，字迹墨色一致也是真的。但这半行字是谁写的、什么时候写的、为什么被裁下来，拓本本身没有署名，也没有日期。你把木匣合上，放回第六层原位，又把空白簿放回第五层。\n\n“都看见了。”你转身，面对跟来的几位长老，“记名簿涂改处、执事交接录的转抄记录、空白簿里的半行纸片、第六层拓本的裁口。能找到的，都在这里。找不到的——原始令文、拓本作者、裁下这半行的人是谁，现在都还不知道。”",
+                    "causeBranchId": "branch_d8e5ec8e-df6d-4d92-bdb7-732e83c51a13",
+                    "reason": "已核验涂改、转抄记录与半行纸片，但原始令文、拓本作者、裁字者仍未知，责任归属与处置未定。",
+                    "successor": ""
+                  },
+                  {
+                    "id": "opening-goal-2",
+                    "title": "玄霄宗是否承认旧档案的错误",
+                    "status": "active",
+                    "characterId": "character_2cf2b083593b",
+                    "dependencies": [],
+                    "source": "player_branch",
+                    "evidence": "“山门外等的是一句话，不是半句话。”你说，“今天看到的这些，谁要传出去，就照原样传：涂改是真的，转抄是真的，半行字是真的，其余不知道。谁要是添一个字、减一个字，我拿他是问。”\n\n灰袍长老把袖中的册子又攥紧了些，终究点头。年纪最大的那位长老扶着架子，慢慢坐到案边的矮凳上，喘着气说：“掌门，老朽活了这些年，头一回见旧档房的东西被这样一件件摆出来。你做得对。”\n\n沈砚秋站在灯侧，始终没有替你说话，也没有替自己辩解。她的手指垂在身侧，指尖沾了一点灯灰。\n\n你把小灯从木托上拿起来，照着几位长老的脸一一扫过，然后放回原处。\n\n“回去。”你说，“殿前的人还等着。但今天在这里看到的，先记在各人心里，不许先递出去。”",
+                    "causeBranchId": "branch_d8e5ec8e-df6d-4d92-bdb7-732e83c51a13",
+                    "reason": "叶青冥已令所见者照原样传、不得增删，但宗门对外立场尚未决定。",
+                    "successor": ""
+                  }
+                ],
+                "after": [
+                  {
+                    "id": "opening-goal-1",
+                    "title": "沈砚秋删去陆沉舟记录的责任",
+                    "status": "active",
+                    "characterId": "character_2cf2b083593b",
+                    "dependencies": [],
+                    "source": "player_branch",
+                    "evidence": "“是。”沈砚秋答，“我改的。原字是陆沉舟。当时上面传话，说这个名字不能留在记名簿上。”\n\n灰袍长老凑近看了一眼，眉头拧起来：“传话的是谁？”\n\n“当时是前任掌门的令，经执事堂转到我手里。”沈砚秋说，“执事堂的记录在第四层，那卷《执事交接录》里应当有这一条。但我没有亲眼见过原始令文，只见过转抄。”\n\n你没有接话，把记名簿合上，放回第三层原位，又去抽第四层那卷《执事交接录》。这卷比记名簿厚，封皮上沾着灰。你翻开，一页页找。沈砚秋说的那条记录在靠后位置，字迹是另一人的，写着某年某月，奉掌门令，记名簿丙册陆沉舟一条着即涂去，经办人沈砚秋。记录末尾有执事堂的印，印色已经发暗。\n\n“有这条。”你说，把册子转向几位长老。\n\n灰袍长老看完，嘴唇动了动，没说出话。年纪最大的那位长老扶着架子，慢慢点头：“印是真的。执事堂的印，我认得。”\n\n你把《执事交接录》放回原处，转向第五层。\n\n第五层比下面几层空，只零星放着几册簿子，其中一册封皮空白，没有签条。沈砚秋的目光落在那册上，没有动。你把它抽出来，比记名簿薄，纸页发白，像是从未用过。\n\n你翻开。\n\n第一页空白。第二页空白。第三页——\n\n纸页之间夹着一小条纸片，边缘裁得整齐，只有半行小字，墨色偏淡，像是从某处拓本上裁下来的。你把纸片拈起来，凑到灯下。半行字是：“……照临，非陆氏所出，天门——”\n\n后面断了。\n\n你把纸片放回原页之间，合上空白簿，没有立刻说话。灰袍长老探过头来，看清那半行字，脸色变了：“陆照临？这说的是——”\n\n“先别急着认。”你说，“这半行是从哪里裁下来的，拓本原件在不在，都还没核。沈砚秋，拓本原件呢？”\n\n“在第六层，和残印拓本放在一处。”沈砚秋说，“但我上次动过之后，没有再查过第六层。”\n\n你把空白簿搁在案上，走向第六层。第六层比第五层更暗，小灯的光几乎照不到。你伸手摸索，摸到一只扁木匣，抽出来，打开。匣中放着几页拓本，纸色深浅不一。你逐页翻看，翻到第三页时，看见一处裁口——纸页右侧缺了窄窄一条，断口和空白簿里那半行纸片的边缘对得上。\n\n你把木匣端到灯下，和空白簿并排放着。几位长老围过来，没人说话。裁口和纸片并在一处，断茬吻合，半行字接上了前面拓本末尾的几个字，连起来读，是“……陆照临，非陆氏所出，天门所录，另册存之”。\n\n灰袍长老倒吸一口气。\n\n你盯着那两样东西看了很久。断茬吻合是真的，字迹墨色一致也是真的。但这半行字是谁写的、什么时候写的、为什么被裁下来，拓本本身没有署名，也没有日期。你把木匣合上，放回第六层原位，又把空白簿放回第五层。\n\n“都看见了。”你转身，面对跟来的几位长老，“记名簿涂改处、执事交接录的转抄记录、空白簿里的半行纸片、第六层拓本的裁口。能找到的，都在这里。找不到的——原始令文、拓本作者、裁下这半行的人是谁，现在都还不知道。”",
+                    "causeBranchId": "branch_d8e5ec8e-df6d-4d92-bdb7-732e83c51a13",
+                    "reason": "已核验涂改、转抄记录与半行纸片，但原始令文、拓本作者、裁字者仍未知，责任归属与处置未定。",
+                    "successor": ""
+                  },
+                  {
+                    "id": "opening-goal-2",
+                    "title": "玄霄宗是否承认旧档案的错误",
+                    "status": "active",
+                    "characterId": "character_2cf2b083593b",
+                    "dependencies": [],
+                    "source": "player_branch",
+                    "evidence": "“旧档房里看到的东西，我一件一件说。”你的声音不高，但殿前每个人都听得清，“记名簿丙册，中间偏后一处名字被浓墨涂去，沈砚秋当面认了，原字是陆沉舟。执事交接录第四层，有一行转抄记录，写着奉掌门令涂去此条，末尾盖着执事堂印。空白簿第五层，纸页间夹着半行残字，纸边裁口与第六层拓本上的裁口吻合，断茬对得上，墨色也一致。”\n\n你停了一下，目光扫过每一张脸。\n\n“拓本本身没有署名，没有日期。原始令文不在。拓本是谁拓的、这半行字是谁裁下来的、什么时候裁的，现在都不知道。谁要是问，就照这个说。多一个字，少一个字，我拿他是问。”\n\n灰袍长老袖中的册子攥得更紧了些，嘴唇动了动，终究没出声。年纪最大的那位长老扶着柱子，慢慢点了点头。\n\n“掌门，”灰袍长老还是开了口，声音比方才低了许多，“山门外的人越聚越多。有人从北河城来，有人从旧驿道来，都说要一个说法。您方才说照原样传——可原样传出去，各房记录若对不上，只怕……”\n\n“只怕什么，等听完再说。”你打断他，“现在我要做一件事。山门外的人，让他们自己推举两个愿意进来核验的。不是听我说话，是进来看东西。谁推举的，谁自己站出来。我亲自听他们要看什么、凭什么看。”",
+                    "causeBranchId": "branch_a369694e-69c7-4d51-81f8-d48632459318",
+                    "reason": "叶青冥已向长老公开核验结果并令照原样传，且决定让山门外推举两人入殿核验；宗门对外立场与责任认定仍未最终决定。",
+                    "successor": ""
+                  }
+                ],
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_a369694e-69c7-4d51-81f8-d48632459318",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000024_d81bf959385c",
+                "sequence": 24,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:readerEntityStates",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": {
+                  "item_clerk_handover_record": {
+                    "转抄记录核验": "已核验，载有奉掌门令涂去陆沉舟一条，末有执事堂印"
+                  },
+                  "item_half_line_slip": {
+                    "内容与吻合": "与第六层拓本裁口断茬吻合，连读为“陆照临，非陆氏所出，天门所录，另册存之”"
+                  }
+                },
+                "after": {
+                  "item_clerk_handover_record": {
+                    "转抄记录核验": "已核验，载有奉掌门令涂去陆沉舟一条，末有执事堂印"
+                  },
+                  "item_half_line_slip": {
+                    "内容与吻合": "与第六层拓本裁口断茬吻合，连读为“陆照临，非陆氏所出，天门所录，另册存之”"
+                  },
+                  "character_zhou_dashi": {
+                    "身份与来意": "北河城修桥匠人，查问旧档中是否有失踪妻家兄弟的名字"
+                  }
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_a369694e-69c7-4d51-81f8-d48632459318",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000025_3893b61955ef",
+                "sequence": 25,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:characterLocationIds",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": {
+                  "character_2cf2b083593b": "location_open_ancestral_hall",
+                  "character_aa4580d38571": "location_open_ancestral_hall",
+                  "character_ae4cb42b9b49": "location_open_ancestral_hall",
+                  "character_e663361ab1c7": "location_open_ancestral_hall",
+                  "character_766c4e16f65d": "location_open_ancestral_hall"
+                },
+                "after": {
+                  "character_2cf2b083593b": "location_observed_838cba1074c88811",
+                  "character_aa4580d38571": "location_open_ancestral_hall",
+                  "character_ae4cb42b9b49": "location_open_ancestral_hall",
+                  "character_e663361ab1c7": "location_open_ancestral_hall",
+                  "character_766c4e16f65d": "location_open_ancestral_hall",
+                  "character_shen_yanqiu": "location_observed_838cba1074c88811",
+                  "character_gray_robe_elder": "location_observed_838cba1074c88811",
+                  "character_oldest_elder": "location_observed_838cba1074c88811"
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_a369694e-69c7-4d51-81f8-d48632459318",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000026_e9b3886b02d1",
+                "sequence": 26,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:playerLocationId",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": "location_open_ancestral_hall",
+                "after": "location_observed_838cba1074c88811",
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_a369694e-69c7-4d51-81f8-d48632459318",
+                  "nodeRef": "node_source_continuity"
+                }
+              }
+            ]
+          },
+          "sourceProgress": "chapter_335",
+          "freeTextProgress": 3,
+          "storyScope": "source",
+          "derivativeStage": "inactive",
+          "derivedTurn": 0,
+          "derivedLocations": [
+            {
+              "id": "location_old_archive_room",
+              "name": "旧档房",
+              "summary": "祖师殿后偏院内的档案房，三面靠墙立着木架，西架第三至第六层存放记名簿、执事交接录、空白簿与拓本木匣。"
+            },
+            {
+              "id": "location_observed_838cba1074c88811",
+              "name": "祖师殿",
+              "summary": "本回合原文确认的场所：祖师殿"
+            }
+          ],
+          "derivedCharacters": [
+            {
+              "id": "character_shen_yanqiu",
+              "name": "沈砚秋",
+              "summary": "玄霄宗执事，捧《太虚遗录》入祖师殿，承认删去旧记录；本回合依掌门之命逐项说明删改范围、亲手所改内容与现存原件，对不确定处明言不知。"
+            },
+            {
+              "id": "character_elder_present",
+              "name": "在场长老",
+              "summary": "祖师殿内等待掌门对档案接管提议作出回应的长老群体；本回合依令各自封存记录，其中灰袍长老对暂不统一提出疑虑后收回册子。"
+            },
+            {
+              "id": "character_gray_robe_elder",
+              "name": "灰袍长老",
+              "summary": "祖师殿中曾对暂不统一改写提出疑虑的长老，本回合第一个跟随叶青冥前往旧档房，亲眼核验涂改、转抄记录与半行纸片，最终点头并承诺照原样传。"
+            },
+            {
+              "id": "character_oldest_elder",
+              "name": "年纪最大的那位长老",
+              "summary": "跟随前往旧档房的长老之一，认得执事堂印，核验后称掌门做得对。"
+            },
+            {
+              "id": "character_zhou_dashi",
+              "name": "周大石",
+              "summary": "北河城修桥匠人，山门外推举入殿核验者之一；自称妻家兄弟三年前失踪、家人却说此人从未来过北河城，前来查问旧档中是否有其名字。"
+            },
+            {
+              "id": "character_chen_xiaoman",
+              "name": "陈小满",
+              "summary": "旧驿道方向来的年轻人，替已故师父送物；带来一只竹箱，内有一卷扉页写“玄霄宗旧录”的手抄功法，前来查问功法来源与师父名字是否在册。"
+            }
+          ],
+          "derivedItems": [
+            {
+              "id": "item_registry_book_bing",
+              "name": "记名簿·丙",
+              "summary": "旧档房西架第三层所存记名簿，中间偏后一处名字被浓墨涂去，沈砚秋承认原字为陆沉舟。"
+            },
+            {
+              "id": "item_clerk_handover_record",
+              "name": "执事交接录",
+              "summary": "旧档房西架第四层所存卷册，内有奉掌门令涂去记名簿丙册陆沉舟一条的转抄记录，末尾有执事堂印。"
+            },
+            {
+              "id": "item_blank_ledger",
+              "name": "空白簿",
+              "summary": "旧档房西架第五层所存无签条空白簿，纸页间夹有半行小字纸片。"
+            },
+            {
+              "id": "item_half_line_slip",
+              "name": "半行纸片",
+              "summary": "夹在空白簿中的半行小字纸片，与第六层拓本裁口断茬吻合，连读为“陆照临，非陆氏所出，天门所录，另册存之”。"
+            },
+            {
+              "id": "item_rubbing_box",
+              "name": "扁木匣",
+              "summary": "旧档房西架第六层所存木匣，内有数页拓本，第三页右侧有裁口，与半行纸片边缘吻合。"
+            },
+            {
+              "id": "item_bamboo_box",
+              "name": "竹箱",
+              "summary": "陈小满师父留下的半旧竹箱，箱角磨得发亮，内有一卷扉页写“玄霄宗旧录”的手抄功法；陈小满将其推至叶青冥面前，尚未打开。"
+            },
+            {
+              "id": "item_handwritten_manual",
+              "name": "手抄的功法",
+              "summary": "陈小满师父遗物，藏于竹箱内，扉页写“玄霄宗旧录”；来源与是否出自玄霄宗尚未核实。"
+            }
+          ],
+          "derivedCharacterReveals": [],
+          "derivedRelationships": [],
+          "derivedClues": [],
+          "derivedEvents": [],
+          "itemOwnerCharacterIds": {
+            "item_open_broken_sword": "character_2cf2b083593b"
+          },
+          "itemLocationIds": {},
+          "characterOutcomeStates": {},
+          "threadLedger": [
+            {
+              "id": "opening-thread-1",
+              "title": "沈砚秋删去陆沉舟记录的责任",
+              "status": "open",
+              "source": "opening",
+              "openedBranchId": null,
+              "causeBranchId": "branch_398c1ae4-9281-43b8-9c9a-d9a5a778948b",
+              "reason": "沈砚秋已说明删改范围、三处亲笔涂改与现存原件线索，但责任归属与处置仍待掌门决定。",
+              "evidence": "“回掌门。我经手的删改，不在近三十年的卷册，主要在旧档房西架第三层到第五层——那是宗门早年收录的散卷，按年份捆扎，没有正式编目。我动过其中七捆，涉及天门旧录两卷、残印拓本一卷、还有几册记名簿。”\n\n她说到这里，喉间停了一下。\n\n“亲手改的，有三处。一处是记名簿上一行墨字，原写‘陆沉舟’，我以浓墨涂去，又在旁侧补了‘录事失考’四字。一处是天门旧录里一段批注，原批‘此印自外门入’，我划去‘外门’二字，改成‘来历未详’。还有一处，是残印拓本边角的一行小字，我裁去了半行，只留‘玄霄宗藏’四字。”\n\n殿中有人轻轻吸了口气。你没有打断。\n\n“原件，”沈砚秋继续道，“记名簿那一册还在旧档房西架第三层，涂改处未再动过。天门旧录两卷也在原处，批注划改可见。残印拓本我裁下的半行，当时没有销毁，夹在第五层一册空白簿页之间——但那册空白簿后来是否被人动过，我不知道。”\n\n“你不知道的，就说不知道。”你说。\n\n“是。我不知道那半行如今还在不在。也不知道除我之外，还有谁进过旧档房西架。”她声音很平，“这些是我能说清的。再往前的卷册，我没碰过；再往后的，我也没碰过。”",
+              "priority": "high",
+              "recoveryWindow": "near"
+            },
+            {
+              "id": "opening-thread-2",
+              "title": "玄霄宗是否承认旧档案的错误",
+              "status": "open",
+              "source": "opening",
+              "openedBranchId": null,
+              "causeBranchId": "branch_398c1ae4-9281-43b8-9c9a-d9a5a778948b",
+              "reason": "叶青冥已禁止统一改写并令长老各自封存，但宗门对外立场尚未定。",
+              "evidence": "“在她说清楚之前，各位手里的记录各自留着，不许合并，不许重抄，更不许统一改写。谁手里的东西，谁自己封好。”\n\n沈砚秋把《太虚遗录》抱在胸前，指节微微发白。她低头想了一息，才抬眼看你。\n\n“回掌门。我经手的删改，不在近三十年的卷册，主要在旧档房西架第三层到第五层——那是宗门早年收录的散卷，按年份捆扎，没有正式编目。我动过其中七捆，涉及天门旧录两卷、残印拓本一卷、还有几册记名簿。”\n\n她说到这里，喉间停了一下。\n\n“亲手改的，有三处。一处是记名簿上一行墨字，原写‘陆沉舟’，我以浓墨涂去，又在旁侧补了‘录事失考’四字。一处是天门旧录里一段批注，原批‘此印自外门入’，我划去‘外门’二字，改成‘来历未详’。还有一处，是残印拓本边角的一行小字，我裁去了半行，只留‘玄霄宗藏’四字。”\n\n殿中有人轻轻吸了口气。你没有打断。\n\n“原件，”沈砚秋继续道，“记名簿那一册还在旧档房西架第三层，涂改处未再动过。天门旧录两卷也在原处，批注划改可见。残印拓本我裁下的半行，当时没有销毁，夹在第五层一册空白簿页之间——但那册空白簿后来是否被人动过，我不知道。”\n\n“你不知道的，就说不知道。”你说。\n\n“是。我不知道那半行如今还在不在。也不知道除我之外，还有谁进过旧档房西架。”她声音很平，“这些是我能说清的。再往前的卷册，我没碰过；再往后的，我也没碰过。”\n\n一位灰袍长老向前半步，手中还攥着一卷未封的册子：“掌门，山门外的人正等着。各房记录若各执一词，递出去的话前后不一，只怕——”\n\n“只怕什么，等听完再说。”你看了他一眼，“现在各自封存。谁手里的记录，谁自己收好。没有我的令，不得交出去，也不得改一个字。”\n\n灰袍长老嘴唇动了动，终究把册子收回袖中，退回了原位。其余几位长老也各自将手中的卷册合上，有的用布囊裹了，有的直接拢进袖里。殿前一时只剩下纸页摩擦的轻响。",
+              "priority": "high",
+              "recoveryWindow": "near"
+            }
+          ],
+          "goalLedger": [
+            {
+              "id": "opening-goal-1",
+              "title": "沈砚秋删去陆沉舟记录的责任",
+              "status": "active",
+              "characterId": "character_2cf2b083593b",
+              "dependencies": [],
+              "source": "player_branch",
+              "evidence": "“是。”沈砚秋答，“我改的。原字是陆沉舟。当时上面传话，说这个名字不能留在记名簿上。”\n\n灰袍长老凑近看了一眼，眉头拧起来：“传话的是谁？”\n\n“当时是前任掌门的令，经执事堂转到我手里。”沈砚秋说，“执事堂的记录在第四层，那卷《执事交接录》里应当有这一条。但我没有亲眼见过原始令文，只见过转抄。”\n\n你没有接话，把记名簿合上，放回第三层原位，又去抽第四层那卷《执事交接录》。这卷比记名簿厚，封皮上沾着灰。你翻开，一页页找。沈砚秋说的那条记录在靠后位置，字迹是另一人的，写着某年某月，奉掌门令，记名簿丙册陆沉舟一条着即涂去，经办人沈砚秋。记录末尾有执事堂的印，印色已经发暗。\n\n“有这条。”你说，把册子转向几位长老。\n\n灰袍长老看完，嘴唇动了动，没说出话。年纪最大的那位长老扶着架子，慢慢点头：“印是真的。执事堂的印，我认得。”\n\n你把《执事交接录》放回原处，转向第五层。\n\n第五层比下面几层空，只零星放着几册簿子，其中一册封皮空白，没有签条。沈砚秋的目光落在那册上，没有动。你把它抽出来，比记名簿薄，纸页发白，像是从未用过。\n\n你翻开。\n\n第一页空白。第二页空白。第三页——\n\n纸页之间夹着一小条纸片，边缘裁得整齐，只有半行小字，墨色偏淡，像是从某处拓本上裁下来的。你把纸片拈起来，凑到灯下。半行字是：“……照临，非陆氏所出，天门——”\n\n后面断了。\n\n你把纸片放回原页之间，合上空白簿，没有立刻说话。灰袍长老探过头来，看清那半行字，脸色变了：“陆照临？这说的是——”\n\n“先别急着认。”你说，“这半行是从哪里裁下来的，拓本原件在不在，都还没核。沈砚秋，拓本原件呢？”\n\n“在第六层，和残印拓本放在一处。”沈砚秋说，“但我上次动过之后，没有再查过第六层。”\n\n你把空白簿搁在案上，走向第六层。第六层比第五层更暗，小灯的光几乎照不到。你伸手摸索，摸到一只扁木匣，抽出来，打开。匣中放着几页拓本，纸色深浅不一。你逐页翻看，翻到第三页时，看见一处裁口——纸页右侧缺了窄窄一条，断口和空白簿里那半行纸片的边缘对得上。\n\n你把木匣端到灯下，和空白簿并排放着。几位长老围过来，没人说话。裁口和纸片并在一处，断茬吻合，半行字接上了前面拓本末尾的几个字，连起来读，是“……陆照临，非陆氏所出，天门所录，另册存之”。\n\n灰袍长老倒吸一口气。\n\n你盯着那两样东西看了很久。断茬吻合是真的，字迹墨色一致也是真的。但这半行字是谁写的、什么时候写的、为什么被裁下来，拓本本身没有署名，也没有日期。你把木匣合上，放回第六层原位，又把空白簿放回第五层。\n\n“都看见了。”你转身，面对跟来的几位长老，“记名簿涂改处、执事交接录的转抄记录、空白簿里的半行纸片、第六层拓本的裁口。能找到的，都在这里。找不到的——原始令文、拓本作者、裁下这半行的人是谁，现在都还不知道。”",
+              "causeBranchId": "branch_d8e5ec8e-df6d-4d92-bdb7-732e83c51a13",
+              "reason": "已核验涂改、转抄记录与半行纸片，但原始令文、拓本作者、裁字者仍未知，责任归属与处置未定。",
+              "successor": ""
+            },
+            {
+              "id": "opening-goal-2",
+              "title": "玄霄宗是否承认旧档案的错误",
+              "status": "active",
+              "characterId": "character_2cf2b083593b",
+              "dependencies": [],
+              "source": "player_branch",
+              "evidence": "“旧档房里看到的东西，我一件一件说。”你的声音不高，但殿前每个人都听得清，“记名簿丙册，中间偏后一处名字被浓墨涂去，沈砚秋当面认了，原字是陆沉舟。执事交接录第四层，有一行转抄记录，写着奉掌门令涂去此条，末尾盖着执事堂印。空白簿第五层，纸页间夹着半行残字，纸边裁口与第六层拓本上的裁口吻合，断茬对得上，墨色也一致。”\n\n你停了一下，目光扫过每一张脸。\n\n“拓本本身没有署名，没有日期。原始令文不在。拓本是谁拓的、这半行字是谁裁下来的、什么时候裁的，现在都不知道。谁要是问，就照这个说。多一个字，少一个字，我拿他是问。”\n\n灰袍长老袖中的册子攥得更紧了些，嘴唇动了动，终究没出声。年纪最大的那位长老扶着柱子，慢慢点了点头。\n\n“掌门，”灰袍长老还是开了口，声音比方才低了许多，“山门外的人越聚越多。有人从北河城来，有人从旧驿道来，都说要一个说法。您方才说照原样传——可原样传出去，各房记录若对不上，只怕……”\n\n“只怕什么，等听完再说。”你打断他，“现在我要做一件事。山门外的人，让他们自己推举两个愿意进来核验的。不是听我说话，是进来看东西。谁推举的，谁自己站出来。我亲自听他们要看什么、凭什么看。”",
+              "causeBranchId": "branch_a369694e-69c7-4d51-81f8-d48632459318",
+              "reason": "叶青冥已向长老公开核验结果并令照原样传，且决定让山门外推举两人入殿核验；宗门对外立场与责任认定仍未最终决定。",
+              "successor": ""
+            }
+          ],
+          "readerEntityStates": {
+            "item_clerk_handover_record": {
+              "转抄记录核验": "已核验，载有奉掌门令涂去陆沉舟一条，末有执事堂印"
+            },
+            "item_half_line_slip": {
+              "内容与吻合": "与第六层拓本裁口断茬吻合，连读为“陆照临，非陆氏所出，天门所录，另册存之”"
+            },
+            "character_zhou_dashi": {
+              "身份与来意": "北河城修桥匠人，查问旧档中是否有失踪妻家兄弟的名字"
+            }
+          }
+        },
+        "nextDirections": [
+          {
+            "id": "goal-direction-opening-goal-1-4",
+            "title": "推进目标：沈砚秋删去陆沉舟记录的责任",
+            "summary": "围绕“沈砚秋删去陆沉舟记录的责任”，依据眼前条件采取下一步行动，不恢复已放下的目标。",
+            "statePatch": {
+              "freeTextProgress": 4
+            },
+            "isFreeText": true
+          },
+          {
+            "id": "goal-direction-opening-goal-2-4",
+            "title": "推进目标：玄霄宗是否承认旧档案的错误",
+            "summary": "围绕“玄霄宗是否承认旧档案的错误”，依据眼前条件采取下一步行动，不恢复已放下的目标。",
+            "statePatch": {
+              "freeTextProgress": 4
+            },
+            "isFreeText": true
+          }
+        ],
+        "openThreads": [
+          "沈砚秋删去陆沉舟记录的责任",
+          "玄霄宗是否承认旧档案的错误",
+          "尚未完成的当前目标"
+        ],
+        "createdAt": "2026-09-29T09:19:28.820Z",
+        "canonicalRelation": "diverged",
+        "factDeltas": [],
+        "storyArc": {
+          "activeGoal": "自定行动：请沈砚秋把删去的记录范围",
+          "currentPhase": "自定行动：我回到殿前，向长老们说明",
+          "goalDisposition": "continued",
+          "chapter": {
+            "title": "《太虚遗录》·共创篇",
+            "status": "continuing"
+          }
+        },
+        "planning": {
+          "citations": [
+            {
+              "kind": "branch_node",
+              "ref": "branch_d8e5ec8e-df6d-4d92-bdb7-732e83c51a13",
+              "rationale": "承接已确认的上一节点。"
+            }
+          ],
+          "confidence": "medium",
+          "stateChangeProposals": []
+        },
+        "branchAdditions": {
+          "locations": [],
+          "characters": [],
+          "items": [],
+          "relationships": [],
+          "clues": [],
+          "events": [],
+          "characterReveals": [],
+          "changes": []
+        },
+        "consequenceUpdate": {
+          "decision": "ready",
+          "message": "",
+          "requirements": {
+            "A1": {
+              "mode": "attempt",
+              "summary": "我回到殿前，向长老们说明亲眼看见的涂改、转抄、裁口与残字，也明确说明拓本来历和原始令文尚未查明。随后请山门外推举两名愿意核验的人入殿，我亲自听他们的要求和证据，不再让他们只等一句统一口径。"
+            }
+          },
+          "method": "只登记正文已发生的结果",
+          "steps": [
+            {
+              "id": "S1",
+              "actorId": "character_2cf2b083593b",
+              "action": "我回到殿前，向长老们说明亲眼看见的涂改、转抄、裁口与残字，也明确说明拓本来历和原始令文尚未查明。随后请山门外推举两名愿意核验的人入殿，我亲自听他们的要求和证据，不再让他们只等一句统一口径。",
+              "requirementIds": [
+                "A1"
+              ],
+              "authority": "player",
+              "causeStepId": null,
+              "usedItemIds": []
+            }
+          ],
+          "introductions": {
+            "characters": [
+              {
+                "id": "character_zhou_dashi",
+                "name": "周大石",
+                "summary": "北河城修桥匠人，山门外推举入殿核验者之一；自称妻家兄弟三年前失踪、家人却说此人从未来过北河城，前来查问旧档中是否有其名字。",
+                "sourceStepId": "S1",
+                "evidence": "走在前面的那个，年纪约莫四十上下，穿一件洗得发白的靛蓝短褐，肩上搭着一条旧布巾，像是赶了很远的路。他进门时先看了一眼殿中的灯，又看了一眼你，没有行礼，只是站定。后面那个年轻些，二十出头，背着一只半旧的竹箱，箱角磨得发亮，进门后把竹箱放在脚边，双手垂在身侧。\n\n“掌门，”灰袍长老侧身让开，“山门外推举了这两位。这位是北河城来的周姓匠人，这位是旧驿道那边过来的，姓陈，说是替人送东西的。”\n\n靛蓝短褐的男人开口了，声音有些哑：“我叫周大石，北河城修桥的。我媳妇的娘家兄弟，三年前没了。家里人都说他从没来过北河城，可我明明记得他来过，还帮我抬过桥板。我来，是想问一句——玄霄宗的旧档里，有没有他的名字。”"
+              },
+              {
+                "id": "character_chen_xiaoman",
+                "name": "陈小满",
+                "summary": "旧驿道方向来的年轻人，替已故师父送物；带来一只竹箱，内有一卷扉页写“玄霄宗旧录”的手抄功法，前来查问功法来源与师父名字是否在册。",
+                "sourceStepId": "S1",
+                "evidence": "走在前面的那个，年纪约莫四十上下，穿一件洗得发白的靛蓝短褐，肩上搭着一条旧布巾，像是赶了很远的路。他进门时先看了一眼殿中的灯，又看了一眼你，没有行礼，只是站定。后面那个年轻些，二十出头，背着一只半旧的竹箱，箱角磨得发亮，进门后把竹箱放在脚边，双手垂在身侧。\n\n“掌门，”灰袍长老侧身让开，“山门外推举了这两位。这位是北河城来的周姓匠人，这位是旧驿道那边过来的，姓陈，说是替人送东西的。”\n\n靛蓝短褐的男人开口了，声音有些哑：“我叫周大石，北河城修桥的。我媳妇的娘家兄弟，三年前没了。家里人都说他从没来过北河城，可我明明记得他来过，还帮我抬过桥板。我来，是想问一句——玄霄宗的旧档里，有没有他的名字。”\n\n你看着他。他的手掌粗大，指缝里嵌着洗不净的泥灰，说话时眼睛一直盯着你，没有躲。\n\n背竹箱的年轻人接着说：“我叫陈小满。这箱子是我师父留下的，他去年冬天走的。箱子里有一卷手抄的功法，扉页上写着‘玄霄宗旧录’。我师父一辈子没提过玄霄宗，可这卷东西是他最要紧的。我想知道，这功法是不是从贵宗流出去的，我师父的名字，在不在贵宗的册子上。”\n\n他说完，把竹箱往前推了半尺，没有打开，只是推到你面前。"
+              }
+            ],
+            "items": [
+              {
+                "id": "item_bamboo_box",
+                "name": "竹箱",
+                "summary": "陈小满师父留下的半旧竹箱，箱角磨得发亮，内有一卷扉页写“玄霄宗旧录”的手抄功法；陈小满将其推至叶青冥面前，尚未打开。",
+                "sourceStepId": "S1",
+                "evidence": "走在前面的那个，年纪约莫四十上下，穿一件洗得发白的靛蓝短褐，肩上搭着一条旧布巾，像是赶了很远的路。他进门时先看了一眼殿中的灯，又看了一眼你，没有行礼，只是站定。后面那个年轻些，二十出头，背着一只半旧的竹箱，箱角磨得发亮，进门后把竹箱放在脚边，双手垂在身侧。\n\n“掌门，”灰袍长老侧身让开，“山门外推举了这两位。这位是北河城来的周姓匠人，这位是旧驿道那边过来的，姓陈，说是替人送东西的。”\n\n靛蓝短褐的男人开口了，声音有些哑：“我叫周大石，北河城修桥的。我媳妇的娘家兄弟，三年前没了。家里人都说他从没来过北河城，可我明明记得他来过，还帮我抬过桥板。我来，是想问一句——玄霄宗的旧档里，有没有他的名字。”\n\n你看着他。他的手掌粗大，指缝里嵌着洗不净的泥灰，说话时眼睛一直盯着你，没有躲。\n\n背竹箱的年轻人接着说：“我叫陈小满。这箱子是我师父留下的，他去年冬天走的。箱子里有一卷手抄的功法，扉页上写着‘玄霄宗旧录’。我师父一辈子没提过玄霄宗，可这卷东西是他最要紧的。我想知道，这功法是不是从贵宗流出去的，我师父的名字，在不在贵宗的册子上。”\n\n他说完，把竹箱往前推了半尺，没有打开，只是推到你面前。"
+              },
+              {
+                "id": "item_handwritten_manual",
+                "name": "手抄的功法",
+                "summary": "陈小满师父遗物，藏于竹箱内，扉页写“玄霄宗旧录”；来源与是否出自玄霄宗尚未核实。",
+                "sourceStepId": "S1",
+                "evidence": "背竹箱的年轻人接着说：“我叫陈小满。这箱子是我师父留下的，他去年冬天走的。箱子里有一卷手抄的功法，扉页上写着‘玄霄宗旧录’。我师父一辈子没提过玄霄宗，可这卷东西是他最要紧的。我想知道，这功法是不是从贵宗流出去的，我师父的名字，在不在贵宗的册子上。”"
+              }
+            ],
+            "locations": [
+              {
+                "id": "location_observed_838cba1074c88811",
+                "name": "祖师殿",
+                "summary": "本回合原文确认的场所：祖师殿",
+                "sourceStepId": "S1",
+                "evidence": "你穿过廊下那片湿青苔，回到祖师殿前。"
+              }
+            ]
+          },
+          "stateChanges": [
+            {
+              "id": "C1",
+              "entityId": "character_2cf2b083593b",
+              "attribute": "locationId",
+              "before": "location_open_ancestral_hall",
+              "value": "location_observed_838cba1074c88811",
+              "stepId": "S1",
+              "reason": "本回合当前场所原文确认",
+              "evidence": "你在殿门内侧站定，没有立刻开口。"
+            },
+            {
+              "id": "C2",
+              "entityId": "character_shen_yanqiu",
+              "attribute": "locationId",
+              "before": null,
+              "value": "location_observed_838cba1074c88811",
+              "stepId": "S1",
+              "reason": "本回合当前场所原文确认",
+              "evidence": "沈砚秋仍抱着那本《太虚遗录》立在灯侧，没有看你，也没有看殿门，目光落在自己脚尖前那一小块青石上。"
+            },
+            {
+              "id": "C3",
+              "entityId": "character_gray_robe_elder",
+              "attribute": "locationId",
+              "before": null,
+              "value": "location_observed_838cba1074c88811",
+              "stepId": "S1",
+              "reason": "本回合当前场所原文确认",
+              "evidence": "过了约莫一盏茶的工夫，灰袍长老回来了。他身后跟着两个人。"
+            },
+            {
+              "id": "C4",
+              "entityId": "character_oldest_elder",
+              "attribute": "locationId",
+              "before": null,
+              "value": "location_observed_838cba1074c88811",
+              "stepId": "S1",
+              "reason": "本回合当前场所原文确认",
+              "evidence": "年纪最大的那位长老扶着柱子，慢慢点了点头。"
+            },
+            {
+              "id": "C5",
+              "entityId": "character_zhou_dashi",
+              "attribute": "身份与来意",
+              "before": null,
+              "value": "北河城修桥匠人，查问旧档中是否有失踪妻家兄弟的名字",
+              "stepId": "S1",
+              "reason": "周大石入殿后自述",
+              "evidence": "靛蓝短褐的男人开口了，声音有些哑：“我叫周大石，北河城修桥的。我媳妇的娘家兄弟，三年前没了。家里人都说他从没来过北河城，可我明明记得他来过，还帮我抬过桥板。我来，是想问一句——玄霄宗的旧档里，有没有他的名字。”"
+            }
+          ],
+          "outcomes": [],
+          "goalUpdates": [
+            {
+              "id": "opening-goal-2",
+              "title": "玄霄宗是否承认旧档案的错误",
+              "status": "active",
+              "dependencies": [],
+              "reason": "叶青冥已向长老公开核验结果并令照原样传，且决定让山门外推举两人入殿核验；宗门对外立场与责任认定仍未最终决定。",
+              "evidence": "“旧档房里看到的东西，我一件一件说。”你的声音不高，但殿前每个人都听得清，“记名簿丙册，中间偏后一处名字被浓墨涂去，沈砚秋当面认了，原字是陆沉舟。执事交接录第四层，有一行转抄记录，写着奉掌门令涂去此条，末尾盖着执事堂印。空白簿第五层，纸页间夹着半行残字，纸边裁口与第六层拓本上的裁口吻合，断茬对得上，墨色也一致。”\n\n你停了一下，目光扫过每一张脸。\n\n“拓本本身没有署名，没有日期。原始令文不在。拓本是谁拓的、这半行字是谁裁下来的、什么时候裁的，现在都不知道。谁要是问，就照这个说。多一个字，少一个字，我拿他是问。”\n\n灰袍长老袖中的册子攥得更紧了些，嘴唇动了动，终究没出声。年纪最大的那位长老扶着柱子，慢慢点了点头。\n\n“掌门，”灰袍长老还是开了口，声音比方才低了许多，“山门外的人越聚越多。有人从北河城来，有人从旧驿道来，都说要一个说法。您方才说照原样传——可原样传出去，各房记录若对不上，只怕……”\n\n“只怕什么，等听完再说。”你打断他，“现在我要做一件事。山门外的人，让他们自己推举两个愿意进来核验的。不是听我说话，是进来看东西。谁推举的，谁自己站出来。我亲自听他们要看什么、凭什么看。”",
+              "successor": ""
+            }
+          ],
+          "threadUpdates": []
+        },
+        "actionIntent": {
+          "input": "我回到殿前，向长老们说明亲眼看见的涂改、转抄、裁口与残字，也明确说明拓本来历和原始令文尚未查明。随后请山门外推举两名愿意核验的人入殿，我亲自听他们的要求和证据，不再让他们只等一句统一口径。",
+          "requirements": {
+            "A1": "我回到殿前",
+            "A2": "向长老们说明亲眼看见的涂改、转抄、裁口与残字",
+            "A3": "也明确说明拓本来历和原始令文尚未查明",
+            "A4": "随后请山门外推举两名愿意核验的人入殿",
+            "A5": "我亲自听他们的要求和证据",
+            "A6": "不再让他们只等一句统一口径"
+          }
+        },
+        "deliveryReceipt": {
+          "version": "narrative-delivery/5",
+          "kind": "observed_state_not_prose_approval",
+          "parentSha256": "c98103e98883660766a6088e3e744743283ce74b996ab7dac95769bee948312a",
+          "narrativeSha256": "c060f29aaa56b9ad14816dbec07ce2276b5b9b586485bf4fd035e55198c39294",
+          "actionSha256": "ad0f1ec3dcece80887b7d5f58b0bb9836e04dca63f1bca376e3e56c4a49c3a85",
+          "data": {
+            "currentScene": {
+              "evidenceQuote": "你穿过廊下那片湿青苔，回到祖师殿前。",
+              "name": "祖师殿",
+              "basis": "observed",
+              "paragraphIds": [
+                "P1"
+              ],
+              "presentEntities": [
+                {
+                  "entityId": "character_2cf2b083593b",
+                  "entityName": "你",
+                  "basis": "observed",
+                  "paragraphIds": [
+                    "P1",
+                    "P2"
+                  ],
+                  "evidenceQuote": "你在殿门内侧站定，没有立刻开口。"
+                },
+                {
+                  "entityId": "character_shen_yanqiu",
+                  "entityName": "沈砚秋",
+                  "basis": "observed",
+                  "paragraphIds": [
+                    "P13"
+                  ],
+                  "evidenceQuote": "沈砚秋仍抱着那本《太虚遗录》立在灯侧，没有看你，也没有看殿门，目光落在自己脚尖前那一小块青石上。"
+                },
+                {
+                  "entityId": "character_gray_robe_elder",
+                  "entityName": "灰袍长老",
+                  "basis": "observed",
+                  "paragraphIds": [
+                    "P6",
+                    "P15"
+                  ],
+                  "evidenceQuote": "过了约莫一盏茶的工夫，灰袍长老回来了。他身后跟着两个人。"
+                },
+                {
+                  "entityId": "character_oldest_elder",
+                  "entityName": "年纪最大的那位长老",
+                  "basis": "observed",
+                  "paragraphIds": [
+                    "P6"
+                  ],
+                  "evidenceQuote": "年纪最大的那位长老扶着柱子，慢慢点了点头。"
+                },
+                {
+                  "entityId": "character_zhou_dashi",
+                  "entityName": "周大石",
+                  "basis": "observed",
+                  "paragraphIds": [
+                    "P16",
+                    "P18"
+                  ],
+                  "evidenceQuote": "走在前面的那个，年纪约莫四十上下，穿一件洗得发白的靛蓝短褐，肩上搭着一条旧布巾，像是赶了很远的路。"
+                },
+                {
+                  "entityId": "character_chen_xiaoman",
+                  "entityName": "陈小满",
+                  "basis": "observed",
+                  "paragraphIds": [
+                    "P16",
+                    "P20"
+                  ],
+                  "evidenceQuote": "后面那个年轻些，二十出头，背着一只半旧的竹箱，箱角磨得发亮，进门后把竹箱放在脚边，双手垂在身侧。"
+                }
+              ]
+            },
+            "summary": "叶青冥回到祖师殿前，向长老们逐项说明旧档房所见：记名簿涂改、执事交接录转抄记录、空白簿半行残字与拓本裁口吻合，并明确拓本来历、原始令文、裁字者均未查明，要求照原样传、不得增删。他决定让山门外众人自行推举两名愿意核验的人入殿，亲自听其要求与证据。灰袍长老带回北河城修桥匠人周大石与旧驿道替人送物的陈小满。周大石询问旧档中是否有其失踪妻弟的名字；陈小满带来师父遗下的竹箱，内有一卷扉页写“玄霄宗旧录”的手抄功法，询问功法是否出自玄霄宗、师父名字是否在册。",
+            "actionStatus": "performed",
+            "updates": {
+              "introductions": {
+                "characters": [
+                  {
+                    "id": "character_zhou_dashi",
+                    "name": "周大石",
+                    "summary": "北河城修桥匠人，山门外推举入殿核验者之一；自称妻家兄弟三年前失踪、家人却说此人从未来过北河城，前来查问旧档中是否有其名字。",
+                    "paragraphIds": [
+                      "P16",
+                      "P18"
+                    ]
+                  },
+                  {
+                    "id": "character_chen_xiaoman",
+                    "name": "陈小满",
+                    "summary": "旧驿道方向来的年轻人，替已故师父送物；带来一只竹箱，内有一卷扉页写“玄霄宗旧录”的手抄功法，前来查问功法来源与师父名字是否在册。",
+                    "paragraphIds": [
+                      "P16",
+                      "P20",
+                      "P21"
+                    ]
+                  }
+                ],
+                "items": [
+                  {
+                    "id": "item_bamboo_box",
+                    "name": "竹箱",
+                    "summary": "陈小满师父留下的半旧竹箱，箱角磨得发亮，内有一卷扉页写“玄霄宗旧录”的手抄功法；陈小满将其推至叶青冥面前，尚未打开。",
+                    "paragraphIds": [
+                      "P16",
+                      "P20",
+                      "P21"
+                    ]
+                  },
+                  {
+                    "id": "item_handwritten_manual",
+                    "name": "手抄的功法",
+                    "summary": "陈小满师父遗物，藏于竹箱内，扉页写“玄霄宗旧录”；来源与是否出自玄霄宗尚未核实。",
+                    "paragraphIds": [
+                      "P20"
+                    ]
+                  }
+                ],
+                "locations": []
+              },
+              "stateChanges": [],
+              "outcomes": [],
+              "goalUpdates": [
+                {
+                  "id": "opening-goal-2",
+                  "title": "玄霄宗是否承认旧档案的错误",
+                  "status": "active",
+                  "dependencies": [],
+                  "reason": "叶青冥已向长老公开核验结果并令照原样传，且决定让山门外推举两人入殿核验；宗门对外立场与责任认定仍未最终决定。",
+                  "successor": "",
+                  "paragraphIds": [
+                    "P3",
+                    "P5",
+                    "P8"
+                  ]
+                }
+              ],
+              "threadUpdates": [
+                {
+                  "id": "opening-thread-2",
+                  "title": "玄霄宗是否承认旧档案的错误",
+                  "status": "open",
+                  "priority": "high",
+                  "recoveryWindow": "near",
+                  "reason": "叶青冥已公开核验结果并令照原样传，且允许外人入殿核验，但宗门是否正式承认错误、如何对外交代仍未定。",
+                  "paragraphIds": [
+                    "P3",
+                    "P5",
+                    "P8"
+                  ]
+                }
+              ]
+            },
+            "confirmedStates": [
+              {
+                "entityId": "character_2cf2b083593b",
+                "entityName": "你",
+                "basis": "observed",
+                "attribute": "决定",
+                "value": "让山门外众人自行推举两名愿意核验者入祖师殿，亲自听其要求与证据",
+                "reason": "叶青冥在殿前宣布并令灰袍长老出殿传话",
+                "paragraphIds": [
+                  "P8",
+                  "P12"
+                ]
+              },
+              {
+                "entityId": "character_zhou_dashi",
+                "entityName": "周大石",
+                "basis": "observed",
+                "attribute": "身份与来意",
+                "value": "北河城修桥匠人，查问旧档中是否有失踪妻家兄弟的名字",
+                "reason": "周大石入殿后自述",
+                "paragraphIds": [
+                  "P18"
+                ]
+              },
+              {
+                "entityId": "character_chen_xiaoman",
+                "entityName": "陈小满",
+                "basis": "observed",
+                "attribute": "身份与来意",
+                "value": "替已故师父送物，查问手抄功法是否出自玄霄宗、师父名字是否在册",
+                "reason": "陈小满入殿后自述",
+                "paragraphIds": [
+                  "P20"
+                ]
+              },
+              {
+                "entityId": "item_bamboo_box",
+                "entityName": "竹箱",
+                "basis": "observed",
+                "attribute": "持有人",
+                "value": "陈小满",
+                "reason": "陈小满将竹箱放在脚边并推至叶青冥面前",
+                "paragraphIds": [
+                  "P16",
+                  "P21"
+                ]
+              }
+            ],
+            "followups": [
+              {
+                "id": "followup-64e2afd489ce1d3988e3",
+                "summary": "半行纸片与拓本裁口吻合已由叶青冥当众说明，但原始令文、拓本作者、裁下这半行的人是谁仍未知。",
+                "paragraphIds": [
+                  "P3",
+                  "P5"
+                ]
+              },
+              {
+                "id": "followup-679e5b74420d94e57df0",
+                "summary": "叶青冥已令所见者照原样传、不得增删，并允许山门外推举两人入殿核验；宗门对外正式立场与责任认定仍待定。",
+                "paragraphIds": [
+                  "P5",
+                  "P8"
+                ]
+              },
+              {
+                "id": "followup-zhou-dashi-claim",
+                "summary": "周大石称其妻家兄弟三年前失踪、家人却说此人从未来过北河城，旧档中是否有其名字尚未查证。",
+                "paragraphIds": [
+                  "P18"
+                ]
+              },
+              {
+                "id": "followup-chen-xiaoman-manual",
+                "summary": "陈小满所持手抄功法扉页写“玄霄宗旧录”，其来源、是否出自玄霄宗、其师父名字是否在册均未核实。",
+                "paragraphIds": [
+                  "P20",
+                  "P21"
+                ]
+              }
+            ],
+            "resolvedFollowups": []
+          },
+          "failure": null
+        },
+        "readerOutcome": {
+          "action": {
+            "status": "performed",
+            "summary": "叶青冥回到祖师殿前，向长老们逐项说明旧档房所见：记名簿涂改、执事交接录转抄记录、空白簿半行残字与拓本裁口吻合，并明确拓本来历、原始令文、裁字者均未查明，要求照原样传、不得增删。他决定让山门外众人自行推举两名愿意核验的人入殿，亲自听其要求与证据。灰袍长老带回北河城修桥匠人周大石与旧驿道替人送物的陈小满。周大石询问旧档中是",
+            "evidence": "你穿过廊下那片湿青苔，回到祖师殿前。留在原处的长老们仍站在灯影里，有人抱着袖中的卷册，有人垂手望着你。山门外的声音比先前更密，像潮水拍在石阶上，一波退下去，又一波涌上来。\n\n你在殿门内侧站定，没有立刻开口。殿里静得能听见灯芯里那点没有火苗的光在轻轻颤。\n\n“旧档房里看到的东西，我一件一件说。”你的声音不高，但殿前每个人都听得清，“记名簿丙册，中间偏后一处名字被浓墨涂去，沈砚秋当面认了，原字是陆沉舟。执事交接录第四层，有一行转抄记录，写着奉掌门令涂去此条，末尾盖着执事堂印。空白簿第五层，纸页间夹着半行残字，纸边裁口与第六层拓本上的裁口吻合，断茬对得上，墨色也一致。”\n\n你停了一下，目光扫过每一张脸。\n\n“拓本本身没有署名，没有日期。原始令文不在。拓本是谁拓的、这半行字是谁裁下来的、什么时候裁的，现在都不知道。谁要是问，就照这个说。多一个字，少一个字，我拿他是问。”\n\n灰袍长老袖中的册子攥得更紧了些，嘴唇动了动，终究没出声。年纪最大的那位长老扶着柱子，慢慢点了点头。\n\n“掌门，”灰袍长老还是开了口，声音比方才低了许多，“山门外的人越聚越多。有人从北河城来，有人从旧驿道来，都说要一个说法。您方才说照原样传——可原样传出去，各房记录若对不上，只怕……”\n\n“只怕什么，等听完再说。”你打断他，“现在我要做一件事。山门外的人，让他们自己推举两个愿意进来核验的。不是听我说话，是进来看东西。谁推举"
+          },
+          "actions": [],
+          "clues": [],
+          "relationships": []
+        },
+        "continuityFollowups": [
+          {
+            "id": "followup-85d94526412395823879",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。",
+            "evidence": "还有一处，是残印拓本边角的一行小字，我裁去了半行，只留‘玄霄宗藏’四字。”\n\n殿中有人轻轻吸了口气。你没有打断。\n\n“原件，”沈砚秋继续道，“记名簿那一册还在旧档房西架第三层，涂改处未再动过。天门旧录两卷也在原处，批注划改可见。残印拓本我裁下的半行，当时没有销毁，夹在第五层一册空白簿页之间——但那册空白簿后来是否被人动过，我不知道。”\n\n“你不知道的，就说不知道。”你说。\n\n“是。我不知道那半行如今还在不在。也不知道除我之外，还有谁进过旧档房西架。”她声音很平，“这些是我能说清的。再往前的卷册，我没碰过；再往后的，我也没碰过。”\n\n一位灰袍长老向前半步，手中还攥着一卷未封的册子：“掌门，山门外的人正等着。各房记录若各执一词，递出去的话前后不一，只怕——”\n\n“只怕什么，等听完再说。”你看了他一眼，“现在各自封存。谁手里的记录，谁自己收好。没有我的令，不得交出去，也不得改一个字。”\n\n灰袍长老嘴唇动了动，终究把册子收回袖中，退回了原位。其余几位长老也各自将手中的卷册合上，有的用布囊裹了，有的直接拢进袖里。殿前一时只剩下纸页摩擦的轻响。\n\n沈砚秋仍站在原地，抱着那本《太虚遗录》，没有替你作任何决定，也没有替自己辩解。旧档房西架第三层到第五层、七捆散卷、三处亲笔涂改、一册可能还夹着半行残字的空白簿——这些现在都摆在了你面前。山门外的人还在等一个说法，而说法该怎么给，得由你听完之后自己定。",
+            "entityIds": [],
+            "originParentId": "branch_bcccb329-a9d7-489b-9a3e-29f8ac6b6765",
+            "originNarrativeSha256": "c8a6832ca0639ec8513216ba977239f7d8d43952e18152891bf89fe1653cb561"
+          },
+          {
+            "id": "followup-e521a77e8cb9a5ecc1e2",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。叶青冥以掌门身份当场下令",
+            "evidence": "还有一处，是残印拓本边角的一行小字，我裁去了半行，只留‘玄霄宗藏’四字。”\n\n殿中有人轻轻吸了口气。你没有打断。\n\n“原件，”沈砚秋继续道，“记名簿那一册还在旧档房西架第三层，涂改处未再动过。天门旧录两卷也在原处，批注划改可见。残印拓本我裁下的半行，当时没有销毁，夹在第五层一册空白簿页之间——但那册空白簿后来是否被人动过，我不知道。”\n\n“你不知道的，就说不知道。”你说。\n\n“是。我不知道那半行如今还在不在。也不知道除我之外，还有谁进过旧档房西架。”她声音很平，“这些是我能说清的。再往前的卷册，我没碰过；再往后的，我也没碰过。”\n\n一位灰袍长老向前半步，手中还攥着一卷未封的册子：“掌门，山门外的人正等着。各房记录若各执一词，递出去的话前后不一，只怕——”\n\n“只怕什么，等听完再说。”你看了他一眼，“现在各自封存。谁手里的记录，谁自己收好。没有我的令，不得交出去，也不得改一个字。”\n\n灰袍长老嘴唇动了动，终究把册子收回袖中，退回了原位。其余几位长老也各自将手中的卷册合上，有的用布囊裹了，有的直接拢进袖里。殿前一时只剩下纸页摩擦的轻响。\n\n沈砚秋仍站在原地，抱着那本《太虚遗录》，没有替你作任何决定，也没有替自己辩解。旧档房西架第三层到第五层、七捆散卷、三处亲笔涂改、一册可能还夹着半行残字的空白簿——这些现在都摆在了你面前。山门外的人还在等一个说法，而说法该怎么给，得由你听完之后自己定。",
+            "entityIds": [
+              "character_2cf2b083593b"
+            ],
+            "originParentId": "branch_bcccb329-a9d7-489b-9a3e-29f8ac6b6765",
+            "originNarrativeSha256": "c8a6832ca0639ec8513216ba977239f7d8d43952e18152891bf89fe1653cb561"
+          },
+          {
+            "id": "followup-a13721c77ac3c3365e13",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。依掌门之命作出陈述",
+            "evidence": "还有一处，是残印拓本边角的一行小字，我裁去了半行，只留‘玄霄宗藏’四字。”\n\n殿中有人轻轻吸了口气。你没有打断。\n\n“原件，”沈砚秋继续道，“记名簿那一册还在旧档房西架第三层，涂改处未再动过。天门旧录两卷也在原处，批注划改可见。残印拓本我裁下的半行，当时没有销毁，夹在第五层一册空白簿页之间——但那册空白簿后来是否被人动过，我不知道。”\n\n“你不知道的，就说不知道。”你说。\n\n“是。我不知道那半行如今还在不在。也不知道除我之外，还有谁进过旧档房西架。”她声音很平，“这些是我能说清的。再往前的卷册，我没碰过；再往后的，我也没碰过。”\n\n一位灰袍长老向前半步，手中还攥着一卷未封的册子：“掌门，山门外的人正等着。各房记录若各执一词，递出去的话前后不一，只怕——”\n\n“只怕什么，等听完再说。”你看了他一眼，“现在各自封存。谁手里的记录，谁自己收好。没有我的令，不得交出去，也不得改一个字。”\n\n灰袍长老嘴唇动了动，终究把册子收回袖中，退回了原位。其余几位长老也各自将手中的卷册合上，有的用布囊裹了，有的直接拢进袖里。殿前一时只剩下纸页摩擦的轻响。\n\n沈砚秋仍站在原地，抱着那本《太虚遗录》，没有替你作任何决定，也没有替自己辩解。旧档房西架第三层到第五层、七捆散卷、三处亲笔涂改、一册可能还夹着半行残字的空白簿——这些现在都摆在了你面前。山门外的人还在等一个说法，而说法该怎么给，得由你听完之后自己定。",
+            "entityIds": [
+              "character_shen_yanqiu"
+            ],
+            "originParentId": "branch_bcccb329-a9d7-489b-9a3e-29f8ac6b6765",
+            "originNarrativeSha256": "c8a6832ca0639ec8513216ba977239f7d8d43952e18152891bf89fe1653cb561"
+          },
+          {
+            "id": "followup-8ef2c34aaa8a8658b023",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。依掌门之令行事",
+            "evidence": "还有一处，是残印拓本边角的一行小字，我裁去了半行，只留‘玄霄宗藏’四字。”\n\n殿中有人轻轻吸了口气。你没有打断。\n\n“原件，”沈砚秋继续道，“记名簿那一册还在旧档房西架第三层，涂改处未再动过。天门旧录两卷也在原处，批注划改可见。残印拓本我裁下的半行，当时没有销毁，夹在第五层一册空白簿页之间——但那册空白簿后来是否被人动过，我不知道。”\n\n“你不知道的，就说不知道。”你说。\n\n“是。我不知道那半行如今还在不在。也不知道除我之外，还有谁进过旧档房西架。”她声音很平，“这些是我能说清的。再往前的卷册，我没碰过；再往后的，我也没碰过。”\n\n一位灰袍长老向前半步，手中还攥着一卷未封的册子：“掌门，山门外的人正等着。各房记录若各执一词，递出去的话前后不一，只怕——”\n\n“只怕什么，等听完再说。”你看了他一眼，“现在各自封存。谁手里的记录，谁自己收好。没有我的令，不得交出去，也不得改一个字。”\n\n灰袍长老嘴唇动了动，终究把册子收回袖中，退回了原位。其余几位长老也各自将手中的卷册合上，有的用布囊裹了，有的直接拢进袖里。殿前一时只剩下纸页摩擦的轻响。\n\n沈砚秋仍站在原地，抱着那本《太虚遗录》，没有替你作任何决定，也没有替自己辩解。旧档房西架第三层到第五层、七捆散卷、三处亲笔涂改、一册可能还夹着半行残字的空白簿——这些现在都摆在了你面前。山门外的人还在等一个说法，而说法该怎么给，得由你听完之后自己定。",
+            "entityIds": [
+              "character_elder_present"
+            ],
+            "originParentId": "branch_bcccb329-a9d7-489b-9a3e-29f8ac6b6765",
+            "originNarrativeSha256": "c8a6832ca0639ec8513216ba977239f7d8d43952e18152891bf89fe1653cb561"
+          },
+          {
+            "id": "followup-64e2afd489ce1d3988e3",
+            "kind": "continuity",
+            "status": "open",
+            "summary": "半行纸片与拓本裁口吻合已由叶青冥当众说明，但原始令文、拓本作者、裁下这半行的人是谁仍未知。",
+            "evidence": "“旧档房里看到的东西，我一件一件说。”你的声音不高，但殿前每个人都听得清，“记名簿丙册，中间偏后一处名字被浓墨涂去，沈砚秋当面认了，原字是陆沉舟。执事交接录第四层，有一行转抄记录，写着奉掌门令涂去此条，末尾盖着执事堂印。空白簿第五层，纸页间夹着半行残字，纸边裁口与第六层拓本上的裁口吻合，断茬对得上，墨色也一致。”\n\n你停了一下，目光扫过每一张脸。\n\n“拓本本身没有署名，没有日期。原始令文不在。拓本是谁拓的、这半行字是谁裁下来的、什么时候裁的，现在都不知道。谁要是问，就照这个说。多一个字，少一个字，我拿他是问。”",
+            "entityIds": [],
+            "originParentId": "branch_bcccb329-a9d7-489b-9a3e-29f8ac6b6765",
+            "originNarrativeSha256": "c8a6832ca0639ec8513216ba977239f7d8d43952e18152891bf89fe1653cb561",
+            "lastObservedNarrativeSha256": "a44c6cf46df423f81357a4ae1bef44c1ec683b54325e4d66424344c9d5ef4847"
+          },
+          {
+            "id": "followup-d0252405e02c1e1e4bb9",
+            "kind": "continuity",
+            "status": "open",
+            "summary": "沈砚秋称除她之外是否还有谁进过旧档房西架，她不知道；本回合未查旧档房出入情况。",
+            "evidence": "“都看见了。”你转身，面对跟来的几位长老，“记名簿涂改处、执事交接录的转抄记录、空白簿里的半行纸片、第六层拓本的裁口。能找到的，都在这里。找不到的——原始令文、拓本作者、裁下这半行的人是谁，现在都还不知道。”",
+            "entityIds": [],
+            "originParentId": "branch_bcccb329-a9d7-489b-9a3e-29f8ac6b6765",
+            "originNarrativeSha256": "c8a6832ca0639ec8513216ba977239f7d8d43952e18152891bf89fe1653cb561",
+            "lastObservedNarrativeSha256": "94b8f344b1ba416e33d42897c34b3f52a06421a0c6ffb251327289e5b3abd5aa"
+          },
+          {
+            "id": "followup-679e5b74420d94e57df0",
+            "kind": "continuity",
+            "status": "open",
+            "summary": "叶青冥已令所见者照原样传、不得增删，并允许山门外推举两人入殿核验；宗门对外正式立场与责任认定仍待定。",
+            "evidence": "“拓本本身没有署名，没有日期。原始令文不在。拓本是谁拓的、这半行字是谁裁下来的、什么时候裁的，现在都不知道。谁要是问，就照这个说。多一个字，少一个字，我拿他是问。”\n\n灰袍长老袖中的册子攥得更紧了些，嘴唇动了动，终究没出声。年纪最大的那位长老扶着柱子，慢慢点了点头。\n\n“掌门，”灰袍长老还是开了口，声音比方才低了许多，“山门外的人越聚越多。有人从北河城来，有人从旧驿道来，都说要一个说法。您方才说照原样传——可原样传出去，各房记录若对不上，只怕……”\n\n“只怕什么，等听完再说。”你打断他，“现在我要做一件事。山门外的人，让他们自己推举两个愿意进来核验的。不是听我说话，是进来看东西。谁推举的，谁自己站出来。我亲自听他们要看什么、凭什么看。”",
+            "entityIds": [],
+            "originParentId": "branch_bcccb329-a9d7-489b-9a3e-29f8ac6b6765",
+            "originNarrativeSha256": "c8a6832ca0639ec8513216ba977239f7d8d43952e18152891bf89fe1653cb561",
+            "lastObservedNarrativeSha256": "a44c6cf46df423f81357a4ae1bef44c1ec683b54325e4d66424344c9d5ef4847"
+          },
+          {
+            "id": "followup-86465944203928527fd4",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。character_2cf2b083593b",
+            "evidence": "是真的。但这半行字是谁写的、什么时候写的、为什么被裁下来，拓本本身没有署名，也没有日期。你把木匣合上，放回第六层原位，又把空白簿放回第五层。\n\n“都看见了。”你转身，面对跟来的几位长老，“记名簿涂改处、执事交接录的转抄记录、空白簿里的半行纸片、第六层拓本的裁口。能找到的，都在这里。找不到的——原始令文、拓本作者、裁下这半行的人是谁，现在都还不知道。”\n\n灰袍长老张了张嘴：“那山门外——”\n\n“山门外等的是一句话，不是半句话。”你说，“今天看到的这些，谁要传出去，就照原样传：涂改是真的，转抄是真的，半行字是真的，其余不知道。谁要是添一个字、减一个字，我拿他是问。”\n\n灰袍长老把袖中的册子又攥紧了些，终究点头。年纪最大的那位长老扶着架子，慢慢坐到案边的矮凳上，喘着气说：“掌门，老朽活了这些年，头一回见旧档房的东西被这样一件件摆出来。你做得对。”\n\n沈砚秋站在灯侧，始终没有替你说话，也没有替自己辩解。她的手指垂在身侧，指尖沾了一点灯灰。\n\n你把小灯从木托上拿起来，照着几位长老的脸一一扫过，然后放回原处。\n\n“回去。”你说，“殿前的人还等着。但今天在这里看到的，先记在各人心里，不许先递出去。”\n\n你走出旧档房，沈砚秋跟在最后，回身把门锁上。铜钥转动的声音在偏院里响了一下，又归于安静。廊下青苔还是湿的，天色比来时暗了些。祖师殿前，留在原处的长老们仍站着，山门外的声音隐约传进来，比先前更密了。",
+            "entityIds": [
+              "character_2cf2b083593b"
+            ],
+            "originParentId": "branch_398c1ae4-9281-43b8-9c9a-d9a5a778948b",
+            "originNarrativeSha256": "94b8f344b1ba416e33d42897c34b3f52a06421a0c6ffb251327289e5b3abd5aa"
+          },
+          {
+            "id": "followup-5cb92e0994b657c080b2",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。character_shen_yanqiu",
+            "evidence": "是真的。但这半行字是谁写的、什么时候写的、为什么被裁下来，拓本本身没有署名，也没有日期。你把木匣合上，放回第六层原位，又把空白簿放回第五层。\n\n“都看见了。”你转身，面对跟来的几位长老，“记名簿涂改处、执事交接录的转抄记录、空白簿里的半行纸片、第六层拓本的裁口。能找到的，都在这里。找不到的——原始令文、拓本作者、裁下这半行的人是谁，现在都还不知道。”\n\n灰袍长老张了张嘴：“那山门外——”\n\n“山门外等的是一句话，不是半句话。”你说，“今天看到的这些，谁要传出去，就照原样传：涂改是真的，转抄是真的，半行字是真的，其余不知道。谁要是添一个字、减一个字，我拿他是问。”\n\n灰袍长老把袖中的册子又攥紧了些，终究点头。年纪最大的那位长老扶着架子，慢慢坐到案边的矮凳上，喘着气说：“掌门，老朽活了这些年，头一回见旧档房的东西被这样一件件摆出来。你做得对。”\n\n沈砚秋站在灯侧，始终没有替你说话，也没有替自己辩解。她的手指垂在身侧，指尖沾了一点灯灰。\n\n你把小灯从木托上拿起来，照着几位长老的脸一一扫过，然后放回原处。\n\n“回去。”你说，“殿前的人还等着。但今天在这里看到的，先记在各人心里，不许先递出去。”\n\n你走出旧档房，沈砚秋跟在最后，回身把门锁上。铜钥转动的声音在偏院里响了一下，又归于安静。廊下青苔还是湿的，天色比来时暗了些。祖师殿前，留在原处的长老们仍站着，山门外的声音隐约传进来，比先前更密了。",
+            "entityIds": [
+              "character_shen_yanqiu"
+            ],
+            "originParentId": "branch_398c1ae4-9281-43b8-9c9a-d9a5a778948b",
+            "originNarrativeSha256": "94b8f344b1ba416e33d42897c34b3f52a06421a0c6ffb251327289e5b3abd5aa"
+          },
+          {
+            "id": "followup-294d07642336f522faf3",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。叶青冥当面抽出并翻阅，沈砚秋承认涂改",
+            "evidence": "是真的。但这半行字是谁写的、什么时候写的、为什么被裁下来，拓本本身没有署名，也没有日期。你把木匣合上，放回第六层原位，又把空白簿放回第五层。\n\n“都看见了。”你转身，面对跟来的几位长老，“记名簿涂改处、执事交接录的转抄记录、空白簿里的半行纸片、第六层拓本的裁口。能找到的，都在这里。找不到的——原始令文、拓本作者、裁下这半行的人是谁，现在都还不知道。”\n\n灰袍长老张了张嘴：“那山门外——”\n\n“山门外等的是一句话，不是半句话。”你说，“今天看到的这些，谁要传出去，就照原样传：涂改是真的，转抄是真的，半行字是真的，其余不知道。谁要是添一个字、减一个字，我拿他是问。”\n\n灰袍长老把袖中的册子又攥紧了些，终究点头。年纪最大的那位长老扶着架子，慢慢坐到案边的矮凳上，喘着气说：“掌门，老朽活了这些年，头一回见旧档房的东西被这样一件件摆出来。你做得对。”\n\n沈砚秋站在灯侧，始终没有替你说话，也没有替自己辩解。她的手指垂在身侧，指尖沾了一点灯灰。\n\n你把小灯从木托上拿起来，照着几位长老的脸一一扫过，然后放回原处。\n\n“回去。”你说，“殿前的人还等着。但今天在这里看到的，先记在各人心里，不许先递出去。”\n\n你走出旧档房，沈砚秋跟在最后，回身把门锁上。铜钥转动的声音在偏院里响了一下，又归于安静。廊下青苔还是湿的，天色比来时暗了些。祖师殿前，留在原处的长老们仍站着，山门外的声音隐约传进来，比先前更密了。",
+            "entityIds": [
+              "item_registry_book_bing"
+            ],
+            "originParentId": "branch_398c1ae4-9281-43b8-9c9a-d9a5a778948b",
+            "originNarrativeSha256": "94b8f344b1ba416e33d42897c34b3f52a06421a0c6ffb251327289e5b3abd5aa"
+          },
+          {
+            "id": "followup-13f1f2aefd731494dd0a",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。character_zhou_dashi",
+            "evidence": "后跟着两个人。\n\n走在前面的那个，年纪约莫四十上下，穿一件洗得发白的靛蓝短褐，肩上搭着一条旧布巾，像是赶了很远的路。他进门时先看了一眼殿中的灯，又看了一眼你，没有行礼，只是站定。后面那个年轻些，二十出头，背着一只半旧的竹箱，箱角磨得发亮，进门后把竹箱放在脚边，双手垂在身侧。\n\n“掌门，”灰袍长老侧身让开，“山门外推举了这两位。这位是北河城来的周姓匠人，这位是旧驿道那边过来的，姓陈，说是替人送东西的。”\n\n靛蓝短褐的男人开口了，声音有些哑：“我叫周大石，北河城修桥的。我媳妇的娘家兄弟，三年前没了。家里人都说他从没来过北河城，可我明明记得他来过，还帮我抬过桥板。我来，是想问一句——玄霄宗的旧档里，有没有他的名字。”\n\n你看着他。他的手掌粗大，指缝里嵌着洗不净的泥灰，说话时眼睛一直盯着你，没有躲。\n\n背竹箱的年轻人接着说：“我叫陈小满。这箱子是我师父留下的，他去年冬天走的。箱子里有一卷手抄的功法，扉页上写着‘玄霄宗旧录’。我师父一辈子没提过玄霄宗，可这卷东西是他最要紧的。我想知道，这功法是不是从贵宗流出去的，我师父的名字，在不在贵宗的册子上。”\n\n他说完，把竹箱往前推了半尺，没有打开，只是推到你面前。\n\n殿里的长老们互相看了看。灰袍长老站在门边，没有插话。\n\n你低头看了一眼那只竹箱，又抬起头，看着面前这两个人。山门外的声音还在，但此刻殿内只剩下灯芯那点无声的颤，和两个人等着你开口的呼吸。",
+            "entityIds": [
+              "character_zhou_dashi"
+            ],
+            "originParentId": "branch_d8e5ec8e-df6d-4d92-bdb7-732e83c51a13",
+            "originNarrativeSha256": "a44c6cf46df423f81357a4ae1bef44c1ec683b54325e4d66424344c9d5ef4847"
+          },
+          {
+            "id": "followup-b0dd714d726fe83c0991",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。character_chen_xiaoman",
+            "evidence": "后跟着两个人。\n\n走在前面的那个，年纪约莫四十上下，穿一件洗得发白的靛蓝短褐，肩上搭着一条旧布巾，像是赶了很远的路。他进门时先看了一眼殿中的灯，又看了一眼你，没有行礼，只是站定。后面那个年轻些，二十出头，背着一只半旧的竹箱，箱角磨得发亮，进门后把竹箱放在脚边，双手垂在身侧。\n\n“掌门，”灰袍长老侧身让开，“山门外推举了这两位。这位是北河城来的周姓匠人，这位是旧驿道那边过来的，姓陈，说是替人送东西的。”\n\n靛蓝短褐的男人开口了，声音有些哑：“我叫周大石，北河城修桥的。我媳妇的娘家兄弟，三年前没了。家里人都说他从没来过北河城，可我明明记得他来过，还帮我抬过桥板。我来，是想问一句——玄霄宗的旧档里，有没有他的名字。”\n\n你看着他。他的手掌粗大，指缝里嵌着洗不净的泥灰，说话时眼睛一直盯着你，没有躲。\n\n背竹箱的年轻人接着说：“我叫陈小满。这箱子是我师父留下的，他去年冬天走的。箱子里有一卷手抄的功法，扉页上写着‘玄霄宗旧录’。我师父一辈子没提过玄霄宗，可这卷东西是他最要紧的。我想知道，这功法是不是从贵宗流出去的，我师父的名字，在不在贵宗的册子上。”\n\n他说完，把竹箱往前推了半尺，没有打开，只是推到你面前。\n\n殿里的长老们互相看了看。灰袍长老站在门边，没有插话。\n\n你低头看了一眼那只竹箱，又抬起头，看着面前这两个人。山门外的声音还在，但此刻殿内只剩下灯芯那点无声的颤，和两个人等着你开口的呼吸。",
+            "entityIds": [
+              "character_chen_xiaoman"
+            ],
+            "originParentId": "branch_d8e5ec8e-df6d-4d92-bdb7-732e83c51a13",
+            "originNarrativeSha256": "a44c6cf46df423f81357a4ae1bef44c1ec683b54325e4d66424344c9d5ef4847"
+          },
+          {
+            "id": "followup-d5d5690b4ddbdb28d8b6",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。叶青冥在殿前宣布并令灰袍长老出殿传话",
+            "evidence": "后跟着两个人。\n\n走在前面的那个，年纪约莫四十上下，穿一件洗得发白的靛蓝短褐，肩上搭着一条旧布巾，像是赶了很远的路。他进门时先看了一眼殿中的灯，又看了一眼你，没有行礼，只是站定。后面那个年轻些，二十出头，背着一只半旧的竹箱，箱角磨得发亮，进门后把竹箱放在脚边，双手垂在身侧。\n\n“掌门，”灰袍长老侧身让开，“山门外推举了这两位。这位是北河城来的周姓匠人，这位是旧驿道那边过来的，姓陈，说是替人送东西的。”\n\n靛蓝短褐的男人开口了，声音有些哑：“我叫周大石，北河城修桥的。我媳妇的娘家兄弟，三年前没了。家里人都说他从没来过北河城，可我明明记得他来过，还帮我抬过桥板。我来，是想问一句——玄霄宗的旧档里，有没有他的名字。”\n\n你看着他。他的手掌粗大，指缝里嵌着洗不净的泥灰，说话时眼睛一直盯着你，没有躲。\n\n背竹箱的年轻人接着说：“我叫陈小满。这箱子是我师父留下的，他去年冬天走的。箱子里有一卷手抄的功法，扉页上写着‘玄霄宗旧录’。我师父一辈子没提过玄霄宗，可这卷东西是他最要紧的。我想知道，这功法是不是从贵宗流出去的，我师父的名字，在不在贵宗的册子上。”\n\n他说完，把竹箱往前推了半尺，没有打开，只是推到你面前。\n\n殿里的长老们互相看了看。灰袍长老站在门边，没有插话。\n\n你低头看了一眼那只竹箱，又抬起头，看着面前这两个人。山门外的声音还在，但此刻殿内只剩下灯芯那点无声的颤，和两个人等着你开口的呼吸。",
+            "entityIds": [
+              "character_2cf2b083593b"
+            ],
+            "originParentId": "branch_d8e5ec8e-df6d-4d92-bdb7-732e83c51a13",
+            "originNarrativeSha256": "a44c6cf46df423f81357a4ae1bef44c1ec683b54325e4d66424344c9d5ef4847"
+          },
+          {
+            "id": "followup-5c559cb9ed598b2699d9",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。陈小满入殿后自述",
+            "evidence": "后跟着两个人。\n\n走在前面的那个，年纪约莫四十上下，穿一件洗得发白的靛蓝短褐，肩上搭着一条旧布巾，像是赶了很远的路。他进门时先看了一眼殿中的灯，又看了一眼你，没有行礼，只是站定。后面那个年轻些，二十出头，背着一只半旧的竹箱，箱角磨得发亮，进门后把竹箱放在脚边，双手垂在身侧。\n\n“掌门，”灰袍长老侧身让开，“山门外推举了这两位。这位是北河城来的周姓匠人，这位是旧驿道那边过来的，姓陈，说是替人送东西的。”\n\n靛蓝短褐的男人开口了，声音有些哑：“我叫周大石，北河城修桥的。我媳妇的娘家兄弟，三年前没了。家里人都说他从没来过北河城，可我明明记得他来过，还帮我抬过桥板。我来，是想问一句——玄霄宗的旧档里，有没有他的名字。”\n\n你看着他。他的手掌粗大，指缝里嵌着洗不净的泥灰，说话时眼睛一直盯着你，没有躲。\n\n背竹箱的年轻人接着说：“我叫陈小满。这箱子是我师父留下的，他去年冬天走的。箱子里有一卷手抄的功法，扉页上写着‘玄霄宗旧录’。我师父一辈子没提过玄霄宗，可这卷东西是他最要紧的。我想知道，这功法是不是从贵宗流出去的，我师父的名字，在不在贵宗的册子上。”\n\n他说完，把竹箱往前推了半尺，没有打开，只是推到你面前。\n\n殿里的长老们互相看了看。灰袍长老站在门边，没有插话。\n\n你低头看了一眼那只竹箱，又抬起头，看着面前这两个人。山门外的声音还在，但此刻殿内只剩下灯芯那点无声的颤，和两个人等着你开口的呼吸。",
+            "entityIds": [
+              "character_chen_xiaoman"
+            ],
+            "originParentId": "branch_d8e5ec8e-df6d-4d92-bdb7-732e83c51a13",
+            "originNarrativeSha256": "a44c6cf46df423f81357a4ae1bef44c1ec683b54325e4d66424344c9d5ef4847"
+          },
+          {
+            "id": "followup-a28f0f947c31660491c4",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。陈小满将竹箱放在脚边并推至叶青冥面前",
+            "evidence": "后跟着两个人。\n\n走在前面的那个，年纪约莫四十上下，穿一件洗得发白的靛蓝短褐，肩上搭着一条旧布巾，像是赶了很远的路。他进门时先看了一眼殿中的灯，又看了一眼你，没有行礼，只是站定。后面那个年轻些，二十出头，背着一只半旧的竹箱，箱角磨得发亮，进门后把竹箱放在脚边，双手垂在身侧。\n\n“掌门，”灰袍长老侧身让开，“山门外推举了这两位。这位是北河城来的周姓匠人，这位是旧驿道那边过来的，姓陈，说是替人送东西的。”\n\n靛蓝短褐的男人开口了，声音有些哑：“我叫周大石，北河城修桥的。我媳妇的娘家兄弟，三年前没了。家里人都说他从没来过北河城，可我明明记得他来过，还帮我抬过桥板。我来，是想问一句——玄霄宗的旧档里，有没有他的名字。”\n\n你看着他。他的手掌粗大，指缝里嵌着洗不净的泥灰，说话时眼睛一直盯着你，没有躲。\n\n背竹箱的年轻人接着说：“我叫陈小满。这箱子是我师父留下的，他去年冬天走的。箱子里有一卷手抄的功法，扉页上写着‘玄霄宗旧录’。我师父一辈子没提过玄霄宗，可这卷东西是他最要紧的。我想知道，这功法是不是从贵宗流出去的，我师父的名字，在不在贵宗的册子上。”\n\n他说完，把竹箱往前推了半尺，没有打开，只是推到你面前。\n\n殿里的长老们互相看了看。灰袍长老站在门边，没有插话。\n\n你低头看了一眼那只竹箱，又抬起头，看着面前这两个人。山门外的声音还在，但此刻殿内只剩下灯芯那点无声的颤，和两个人等着你开口的呼吸。",
+            "entityIds": [
+              "item_bamboo_box"
+            ],
+            "originParentId": "branch_d8e5ec8e-df6d-4d92-bdb7-732e83c51a13",
+            "originNarrativeSha256": "a44c6cf46df423f81357a4ae1bef44c1ec683b54325e4d66424344c9d5ef4847"
+          }
+        ],
+        "observationDiagnostics": [
+          {
+            "item": {
+              "entityId": "character_zhou_dashi",
+              "entityName": "周大石",
+              "basis": "observed",
+              "paragraphIds": [
+                "P16",
+                "P18"
+              ],
+              "evidenceQuote": "走在前面的那个，年纪约莫四十上下，穿一件洗得发白的靛蓝短褐，肩上搭着一条旧布巾，像是赶了很远的路。"
+            },
+            "reason": "实际称呼没有绑定登记身份，不能补全近似姓名"
+          },
+          {
+            "item": {
+              "entityId": "character_chen_xiaoman",
+              "entityName": "陈小满",
+              "basis": "observed",
+              "paragraphIds": [
+                "P16",
+                "P20"
+              ],
+              "evidenceQuote": "后面那个年轻些，二十出头，背着一只半旧的竹箱，箱角磨得发亮，进门后把竹箱放在脚边，双手垂在身侧。"
+            },
+            "reason": "实际称呼没有绑定登记身份，不能补全近似姓名"
+          },
+          {
+            "item": {
+              "entityId": "character_2cf2b083593b",
+              "entityName": "你",
+              "basis": "observed",
+              "attribute": "决定",
+              "value": "让山门外众人自行推举两名愿意核验者入祖师殿，亲自听其要求与证据",
+              "reason": "叶青冥在殿前宣布并令灰袍长老出殿传话",
+              "paragraphIds": [
+                "P8",
+                "P12"
+              ]
+            },
+            "reason": "状态依据含转述、设想或未核实信息，保留待澄清"
+          },
+          {
+            "item": {
+              "entityId": "character_chen_xiaoman",
+              "entityName": "陈小满",
+              "basis": "observed",
+              "attribute": "身份与来意",
+              "value": "替已故师父送物，查问手抄功法是否出自玄霄宗、师父名字是否在册",
+              "reason": "陈小满入殿后自述",
+              "paragraphIds": [
+                "P20"
+              ]
+            },
+            "reason": "状态依据含转述、设想或未核实信息，保留待澄清"
+          },
+          {
+            "item": {
+              "entityId": "item_bamboo_box",
+              "entityName": "竹箱",
+              "basis": "observed",
+              "attribute": "持有人",
+              "value": "陈小满",
+              "reason": "陈小满将竹箱放在脚边并推至叶青冥面前",
+              "paragraphIds": [
+                "P16",
+                "P21"
+              ]
+            },
+            "reason": "状态依据含转述、设想或未核实信息，保留待澄清"
+          },
+          {
+            "reason": "待澄清事项更新须引用已有ID"
+          },
+          {
+            "reason": "待澄清事项更新须引用已有ID"
+          }
+        ],
+        "readingProfile": {
+          "level": "unplanned",
+          "targetCjk": null,
+          "hardMinimum": false,
+          "minCjk": 80,
+          "maxCjk": 1500,
+          "lengthPolicy": "final_visible_prose_dynamic_80_1500",
+          "actualCjk": 1310,
+          "expansionApplied": false
+        },
+        "proseQuality": {
+          "status": "not_automatically_reviewed",
+          "reviewer": "developer"
+        },
+        "storyJourney": {
+          "version": "story-journey/1",
+          "budget": {
+            "targetMinutes": 150,
+            "typicalMinutes": [
+              120,
+              180
+            ],
+            "targetCjk": 30000,
+            "typicalCjk": [
+              25000,
+              40000
+            ],
+            "targetTurns": 45,
+            "typicalTurns": [
+              40,
+              60
+            ]
+          },
+          "progress": {
+            "consumedCjk": 4210,
+            "completedTurns": 3,
+            "remainingCjk": 25790,
+            "remainingTurns": 42,
+            "suggestedPhase": "establish",
+            "pacing": "developing",
+            "plotCompletion": null
+          },
+          "plan": {
+            "premise": "叶青冥身为玄霄宗掌门，在祖师殿前面对被删去的旧档案与山门外要求说法的众人。他必须在宗门秩序、个人责任与真相公开之间作出选择，决定玄霄宗是否承认自己曾参与错误，以及如何带着断剑与残印继续走下去。",
+            "centralQuestion": "当宗门的秩序建立在被删去的名字之上，叶青冥会选择维护统一口径，还是让真相以不可控的方式走出山门？",
+            "revisionReason": "首次规划，基于叶青冥的掌门身份、断剑、祖师殿场景及沈砚秋删改旧记录的核心冲突。",
+            "phases": [
+              {
+                "id": "establish",
+                "title": "被删去的名字",
+                "purpose": "叶青冥在祖师殿前追问沈砚秋删改范围与现存原件，面对长老要求统一档案的压力，初步决定是否保留分散记录。",
+                "payoff": "建立掌门与执事、长老之间的信任与张力，为后续档案公开与责任认定埋下依据。",
+                "targetEndCjk": 4500
+              },
+              {
+                "id": "develop",
+                "title": "山门外的追问",
+                "purpose": "山门外众人要求交代残印、天门记录与陆照临之名；叶青冥需在长老、沈砚秋与外部压力间选择公开多少、由谁承担。",
+                "payoff": "暴露宗门旧档案与外界记忆的冲突，为关键抉择积累代价与盟友。",
+                "targetEndCjk": 10500
+              },
+              {
+                "id": "turn",
+                "title": "断剑与残印",
+                "purpose": "叶青冥发现断剑或残印与旧档案存在未被承认的联系，必须决定是否以此推翻宗门既有说法，并面对由此引发的分裂。",
+                "payoff": "将个人信物与宗门历史绑定，迫使叶青冥在传承与真相之间作出不可逆选择。",
+                "targetEndCjk": 18000
+              },
+              {
+                "id": "resolve",
+                "title": "谁的名字被留下",
+                "purpose": "叶青冥兑现对沈砚秋、长老与山门外众人的交代，处理公开档案后的秩序冲击与责任归属。",
+                "payoff": "回收删改记录、陆沉舟责任与宗门承认错误的核心伏笔，形成新的宗门立场。",
+                "targetEndCjk": 25000
+              },
+              {
+                "id": "conclude",
+                "title": "灯火之外",
+                "purpose": "叶青冥面对选择后的余波：宗门秩序重塑、个人代价与山门外的回应，决定玄霄宗以何种面貌继续存在。",
+                "payoff": "交代主要人物去向与宗门新局，留下与断剑、残印相称的余韵。",
+                "targetEndCjk": 30000
+              }
+            ]
+          },
+          "planStatus": "provisional",
+          "authority": "future_possibilities_not_facts",
+          "ending": null
+        },
+        "naturalEnding": false,
+        "selectedDirectionId": "direction_free_297995a7c3d3",
+        "selectedDirection": {
+          "id": "direction_free_297995a7c3d3",
+          "title": "自定行动：我回到殿前，向长老们说明",
+          "summary": "我回到殿前，向长老们说明亲眼看见的涂改、转抄、裁口与残字，也明确说明拓本来历和原始令文尚未查明。随后请山门外推举两名愿意核验的人入殿，我亲自听他们的要求和证据，不再让他们只等一句统一口径。",
+          "statePatch": {
+            "freeTextProgress": 3
+          },
+          "isFreeText": true
+        },
+        "playerDirection": "我回到殿前，向长老们说明亲眼看见的涂改、转抄、裁口与残字，也明确说明拓本来历和原始令文尚未查明。随后请山门外推举两名愿意核验的人入殿，我亲自听他们的要求和证据，不再让他们只等一句统一口径。",
+        "requestId": "playthrough-041a09bf1f234658bdb4f0c422b6ccb0",
+        "contextId": "ctx-7f35884f5208fc7c",
+        "contextMemory": {
+          "schemaVersion": "committed-outcome-memory/2",
+          "package": {
+            "id": "taixu-relics-part1",
+            "version": "0.1.3",
+            "moduleIndexSha256": "0894f7eebc6fa34b23310839da0eb3cd7b15d2784d7e559aee3f18af9aa171c2"
+          },
+          "originBranchId": "branch_a369694e-69c7-4d51-81f8-d48632459318",
+          "parentBranchId": "branch_d8e5ec8e-df6d-4d92-bdb7-732e83c51a13",
+          "sourceNodeRef": "node_source_continuity",
+          "narrativeSha256": "c060f29aaa56b9ad14816dbec07ce2276b5b9b586485bf4fd035e55198c39294",
+          "intentSha256": "e88a4262b8fa13c66661321c3f9e752ee2d0d2968e01b3b32506ea4716c21eb1",
+          "reviewSha256": "b85e1860f57dcf2d2ecab81a9d30c51c09d0f20ebb0cab969efa50c68dc23aba",
+          "records": [
+            {
+              "domain": "goal",
+              "entityId": "opening-goal-2",
+              "stateSha256": "7d6d37caa4162c3e2c599a91b9433abe102430cbeb9c72409b3c87db50d81727",
+              "memory": {
+                "memoryId": "memory-d7ef2fceaa5f4fe35fe3fb25",
+                "kind": "event",
+                "sourceIds": [
+                  "memory:goal:branch_a369694e-69c7-4d51-81f8-d48632459318:opening-goal-2"
+                ],
+                "branchId": "branch_a369694e-69c7-4d51-81f8-d48632459318",
+                "visibility": "player_known",
+                "authority": "confirmed_evidence",
+                "validity": "confirmed",
+                "status": "confirmed",
+                "sequence": 2,
+                "content": "目标「玄霄宗是否承认旧档案的错误」：进行中。"
+              }
+            }
+          ]
+        },
+        "readerChoices": [
+          {
+            "id": "reader-96af3e134967009b",
+            "title": "先问周大石要名字",
+            "summary": "我让周大石先把他媳妇娘家兄弟的名字、籍贯、大致年纪和失踪年月说清楚，再问他凭什么认定那人来过北河城、帮他抬过桥板。我不承诺查得到，只记下他说的，告诉他我会拿这个名字去对旧档。",
+            "evidence": [
+              "靛蓝短褐的男人开口了，声音有些哑：“我叫周大石，北河城修桥的。我媳妇的娘家兄弟，三年前没了。家里人都说他从没来过北河城，可我明明记得他来过，还帮我抬过桥板。我来，是想问一句——玄霄宗的旧档里，有没有他的名字。”",
+              "你看着他。他的手掌粗大，指缝里嵌着洗不净的泥灰，说话时眼睛一直盯着你，没有躲。",
+              "你低头看了一眼那只竹箱，又抬起头，看着面前这两个人。山门外的声音还在，但此刻殿内只剩下灯芯那点无声的颤，和两个人等着你开口的呼吸。"
+            ],
+            "dependencies": {
+              "version": "reader-choice-dependencies/3",
+              "contextDigest": "1999fac36f96689049f497cbe12c3bf1473b4cdffea0b6f3fe29d28663c73f77",
+              "paragraphIds": [
+                "P18",
+                "P19",
+                "P23"
+              ],
+              "interactWith": [
+                "character_gray_robe_elder"
+              ],
+              "mentionOnly": []
+            }
+          },
+          {
+            "id": "reader-a11f42b45b113f50",
+            "title": "让陈小满开箱验功法",
+            "summary": "我让陈小满把竹箱打开，把那卷手抄功法取出来放在灯下。我先看扉页题字、纸色和装订，再问他师父的姓名、籍贯、去世年月，以及这卷东西是何时、从何处到他师父手里的。我不当场判定来历，只把所见和所闻记下。",
+            "evidence": [
+              "背竹箱的年轻人接着说：“我叫陈小满。这箱子是我师父留下的，他去年冬天走的。箱子里有一卷手抄的功法，扉页上写着‘玄霄宗旧录’。我师父一辈子没提过玄霄宗，可这卷东西是他最要紧的。我想知道，这功法是不是从贵宗流出去的，我师父的名字，在不在贵宗的册子上。”",
+              "他说完，把竹箱往前推了半尺，没有打开，只是推到你面前。",
+              "你低头看了一眼那只竹箱，又抬起头，看着面前这两个人。山门外的声音还在，但此刻殿内只剩下灯芯那点无声的颤，和两个人等着你开口的呼吸。"
+            ],
+            "dependencies": {
+              "version": "reader-choice-dependencies/3",
+              "contextDigest": "1999fac36f96689049f497cbe12c3bf1473b4cdffea0b6f3fe29d28663c73f77",
+              "paragraphIds": [
+                "P20",
+                "P21",
+                "P23"
+              ],
+              "interactWith": [
+                "character_gray_robe_elder"
+              ],
+              "mentionOnly": [],
+              "useItems": [
+                "item_bamboo_box",
+                "item_handwritten_manual"
+              ]
+            }
+          },
+          {
+            "id": "reader-4b42c0ecc8fdda4e",
+            "title": "当众定下核验规矩",
+            "summary": "我当着两位来人和殿中长老的面，把核验的规矩说定：只查与二人所问直接相关的旧档条目，查到什么说什么，不增删；查不到的也照实说查不到。说完我问灰袍长老和在场长老，这条规矩有没有人当场反对。",
+            "evidence": [
+              "“拓本本身没有署名，没有日期。原始令文不在。拓本是谁拓的、这半行字是谁裁下来的、什么时候裁的，现在都不知道。谁要是问，就照这个说。多一个字，少一个字，我拿他是问。”",
+              "“只怕什么，等听完再说。”你打断他，“现在我要做一件事。山门外的人，让他们自己推举两个愿意进来核验的。不是听我说话，是进来看东西。谁推举的，谁自己站出来。我亲自听他们要看什么、凭什么看。”",
+              "“掌门，”一位站在侧边的长老迟疑道，“让外人入祖师殿核验宗门旧档，这……没有先例。”",
+              "“先例是给守规矩的人用的。”你说，“现在规矩本身被人动过。让他们进来。”",
+              "殿里的长老们互相看了看。灰袍长老站在门边，没有插话。"
+            ],
+            "dependencies": {
+              "version": "reader-choice-dependencies/3",
+              "contextDigest": "1999fac36f96689049f497cbe12c3bf1473b4cdffea0b6f3fe29d28663c73f77",
+              "paragraphIds": [
+                "P5",
+                "P8",
+                "P10",
+                "P11",
+                "P22"
+              ],
+              "interactWith": [
+                "character_gray_robe_elder",
+                "character_oldest_elder",
+                "character_shen_yanqiu"
+              ],
+              "mentionOnly": []
+            }
+          }
+        ],
+        "turnInput": {
+          "text": "我回到殿前，向长老们说明亲眼看见的涂改、转抄、裁口与残字，也明确说明拓本来历和原始令文尚未查明。随后请山门外推举两名愿意核验的人入殿，我亲自听他们的要求和证据，不再让他们只等一句统一口径。"
+        },
+        "preparedTurnKey": "51c1d7a1831cc0b3f2461fdfb857e7c5ee8dfb2d9d63faa57f647f8c717ae029",
+        "preparedAttemptId": "274d359f0f3d4e458ad9044c890c2c9c",
+        "routeOutline": {
+          "version": "route-outline/3",
+          "branch_id": "branch_a369694e-69c7-4d51-81f8-d48632459318",
+          "root_branch_id": "branch_bcccb329-a9d7-489b-9a3e-29f8ac6b6765",
+          "binding_digest": "41f76376a5cfc209f175cc5ea7076cfb52b81fb5c866eda4ba8cde67adca6d96",
+          "structure": {
+            "volume": null,
+            "arc": "arc_source_chapter_050",
+            "beat": "beat_chapter_335",
+            "source_progress": "chapter_335"
+          },
+          "goals": [
+            {
+              "id": "opening-goal-1",
+              "title": "沈砚秋删去陆沉舟记录的责任",
+              "status": "active",
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_d8e5ec8e-df6d-4d92-bdb7-732e83c51a13",
+                "ref": "opening-goal-1",
+                "quote": "“是。”沈砚秋答，“我改的。原字是陆沉舟。当时上面传话，说这个名字不能留在记名簿上。”\n\n灰袍长老凑近看了一眼，眉头拧起来：“传话的是谁？”\n\n“当时是前任掌门的令，经执事堂转到我手里。”沈砚秋说，“执事堂的记录在第四层，那卷《执事交接录》里应当有这一条。但我没有亲眼见过原始令文，只见过转抄。”\n\n你没有接话，把记名簿合上，放回第三层原位，又去抽第四层那卷《执事交接录》。这卷比记名簿厚，封皮上沾着灰。你翻开，一页页找。沈砚秋说的那条记录在靠后位置，字迹是另一人的，写着某年某月，奉掌门令，记名簿丙册陆沉舟一条着即涂去，经办人沈砚秋。记录末尾有执事堂的印，印色已经发暗。\n\n“有这条。”你说，把册子转向几位长老。\n\n灰袍长老看完，嘴唇动了动，没说出话。年纪最大的那位长老扶着架子，慢慢点头：“印是真的。执事堂的印，我认得。”\n\n你把《执事交接录》放回原处，转向第五层。\n\n第五层比下面几层空，只零星放着几册簿子，其中一册封皮空白，没有签条。沈砚秋的目光落在那册上，没有动。你把它抽出来，比记名簿薄，纸页发白，像是从未用过。\n\n你翻开。\n\n第一页空白。第二页空白。第三页——\n\n纸页之间夹着一小条纸片，边缘裁得整齐，只有半行小字，墨色偏淡，像是从某处拓本上裁下来的。你把纸片拈起来，凑到灯下。半行字是：“……照临，非陆氏所出，天门——”\n\n后面断了。\n\n你把纸片放回原页之间，合上空白簿，没有立刻说话。灰袍长老探过头来，看清那半行字，脸色变了：“陆照临？这说的是——”\n\n“先别急着认。”你说，“这半行是从哪里裁下来的，拓本原件在不在，都还没核。沈砚秋，拓本原件呢？”\n\n“在第六层，和残印拓本放在一处。”沈砚秋说，“但我上次动过之后，没有再查过第六层。”\n\n你把空白簿搁在案上，走向第六层。第六层比第五层更暗，小灯的光几乎照不到。你伸手摸索，摸到一只扁木匣，抽出来，打开。匣中放着几页拓本，纸色深浅不一。你逐页翻看，翻到第三页时，看见一处裁口——纸页右侧缺了窄窄一条，断口和空白簿里那半行纸片的边缘对得上。\n\n你把木匣端到灯下，和空白簿并排放着。几位长老围过来，没人说话。裁口和纸片并在一处，断茬吻合，半行字接上了前面拓本末尾的几个字，连起来读，是“……陆照临，非陆氏所出，天门所录，另册存之”。\n\n灰袍长老倒吸一口气。\n\n你盯着那两样东西看了很久。断茬吻合是真的，字迹墨色一致也是真的。但这半行字是谁写的、什么时候写的、为什么被裁下来，拓本本身没有署名，也没有日期。你把木匣合上，放回第六层原位，又把空白簿放回第五层。\n\n“都看见了。”你转身，面对跟来的几位长老，“记名簿涂改处、执事交接录的转抄记录、空白簿里的半行纸片、第六层拓本的裁口。能找到的，都在这里。找不到的——原始令文、拓本作者、裁下这半行的人是谁，现在都还不知道。”"
+              },
+              "priority": "unknown",
+              "recoveryWindow": "unknown",
+              "completion": {
+                "ledger": "goalLedger",
+                "target_id": "opening-goal-1",
+                "target_statuses": [
+                  "completed"
+                ],
+                "met": false,
+                "requires_narrative_evidence": true
+              }
+            },
+            {
+              "id": "opening-goal-2",
+              "title": "玄霄宗是否承认旧档案的错误",
+              "status": "active",
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_a369694e-69c7-4d51-81f8-d48632459318",
+                "ref": "opening-goal-2",
+                "quote": "“旧档房里看到的东西，我一件一件说。”你的声音不高，但殿前每个人都听得清，“记名簿丙册，中间偏后一处名字被浓墨涂去，沈砚秋当面认了，原字是陆沉舟。执事交接录第四层，有一行转抄记录，写着奉掌门令涂去此条，末尾盖着执事堂印。空白簿第五层，纸页间夹着半行残字，纸边裁口与第六层拓本上的裁口吻合，断茬对得上，墨色也一致。”\n\n你停了一下，目光扫过每一张脸。\n\n“拓本本身没有署名，没有日期。原始令文不在。拓本是谁拓的、这半行字是谁裁下来的、什么时候裁的，现在都不知道。谁要是问，就照这个说。多一个字，少一个字，我拿他是问。”\n\n灰袍长老袖中的册子攥得更紧了些，嘴唇动了动，终究没出声。年纪最大的那位长老扶着柱子，慢慢点了点头。\n\n“掌门，”灰袍长老还是开了口，声音比方才低了许多，“山门外的人越聚越多。有人从北河城来，有人从旧驿道来，都说要一个说法。您方才说照原样传——可原样传出去，各房记录若对不上，只怕……”\n\n“只怕什么，等听完再说。”你打断他，“现在我要做一件事。山门外的人，让他们自己推举两个愿意进来核验的。不是听我说话，是进来看东西。谁推举的，谁自己站出来。我亲自听他们要看什么、凭什么看。”"
+              },
+              "priority": "unknown",
+              "recoveryWindow": "unknown",
+              "completion": {
+                "ledger": "goalLedger",
+                "target_id": "opening-goal-2",
+                "target_statuses": [
+                  "completed"
+                ],
+                "met": false,
+                "requires_narrative_evidence": true
+              }
+            }
+          ],
+          "threads": [
+            {
+              "id": "opening-thread-1",
+              "title": "沈砚秋删去陆沉舟记录的责任",
+              "status": "open",
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_398c1ae4-9281-43b8-9c9a-d9a5a778948b",
+                "ref": "opening-thread-1",
+                "quote": "“回掌门。我经手的删改，不在近三十年的卷册，主要在旧档房西架第三层到第五层——那是宗门早年收录的散卷，按年份捆扎，没有正式编目。我动过其中七捆，涉及天门旧录两卷、残印拓本一卷、还有几册记名簿。”\n\n她说到这里，喉间停了一下。\n\n“亲手改的，有三处。一处是记名簿上一行墨字，原写‘陆沉舟’，我以浓墨涂去，又在旁侧补了‘录事失考’四字。一处是天门旧录里一段批注，原批‘此印自外门入’，我划去‘外门’二字，改成‘来历未详’。还有一处，是残印拓本边角的一行小字，我裁去了半行，只留‘玄霄宗藏’四字。”\n\n殿中有人轻轻吸了口气。你没有打断。\n\n“原件，”沈砚秋继续道，“记名簿那一册还在旧档房西架第三层，涂改处未再动过。天门旧录两卷也在原处，批注划改可见。残印拓本我裁下的半行，当时没有销毁，夹在第五层一册空白簿页之间——但那册空白簿后来是否被人动过，我不知道。”\n\n“你不知道的，就说不知道。”你说。\n\n“是。我不知道那半行如今还在不在。也不知道除我之外，还有谁进过旧档房西架。”她声音很平，“这些是我能说清的。再往前的卷册，我没碰过；再往后的，我也没碰过。”"
+              },
+              "priority": "high",
+              "recoveryWindow": "near",
+              "completion": {
+                "ledger": "threadLedger",
+                "target_id": "opening-thread-1",
+                "target_statuses": [
+                  "resolved",
+                  "abandoned"
+                ],
+                "met": false,
+                "requires_narrative_evidence": true
+              }
+            },
+            {
+              "id": "opening-thread-2",
+              "title": "玄霄宗是否承认旧档案的错误",
+              "status": "open",
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_398c1ae4-9281-43b8-9c9a-d9a5a778948b",
+                "ref": "opening-thread-2",
+                "quote": "“在她说清楚之前，各位手里的记录各自留着，不许合并，不许重抄，更不许统一改写。谁手里的东西，谁自己封好。”\n\n沈砚秋把《太虚遗录》抱在胸前，指节微微发白。她低头想了一息，才抬眼看你。\n\n“回掌门。我经手的删改，不在近三十年的卷册，主要在旧档房西架第三层到第五层——那是宗门早年收录的散卷，按年份捆扎，没有正式编目。我动过其中七捆，涉及天门旧录两卷、残印拓本一卷、还有几册记名簿。”\n\n她说到这里，喉间停了一下。\n\n“亲手改的，有三处。一处是记名簿上一行墨字，原写‘陆沉舟’，我以浓墨涂去，又在旁侧补了‘录事失考’四字。一处是天门旧录里一段批注，原批‘此印自外门入’，我划去‘外门’二字，改成‘来历未详’。还有一处，是残印拓本边角的一行小字，我裁去了半行，只留‘玄霄宗藏’四字。”\n\n殿中有人轻轻吸了口气。你没有打断。\n\n“原件，”沈砚秋继续道，“记名簿那一册还在旧档房西架第三层，涂改处未再动过。天门旧录两卷也在原处，批注划改可见。残印拓本我裁下的半行，当时没有销毁，夹在第五层一册空白簿页之间——但那册空白簿后来是否被人动过，我不知道。”\n\n“你不知道的，就说不知道。”你说。\n\n“是。我不知道那半行如今还在不在。也不知道除我之外，还有谁进过旧档房西架。”她声音很平，“这些是我能说清的。再往前的卷册，我没碰过；再往后的，我也没碰过。”\n\n一位灰袍长老向前半步，手中还攥着一卷未封的册子：“掌门，山门外的人正等着。各房记录若各执一词，递出去的话前后不一，只怕——”\n\n“只怕什么，等听完再说。”你看了他一眼，“现在各自封存。谁手里的记录，谁自己收好。没有我的令，不得交出去，也不得改一个字。”\n\n灰袍长老嘴唇动了动，终究把册子收回袖中，退回了原位。其余几位长老也各自将手中的卷册合上，有的用布囊裹了，有的直接拢进袖里。殿前一时只剩下纸页摩擦的轻响。"
+              },
+              "priority": "high",
+              "recoveryWindow": "near",
+              "completion": {
+                "ledger": "threadLedger",
+                "target_id": "opening-thread-2",
+                "target_statuses": [
+                  "resolved",
+                  "abandoned"
+                ],
+                "met": false,
+                "requires_narrative_evidence": true
+              }
+            }
+          ],
+          "conflicts": [],
+          "steps": [
+            {
+              "id": "goal:opening-goal-1",
+              "kind": "pursue_goal",
+              "target_id": "opening-goal-1",
+              "title": "沈砚秋删去陆沉舟记录的责任",
+              "blockers": [],
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_d8e5ec8e-df6d-4d92-bdb7-732e83c51a13",
+                "ref": "opening-goal-1",
+                "quote": "“是。”沈砚秋答，“我改的。原字是陆沉舟。当时上面传话，说这个名字不能留在记名簿上。”\n\n灰袍长老凑近看了一眼，眉头拧起来：“传话的是谁？”\n\n“当时是前任掌门的令，经执事堂转到我手里。”沈砚秋说，“执事堂的记录在第四层，那卷《执事交接录》里应当有这一条。但我没有亲眼见过原始令文，只见过转抄。”\n\n你没有接话，把记名簿合上，放回第三层原位，又去抽第四层那卷《执事交接录》。这卷比记名簿厚，封皮上沾着灰。你翻开，一页页找。沈砚秋说的那条记录在靠后位置，字迹是另一人的，写着某年某月，奉掌门令，记名簿丙册陆沉舟一条着即涂去，经办人沈砚秋。记录末尾有执事堂的印，印色已经发暗。\n\n“有这条。”你说，把册子转向几位长老。\n\n灰袍长老看完，嘴唇动了动，没说出话。年纪最大的那位长老扶着架子，慢慢点头：“印是真的。执事堂的印，我认得。”\n\n你把《执事交接录》放回原处，转向第五层。\n\n第五层比下面几层空，只零星放着几册簿子，其中一册封皮空白，没有签条。沈砚秋的目光落在那册上，没有动。你把它抽出来，比记名簿薄，纸页发白，像是从未用过。\n\n你翻开。\n\n第一页空白。第二页空白。第三页——\n\n纸页之间夹着一小条纸片，边缘裁得整齐，只有半行小字，墨色偏淡，像是从某处拓本上裁下来的。你把纸片拈起来，凑到灯下。半行字是：“……照临，非陆氏所出，天门——”\n\n后面断了。\n\n你把纸片放回原页之间，合上空白簿，没有立刻说话。灰袍长老探过头来，看清那半行字，脸色变了：“陆照临？这说的是——”\n\n“先别急着认。”你说，“这半行是从哪里裁下来的，拓本原件在不在，都还没核。沈砚秋，拓本原件呢？”\n\n“在第六层，和残印拓本放在一处。”沈砚秋说，“但我上次动过之后，没有再查过第六层。”\n\n你把空白簿搁在案上，走向第六层。第六层比第五层更暗，小灯的光几乎照不到。你伸手摸索，摸到一只扁木匣，抽出来，打开。匣中放着几页拓本，纸色深浅不一。你逐页翻看，翻到第三页时，看见一处裁口——纸页右侧缺了窄窄一条，断口和空白簿里那半行纸片的边缘对得上。\n\n你把木匣端到灯下，和空白簿并排放着。几位长老围过来，没人说话。裁口和纸片并在一处，断茬吻合，半行字接上了前面拓本末尾的几个字，连起来读，是“……陆照临，非陆氏所出，天门所录，另册存之”。\n\n灰袍长老倒吸一口气。\n\n你盯着那两样东西看了很久。断茬吻合是真的，字迹墨色一致也是真的。但这半行字是谁写的、什么时候写的、为什么被裁下来，拓本本身没有署名，也没有日期。你把木匣合上，放回第六层原位，又把空白簿放回第五层。\n\n“都看见了。”你转身，面对跟来的几位长老，“记名簿涂改处、执事交接录的转抄记录、空白簿里的半行纸片、第六层拓本的裁口。能找到的，都在这里。找不到的——原始令文、拓本作者、裁下这半行的人是谁，现在都还不知道。”"
+              },
+              "priority": "unknown",
+              "recoveryWindow": "unknown",
+              "completion": {
+                "ledger": "goalLedger",
+                "target_id": "opening-goal-1",
+                "target_statuses": [
+                  "completed"
+                ],
+                "met": false,
+                "requires_narrative_evidence": true
+              }
+            },
+            {
+              "id": "goal:opening-goal-2",
+              "kind": "pursue_goal",
+              "target_id": "opening-goal-2",
+              "title": "玄霄宗是否承认旧档案的错误",
+              "blockers": [],
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_a369694e-69c7-4d51-81f8-d48632459318",
+                "ref": "opening-goal-2",
+                "quote": "“旧档房里看到的东西，我一件一件说。”你的声音不高，但殿前每个人都听得清，“记名簿丙册，中间偏后一处名字被浓墨涂去，沈砚秋当面认了，原字是陆沉舟。执事交接录第四层，有一行转抄记录，写着奉掌门令涂去此条，末尾盖着执事堂印。空白簿第五层，纸页间夹着半行残字，纸边裁口与第六层拓本上的裁口吻合，断茬对得上，墨色也一致。”\n\n你停了一下，目光扫过每一张脸。\n\n“拓本本身没有署名，没有日期。原始令文不在。拓本是谁拓的、这半行字是谁裁下来的、什么时候裁的，现在都不知道。谁要是问，就照这个说。多一个字，少一个字，我拿他是问。”\n\n灰袍长老袖中的册子攥得更紧了些，嘴唇动了动，终究没出声。年纪最大的那位长老扶着柱子，慢慢点了点头。\n\n“掌门，”灰袍长老还是开了口，声音比方才低了许多，“山门外的人越聚越多。有人从北河城来，有人从旧驿道来，都说要一个说法。您方才说照原样传——可原样传出去，各房记录若对不上，只怕……”\n\n“只怕什么，等听完再说。”你打断他，“现在我要做一件事。山门外的人，让他们自己推举两个愿意进来核验的。不是听我说话，是进来看东西。谁推举的，谁自己站出来。我亲自听他们要看什么、凭什么看。”"
+              },
+              "priority": "unknown",
+              "recoveryWindow": "unknown",
+              "completion": {
+                "ledger": "goalLedger",
+                "target_id": "opening-goal-2",
+                "target_statuses": [
+                  "completed"
+                ],
+                "met": false,
+                "requires_narrative_evidence": true
+              }
+            },
+            {
+              "id": "thread:opening-thread-1",
+              "kind": "address_thread",
+              "target_id": "opening-thread-1",
+              "title": "沈砚秋删去陆沉舟记录的责任",
+              "blockers": [],
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_398c1ae4-9281-43b8-9c9a-d9a5a778948b",
+                "ref": "opening-thread-1",
+                "quote": "“回掌门。我经手的删改，不在近三十年的卷册，主要在旧档房西架第三层到第五层——那是宗门早年收录的散卷，按年份捆扎，没有正式编目。我动过其中七捆，涉及天门旧录两卷、残印拓本一卷、还有几册记名簿。”\n\n她说到这里，喉间停了一下。\n\n“亲手改的，有三处。一处是记名簿上一行墨字，原写‘陆沉舟’，我以浓墨涂去，又在旁侧补了‘录事失考’四字。一处是天门旧录里一段批注，原批‘此印自外门入’，我划去‘外门’二字，改成‘来历未详’。还有一处，是残印拓本边角的一行小字，我裁去了半行，只留‘玄霄宗藏’四字。”\n\n殿中有人轻轻吸了口气。你没有打断。\n\n“原件，”沈砚秋继续道，“记名簿那一册还在旧档房西架第三层，涂改处未再动过。天门旧录两卷也在原处，批注划改可见。残印拓本我裁下的半行，当时没有销毁，夹在第五层一册空白簿页之间——但那册空白簿后来是否被人动过，我不知道。”\n\n“你不知道的，就说不知道。”你说。\n\n“是。我不知道那半行如今还在不在。也不知道除我之外，还有谁进过旧档房西架。”她声音很平，“这些是我能说清的。再往前的卷册，我没碰过；再往后的，我也没碰过。”"
+              },
+              "priority": "high",
+              "recoveryWindow": "near",
+              "completion": {
+                "ledger": "threadLedger",
+                "target_id": "opening-thread-1",
+                "target_statuses": [
+                  "resolved",
+                  "abandoned"
+                ],
+                "met": false,
+                "requires_narrative_evidence": true
+              }
+            },
+            {
+              "id": "thread:opening-thread-2",
+              "kind": "address_thread",
+              "target_id": "opening-thread-2",
+              "title": "玄霄宗是否承认旧档案的错误",
+              "blockers": [],
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_398c1ae4-9281-43b8-9c9a-d9a5a778948b",
+                "ref": "opening-thread-2",
+                "quote": "“在她说清楚之前，各位手里的记录各自留着，不许合并，不许重抄，更不许统一改写。谁手里的东西，谁自己封好。”\n\n沈砚秋把《太虚遗录》抱在胸前，指节微微发白。她低头想了一息，才抬眼看你。\n\n“回掌门。我经手的删改，不在近三十年的卷册，主要在旧档房西架第三层到第五层——那是宗门早年收录的散卷，按年份捆扎，没有正式编目。我动过其中七捆，涉及天门旧录两卷、残印拓本一卷、还有几册记名簿。”\n\n她说到这里，喉间停了一下。\n\n“亲手改的，有三处。一处是记名簿上一行墨字，原写‘陆沉舟’，我以浓墨涂去，又在旁侧补了‘录事失考’四字。一处是天门旧录里一段批注，原批‘此印自外门入’，我划去‘外门’二字，改成‘来历未详’。还有一处，是残印拓本边角的一行小字，我裁去了半行，只留‘玄霄宗藏’四字。”\n\n殿中有人轻轻吸了口气。你没有打断。\n\n“原件，”沈砚秋继续道，“记名簿那一册还在旧档房西架第三层，涂改处未再动过。天门旧录两卷也在原处，批注划改可见。残印拓本我裁下的半行，当时没有销毁，夹在第五层一册空白簿页之间——但那册空白簿后来是否被人动过，我不知道。”\n\n“你不知道的，就说不知道。”你说。\n\n“是。我不知道那半行如今还在不在。也不知道除我之外，还有谁进过旧档房西架。”她声音很平，“这些是我能说清的。再往前的卷册，我没碰过；再往后的，我也没碰过。”\n\n一位灰袍长老向前半步，手中还攥着一卷未封的册子：“掌门，山门外的人正等着。各房记录若各执一词，递出去的话前后不一，只怕——”\n\n“只怕什么，等听完再说。”你看了他一眼，“现在各自封存。谁手里的记录，谁自己收好。没有我的令，不得交出去，也不得改一个字。”\n\n灰袍长老嘴唇动了动，终究把册子收回袖中，退回了原位。其余几位长老也各自将手中的卷册合上，有的用布囊裹了，有的直接拢进袖里。殿前一时只剩下纸页摩擦的轻响。"
+              },
+              "priority": "high",
+              "recoveryWindow": "near",
+              "completion": {
+                "ledger": "threadLedger",
+                "target_id": "opening-thread-2",
+                "target_statuses": [
+                  "resolved",
+                  "abandoned"
+                ],
+                "met": false,
+                "requires_narrative_evidence": true
+              }
+            }
+          ]
+        }
+      },
+      "reason": "已登记为本回合自定义行动；状态变化由本地脚本控制。"
+    }
+  }
+]

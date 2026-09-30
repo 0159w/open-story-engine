@@ -1328,6 +1328,10 @@ class ContextBundleBuilder:
             "selectedStatePatch": selected_state_patch,
             "mustStop": True,
         }
+        if context.get('narrativePolicy') == 'context_only' and context.get('storyJourney'):
+            # Provisional direction and soft budgets belong with output goals,
+            # never with authoritative facts or persistent world state.
+            output_contract['storyJourney'] = _json_value(context['storyJourney'])
         evidence = self._evidence_items(module_context, lineage, branch_id)
         evidence.extend(_json_value(item) for item in memory_evidence)
         source_ids = [item["sourceId"] for item in evidence]

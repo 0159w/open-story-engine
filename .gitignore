@@ -47,5 +47,8 @@ docs/releases/2026-09-03-mvp-foundation.md
 # 游玩原始存档和异步图片缓存只保留本地；导出的游玩记录与验证证据正常提交。
 /docs/evidence/**/*.sqlite
 /docs/evidence/**/*.sqlite-*
+/docs/evidence/**/*.sqlite.gz
 /docs/evidence/**/illustrations/
+# 紧急收尾的增量备份重复包含源文件和原始存档，仅在本机保留。
+/docs/evidence/emergency-handoff-2026-09-30/
 /build/

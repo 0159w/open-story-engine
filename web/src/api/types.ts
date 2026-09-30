@@ -365,6 +365,14 @@ export interface SourceChapterView {
 
 export interface Journey {
   branch_id: string
+  playthrough_length?: {
+    target_minutes: number
+    typical_minutes: number[]
+    target_cjk: number
+    consumed_cjk: number
+    completed_turns: number
+    estimate_only: boolean
+  } | null
   threads?: { id: string; title: string; status: 'open' | 'resolved' | 'abandoned' | 'unknown'; reason: string; evidence: string; causeBranchId: string | null }[]
   goals?: { id: string; title: string; status: 'active' | 'completed' | 'transformed' | 'abandoned'; reason?: string; causeBranchId?: string | null }[]
   ledger_coverage?: { goals: 'recorded' | 'unknown'; threads: 'recorded' | 'unknown' }
@@ -466,7 +474,7 @@ export type RouteClosure = {
     phase: 'active' | 'preparing' | 'closing' | 'ended'
     intended_type: EndingType | null
     ending_type: EndingType | 'early' | null
-    receipt: { ending_type: EndingType | 'early'; outstanding: ClosureItem[] } | null
+    receipt: { ending_type: EndingType | 'early'; outstanding?: ClosureItem[] } | null
   } | null
 }
 export type EndingProposal = {

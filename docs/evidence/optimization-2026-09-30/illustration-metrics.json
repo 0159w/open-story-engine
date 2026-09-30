@@ -1,0 +1,87 @@
+{
+  "attempts": 1,
+  "provider_calls": 1,
+  "usage_reported_calls": 1,
+  "reported_tokens": 537,
+  "unmeasured_calls": 0,
+  "unmeasured_attempts": 0,
+  "total_tokens": 537,
+  "billed_amount": null,
+  "visits": 1,
+  "published_hits": 0,
+  "published_hit_rate": 0.0,
+  "private_visits": 1,
+  "private_cache_hits": 0,
+  "private_cache_misses": 1,
+  "private_cache_unknown": 0,
+  "private_cache_hit_rate": 0.0,
+  "displayed": 1,
+  "display_ms_samples": [
+    72764
+  ],
+  "display_ms_summary": {
+    "count": 1,
+    "average_ms": 72764.0,
+    "p50_ms": 72764,
+    "p95_ms": 72764
+  },
+  "latency": {
+    "queued_ms": {
+      "count": 1,
+      "average_ms": 5.0,
+      "p50_ms": 5,
+      "p95_ms": 5
+    },
+    "provider_ms": {
+      "count": 1,
+      "average_ms": 38723.0,
+      "p50_ms": 38723,
+      "p95_ms": 38723
+    },
+    "download_ms": {
+      "count": 1,
+      "average_ms": 0.0,
+      "p50_ms": 0,
+      "p95_ms": 0
+    },
+    "asset_write_ms": {
+      "count": 1,
+      "average_ms": 1.0,
+      "p50_ms": 1,
+      "p95_ms": 1
+    },
+    "ready_ms": {
+      "count": 1,
+      "average_ms": 38742.0,
+      "p50_ms": 38742,
+      "p95_ms": 38742
+    }
+  },
+  "unreadable_records": 0,
+  "invalid_visit_records": 0,
+  "invalid_display_records": 0,
+  "queued_cancelled": 0,
+  "inflight_cancelled": 0,
+  "completed_not_displayed": 0,
+  "display_confirmed": {
+    "attempts": 1,
+    "provider_calls": 1,
+    "usage_reported_calls": 1,
+    "reported_tokens": 537,
+    "unmeasured_calls": 0,
+    "unmeasured_attempts": 0,
+    "total_tokens": 537,
+    "billed_amount": null
+  },
+  "display_unconfirmed": {
+    "attempts": 0,
+    "provider_calls": 0,
+    "usage_reported_calls": 0,
+    "reported_tokens": 0,
+    "unmeasured_calls": 0,
+    "unmeasured_attempts": 0,
+    "total_tokens": 0,
+    "billed_amount": null
+  },
+  "cost_note": "Use provider invoices for currency charges; no inferred price or refunds."
+}

@@ -1,0 +1,3418 @@
+[
+  {
+    "event": "delta",
+    "data": {
+      "text": "你伸手接过那张折好的底单。纸角上吴先生的印文还带着一点印泥的潮意，指腹蹭过去，微微发涩。你把它重新折成四折，贴着怀里那十八枚铜钱收好，纸边和钱串挨在一起，走起路来不会散。\n\n老赵已经出去搬粮了"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "，仓房里只剩你和老周。粮包堆在角上，仓门半开，外头河风灌进来，带着水腥气。你看着老周，把话说了。\n\n“我想留在码头上做。”你说，“今天这场核账，算不算工？工钱什么时候结？还有——以后要是再有这"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "种点货、记数的活，我能不能兼着做？干什么、拿多少，你给说清楚。”\n\n老周没马上答。他把腰后那根竹签抽出来，在指间转了半圈，又别回去。他上下打量你一眼，像在重新掂量一个已经用过两天的人。\n\n“今"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "天这场，”他开口，“算半天工。四文。你从早上船到之前就来了，仓房点货、对账、按印，忙到这会儿，半天是有的。这四文跟今天的卸货工钱分开算，明天早上发工钱的时候一并给你。”\n\n他顿了顿，补一句：“"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "卸货还是老规矩，一天八文，日结，管晌午饭。你明天来，先到草棚那边领牌子。”\n\n“点货记数呢？”你问。\n\n“那是另一码事。”老周往粮包上靠了靠，胳膊搭在麻袋口上，“码头上不是天天有货要点。船到了"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "，粮行、布行、盐号的人来收货，才需要有人跟着记数、画位置、标水渍。这活不归脚夫，归仓房这边临时找人。你要是记性好、字写得清，我可以跟粮行那边提一句，下回有货要记，叫你过来。”\n\n“工钱怎么算？"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "”\n\n“记数的工钱不按天，按趟。”老周说，“一趟货记完，粮行给多少，我抽一成，剩下的给你。数目看货多少，少的三五文，多的十几文。你要是记岔了、漏了，粮行不认，那一趟就白干，还得赔我抽的那一成。"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "”\n\n他说得平，没什么商量的余地，就是码头上的规矩。\n\n“还有一条。”老周看着你，“你记的东西，只记你亲眼见的。别人报给你的，你标明白是谁报的。今天吴先生认你，是认你这一条。你要是把听来的写成"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "自己看见的，下回没人再找你。”\n\n“我明白。”你说。\n\n老周点点头，从粮包上直起身，拍了拍手上的灰。“那就这么定。明天船到之前来，先领牌子卸货。有记数的活，我让人到草棚那边喊你。今天这四文，明"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "天一起结。”\n\n他往仓门口走，走到门槛那儿又停下，回头看你一眼。\n\n“你那张底单收好了。粮行认了是一回事，往后你自己拿它当什么，是另一回事。”\n\n说完他跨出门去，脚步踩在岸边湿泥上，往码头那边"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "走了。仓房里剩下你一个人，粮包堆在角上，仓门半开，河风一阵一阵灌进来。你怀里那张按了印的底单贴着铜钱，纸角硬硬的，硌着胸口。\n\n明天来不来、来了先卸货还是等记数的活，得你自己拿主意。"
+    }
+  },
+  {
+    "event": "done",
+    "data": {
+      "status": "written",
+      "request_id": "playthrough-809747e6d2cd4d0da9a7e01ab324599a",
+      "deduplicated": false,
+      "branch": {
+        "id": "branch_9ad444de-1410-401a-84e5-dedc8db9a4f7",
+        "sessionId": "81384798-247a-58c8-9ea5-b28a8189aa0d",
+        "sequence": 11,
+        "parentId": "branch_74aea80e-5314-4dd9-8fe4-f7a932038818",
+        "kind": "generated",
+        "sourceNodeRef": "node_source_continuity",
+        "narrativeText": "你伸手接过那张折好的底单。纸角上吴先生的印文还带着一点印泥的潮意，指腹蹭过去，微微发涩。你把它重新折成四折，贴着怀里那十八枚铜钱收好，纸边和钱串挨在一起，走起路来不会散。\n\n老赵已经出去搬粮了，仓房里只剩你和老周。粮包堆在角上，仓门半开，外头河风灌进来，带着水腥气。你看着老周，把话说了。\n\n“我想留在码头上做。”你说，“今天这场核账，算不算工？工钱什么时候结？还有——以后要是再有这种点货、记数的活，我能不能兼着做？干什么、拿多少，你给说清楚。”\n\n老周没马上答。他把腰后那根竹签抽出来，在指间转了半圈，又别回去。他上下打量你一眼，像在重新掂量一个已经用过两天的人。\n\n“今天这场，”他开口，“算半天工。四文。你从早上船到之前就来了，仓房点货、对账、按印，忙到这会儿，半天是有的。这四文跟今天的卸货工钱分开算，明天早上发工钱的时候一并给你。”\n\n他顿了顿，补一句：“卸货还是老规矩，一天八文，日结，管晌午饭。你明天来，先到草棚那边领牌子。”\n\n“点货记数呢？”你问。\n\n“那是另一码事。”老周往粮包上靠了靠，胳膊搭在麻袋口上，“码头上不是天天有货要点。船到了，粮行、布行、盐号的人来收货，才需要有人跟着记数、画位置、标水渍。这活不归脚夫，归仓房这边临时找人。你要是记性好、字写得清，我可以跟粮行那边提一句，下回有货要记，叫你过来。”\n\n“工钱怎么算？”\n\n“记数的工钱不按天，按趟。”老周说，“一趟货记完，粮行给多少，我抽一成，剩下的给你。数目看货多少，少的三五文，多的十几文。你要是记岔了、漏了，粮行不认，那一趟就白干，还得赔我抽的那一成。”\n\n他说得平，没什么商量的余地，就是码头上的规矩。\n\n“还有一条。”老周看着你，“你记的东西，只记你亲眼见的。别人报给你的，你标明白是谁报的。今天吴先生认你，是认你这一条。你要是把听来的写成自己看见的，下回没人再找你。”\n\n“我明白。”你说。\n\n老周点点头，从粮包上直起身，拍了拍手上的灰。“那就这么定。明天船到之前来，先领牌子卸货。有记数的活，我让人到草棚那边喊你。今天这四文，明天一起结。”\n\n他往仓门口走，走到门槛那儿又停下，回头看你一眼。\n\n“你那张底单收好了。粮行认了是一回事，往后你自己拿它当什么，是另一回事。”\n\n说完他跨出门去，脚步踩在岸边湿泥上，往码头那边走了。仓房里剩下你一个人，粮包堆在角上，仓门半开，河风一阵一阵灌进来。你怀里那张按了印的底单贴着铜钱，纸角硬硬的，硌着胸口。\n\n明天来不来、来了先卸货还是等记数的活，得你自己拿主意。",
+        "summary": "顾长离接过老周递还的按印底单，折好收进怀里。他向老周表明愿意留在码头谋生，问清核账工钱、结算方式和兼做点货记录的条件。老周答复：今天核账算半天工四文，明天早上随卸货工钱一并结；卸货仍是一天八文、日结、管晌午饭，明天船到前先到草棚领牌子；点货记数按趟算，粮行给多少他抽一成、余下归顾长离，记岔漏则白干并赔一成，且只记亲眼所见、转述须标明来源。老周说完离开，仓房只剩顾长离一人。",
+        "branchState": {
+          "playerLocationId": "location_observed_727c999048256239",
+          "playerCharacterId": "character_e663361ab1c7",
+          "characterLocationIds": {
+            "character_e663361ab1c7": "location_observed_727c999048256239",
+            "character_ae4cb42b9b49": "location_open_trial",
+            "character_chenji_furen": "location_observed_8f202f21995db7e7",
+            "character_tongpu_zhanggui": "location_tongpu",
+            "character_laozhou": "location_observed_727c999048256239",
+            "character_laozhao": "location_observed_727c999048256239"
+          },
+          "branchLedger": {
+            "schemaVersion": "branch-state-ledger/0.1",
+            "entries": [
+              {
+                "id": "ledger_000001_c8b65f26d6b0",
+                "sequence": 1,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:freeTextProgress",
+                "summary": "运行时状态字段“freeTextProgress”已由受控方向更新。",
+                "before": 0,
+                "after": 1,
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "direction_free_93a93ae1ee10",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000002_4302a31cb195",
+                "sequence": 2,
+                "kind": "location",
+                "operation": "added",
+                "entityId": "location_west_side_gate",
+                "summary": "半山试炼场西侧石阶尽头的门，门外是通往东南的黄土官道。",
+                "before": null,
+                "after": {
+                  "id": "location_west_side_gate",
+                  "name": "侧门",
+                  "summary": "半山试炼场西侧石阶尽头的门，门外是通往东南的黄土官道。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000003_25214d570c5a",
+                "sequence": 3,
+                "kind": "character",
+                "operation": "added",
+                "entityId": "character_gray_robe_deacon",
+                "summary": "半山试炼场负责试炼的执事，受理顾长离退试，记名弃权，告知三年内不得再投玄霄宗山门，并收下木牌与纸包。",
+                "before": null,
+                "after": {
+                  "id": "character_gray_robe_deacon",
+                  "name": "灰袍执事",
+                  "summary": "半山试炼场负责试炼的执事，受理顾长离退试，记名弃权，告知三年内不得再投玄霄宗山门，并收下木牌与纸包。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000004_12b16dd06b4b",
+                "sequence": 4,
+                "kind": "character",
+                "operation": "added",
+                "entityId": "character_old_handyman",
+                "summary": "西侧门边打瞌睡的老杂役，让顾长离按手印后放行下山。",
+                "before": null,
+                "after": {
+                  "id": "character_old_handyman",
+                  "name": "老杂役",
+                  "summary": "西侧门边打瞌睡的老杂役，让顾长离按手印后放行下山。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000005_2982f0b7079f",
+                "sequence": 5,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:goalLedger",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": null,
+                "after": [
+                  {
+                    "id": "opening-goal-1",
+                    "title": "木牌刻痕里为何有金屑",
+                    "status": "abandoned",
+                    "characterId": "character_e663361ab1c7",
+                    "dependencies": [],
+                    "source": "player_branch",
+                    "evidence": "“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离交回纸包并明确不再调查金屑，执事称纸中物会呈上查验、与他无关。",
+                    "successor": ""
+                  },
+                  {
+                    "id": "opening-goal-2",
+                    "title": "如何完成第一场外门试炼",
+                    "status": "abandoned",
+                    "characterId": "character_e663361ab1c7",
+                    "dependencies": [],
+                    "source": "player_branch",
+                    "evidence": "“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。",
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离在钟响前正式退出试炼，执事按弃权处理。",
+                    "successor": ""
+                  }
+                ],
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000006_3fb1f758a17b",
+                "sequence": 6,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:threadLedger",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": [
+                  {
+                    "id": "opening-thread-1",
+                    "title": "木牌刻痕里为何有金屑",
+                    "status": "open",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": null,
+                    "reason": "",
+                    "evidence": "",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "id": "opening-thread-2",
+                    "title": "如何完成第一场外门试炼",
+                    "status": "open",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": null,
+                    "reason": "",
+                    "evidence": "",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  }
+                ],
+                "after": [
+                  {
+                    "id": "opening-thread-1",
+                    "title": "木牌刻痕里为何有金屑",
+                    "status": "abandoned",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离交回纸包并明确不再调查金屑，执事收下称会呈上查验。",
+                    "evidence": "“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "id": "opening-thread-2",
+                    "title": "如何完成第一场外门试炼",
+                    "status": "abandoned",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离在钟响前退试，执事按弃权处理并记名。",
+                    "evidence": "“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "title": "退试弃权的后果",
+                    "status": "open",
+                    "reason": "执事已告知三年内不得再投玄霄宗山门，纸中物会呈上查验，后续影响尚未展开。",
+                    "evidence": "“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "priority": "normal",
+                    "recoveryWindow": "mid",
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "id": "thread-fe16398d9e2967cb",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d"
+                  }
+                ],
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000007_d89caf0fabae",
+                "sequence": 7,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:readerEntityStates",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": null,
+                "after": {
+                  "character_e663361ab1c7": {
+                    "trialStatus": "弃权",
+                    "sectBan": "三年内不得再投玄霄宗山门"
+                  }
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000008_5059a8b8a7b7",
+                "sequence": 8,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:characterLocationIds",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": {
+                  "character_e663361ab1c7": "location_open_trial",
+                  "character_ae4cb42b9b49": "location_open_trial"
+                },
+                "after": {
+                  "character_e663361ab1c7": "location_west_side_gate",
+                  "character_ae4cb42b9b49": "location_open_trial"
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000009_b947fdad218b",
+                "sequence": 9,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:playerLocationId",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": "location_open_trial",
+                "after": "location_west_side_gate",
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000010_a8dfeb09287f",
+                "sequence": 10,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:freeTextProgress",
+                "summary": "运行时状态字段“freeTextProgress”已由受控方向更新。",
+                "before": 1,
+                "after": 2,
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "direction_free_f2ac9d81f77b",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000011_649faec32666",
+                "sequence": 11,
+                "kind": "location",
+                "operation": "added",
+                "entityId": "location_chenji_mianpu",
+                "summary": "青石镇街尾还亮着灯的食铺，门脸不宽，檐下挂旧木匾，内摆四五张方桌，灶台在里侧。",
+                "before": null,
+                "after": {
+                  "id": "location_chenji_mianpu",
+                  "name": "陈记面铺",
+                  "summary": "青石镇街尾还亮着灯的食铺，门脸不宽，檐下挂旧木匾，内摆四五张方桌，灶台在里侧。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000012_124ab9a5a5b9",
+                "sequence": 12,
+                "kind": "location",
+                "operation": "added",
+                "entityId": "location_tuwu",
+                "summary": "陈记面铺后头小天井角落的低矮土屋，堆着柴和破缸，靠墙有一块空地铺着发黑草席，顾长离在此歇下。",
+                "before": null,
+                "after": {
+                  "id": "location_tuwu",
+                  "name": "土屋",
+                  "summary": "陈记面铺后头小天井角落的低矮土屋，堆着柴和破缸，靠墙有一块空地铺着发黑草席，顾长离在此歇下。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000013_0179e79b7313",
+                "sequence": 13,
+                "kind": "character",
+                "operation": "added",
+                "entityId": "character_chenji_furen",
+                "summary": "陈记面铺里擦台面的五十来岁妇人，问明顾长离来意后叫出老陈，补充说明只有旧草席、被褥自理。",
+                "before": null,
+                "after": {
+                  "id": "character_chenji_furen",
+                  "name": "妇人",
+                  "summary": "陈记面铺里擦台面的五十来岁妇人，问明顾长离来意后叫出老陈，补充说明只有旧草席、被褥自理。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000014_7ffa10ce3ac6",
+                "sequence": 14,
+                "kind": "character",
+                "operation": "added",
+                "entityId": "character_laochen",
+                "summary": "陈记面铺灶台后的瘦高男人，腰间系围裙、手上沾面粉。问明顾长离会劈柴挑水后，答应让他先住下，交代活计、工钱与卯时起身劈柴。",
+                "before": null,
+                "after": {
+                  "id": "character_laochen",
+                  "name": "老陈",
+                  "summary": "陈记面铺灶台后的瘦高男人，腰间系围裙、手上沾面粉。问明顾长离会劈柴挑水后，答应让他先住下，交代活计、工钱与卯时起身劈柴。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000015_2ff93f24f18f",
+                "sequence": 15,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:readerEntityStates",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": {
+                  "character_e663361ab1c7": {
+                    "trialStatus": "弃权",
+                    "sectBan": "三年内不得再投玄霄宗山门"
+                  }
+                },
+                "after": {
+                  "character_e663361ab1c7": {
+                    "trialStatus": "弃权",
+                    "sectBan": "三年内不得再投玄霄宗山门",
+                    "location": "location_tuwu",
+                    "employment": "陈记面铺做工换食宿，头一个月无工钱，一个月后每月三十文"
+                  }
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_8b16121f-77b6-46c4-b594-f9ec4b4a66f8",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000016_37354b27d05f",
+                "sequence": 16,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:freeTextProgress",
+                "summary": "运行时状态字段“freeTextProgress”已由受控方向更新。",
+                "before": 2,
+                "after": 3,
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "direction_free_fee43c760a63",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000017_cec845d0af04",
+                "sequence": 17,
+                "kind": "location",
+                "operation": "added",
+                "entityId": "location_observed_8f202f21995db7e7",
+                "summary": "本回合原文确认的场所：灶边",
+                "before": null,
+                "after": {
+                  "id": "location_observed_8f202f21995db7e7",
+                  "name": "灶边",
+                  "summary": "本回合原文确认的场所：灶边"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000018_a51a5a4914c3",
+                "sequence": 18,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:readerEntityStates",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": {
+                  "character_e663361ab1c7": {
+                    "trialStatus": "弃权",
+                    "sectBan": "三年内不得再投玄霄宗山门",
+                    "location": "location_tuwu",
+                    "employment": "陈记面铺做工换食宿，头一个月无工钱，一个月后每月三十文"
+                  }
+                },
+                "after": {
+                  "character_e663361ab1c7": {
+                    "trialStatus": "弃权",
+                    "sectBan": "三年内不得再投玄霄宗山门",
+                    "location": "location_tuwu",
+                    "employment": "陈记面铺做工换食宿，头一个月无工钱，一个月后每月三十文"
+                  },
+                  "character_laochen": {
+                    "雇佣条件": "头一个月无工钱，管早晚两顿、晌午自理，卯时起到打烊歇，满月后每月三十文，活计为劈柴挑水洗碗擦桌"
+                  },
+                  "character_chenji_furen": {
+                    "提供信息": "镇东码头和粮行缺短工，日结几文、管一顿晌午饭、不包住"
+                  }
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_44f5316d-4142-47fc-b620-5aa1e90a7ae4",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000019_fd52e6f6b732",
+                "sequence": 19,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:characterLocationIds",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": {
+                  "character_e663361ab1c7": "location_west_side_gate",
+                  "character_ae4cb42b9b49": "location_open_trial"
+                },
+                "after": {
+                  "character_e663361ab1c7": "location_observed_8f202f21995db7e7",
+                  "character_ae4cb42b9b49": "location_open_trial",
+                  "character_chenji_furen": "location_observed_8f202f21995db7e7"
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_44f5316d-4142-47fc-b620-5aa1e90a7ae4",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000020_1bef6483b3dc",
+                "sequence": 20,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:playerLocationId",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": "location_west_side_gate",
+                "after": "location_observed_8f202f21995db7e7",
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_44f5316d-4142-47fc-b620-5aa1e90a7ae4",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000021_7c7eeeb8919f",
+                "sequence": 21,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:freeTextProgress",
+                "summary": "运行时状态字段“freeTextProgress”已由受控方向更新。",
+                "before": 3,
+                "after": 4,
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "direction_free_d4819017f62e",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000022_e35e85bd7eb1",
+                "sequence": 22,
+                "kind": "location",
+                "operation": "added",
+                "entityId": "location_caopeng",
+                "summary": "码头岸上搭着草棚的地方，晌午管一顿糙米饭配咸菜，顾长离在此吃饭。",
+                "before": null,
+                "after": {
+                  "id": "location_caopeng",
+                  "name": "草棚",
+                  "summary": "码头岸上搭着草棚的地方，晌午管一顿糙米饭配咸菜，顾长离在此吃饭。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000023_570f49e8f088",
+                "sequence": 23,
+                "kind": "location",
+                "operation": "added",
+                "entityId": "location_matou",
+                "summary": "镇东码头，河面宽出许多，沿岸泊着七八条船，岸上堆着粮包木箱竹篓，脚夫扛麻袋上下。",
+                "before": null,
+                "after": {
+                  "id": "location_matou",
+                  "name": "码头",
+                  "summary": "镇东码头，河面宽出许多，沿岸泊着七八条船，岸上堆着粮包木箱竹篓，脚夫扛麻袋上下。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000024_b413921d2ec8",
+                "sequence": 24,
+                "kind": "character",
+                "operation": "added",
+                "entityId": "character_laozhou",
+                "summary": "镇东码头领工，四十上下，脸晒得黑红，短褂敞怀，腰间别木牌，手持竹签点数。给顾长离一天八文、日结、管晌午饭的卸粮短工，发刻“柒”字木牌，收工后问明天是否还来。",
+                "before": null,
+                "after": {
+                  "id": "character_laozhou",
+                  "name": "老周",
+                  "summary": "镇东码头领工，四十上下，脸晒得黑红，短褂敞怀，腰间别木牌，手持竹签点数。给顾长离一天八文、日结、管晌午饭的卸粮短工，发刻“柒”字木牌，收工后问明天是否还来。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000025_17d09deb33fa",
+                "sequence": 25,
+                "kind": "character",
+                "operation": "added",
+                "entityId": "character_laozhao",
+                "summary": "码头上正往下递粮包的汉子，老周让顾长离给他搭把手。",
+                "before": null,
+                "after": {
+                  "id": "character_laozhao",
+                  "name": "老赵",
+                  "summary": "码头上正往下递粮包的汉子，老周让顾长离给他搭把手。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000026_2459044f0a6c",
+                "sequence": 26,
+                "kind": "item",
+                "operation": "added",
+                "entityId": "item_mupai_qi",
+                "summary": "老周发给顾长离的刻着“柒”字的小木牌，凭此收工领钱，收工后已被老周收回。",
+                "before": null,
+                "after": {
+                  "id": "item_mupai_qi",
+                  "name": "木牌",
+                  "summary": "老周发给顾长离的刻着“柒”字的小木牌，凭此收工领钱，收工后已被老周收回。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000027_5fb09e92da97",
+                "sequence": 27,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:characterOutcomeStates",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": {},
+                "after": {
+                  "character_e663361ab1c7": {
+                    "characterId": "character_e663361ab1c7",
+                    "status": "alive",
+                    "permanence": "temporary",
+                    "requirementId": "A1",
+                    "cause": "在码头卸粮一天后收工领钱，人无损伤。",
+                    "evidence": "你点点头，没多问。吃完饭歇了一炷香的工夫，老周又喊开工。剩下的粮包卸到日头偏西，船空了，仓房满了。老周拿着竹签挨个收牌发钱，轮到你时，他数了八枚铜钱搁在你手心，铜钱还带着他掌心的汗。",
+                    "causeBranchId": "branch_071c4d72-f5a3-4fee-8274-5cc72b5bf1c3"
+                  }
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_071c4d72-f5a3-4fee-8274-5cc72b5bf1c3",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000028_8721bb5704d3",
+                "sequence": 28,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:threadLedger",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": [
+                  {
+                    "id": "opening-thread-1",
+                    "title": "木牌刻痕里为何有金屑",
+                    "status": "abandoned",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离交回纸包并明确不再调查金屑，执事收下称会呈上查验。",
+                    "evidence": "“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "id": "opening-thread-2",
+                    "title": "如何完成第一场外门试炼",
+                    "status": "abandoned",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离在钟响前退试，执事按弃权处理并记名。",
+                    "evidence": "“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "title": "退试弃权的后果",
+                    "status": "open",
+                    "reason": "执事已告知三年内不得再投玄霄宗山门，纸中物会呈上查验，后续影响尚未展开。",
+                    "evidence": "“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "priority": "normal",
+                    "recoveryWindow": "mid",
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "id": "thread-fe16398d9e2967cb",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d"
+                  }
+                ],
+                "after": [
+                  {
+                    "id": "opening-thread-1",
+                    "title": "木牌刻痕里为何有金屑",
+                    "status": "abandoned",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离交回纸包并明确不再调查金屑，执事收下称会呈上查验。",
+                    "evidence": "“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "id": "opening-thread-2",
+                    "title": "如何完成第一场外门试炼",
+                    "status": "abandoned",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离在钟响前退试，执事按弃权处理并记名。",
+                    "evidence": "“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "title": "退试弃权的后果",
+                    "status": "open",
+                    "reason": "执事已告知三年内不得再投玄霄宗山门，纸中物会呈上查验，后续影响尚未展开。",
+                    "evidence": "“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "priority": "normal",
+                    "recoveryWindow": "mid",
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "id": "thread-fe16398d9e2967cb",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d"
+                  },
+                  {
+                    "title": "今晚住哪儿、明天是否继续在码头做工",
+                    "status": "open",
+                    "reason": "码头短工不包住，老周问明天是否还来，顾长离尚未决定。",
+                    "evidence": "“明天还来不来？”他问。\n\n八文钱在手里沉甸甸的。你抬头看了看天色，又看了看码头上渐渐散去的脚夫。天还没黑，镇上的灯火该陆续亮起来了。今晚住哪儿，明天还来不来，都得你自己拿主意。",
+                    "priority": "normal",
+                    "recoveryWindow": "immediate",
+                    "causeBranchId": "branch_071c4d72-f5a3-4fee-8274-5cc72b5bf1c3",
+                    "id": "thread-8cc7d4110b0407a9",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_071c4d72-f5a3-4fee-8274-5cc72b5bf1c3"
+                  }
+                ],
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_071c4d72-f5a3-4fee-8274-5cc72b5bf1c3",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000029_ed2bdc7590ad",
+                "sequence": 29,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:readerEntityStates",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": {
+                  "character_e663361ab1c7": {
+                    "trialStatus": "弃权",
+                    "sectBan": "三年内不得再投玄霄宗山门",
+                    "location": "location_tuwu",
+                    "employment": "陈记面铺做工换食宿，头一个月无工钱，一个月后每月三十文"
+                  },
+                  "character_laochen": {
+                    "雇佣条件": "头一个月无工钱，管早晚两顿、晌午自理，卯时起到打烊歇，满月后每月三十文，活计为劈柴挑水洗碗擦桌"
+                  },
+                  "character_chenji_furen": {
+                    "提供信息": "镇东码头和粮行缺短工，日结几文、管一顿晌午饭、不包住"
+                  }
+                },
+                "after": {
+                  "character_e663361ab1c7": {
+                    "trialStatus": "弃权",
+                    "sectBan": "三年内不得再投玄霄宗山门",
+                    "location": "草棚",
+                    "employment": "陈记面铺做工换食宿，头一个月无工钱，一个月后每月三十文",
+                    "money": "八枚铜钱"
+                  },
+                  "character_laochen": {
+                    "雇佣条件": "头一个月无工钱，管早晚两顿、晌午自理，卯时起到打烊歇，满月后每月三十文，活计为劈柴挑水洗碗擦桌"
+                  },
+                  "character_chenji_furen": {
+                    "提供信息": "镇东码头和粮行缺短工，日结几文、管一顿晌午饭、不包住"
+                  }
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_071c4d72-f5a3-4fee-8274-5cc72b5bf1c3",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000030_e3487423389e",
+                "sequence": 30,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:freeTextProgress",
+                "summary": "运行时状态字段“freeTextProgress”已由受控方向更新。",
+                "before": 4,
+                "after": 5,
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "direction_free_42b4cdbb58d2",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000031_20b802852f32",
+                "sequence": 31,
+                "kind": "location",
+                "operation": "added",
+                "entityId": "location_tongpu",
+                "summary": "镇口过石桥往西半条街、门口挂白灯笼的住处，一晚三文，有热水洗漱不另收费，里间为长溜通铺，铺位较挤。",
+                "before": null,
+                "after": {
+                  "id": "location_tongpu",
+                  "name": "通铺",
+                  "summary": "镇口过石桥往西半条街、门口挂白灯笼的住处，一晚三文，有热水洗漱不另收费，里间为长溜通铺，铺位较挤。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000032_a606adeb95e4",
+                "sequence": 32,
+                "kind": "character",
+                "operation": "added",
+                "entityId": "character_tongpu_zhanggui",
+                "summary": "镇口通铺的五十来岁掌柜，收三文一晚，提供热水洗漱不另收费，给顾长离刻有“拾贰”的铺位木牌。",
+                "before": null,
+                "after": {
+                  "id": "character_tongpu_zhanggui",
+                  "name": "掌柜",
+                  "summary": "镇口通铺的五十来岁掌柜，收三文一晚，提供热水洗漱不另收费，给顾长离刻有“拾贰”的铺位木牌。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000033_6a34b495d3d3",
+                "sequence": 33,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:threadLedger",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": [
+                  {
+                    "id": "opening-thread-1",
+                    "title": "木牌刻痕里为何有金屑",
+                    "status": "abandoned",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离交回纸包并明确不再调查金屑，执事收下称会呈上查验。",
+                    "evidence": "“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "id": "opening-thread-2",
+                    "title": "如何完成第一场外门试炼",
+                    "status": "abandoned",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离在钟响前退试，执事按弃权处理并记名。",
+                    "evidence": "“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "title": "退试弃权的后果",
+                    "status": "open",
+                    "reason": "执事已告知三年内不得再投玄霄宗山门，纸中物会呈上查验，后续影响尚未展开。",
+                    "evidence": "“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "priority": "normal",
+                    "recoveryWindow": "mid",
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "id": "thread-fe16398d9e2967cb",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d"
+                  },
+                  {
+                    "title": "今晚住哪儿、明天是否继续在码头做工",
+                    "status": "open",
+                    "reason": "码头短工不包住，老周问明天是否还来，顾长离尚未决定。",
+                    "evidence": "“明天还来不来？”他问。\n\n八文钱在手里沉甸甸的。你抬头看了看天色，又看了看码头上渐渐散去的脚夫。天还没黑，镇上的灯火该陆续亮起来了。今晚住哪儿，明天还来不来，都得你自己拿主意。",
+                    "priority": "normal",
+                    "recoveryWindow": "immediate",
+                    "causeBranchId": "branch_071c4d72-f5a3-4fee-8274-5cc72b5bf1c3",
+                    "id": "thread-8cc7d4110b0407a9",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_071c4d72-f5a3-4fee-8274-5cc72b5bf1c3"
+                  }
+                ],
+                "after": [
+                  {
+                    "id": "opening-thread-1",
+                    "title": "木牌刻痕里为何有金屑",
+                    "status": "abandoned",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离交回纸包并明确不再调查金屑，执事收下称会呈上查验。",
+                    "evidence": "“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "id": "opening-thread-2",
+                    "title": "如何完成第一场外门试炼",
+                    "status": "abandoned",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离在钟响前退试，执事按弃权处理并记名。",
+                    "evidence": "“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "title": "退试弃权的后果",
+                    "status": "open",
+                    "reason": "执事已告知三年内不得再投玄霄宗山门，纸中物会呈上查验，后续影响尚未展开。",
+                    "evidence": "“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "priority": "normal",
+                    "recoveryWindow": "mid",
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "id": "thread-fe16398d9e2967cb",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d"
+                  },
+                  {
+                    "title": "今晚住哪儿、明天是否继续在码头做工",
+                    "status": "resolved",
+                    "reason": "顾长离已答应明天继续来码头做工，并在镇口通铺付三文住下。",
+                    "evidence": "“明天还来。”你说。\n\n老周把竹签往腰后一别，点了点头，没多话。你趁他还没走开，又问了一句：“这附近有没有干净便宜的通铺？能洗漱就行。”\n\n他上下打量你一眼，像是早料到你会问。“镇口那边有一家，你顺着这条街往西走，过了石桥再走半条街，门口挂盏白灯笼的就是。”他伸出三根手指，“一晚三文，有热水，洗漱不另收钱。就是铺位挤，通铺，跟人挨着睡。你要嫌吵，往里走还有家客栈，一晚十五文，你自己掂量。”\n\n“三文就行。”你道了谢。\n\n老周摆摆手，转身去招呼剩下几个还没领钱的脚夫。\n\n你按他指的方向走。街上的灯陆续亮起来，卖吃食的摊子收了，只剩几家铺面还开着门。过了石桥，往西半条街，果然看见一盏白灯笼挂在门檐下，灯笼上没写字，只画了个歪歪扭扭的“宿”字。\n\n推门进去，堂里摆着几张条凳，一个五十来岁的掌柜正就着油灯算账。他抬头看你一眼，见你一身汗渍、肩上搭着外衣，也不多问。\n\n“住店？”\n\n“通铺，一晚多少？”\n\n“三文。”掌柜把算盘往边上一推，“热水在后院灶上，自己去舀，不另收钱。被褥有，旧的，将就盖。明早天亮前走，不催你。”\n\n“没有别的费用？”\n\n“没有。”掌柜答得干脆，“三文就是三文。你要吃饭，街对面有卖面的，我这儿不管饭。”\n\n你从怀里数出三枚铜钱搁在柜上。掌柜收了钱，从墙上取下一块木牌递给你，牌上刻着“拾贰”两个字。“铺位在里间，十二号，自己找。”\n\n你穿过堂屋，掀开布帘，里间是一长溜通铺，铺板上铺着草席和薄被，已经躺了四五个人，有的打着鼾，有的翻了个身。你找到十二号铺位，把外衣叠了当枕头，行李搁在脚边。后院灶上果然温着一锅热水，你舀了半盆，就着天井的月光洗了把脸，又擦了擦脖颈和胳膊上的汗渍。水是温的，洗过之后身上松快了些。",
+                    "priority": "normal",
+                    "recoveryWindow": "immediate",
+                    "causeBranchId": "branch_7dcc9da5-2b29-4049-abb6-1978cca053a0",
+                    "id": "thread-8cc7d4110b0407a9",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_071c4d72-f5a3-4fee-8274-5cc72b5bf1c3"
+                  }
+                ],
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_7dcc9da5-2b29-4049-abb6-1978cca053a0",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000034_b936231fd541",
+                "sequence": 34,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:readerEntityStates",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": {
+                  "character_e663361ab1c7": {
+                    "trialStatus": "弃权",
+                    "sectBan": "三年内不得再投玄霄宗山门",
+                    "location": "草棚",
+                    "employment": "陈记面铺做工换食宿，头一个月无工钱，一个月后每月三十文",
+                    "money": "八枚铜钱"
+                  },
+                  "character_laochen": {
+                    "雇佣条件": "头一个月无工钱，管早晚两顿、晌午自理，卯时起到打烊歇，满月后每月三十文，活计为劈柴挑水洗碗擦桌"
+                  },
+                  "character_chenji_furen": {
+                    "提供信息": "镇东码头和粮行缺短工，日结几文、管一顿晌午饭、不包住"
+                  }
+                },
+                "after": {
+                  "character_e663361ab1c7": {
+                    "trialStatus": "弃权",
+                    "sectBan": "三年内不得再投玄霄宗山门",
+                    "location": "草棚",
+                    "employment": "陈记面铺做工换食宿，头一个月无工钱，一个月后每月三十文",
+                    "money": "五文",
+                    "lodging": "通铺十二号铺位",
+                    "tomorrowWork": "码头卸粮短工"
+                  },
+                  "character_laochen": {
+                    "雇佣条件": "头一个月无工钱，管早晚两顿、晌午自理，卯时起到打烊歇，满月后每月三十文，活计为劈柴挑水洗碗擦桌"
+                  },
+                  "character_chenji_furen": {
+                    "提供信息": "镇东码头和粮行缺短工，日结几文、管一顿晌午饭、不包住"
+                  }
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_7dcc9da5-2b29-4049-abb6-1978cca053a0",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000035_6b3bf515d932",
+                "sequence": 35,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:characterLocationIds",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": {
+                  "character_e663361ab1c7": "location_observed_8f202f21995db7e7",
+                  "character_ae4cb42b9b49": "location_open_trial",
+                  "character_chenji_furen": "location_observed_8f202f21995db7e7"
+                },
+                "after": {
+                  "character_e663361ab1c7": "location_tongpu",
+                  "character_ae4cb42b9b49": "location_open_trial",
+                  "character_chenji_furen": "location_observed_8f202f21995db7e7"
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_7dcc9da5-2b29-4049-abb6-1978cca053a0",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000036_c450dcfbfcd5",
+                "sequence": 36,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:playerLocationId",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": "location_observed_8f202f21995db7e7",
+                "after": "location_tongpu",
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_7dcc9da5-2b29-4049-abb6-1978cca053a0",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000037_1c1af1317dff",
+                "sequence": 37,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:freeTextProgress",
+                "summary": "运行时状态字段“freeTextProgress”已由受控方向更新。",
+                "before": 5,
+                "after": 6,
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "direction_free_5d46f49a8170",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000038_f39ae19ab6aa",
+                "sequence": 38,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:readerEntityStates",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": {
+                  "character_e663361ab1c7": {
+                    "trialStatus": "弃权",
+                    "sectBan": "三年内不得再投玄霄宗山门",
+                    "location": "草棚",
+                    "employment": "陈记面铺做工换食宿，头一个月无工钱，一个月后每月三十文",
+                    "money": "五文",
+                    "lodging": "通铺十二号铺位",
+                    "tomorrowWork": "码头卸粮短工"
+                  },
+                  "character_laochen": {
+                    "雇佣条件": "头一个月无工钱，管早晚两顿、晌午自理，卯时起到打烊歇，满月后每月三十文，活计为劈柴挑水洗碗擦桌"
+                  },
+                  "character_chenji_furen": {
+                    "提供信息": "镇东码头和粮行缺短工，日结几文、管一顿晌午饭、不包住"
+                  }
+                },
+                "after": {
+                  "character_e663361ab1c7": {
+                    "trialStatus": "弃权",
+                    "sectBan": "三年内不得再投玄霄宗山门",
+                    "location": "草棚",
+                    "employment": "陈记面铺做工换食宿，头一个月无工钱，一个月后每月三十文",
+                    "money": "十三文",
+                    "lodging": "通铺十二号铺位",
+                    "tomorrowWork": "码头卸粮短工",
+                    "copperCoins": 13
+                  },
+                  "character_laochen": {
+                    "雇佣条件": "头一个月无工钱，管早晚两顿、晌午自理，卯时起到打烊歇，满月后每月三十文，活计为劈柴挑水洗碗擦桌"
+                  },
+                  "character_chenji_furen": {
+                    "提供信息": "镇东码头和粮行缺短工，日结几文、管一顿晌午饭、不包住"
+                  }
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_f627035f-5203-4df6-9cfa-382acbb3908b",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000039_b8470fefb02b",
+                "sequence": 39,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:characterLocationIds",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": {
+                  "character_e663361ab1c7": "location_tongpu",
+                  "character_ae4cb42b9b49": "location_open_trial",
+                  "character_chenji_furen": "location_observed_8f202f21995db7e7"
+                },
+                "after": {
+                  "character_e663361ab1c7": "location_matou",
+                  "character_ae4cb42b9b49": "location_open_trial",
+                  "character_chenji_furen": "location_observed_8f202f21995db7e7"
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_f627035f-5203-4df6-9cfa-382acbb3908b",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000040_8922e194bd11",
+                "sequence": 40,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:playerLocationId",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": "location_tongpu",
+                "after": "location_matou",
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_f627035f-5203-4df6-9cfa-382acbb3908b",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000041_6065892e0e97",
+                "sequence": 41,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:freeTextProgress",
+                "summary": "运行时状态字段“freeTextProgress”已由受控方向更新。",
+                "before": 6,
+                "after": 7,
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "direction_free_631937f10f51",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000042_6ee16ce1b805",
+                "sequence": 42,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:threadLedger",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": [
+                  {
+                    "id": "opening-thread-1",
+                    "title": "木牌刻痕里为何有金屑",
+                    "status": "abandoned",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离交回纸包并明确不再调查金屑，执事收下称会呈上查验。",
+                    "evidence": "“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "id": "opening-thread-2",
+                    "title": "如何完成第一场外门试炼",
+                    "status": "abandoned",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离在钟响前退试，执事按弃权处理并记名。",
+                    "evidence": "“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "title": "退试弃权的后果",
+                    "status": "open",
+                    "reason": "执事已告知三年内不得再投玄霄宗山门，纸中物会呈上查验，后续影响尚未展开。",
+                    "evidence": "“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "priority": "normal",
+                    "recoveryWindow": "mid",
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "id": "thread-fe16398d9e2967cb",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d"
+                  },
+                  {
+                    "title": "今晚住哪儿、明天是否继续在码头做工",
+                    "status": "resolved",
+                    "reason": "顾长离已答应明天继续来码头做工，并在镇口通铺付三文住下。",
+                    "evidence": "“明天还来。”你说。\n\n老周把竹签往腰后一别，点了点头，没多话。你趁他还没走开，又问了一句：“这附近有没有干净便宜的通铺？能洗漱就行。”\n\n他上下打量你一眼，像是早料到你会问。“镇口那边有一家，你顺着这条街往西走，过了石桥再走半条街，门口挂盏白灯笼的就是。”他伸出三根手指，“一晚三文，有热水，洗漱不另收钱。就是铺位挤，通铺，跟人挨着睡。你要嫌吵，往里走还有家客栈，一晚十五文，你自己掂量。”\n\n“三文就行。”你道了谢。\n\n老周摆摆手，转身去招呼剩下几个还没领钱的脚夫。\n\n你按他指的方向走。街上的灯陆续亮起来，卖吃食的摊子收了，只剩几家铺面还开着门。过了石桥，往西半条街，果然看见一盏白灯笼挂在门檐下，灯笼上没写字，只画了个歪歪扭扭的“宿”字。\n\n推门进去，堂里摆着几张条凳，一个五十来岁的掌柜正就着油灯算账。他抬头看你一眼，见你一身汗渍、肩上搭着外衣，也不多问。\n\n“住店？”\n\n“通铺，一晚多少？”\n\n“三文。”掌柜把算盘往边上一推，“热水在后院灶上，自己去舀，不另收钱。被褥有，旧的，将就盖。明早天亮前走，不催你。”\n\n“没有别的费用？”\n\n“没有。”掌柜答得干脆，“三文就是三文。你要吃饭，街对面有卖面的，我这儿不管饭。”\n\n你从怀里数出三枚铜钱搁在柜上。掌柜收了钱，从墙上取下一块木牌递给你，牌上刻着“拾贰”两个字。“铺位在里间，十二号，自己找。”\n\n你穿过堂屋，掀开布帘，里间是一长溜通铺，铺板上铺着草席和薄被，已经躺了四五个人，有的打着鼾，有的翻了个身。你找到十二号铺位，把外衣叠了当枕头，行李搁在脚边。后院灶上果然温着一锅热水，你舀了半盆，就着天井的月光洗了把脸，又擦了擦脖颈和胳膊上的汗渍。水是温的，洗过之后身上松快了些。",
+                    "priority": "normal",
+                    "recoveryWindow": "immediate",
+                    "causeBranchId": "branch_7dcc9da5-2b29-4049-abb6-1978cca053a0",
+                    "id": "thread-8cc7d4110b0407a9",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_071c4d72-f5a3-4fee-8274-5cc72b5bf1c3"
+                  }
+                ],
+                "after": [
+                  {
+                    "id": "opening-thread-1",
+                    "title": "木牌刻痕里为何有金屑",
+                    "status": "abandoned",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离交回纸包并明确不再调查金屑，执事收下称会呈上查验。",
+                    "evidence": "“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "id": "opening-thread-2",
+                    "title": "如何完成第一场外门试炼",
+                    "status": "abandoned",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离在钟响前退试，执事按弃权处理并记名。",
+                    "evidence": "“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "title": "退试弃权的后果",
+                    "status": "open",
+                    "reason": "执事已告知三年内不得再投玄霄宗山门，纸中物会呈上查验，后续影响尚未展开。",
+                    "evidence": "“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "priority": "normal",
+                    "recoveryWindow": "mid",
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "id": "thread-fe16398d9e2967cb",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d"
+                  },
+                  {
+                    "title": "今晚住哪儿、明天是否继续在码头做工",
+                    "status": "resolved",
+                    "reason": "顾长离已答应明天继续来码头做工，并在镇口通铺付三文住下。",
+                    "evidence": "“明天还来。”你说。\n\n老周把竹签往腰后一别，点了点头，没多话。你趁他还没走开，又问了一句：“这附近有没有干净便宜的通铺？能洗漱就行。”\n\n他上下打量你一眼，像是早料到你会问。“镇口那边有一家，你顺着这条街往西走，过了石桥再走半条街，门口挂盏白灯笼的就是。”他伸出三根手指，“一晚三文，有热水，洗漱不另收钱。就是铺位挤，通铺，跟人挨着睡。你要嫌吵，往里走还有家客栈，一晚十五文，你自己掂量。”\n\n“三文就行。”你道了谢。\n\n老周摆摆手，转身去招呼剩下几个还没领钱的脚夫。\n\n你按他指的方向走。街上的灯陆续亮起来，卖吃食的摊子收了，只剩几家铺面还开着门。过了石桥，往西半条街，果然看见一盏白灯笼挂在门檐下，灯笼上没写字，只画了个歪歪扭扭的“宿”字。\n\n推门进去，堂里摆着几张条凳，一个五十来岁的掌柜正就着油灯算账。他抬头看你一眼，见你一身汗渍、肩上搭着外衣，也不多问。\n\n“住店？”\n\n“通铺，一晚多少？”\n\n“三文。”掌柜把算盘往边上一推，“热水在后院灶上，自己去舀，不另收钱。被褥有，旧的，将就盖。明早天亮前走，不催你。”\n\n“没有别的费用？”\n\n“没有。”掌柜答得干脆，“三文就是三文。你要吃饭，街对面有卖面的，我这儿不管饭。”\n\n你从怀里数出三枚铜钱搁在柜上。掌柜收了钱，从墙上取下一块木牌递给你，牌上刻着“拾贰”两个字。“铺位在里间，十二号，自己找。”\n\n你穿过堂屋，掀开布帘，里间是一长溜通铺，铺板上铺着草席和薄被，已经躺了四五个人，有的打着鼾，有的翻了个身。你找到十二号铺位，把外衣叠了当枕头，行李搁在脚边。后院灶上果然温着一锅热水，你舀了半盆，就着天井的月光洗了把脸，又擦了擦脖颈和胳膊上的汗渍。水是温的，洗过之后身上松快了些。",
+                    "priority": "normal",
+                    "recoveryWindow": "immediate",
+                    "causeBranchId": "branch_7dcc9da5-2b29-4049-abb6-1978cca053a0",
+                    "id": "thread-8cc7d4110b0407a9",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_071c4d72-f5a3-4fee-8274-5cc72b5bf1c3"
+                  },
+                  {
+                    "title": "跳板裂板是否在明早船到前换好",
+                    "status": "open",
+                    "reason": "老周答应明早船到前让老赵带人换，但尚未实际更换。",
+                    "evidence": "“明天还来。”你说，“但有一样——跳板中段那块裂的，你说了让人换，得先换好。今天我从靠岸那头走，明天要是还这么裂着，扛着粮踩上去，谁摊上谁倒霉。”\n\n老周把竹签在鞋帮上磕了两下，站起来，往跳板那边瞥了一眼。“记着呢。明早船到之前我让老赵带人换，库房里有旧板，尺寸差不多。”他顿了顿，像是琢磨你这话，“你倒操心这个。”\n\n“操心的是自己这条命。”你说。\n\n老周哼了一声，没恼，反倒把竹签往腰后一别，正眼看了你一回。“行。明天来先看板子，换好了你再上。”",
+                    "priority": "high",
+                    "recoveryWindow": "immediate",
+                    "causeBranchId": "branch_48ffa97d-4797-4ddd-a289-68ae1b04c0d1",
+                    "id": "thread-7411207ee9c5698e",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_48ffa97d-4797-4ddd-a289-68ae1b04c0d1"
+                  }
+                ],
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_48ffa97d-4797-4ddd-a289-68ae1b04c0d1",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000043_ccbf16ae5ec2",
+                "sequence": 43,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:readerEntityStates",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": {
+                  "character_e663361ab1c7": {
+                    "trialStatus": "弃权",
+                    "sectBan": "三年内不得再投玄霄宗山门",
+                    "location": "草棚",
+                    "employment": "陈记面铺做工换食宿，头一个月无工钱，一个月后每月三十文",
+                    "money": "十三文",
+                    "lodging": "通铺十二号铺位",
+                    "tomorrowWork": "码头卸粮短工",
+                    "copperCoins": 13
+                  },
+                  "character_laochen": {
+                    "雇佣条件": "头一个月无工钱，管早晚两顿、晌午自理，卯时起到打烊歇，满月后每月三十文，活计为劈柴挑水洗碗擦桌"
+                  },
+                  "character_chenji_furen": {
+                    "提供信息": "镇东码头和粮行缺短工，日结几文、管一顿晌午饭、不包住"
+                  }
+                },
+                "after": {
+                  "character_e663361ab1c7": {
+                    "trialStatus": "弃权",
+                    "sectBan": "三年内不得再投玄霄宗山门",
+                    "location": "草棚",
+                    "employment": "陈记面铺做工换食宿，头一个月无工钱，一个月后每月三十文",
+                    "money": 10,
+                    "lodging": "通铺十二号铺位",
+                    "tomorrowWork": "码头卸粮短工",
+                    "copperCoins": 13
+                  },
+                  "character_laochen": {
+                    "雇佣条件": "头一个月无工钱，管早晚两顿、晌午自理，卯时起到打烊歇，满月后每月三十文，活计为劈柴挑水洗碗擦桌"
+                  },
+                  "character_chenji_furen": {
+                    "提供信息": "镇东码头和粮行缺短工，日结几文、管一顿晌午饭、不包住"
+                  }
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_48ffa97d-4797-4ddd-a289-68ae1b04c0d1",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000044_62d6bd1788a9",
+                "sequence": 44,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:characterLocationIds",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": {
+                  "character_e663361ab1c7": "location_matou",
+                  "character_ae4cb42b9b49": "location_open_trial",
+                  "character_chenji_furen": "location_observed_8f202f21995db7e7"
+                },
+                "after": {
+                  "character_e663361ab1c7": "location_tongpu",
+                  "character_ae4cb42b9b49": "location_open_trial",
+                  "character_chenji_furen": "location_observed_8f202f21995db7e7",
+                  "character_tongpu_zhanggui": "location_tongpu"
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_48ffa97d-4797-4ddd-a289-68ae1b04c0d1",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000045_1633e991c776",
+                "sequence": 45,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:playerLocationId",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": "location_matou",
+                "after": "location_tongpu",
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_48ffa97d-4797-4ddd-a289-68ae1b04c0d1",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000046_52386f6d213b",
+                "sequence": 46,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:freeTextProgress",
+                "summary": "运行时状态字段“freeTextProgress”已由受控方向更新。",
+                "before": 7,
+                "after": 8,
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "direction_free_0f5892651391",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000047_53631f03fa8b",
+                "sequence": 47,
+                "kind": "location",
+                "operation": "added",
+                "entityId": "location_observed_a08c2316499582f2",
+                "summary": "本回合原文确认的场所：岸边",
+                "before": null,
+                "after": {
+                  "id": "location_observed_a08c2316499582f2",
+                  "name": "岸边",
+                  "summary": "本回合原文确认的场所：岸边"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000048_b29100a7e30a",
+                "sequence": 48,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:threadLedger",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": [
+                  {
+                    "id": "opening-thread-1",
+                    "title": "木牌刻痕里为何有金屑",
+                    "status": "abandoned",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离交回纸包并明确不再调查金屑，执事收下称会呈上查验。",
+                    "evidence": "“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "id": "opening-thread-2",
+                    "title": "如何完成第一场外门试炼",
+                    "status": "abandoned",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离在钟响前退试，执事按弃权处理并记名。",
+                    "evidence": "“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "title": "退试弃权的后果",
+                    "status": "open",
+                    "reason": "执事已告知三年内不得再投玄霄宗山门，纸中物会呈上查验，后续影响尚未展开。",
+                    "evidence": "“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "priority": "normal",
+                    "recoveryWindow": "mid",
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "id": "thread-fe16398d9e2967cb",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d"
+                  },
+                  {
+                    "title": "今晚住哪儿、明天是否继续在码头做工",
+                    "status": "resolved",
+                    "reason": "顾长离已答应明天继续来码头做工，并在镇口通铺付三文住下。",
+                    "evidence": "“明天还来。”你说。\n\n老周把竹签往腰后一别，点了点头，没多话。你趁他还没走开，又问了一句：“这附近有没有干净便宜的通铺？能洗漱就行。”\n\n他上下打量你一眼，像是早料到你会问。“镇口那边有一家，你顺着这条街往西走，过了石桥再走半条街，门口挂盏白灯笼的就是。”他伸出三根手指，“一晚三文，有热水，洗漱不另收钱。就是铺位挤，通铺，跟人挨着睡。你要嫌吵，往里走还有家客栈，一晚十五文，你自己掂量。”\n\n“三文就行。”你道了谢。\n\n老周摆摆手，转身去招呼剩下几个还没领钱的脚夫。\n\n你按他指的方向走。街上的灯陆续亮起来，卖吃食的摊子收了，只剩几家铺面还开着门。过了石桥，往西半条街，果然看见一盏白灯笼挂在门檐下，灯笼上没写字，只画了个歪歪扭扭的“宿”字。\n\n推门进去，堂里摆着几张条凳，一个五十来岁的掌柜正就着油灯算账。他抬头看你一眼，见你一身汗渍、肩上搭着外衣，也不多问。\n\n“住店？”\n\n“通铺，一晚多少？”\n\n“三文。”掌柜把算盘往边上一推，“热水在后院灶上，自己去舀，不另收钱。被褥有，旧的，将就盖。明早天亮前走，不催你。”\n\n“没有别的费用？”\n\n“没有。”掌柜答得干脆，“三文就是三文。你要吃饭，街对面有卖面的，我这儿不管饭。”\n\n你从怀里数出三枚铜钱搁在柜上。掌柜收了钱，从墙上取下一块木牌递给你，牌上刻着“拾贰”两个字。“铺位在里间，十二号，自己找。”\n\n你穿过堂屋，掀开布帘，里间是一长溜通铺，铺板上铺着草席和薄被，已经躺了四五个人，有的打着鼾，有的翻了个身。你找到十二号铺位，把外衣叠了当枕头，行李搁在脚边。后院灶上果然温着一锅热水，你舀了半盆，就着天井的月光洗了把脸，又擦了擦脖颈和胳膊上的汗渍。水是温的，洗过之后身上松快了些。",
+                    "priority": "normal",
+                    "recoveryWindow": "immediate",
+                    "causeBranchId": "branch_7dcc9da5-2b29-4049-abb6-1978cca053a0",
+                    "id": "thread-8cc7d4110b0407a9",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_071c4d72-f5a3-4fee-8274-5cc72b5bf1c3"
+                  },
+                  {
+                    "title": "跳板裂板是否在明早船到前换好",
+                    "status": "open",
+                    "reason": "老周答应明早船到前让老赵带人换，但尚未实际更换。",
+                    "evidence": "“明天还来。”你说，“但有一样——跳板中段那块裂的，你说了让人换，得先换好。今天我从靠岸那头走，明天要是还这么裂着，扛着粮踩上去，谁摊上谁倒霉。”\n\n老周把竹签在鞋帮上磕了两下，站起来，往跳板那边瞥了一眼。“记着呢。明早船到之前我让老赵带人换，库房里有旧板，尺寸差不多。”他顿了顿，像是琢磨你这话，“你倒操心这个。”\n\n“操心的是自己这条命。”你说。\n\n老周哼了一声，没恼，反倒把竹签往腰后一别，正眼看了你一回。“行。明天来先看板子，换好了你再上。”",
+                    "priority": "high",
+                    "recoveryWindow": "immediate",
+                    "causeBranchId": "branch_48ffa97d-4797-4ddd-a289-68ae1b04c0d1",
+                    "id": "thread-7411207ee9c5698e",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_48ffa97d-4797-4ddd-a289-68ae1b04c0d1"
+                  }
+                ],
+                "after": [
+                  {
+                    "id": "opening-thread-1",
+                    "title": "木牌刻痕里为何有金屑",
+                    "status": "abandoned",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离交回纸包并明确不再调查金屑，执事收下称会呈上查验。",
+                    "evidence": "“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "id": "opening-thread-2",
+                    "title": "如何完成第一场外门试炼",
+                    "status": "abandoned",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离在钟响前退试，执事按弃权处理并记名。",
+                    "evidence": "“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "title": "退试弃权的后果",
+                    "status": "open",
+                    "reason": "执事已告知三年内不得再投玄霄宗山门，纸中物会呈上查验，后续影响尚未展开。",
+                    "evidence": "“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "priority": "normal",
+                    "recoveryWindow": "mid",
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "id": "thread-fe16398d9e2967cb",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d"
+                  },
+                  {
+                    "title": "今晚住哪儿、明天是否继续在码头做工",
+                    "status": "resolved",
+                    "reason": "顾长离已答应明天继续来码头做工，并在镇口通铺付三文住下。",
+                    "evidence": "“明天还来。”你说。\n\n老周把竹签往腰后一别，点了点头，没多话。你趁他还没走开，又问了一句：“这附近有没有干净便宜的通铺？能洗漱就行。”\n\n他上下打量你一眼，像是早料到你会问。“镇口那边有一家，你顺着这条街往西走，过了石桥再走半条街，门口挂盏白灯笼的就是。”他伸出三根手指，“一晚三文，有热水，洗漱不另收钱。就是铺位挤，通铺，跟人挨着睡。你要嫌吵，往里走还有家客栈，一晚十五文，你自己掂量。”\n\n“三文就行。”你道了谢。\n\n老周摆摆手，转身去招呼剩下几个还没领钱的脚夫。\n\n你按他指的方向走。街上的灯陆续亮起来，卖吃食的摊子收了，只剩几家铺面还开着门。过了石桥，往西半条街，果然看见一盏白灯笼挂在门檐下，灯笼上没写字，只画了个歪歪扭扭的“宿”字。\n\n推门进去，堂里摆着几张条凳，一个五十来岁的掌柜正就着油灯算账。他抬头看你一眼，见你一身汗渍、肩上搭着外衣，也不多问。\n\n“住店？”\n\n“通铺，一晚多少？”\n\n“三文。”掌柜把算盘往边上一推，“热水在后院灶上，自己去舀，不另收钱。被褥有，旧的，将就盖。明早天亮前走，不催你。”\n\n“没有别的费用？”\n\n“没有。”掌柜答得干脆，“三文就是三文。你要吃饭，街对面有卖面的，我这儿不管饭。”\n\n你从怀里数出三枚铜钱搁在柜上。掌柜收了钱，从墙上取下一块木牌递给你，牌上刻着“拾贰”两个字。“铺位在里间，十二号，自己找。”\n\n你穿过堂屋，掀开布帘，里间是一长溜通铺，铺板上铺着草席和薄被，已经躺了四五个人，有的打着鼾，有的翻了个身。你找到十二号铺位，把外衣叠了当枕头，行李搁在脚边。后院灶上果然温着一锅热水，你舀了半盆，就着天井的月光洗了把脸，又擦了擦脖颈和胳膊上的汗渍。水是温的，洗过之后身上松快了些。",
+                    "priority": "normal",
+                    "recoveryWindow": "immediate",
+                    "causeBranchId": "branch_7dcc9da5-2b29-4049-abb6-1978cca053a0",
+                    "id": "thread-8cc7d4110b0407a9",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_071c4d72-f5a3-4fee-8274-5cc72b5bf1c3"
+                  },
+                  {
+                    "title": "跳板裂板是否在明早船到前换好",
+                    "status": "resolved",
+                    "reason": "顾长离第三天到码头查看，跳板中段裂板已换新板，踩踏稳当，安全确认后开工。",
+                    "evidence": "跳板还是那块跳板，但中段那块裂板不见了。新换上的木板颜色比两边的浅，木纹还带着毛刺，边缘没来得及刨光。你蹲下，用手掌按了按，板子纹丝不动。又站上去，脚跟用力跺了两下，只发出闷实的一声，没有昨天那种发软的颤。你退回来，又沿跳板从头到尾走了一趟，每块板都踩过，靠岸这头稳，中段新板也稳。\n\n老周的声音从船那边传过来：“看够了没有？”\n\n他站在船头，手里还是那根竹签，短褂敞着，脸上带着点没睡醒的倦意，但眼神是清的。\n\n“换过了。”你说。\n\n“昨晚上让老赵带人换的。”老周跳下船，走到跳板口，也踩了一脚新板，“库房里翻出来的旧料，尺寸差不多，钉死了。今天能走。”",
+                    "priority": "high",
+                    "recoveryWindow": "immediate",
+                    "causeBranchId": "branch_f2bb81bf-e775-49c6-b6da-24aa2b1cbaec",
+                    "id": "thread-7411207ee9c5698e",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_48ffa97d-4797-4ddd-a289-68ae1b04c0d1"
+                  },
+                  {
+                    "title": "受潮粮交接记录是否被老周认可",
+                    "status": "open",
+                    "reason": "顾长离与老赵点清并核对记录，老周收下作底，但重申对账时只认仓房实物，记录效力仍待粮行对账时检验。",
+                    "evidence": "“记下了。”他说，“七包，仓房角上，老赵经手。回头粮行来人对账，我拿这个对。”\n\n他顿了顿，看着你：“可我还是那句话——对账的时候，我只认仓房里的货。你这张纸，我留着做个底，对不上，我不认。”",
+                    "priority": "normal",
+                    "recoveryWindow": "near",
+                    "causeBranchId": "branch_f2bb81bf-e775-49c6-b6da-24aa2b1cbaec",
+                    "id": "thread-686f7f540bce43ee",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_f2bb81bf-e775-49c6-b6da-24aa2b1cbaec"
+                  }
+                ],
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_f2bb81bf-e775-49c6-b6da-24aa2b1cbaec",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000049_45f7fbd71aa2",
+                "sequence": 49,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:readerEntityStates",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": {
+                  "character_e663361ab1c7": {
+                    "trialStatus": "弃权",
+                    "sectBan": "三年内不得再投玄霄宗山门",
+                    "location": "草棚",
+                    "employment": "陈记面铺做工换食宿，头一个月无工钱，一个月后每月三十文",
+                    "money": 10,
+                    "lodging": "通铺十二号铺位",
+                    "tomorrowWork": "码头卸粮短工",
+                    "copperCoins": 13
+                  },
+                  "character_laochen": {
+                    "雇佣条件": "头一个月无工钱，管早晚两顿、晌午自理，卯时起到打烊歇，满月后每月三十文，活计为劈柴挑水洗碗擦桌"
+                  },
+                  "character_chenji_furen": {
+                    "提供信息": "镇东码头和粮行缺短工，日结几文、管一顿晌午饭、不包住"
+                  }
+                },
+                "after": {
+                  "character_e663361ab1c7": {
+                    "trialStatus": "弃权",
+                    "sectBan": "三年内不得再投玄霄宗山门",
+                    "location": "草棚",
+                    "employment": "陈记面铺做工换食宿，头一个月无工钱，一个月后每月三十文",
+                    "money": 10,
+                    "lodging": "通铺十二号铺位",
+                    "tomorrowWork": "码头卸粮短工",
+                    "copperCoins": 13,
+                    "cashCopper": 18
+                  },
+                  "character_laochen": {
+                    "雇佣条件": "头一个月无工钱，管早晚两顿、晌午自理，卯时起到打烊歇，满月后每月三十文，活计为劈柴挑水洗碗擦桌"
+                  },
+                  "character_chenji_furen": {
+                    "提供信息": "镇东码头和粮行缺短工，日结几文、管一顿晌午饭、不包住"
+                  }
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_f2bb81bf-e775-49c6-b6da-24aa2b1cbaec",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000050_02e800e4703e",
+                "sequence": 50,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:characterLocationIds",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": {
+                  "character_e663361ab1c7": "location_tongpu",
+                  "character_ae4cb42b9b49": "location_open_trial",
+                  "character_chenji_furen": "location_observed_8f202f21995db7e7",
+                  "character_tongpu_zhanggui": "location_tongpu"
+                },
+                "after": {
+                  "character_e663361ab1c7": "location_observed_a08c2316499582f2",
+                  "character_ae4cb42b9b49": "location_open_trial",
+                  "character_chenji_furen": "location_observed_8f202f21995db7e7",
+                  "character_tongpu_zhanggui": "location_tongpu"
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_f2bb81bf-e775-49c6-b6da-24aa2b1cbaec",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000051_a0a1a8b6e2a8",
+                "sequence": 51,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:playerLocationId",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": "location_tongpu",
+                "after": "location_observed_a08c2316499582f2",
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_f2bb81bf-e775-49c6-b6da-24aa2b1cbaec",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000052_8d155f0b62d6",
+                "sequence": 52,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:freeTextProgress",
+                "summary": "运行时状态字段“freeTextProgress”已由受控方向更新。",
+                "before": 8,
+                "after": 9,
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "direction_free_cbc72f67dbda",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000053_f4716227fbad",
+                "sequence": 53,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:readerEntityStates",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": {
+                  "character_e663361ab1c7": {
+                    "trialStatus": "弃权",
+                    "sectBan": "三年内不得再投玄霄宗山门",
+                    "location": "草棚",
+                    "employment": "陈记面铺做工换食宿，头一个月无工钱，一个月后每月三十文",
+                    "money": 10,
+                    "lodging": "通铺十二号铺位",
+                    "tomorrowWork": "码头卸粮短工",
+                    "copperCoins": 13,
+                    "cashCopper": 18
+                  },
+                  "character_laochen": {
+                    "雇佣条件": "头一个月无工钱，管早晚两顿、晌午自理，卯时起到打烊歇，满月后每月三十文，活计为劈柴挑水洗碗擦桌"
+                  },
+                  "character_chenji_furen": {
+                    "提供信息": "镇东码头和粮行缺短工，日结几文、管一顿晌午饭、不包住"
+                  }
+                },
+                "after": {
+                  "character_e663361ab1c7": {
+                    "trialStatus": "弃权",
+                    "sectBan": "三年内不得再投玄霄宗山门",
+                    "location": "草棚",
+                    "employment": "陈记面铺做工换食宿，头一个月无工钱，一个月后每月三十文",
+                    "money": 10,
+                    "lodging": "通铺十二号铺位",
+                    "tomorrowWork": "码头卸粮短工",
+                    "copperCoins": 13,
+                    "cashCopper": 18
+                  },
+                  "character_laochen": {
+                    "雇佣条件": "头一个月无工钱，管早晚两顿、晌午自理，卯时起到打烊歇，满月后每月三十文，活计为劈柴挑水洗碗擦桌"
+                  },
+                  "character_chenji_furen": {
+                    "提供信息": "镇东码头和粮行缺短工，日结几文、管一顿晌午饭、不包住"
+                  },
+                  "character_laozhou": {
+                    "受潮粮底单来源标注": "已用竹签划干痕将亲见与转述两段隔开，并同意明天粮行对账时摊开说明",
+                    "持有受潮粮底单": "已标注来源，明天粮行对账时摊开说明"
+                  }
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_6a148a8e-6e13-41da-b734-22eea154bb12",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000054_dbfcde29ade6",
+                "sequence": 54,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:freeTextProgress",
+                "summary": "运行时状态字段“freeTextProgress”已由受控方向更新。",
+                "before": 9,
+                "after": 10,
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "direction_free_cbcb93c6d2f9",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000055_17f9a3086a02",
+                "sequence": 55,
+                "kind": "location",
+                "operation": "added",
+                "entityId": "location_observed_727c999048256239",
+                "summary": "本回合原文确认的场所：仓房",
+                "before": null,
+                "after": {
+                  "id": "location_observed_727c999048256239",
+                  "name": "仓房",
+                  "summary": "本回合原文确认的场所：仓房"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000056_3ca79c3f6ade",
+                "sequence": 56,
+                "kind": "character",
+                "operation": "added",
+                "entityId": "character_wu_xiansheng",
+                "summary": "粮行账房先生，穿灰布长衫，戴铜边眼镜，到仓房当面核验七包受潮粮，认下底单，按印注明转述来源，采信顾长离亲见部分，粮行按受潮粮折价收下七包。",
+                "before": null,
+                "after": {
+                  "id": "character_wu_xiansheng",
+                  "name": "吴先生",
+                  "summary": "粮行账房先生，穿灰布长衫，戴铜边眼镜，到仓房当面核验七包受潮粮，认下底单，按印注明转述来源，采信顾长离亲见部分，粮行按受潮粮折价收下七包。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000057_2e48368a6f89",
+                "sequence": 57,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:threadLedger",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": [
+                  {
+                    "id": "opening-thread-1",
+                    "title": "木牌刻痕里为何有金屑",
+                    "status": "abandoned",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离交回纸包并明确不再调查金屑，执事收下称会呈上查验。",
+                    "evidence": "“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "id": "opening-thread-2",
+                    "title": "如何完成第一场外门试炼",
+                    "status": "abandoned",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离在钟响前退试，执事按弃权处理并记名。",
+                    "evidence": "“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "title": "退试弃权的后果",
+                    "status": "open",
+                    "reason": "执事已告知三年内不得再投玄霄宗山门，纸中物会呈上查验，后续影响尚未展开。",
+                    "evidence": "“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "priority": "normal",
+                    "recoveryWindow": "mid",
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "id": "thread-fe16398d9e2967cb",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d"
+                  },
+                  {
+                    "title": "今晚住哪儿、明天是否继续在码头做工",
+                    "status": "resolved",
+                    "reason": "顾长离已答应明天继续来码头做工，并在镇口通铺付三文住下。",
+                    "evidence": "“明天还来。”你说。\n\n老周把竹签往腰后一别，点了点头，没多话。你趁他还没走开，又问了一句：“这附近有没有干净便宜的通铺？能洗漱就行。”\n\n他上下打量你一眼，像是早料到你会问。“镇口那边有一家，你顺着这条街往西走，过了石桥再走半条街，门口挂盏白灯笼的就是。”他伸出三根手指，“一晚三文，有热水，洗漱不另收钱。就是铺位挤，通铺，跟人挨着睡。你要嫌吵，往里走还有家客栈，一晚十五文，你自己掂量。”\n\n“三文就行。”你道了谢。\n\n老周摆摆手，转身去招呼剩下几个还没领钱的脚夫。\n\n你按他指的方向走。街上的灯陆续亮起来，卖吃食的摊子收了，只剩几家铺面还开着门。过了石桥，往西半条街，果然看见一盏白灯笼挂在门檐下，灯笼上没写字，只画了个歪歪扭扭的“宿”字。\n\n推门进去，堂里摆着几张条凳，一个五十来岁的掌柜正就着油灯算账。他抬头看你一眼，见你一身汗渍、肩上搭着外衣，也不多问。\n\n“住店？”\n\n“通铺，一晚多少？”\n\n“三文。”掌柜把算盘往边上一推，“热水在后院灶上，自己去舀，不另收钱。被褥有，旧的，将就盖。明早天亮前走，不催你。”\n\n“没有别的费用？”\n\n“没有。”掌柜答得干脆，“三文就是三文。你要吃饭，街对面有卖面的，我这儿不管饭。”\n\n你从怀里数出三枚铜钱搁在柜上。掌柜收了钱，从墙上取下一块木牌递给你，牌上刻着“拾贰”两个字。“铺位在里间，十二号，自己找。”\n\n你穿过堂屋，掀开布帘，里间是一长溜通铺，铺板上铺着草席和薄被，已经躺了四五个人，有的打着鼾，有的翻了个身。你找到十二号铺位，把外衣叠了当枕头，行李搁在脚边。后院灶上果然温着一锅热水，你舀了半盆，就着天井的月光洗了把脸，又擦了擦脖颈和胳膊上的汗渍。水是温的，洗过之后身上松快了些。",
+                    "priority": "normal",
+                    "recoveryWindow": "immediate",
+                    "causeBranchId": "branch_7dcc9da5-2b29-4049-abb6-1978cca053a0",
+                    "id": "thread-8cc7d4110b0407a9",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_071c4d72-f5a3-4fee-8274-5cc72b5bf1c3"
+                  },
+                  {
+                    "title": "跳板裂板是否在明早船到前换好",
+                    "status": "resolved",
+                    "reason": "顾长离第三天到码头查看，跳板中段裂板已换新板，踩踏稳当，安全确认后开工。",
+                    "evidence": "跳板还是那块跳板，但中段那块裂板不见了。新换上的木板颜色比两边的浅，木纹还带着毛刺，边缘没来得及刨光。你蹲下，用手掌按了按，板子纹丝不动。又站上去，脚跟用力跺了两下，只发出闷实的一声，没有昨天那种发软的颤。你退回来，又沿跳板从头到尾走了一趟，每块板都踩过，靠岸这头稳，中段新板也稳。\n\n老周的声音从船那边传过来：“看够了没有？”\n\n他站在船头，手里还是那根竹签，短褂敞着，脸上带着点没睡醒的倦意，但眼神是清的。\n\n“换过了。”你说。\n\n“昨晚上让老赵带人换的。”老周跳下船，走到跳板口，也踩了一脚新板，“库房里翻出来的旧料，尺寸差不多，钉死了。今天能走。”",
+                    "priority": "high",
+                    "recoveryWindow": "immediate",
+                    "causeBranchId": "branch_f2bb81bf-e775-49c6-b6da-24aa2b1cbaec",
+                    "id": "thread-7411207ee9c5698e",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_48ffa97d-4797-4ddd-a289-68ae1b04c0d1"
+                  },
+                  {
+                    "title": "受潮粮交接记录是否被老周认可",
+                    "status": "open",
+                    "reason": "顾长离与老赵点清并核对记录，老周收下作底，但重申对账时只认仓房实物，记录效力仍待粮行对账时检验。",
+                    "evidence": "“记下了。”他说，“七包，仓房角上，老赵经手。回头粮行来人对账，我拿这个对。”\n\n他顿了顿，看着你：“可我还是那句话——对账的时候，我只认仓房里的货。你这张纸，我留着做个底，对不上，我不认。”",
+                    "priority": "normal",
+                    "recoveryWindow": "near",
+                    "causeBranchId": "branch_f2bb81bf-e775-49c6-b6da-24aa2b1cbaec",
+                    "id": "thread-686f7f540bce43ee",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_f2bb81bf-e775-49c6-b6da-24aa2b1cbaec"
+                  }
+                ],
+                "after": [
+                  {
+                    "id": "opening-thread-1",
+                    "title": "木牌刻痕里为何有金屑",
+                    "status": "abandoned",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离交回纸包并明确不再调查金屑，执事收下称会呈上查验。",
+                    "evidence": "“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "id": "opening-thread-2",
+                    "title": "如何完成第一场外门试炼",
+                    "status": "abandoned",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离在钟响前退试，执事按弃权处理并记名。",
+                    "evidence": "“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "title": "退试弃权的后果",
+                    "status": "open",
+                    "reason": "执事已告知三年内不得再投玄霄宗山门，纸中物会呈上查验，后续影响尚未展开。",
+                    "evidence": "“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "priority": "normal",
+                    "recoveryWindow": "mid",
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "id": "thread-fe16398d9e2967cb",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d"
+                  },
+                  {
+                    "title": "今晚住哪儿、明天是否继续在码头做工",
+                    "status": "resolved",
+                    "reason": "顾长离已答应明天继续来码头做工，并在镇口通铺付三文住下。",
+                    "evidence": "“明天还来。”你说。\n\n老周把竹签往腰后一别，点了点头，没多话。你趁他还没走开，又问了一句：“这附近有没有干净便宜的通铺？能洗漱就行。”\n\n他上下打量你一眼，像是早料到你会问。“镇口那边有一家，你顺着这条街往西走，过了石桥再走半条街，门口挂盏白灯笼的就是。”他伸出三根手指，“一晚三文，有热水，洗漱不另收钱。就是铺位挤，通铺，跟人挨着睡。你要嫌吵，往里走还有家客栈，一晚十五文，你自己掂量。”\n\n“三文就行。”你道了谢。\n\n老周摆摆手，转身去招呼剩下几个还没领钱的脚夫。\n\n你按他指的方向走。街上的灯陆续亮起来，卖吃食的摊子收了，只剩几家铺面还开着门。过了石桥，往西半条街，果然看见一盏白灯笼挂在门檐下，灯笼上没写字，只画了个歪歪扭扭的“宿”字。\n\n推门进去，堂里摆着几张条凳，一个五十来岁的掌柜正就着油灯算账。他抬头看你一眼，见你一身汗渍、肩上搭着外衣，也不多问。\n\n“住店？”\n\n“通铺，一晚多少？”\n\n“三文。”掌柜把算盘往边上一推，“热水在后院灶上，自己去舀，不另收钱。被褥有，旧的，将就盖。明早天亮前走，不催你。”\n\n“没有别的费用？”\n\n“没有。”掌柜答得干脆，“三文就是三文。你要吃饭，街对面有卖面的，我这儿不管饭。”\n\n你从怀里数出三枚铜钱搁在柜上。掌柜收了钱，从墙上取下一块木牌递给你，牌上刻着“拾贰”两个字。“铺位在里间，十二号，自己找。”\n\n你穿过堂屋，掀开布帘，里间是一长溜通铺，铺板上铺着草席和薄被，已经躺了四五个人，有的打着鼾，有的翻了个身。你找到十二号铺位，把外衣叠了当枕头，行李搁在脚边。后院灶上果然温着一锅热水，你舀了半盆，就着天井的月光洗了把脸，又擦了擦脖颈和胳膊上的汗渍。水是温的，洗过之后身上松快了些。",
+                    "priority": "normal",
+                    "recoveryWindow": "immediate",
+                    "causeBranchId": "branch_7dcc9da5-2b29-4049-abb6-1978cca053a0",
+                    "id": "thread-8cc7d4110b0407a9",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_071c4d72-f5a3-4fee-8274-5cc72b5bf1c3"
+                  },
+                  {
+                    "title": "跳板裂板是否在明早船到前换好",
+                    "status": "resolved",
+                    "reason": "顾长离第三天到码头查看，跳板中段裂板已换新板，踩踏稳当，安全确认后开工。",
+                    "evidence": "跳板还是那块跳板，但中段那块裂板不见了。新换上的木板颜色比两边的浅，木纹还带着毛刺，边缘没来得及刨光。你蹲下，用手掌按了按，板子纹丝不动。又站上去，脚跟用力跺了两下，只发出闷实的一声，没有昨天那种发软的颤。你退回来，又沿跳板从头到尾走了一趟，每块板都踩过，靠岸这头稳，中段新板也稳。\n\n老周的声音从船那边传过来：“看够了没有？”\n\n他站在船头，手里还是那根竹签，短褂敞着，脸上带着点没睡醒的倦意，但眼神是清的。\n\n“换过了。”你说。\n\n“昨晚上让老赵带人换的。”老周跳下船，走到跳板口，也踩了一脚新板，“库房里翻出来的旧料，尺寸差不多，钉死了。今天能走。”",
+                    "priority": "high",
+                    "recoveryWindow": "immediate",
+                    "causeBranchId": "branch_f2bb81bf-e775-49c6-b6da-24aa2b1cbaec",
+                    "id": "thread-7411207ee9c5698e",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_48ffa97d-4797-4ddd-a289-68ae1b04c0d1"
+                  },
+                  {
+                    "title": "受潮粮交接记录是否被老周认可",
+                    "status": "resolved",
+                    "reason": "粮行吴先生当面核验七包受潮粮，认下底单，按印注明转述来源，采信顾长离亲见部分，粮行按受潮粮折价收下。",
+                    "evidence": "吴先生从长衫襟里摸出一方小印和一小盒印泥，在账册上翻到一页空白，把七包粮的数目、受潮情况、仓房位置简略记下，然后抬眼：“认。数目、现状、位置，我当面核过了，和底单对得上。装船那一段是老赵报的，我另记一笔，注明转述来源，不混进实货核验里。”\n\n他顿了顿，看向你：“你记的那部分，我采信。你没在场的，不写你名下。”\n\n老周把底单递过去，吴先生在纸角按了印，又在自己账册上按了同一个印，两处印文并排。他把账册合上，对老周说：“这七包粮，粮行收下，按受潮粮折价入账。回头我让人来搬。”\n\n老周“嗯”了一声，把按了印的底单折好，这回没揣回怀里，而是递还给你。\n\n“你的底，你拿着。”他说，“粮行认了。”",
+                    "priority": "normal",
+                    "recoveryWindow": "near",
+                    "causeBranchId": "branch_74aea80e-5314-4dd9-8fe4-f7a932038818",
+                    "id": "thread-686f7f540bce43ee",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_f2bb81bf-e775-49c6-b6da-24aa2b1cbaec"
+                  }
+                ],
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_74aea80e-5314-4dd9-8fe4-f7a932038818",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000058_daffa9e76806",
+                "sequence": 58,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:characterLocationIds",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": {
+                  "character_e663361ab1c7": "location_observed_a08c2316499582f2",
+                  "character_ae4cb42b9b49": "location_open_trial",
+                  "character_chenji_furen": "location_observed_8f202f21995db7e7",
+                  "character_tongpu_zhanggui": "location_tongpu"
+                },
+                "after": {
+                  "character_e663361ab1c7": "location_observed_727c999048256239",
+                  "character_ae4cb42b9b49": "location_open_trial",
+                  "character_chenji_furen": "location_observed_8f202f21995db7e7",
+                  "character_tongpu_zhanggui": "location_tongpu",
+                  "character_laozhou": "location_observed_727c999048256239",
+                  "character_laozhao": "location_observed_727c999048256239"
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_74aea80e-5314-4dd9-8fe4-f7a932038818",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000059_32209e260615",
+                "sequence": 59,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:playerLocationId",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": "location_observed_a08c2316499582f2",
+                "after": "location_observed_727c999048256239",
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_74aea80e-5314-4dd9-8fe4-f7a932038818",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000060_5c81231978bb",
+                "sequence": 60,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:freeTextProgress",
+                "summary": "运行时状态字段“freeTextProgress”已由受控方向更新。",
+                "before": 10,
+                "after": 11,
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "direction_free_822a20bfde70",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000061_532a6164420c",
+                "sequence": 61,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:readerEntityStates",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": {
+                  "character_e663361ab1c7": {
+                    "trialStatus": "弃权",
+                    "sectBan": "三年内不得再投玄霄宗山门",
+                    "location": "草棚",
+                    "employment": "陈记面铺做工换食宿，头一个月无工钱，一个月后每月三十文",
+                    "money": 10,
+                    "lodging": "通铺十二号铺位",
+                    "tomorrowWork": "码头卸粮短工",
+                    "copperCoins": 13,
+                    "cashCopper": 18
+                  },
+                  "character_laochen": {
+                    "雇佣条件": "头一个月无工钱，管早晚两顿、晌午自理，卯时起到打烊歇，满月后每月三十文，活计为劈柴挑水洗碗擦桌"
+                  },
+                  "character_chenji_furen": {
+                    "提供信息": "镇东码头和粮行缺短工，日结几文、管一顿晌午饭、不包住"
+                  },
+                  "character_laozhou": {
+                    "受潮粮底单来源标注": "已用竹签划干痕将亲见与转述两段隔开，并同意明天粮行对账时摊开说明",
+                    "持有受潮粮底单": "已标注来源，明天粮行对账时摊开说明"
+                  }
+                },
+                "after": {
+                  "character_e663361ab1c7": {
+                    "trialStatus": "弃权",
+                    "sectBan": "三年内不得再投玄霄宗山门",
+                    "location": "草棚",
+                    "employment": "陈记面铺做工换食宿，头一个月无工钱，一个月后每月三十文",
+                    "money": 10,
+                    "lodging": "通铺十二号铺位",
+                    "tomorrowWork": "码头卸粮短工",
+                    "copperCoins": 13,
+                    "cashCopper": 18,
+                    "持有按印底单": true,
+                    "今日核账工钱": "半天工四文，明日早上随卸货工钱一并结",
+                    "码头卸货工钱约定": "一天八文，日结，管晌午饭，明日船到前到草棚领牌子"
+                  },
+                  "character_laochen": {
+                    "雇佣条件": "头一个月无工钱，管早晚两顿、晌午自理，卯时起到打烊歇，满月后每月三十文，活计为劈柴挑水洗碗擦桌"
+                  },
+                  "character_chenji_furen": {
+                    "提供信息": "镇东码头和粮行缺短工，日结几文、管一顿晌午饭、不包住"
+                  },
+                  "character_laozhou": {
+                    "受潮粮底单来源标注": "已用竹签划干痕将亲见与转述两段隔开，并同意明天粮行对账时摊开说明",
+                    "持有受潮粮底单": "已标注来源，明天粮行对账时摊开说明"
+                  }
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_9ad444de-1410-401a-84e5-dedc8db9a4f7",
+                  "nodeRef": "node_source_continuity"
+                }
+              }
+            ]
+          },
+          "sourceProgress": "chapter_011",
+          "freeTextProgress": 11,
+          "storyScope": "source",
+          "derivativeStage": "inactive",
+          "derivedTurn": 0,
+          "derivedLocations": [
+            {
+              "id": "location_west_side_gate",
+              "name": "侧门",
+              "summary": "半山试炼场西侧石阶尽头的门，门外是通往东南的黄土官道。"
+            },
+            {
+              "id": "location_chenji_mianpu",
+              "name": "陈记面铺",
+              "summary": "青石镇街尾还亮着灯的食铺，门脸不宽，檐下挂旧木匾，内摆四五张方桌，灶台在里侧。"
+            },
+            {
+              "id": "location_tuwu",
+              "name": "土屋",
+              "summary": "陈记面铺后头小天井角落的低矮土屋，堆着柴和破缸，靠墙有一块空地铺着发黑草席，顾长离在此歇下。"
+            },
+            {
+              "id": "location_observed_8f202f21995db7e7",
+              "name": "灶边",
+              "summary": "本回合原文确认的场所：灶边"
+            },
+            {
+              "id": "location_caopeng",
+              "name": "草棚",
+              "summary": "码头岸上搭着草棚的地方，晌午管一顿糙米饭配咸菜，顾长离在此吃饭。"
+            },
+            {
+              "id": "location_matou",
+              "name": "码头",
+              "summary": "镇东码头，河面宽出许多，沿岸泊着七八条船，岸上堆着粮包木箱竹篓，脚夫扛麻袋上下。"
+            },
+            {
+              "id": "location_tongpu",
+              "name": "通铺",
+              "summary": "镇口过石桥往西半条街、门口挂白灯笼的住处，一晚三文，有热水洗漱不另收费，里间为长溜通铺，铺位较挤。"
+            },
+            {
+              "id": "location_observed_a08c2316499582f2",
+              "name": "岸边",
+              "summary": "本回合原文确认的场所：岸边"
+            },
+            {
+              "id": "location_observed_727c999048256239",
+              "name": "仓房",
+              "summary": "本回合原文确认的场所：仓房"
+            }
+          ],
+          "derivedCharacters": [
+            {
+              "id": "character_gray_robe_deacon",
+              "name": "灰袍执事",
+              "summary": "半山试炼场负责试炼的执事，受理顾长离退试，记名弃权，告知三年内不得再投玄霄宗山门，并收下木牌与纸包。"
+            },
+            {
+              "id": "character_old_handyman",
+              "name": "老杂役",
+              "summary": "西侧门边打瞌睡的老杂役，让顾长离按手印后放行下山。"
+            },
+            {
+              "id": "character_chenji_furen",
+              "name": "妇人",
+              "summary": "陈记面铺里擦台面的五十来岁妇人，问明顾长离来意后叫出老陈，补充说明只有旧草席、被褥自理。"
+            },
+            {
+              "id": "character_laochen",
+              "name": "老陈",
+              "summary": "陈记面铺灶台后的瘦高男人，腰间系围裙、手上沾面粉。问明顾长离会劈柴挑水后，答应让他先住下，交代活计、工钱与卯时起身劈柴。"
+            },
+            {
+              "id": "character_laozhou",
+              "name": "老周",
+              "summary": "镇东码头领工，四十上下，脸晒得黑红，短褂敞怀，腰间别木牌，手持竹签点数。给顾长离一天八文、日结、管晌午饭的卸粮短工，发刻“柒”字木牌，收工后问明天是否还来。"
+            },
+            {
+              "id": "character_laozhao",
+              "name": "老赵",
+              "summary": "码头上正往下递粮包的汉子，老周让顾长离给他搭把手。"
+            },
+            {
+              "id": "character_tongpu_zhanggui",
+              "name": "掌柜",
+              "summary": "镇口通铺的五十来岁掌柜，收三文一晚，提供热水洗漱不另收费，给顾长离刻有“拾贰”的铺位木牌。"
+            },
+            {
+              "id": "character_wu_xiansheng",
+              "name": "吴先生",
+              "summary": "粮行账房先生，穿灰布长衫，戴铜边眼镜，到仓房当面核验七包受潮粮，认下底单，按印注明转述来源，采信顾长离亲见部分，粮行按受潮粮折价收下七包。"
+            }
+          ],
+          "derivedItems": [
+            {
+              "id": "item_mupai_qi",
+              "name": "木牌",
+              "summary": "老周发给顾长离的刻着“柒”字的小木牌，凭此收工领钱，收工后已被老周收回。"
+            }
+          ],
+          "derivedCharacterReveals": [],
+          "derivedRelationships": [],
+          "derivedClues": [],
+          "derivedEvents": [],
+          "itemOwnerCharacterIds": {
+            "item_open_gu_token": "character_e663361ab1c7",
+            "item_open_gold_paper": "character_e663361ab1c7"
+          },
+          "itemLocationIds": {},
+          "characterOutcomeStates": {
+            "character_e663361ab1c7": {
+              "characterId": "character_e663361ab1c7",
+              "status": "alive",
+              "permanence": "temporary",
+              "requirementId": "A1",
+              "cause": "在码头卸粮一天后收工领钱，人无损伤。",
+              "evidence": "你点点头，没多问。吃完饭歇了一炷香的工夫，老周又喊开工。剩下的粮包卸到日头偏西，船空了，仓房满了。老周拿着竹签挨个收牌发钱，轮到你时，他数了八枚铜钱搁在你手心，铜钱还带着他掌心的汗。",
+              "causeBranchId": "branch_071c4d72-f5a3-4fee-8274-5cc72b5bf1c3"
+            }
+          },
+          "threadLedger": [
+            {
+              "id": "opening-thread-1",
+              "title": "木牌刻痕里为何有金屑",
+              "status": "abandoned",
+              "source": "opening",
+              "openedBranchId": null,
+              "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+              "reason": "顾长离交回纸包并明确不再调查金屑，执事收下称会呈上查验。",
+              "evidence": "“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+              "priority": "unknown",
+              "recoveryWindow": "unknown"
+            },
+            {
+              "id": "opening-thread-2",
+              "title": "如何完成第一场外门试炼",
+              "status": "abandoned",
+              "source": "opening",
+              "openedBranchId": null,
+              "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+              "reason": "顾长离在钟响前退试，执事按弃权处理并记名。",
+              "evidence": "“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。",
+              "priority": "unknown",
+              "recoveryWindow": "unknown"
+            },
+            {
+              "title": "退试弃权的后果",
+              "status": "open",
+              "reason": "执事已告知三年内不得再投玄霄宗山门，纸中物会呈上查验，后续影响尚未展开。",
+              "evidence": "“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+              "priority": "normal",
+              "recoveryWindow": "mid",
+              "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+              "id": "thread-fe16398d9e2967cb",
+              "source": "player_branch",
+              "openedBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d"
+            },
+            {
+              "title": "今晚住哪儿、明天是否继续在码头做工",
+              "status": "resolved",
+              "reason": "顾长离已答应明天继续来码头做工，并在镇口通铺付三文住下。",
+              "evidence": "“明天还来。”你说。\n\n老周把竹签往腰后一别，点了点头，没多话。你趁他还没走开，又问了一句：“这附近有没有干净便宜的通铺？能洗漱就行。”\n\n他上下打量你一眼，像是早料到你会问。“镇口那边有一家，你顺着这条街往西走，过了石桥再走半条街，门口挂盏白灯笼的就是。”他伸出三根手指，“一晚三文，有热水，洗漱不另收钱。就是铺位挤，通铺，跟人挨着睡。你要嫌吵，往里走还有家客栈，一晚十五文，你自己掂量。”\n\n“三文就行。”你道了谢。\n\n老周摆摆手，转身去招呼剩下几个还没领钱的脚夫。\n\n你按他指的方向走。街上的灯陆续亮起来，卖吃食的摊子收了，只剩几家铺面还开着门。过了石桥，往西半条街，果然看见一盏白灯笼挂在门檐下，灯笼上没写字，只画了个歪歪扭扭的“宿”字。\n\n推门进去，堂里摆着几张条凳，一个五十来岁的掌柜正就着油灯算账。他抬头看你一眼，见你一身汗渍、肩上搭着外衣，也不多问。\n\n“住店？”\n\n“通铺，一晚多少？”\n\n“三文。”掌柜把算盘往边上一推，“热水在后院灶上，自己去舀，不另收钱。被褥有，旧的，将就盖。明早天亮前走，不催你。”\n\n“没有别的费用？”\n\n“没有。”掌柜答得干脆，“三文就是三文。你要吃饭，街对面有卖面的，我这儿不管饭。”\n\n你从怀里数出三枚铜钱搁在柜上。掌柜收了钱，从墙上取下一块木牌递给你，牌上刻着“拾贰”两个字。“铺位在里间，十二号，自己找。”\n\n你穿过堂屋，掀开布帘，里间是一长溜通铺，铺板上铺着草席和薄被，已经躺了四五个人，有的打着鼾，有的翻了个身。你找到十二号铺位，把外衣叠了当枕头，行李搁在脚边。后院灶上果然温着一锅热水，你舀了半盆，就着天井的月光洗了把脸，又擦了擦脖颈和胳膊上的汗渍。水是温的，洗过之后身上松快了些。",
+              "priority": "normal",
+              "recoveryWindow": "immediate",
+              "causeBranchId": "branch_7dcc9da5-2b29-4049-abb6-1978cca053a0",
+              "id": "thread-8cc7d4110b0407a9",
+              "source": "player_branch",
+              "openedBranchId": "branch_071c4d72-f5a3-4fee-8274-5cc72b5bf1c3"
+            },
+            {
+              "title": "跳板裂板是否在明早船到前换好",
+              "status": "resolved",
+              "reason": "顾长离第三天到码头查看，跳板中段裂板已换新板，踩踏稳当，安全确认后开工。",
+              "evidence": "跳板还是那块跳板，但中段那块裂板不见了。新换上的木板颜色比两边的浅，木纹还带着毛刺，边缘没来得及刨光。你蹲下，用手掌按了按，板子纹丝不动。又站上去，脚跟用力跺了两下，只发出闷实的一声，没有昨天那种发软的颤。你退回来，又沿跳板从头到尾走了一趟，每块板都踩过，靠岸这头稳，中段新板也稳。\n\n老周的声音从船那边传过来：“看够了没有？”\n\n他站在船头，手里还是那根竹签，短褂敞着，脸上带着点没睡醒的倦意，但眼神是清的。\n\n“换过了。”你说。\n\n“昨晚上让老赵带人换的。”老周跳下船，走到跳板口，也踩了一脚新板，“库房里翻出来的旧料，尺寸差不多，钉死了。今天能走。”",
+              "priority": "high",
+              "recoveryWindow": "immediate",
+              "causeBranchId": "branch_f2bb81bf-e775-49c6-b6da-24aa2b1cbaec",
+              "id": "thread-7411207ee9c5698e",
+              "source": "player_branch",
+              "openedBranchId": "branch_48ffa97d-4797-4ddd-a289-68ae1b04c0d1"
+            },
+            {
+              "title": "受潮粮交接记录是否被老周认可",
+              "status": "resolved",
+              "reason": "粮行吴先生当面核验七包受潮粮，认下底单，按印注明转述来源，采信顾长离亲见部分，粮行按受潮粮折价收下。",
+              "evidence": "吴先生从长衫襟里摸出一方小印和一小盒印泥，在账册上翻到一页空白，把七包粮的数目、受潮情况、仓房位置简略记下，然后抬眼：“认。数目、现状、位置，我当面核过了，和底单对得上。装船那一段是老赵报的，我另记一笔，注明转述来源，不混进实货核验里。”\n\n他顿了顿，看向你：“你记的那部分，我采信。你没在场的，不写你名下。”\n\n老周把底单递过去，吴先生在纸角按了印，又在自己账册上按了同一个印，两处印文并排。他把账册合上，对老周说：“这七包粮，粮行收下，按受潮粮折价入账。回头我让人来搬。”\n\n老周“嗯”了一声，把按了印的底单折好，这回没揣回怀里，而是递还给你。\n\n“你的底，你拿着。”他说，“粮行认了。”",
+              "priority": "normal",
+              "recoveryWindow": "near",
+              "causeBranchId": "branch_74aea80e-5314-4dd9-8fe4-f7a932038818",
+              "id": "thread-686f7f540bce43ee",
+              "source": "player_branch",
+              "openedBranchId": "branch_f2bb81bf-e775-49c6-b6da-24aa2b1cbaec"
+            }
+          ],
+          "readerEntityStates": {
+            "character_e663361ab1c7": {
+              "trialStatus": "弃权",
+              "sectBan": "三年内不得再投玄霄宗山门",
+              "location": "草棚",
+              "employment": "陈记面铺做工换食宿，头一个月无工钱，一个月后每月三十文",
+              "money": 10,
+              "lodging": "通铺十二号铺位",
+              "tomorrowWork": "码头卸粮短工",
+              "copperCoins": 13,
+              "cashCopper": 18,
+              "持有按印底单": true,
+              "今日核账工钱": "半天工四文，明日早上随卸货工钱一并结",
+              "码头卸货工钱约定": "一天八文，日结，管晌午饭，明日船到前到草棚领牌子"
+            },
+            "character_laochen": {
+              "雇佣条件": "头一个月无工钱，管早晚两顿、晌午自理，卯时起到打烊歇，满月后每月三十文，活计为劈柴挑水洗碗擦桌"
+            },
+            "character_chenji_furen": {
+              "提供信息": "镇东码头和粮行缺短工，日结几文、管一顿晌午饭、不包住"
+            },
+            "character_laozhou": {
+              "受潮粮底单来源标注": "已用竹签划干痕将亲见与转述两段隔开，并同意明天粮行对账时摊开说明",
+              "持有受潮粮底单": "已标注来源，明天粮行对账时摊开说明"
+            }
+          },
+          "goalLedger": [
+            {
+              "id": "opening-goal-1",
+              "title": "木牌刻痕里为何有金屑",
+              "status": "abandoned",
+              "characterId": "character_e663361ab1c7",
+              "dependencies": [],
+              "source": "player_branch",
+              "evidence": "“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+              "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+              "reason": "顾长离交回纸包并明确不再调查金屑，执事称纸中物会呈上查验、与他无关。",
+              "successor": ""
+            },
+            {
+              "id": "opening-goal-2",
+              "title": "如何完成第一场外门试炼",
+              "status": "abandoned",
+              "characterId": "character_e663361ab1c7",
+              "dependencies": [],
+              "source": "player_branch",
+              "evidence": "“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。",
+              "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+              "reason": "顾长离在钟响前正式退出试炼，执事按弃权处理。",
+              "successor": ""
+            }
+          ]
+        },
+        "nextDirections": [],
+        "openThreads": [
+          "木牌刻痕里为何有金屑",
+          "如何完成第一场外门试炼",
+          "尚未完成的当前目标"
+        ],
+        "createdAt": "2026-09-30T01:49:22.138Z",
+        "canonicalRelation": "diverged",
+        "factDeltas": [],
+        "storyArc": {
+          "activeGoal": "自定行动：我向执事交回木牌和包着金",
+          "currentPhase": "自定行动：我接过老周递还的按印底单",
+          "goalDisposition": "continued",
+          "chapter": {
+            "title": "《太虚遗录》·共创篇",
+            "status": "continuing"
+          }
+        },
+        "planning": {
+          "citations": [
+            {
+              "kind": "branch_node",
+              "ref": "branch_74aea80e-5314-4dd9-8fe4-f7a932038818",
+              "rationale": "承接已确认的上一节点。"
+            }
+          ],
+          "confidence": "medium",
+          "stateChangeProposals": []
+        },
+        "branchAdditions": {
+          "locations": [],
+          "characters": [],
+          "items": [],
+          "relationships": [],
+          "clues": [],
+          "events": [],
+          "characterReveals": [],
+          "changes": []
+        },
+        "consequenceUpdate": {
+          "decision": "ready",
+          "message": "",
+          "requirements": {
+            "A1": {
+              "mode": "attempt",
+              "summary": "我接过老周递还的按印底单，收好。我愿意留在码头谋生，问清今天核账算不算工、何时结算，以及以后能否兼做点货记录；请把职责和报酬说清，已核清的七包粮不再重复查证。"
+            }
+          },
+          "method": "只登记正文已发生的结果",
+          "steps": [
+            {
+              "id": "S1",
+              "actorId": "character_e663361ab1c7",
+              "action": "我接过老周递还的按印底单，收好。我愿意留在码头谋生，问清今天核账算不算工、何时结算，以及以后能否兼做点货记录；请把职责和报酬说清，已核清的七包粮不再重复查证。",
+              "requirementIds": [
+                "A1"
+              ],
+              "authority": "player",
+              "causeStepId": null,
+              "usedItemIds": []
+            }
+          ],
+          "introductions": {
+            "characters": [],
+            "items": [],
+            "locations": []
+          },
+          "stateChanges": [
+            {
+              "id": "C1",
+              "entityId": "character_e663361ab1c7",
+              "attribute": "持有按印底单",
+              "before": null,
+              "value": true,
+              "stepId": "S1",
+              "reason": "顾长离从老周手中接过按印底单并折好收进怀里。",
+              "evidence": "你伸手接过那张折好的底单。纸角上吴先生的印文还带着一点印泥的潮意，指腹蹭过去，微微发涩。你把它重新折成四折，贴着怀里那十八枚铜钱收好，纸边和钱串挨在一起，走起路来不会散。"
+            },
+            {
+              "id": "C2",
+              "entityId": "character_e663361ab1c7",
+              "attribute": "今日核账工钱",
+              "before": null,
+              "value": "半天工四文，明日早上随卸货工钱一并结",
+              "stepId": "S1",
+              "reason": "老周当面确认今天核账算半天工，四文，明天早上发工钱时一并给。",
+              "evidence": "“今天这场，”他开口，“算半天工。四文。你从早上船到之前就来了，仓房点货、对账、按印，忙到这会儿，半天是有的。这四文跟今天的卸货工钱分开算，明天早上发工钱的时候一并给你。”"
+            },
+            {
+              "id": "C3",
+              "entityId": "character_e663361ab1c7",
+              "attribute": "码头卸货工钱约定",
+              "before": null,
+              "value": "一天八文，日结，管晌午饭，明日船到前到草棚领牌子",
+              "stepId": "S1",
+              "reason": "老周重申卸货老规矩，并让顾长离明天先到草棚领牌子。",
+              "evidence": "他顿了顿，补一句：“卸货还是老规矩，一天八文，日结，管晌午饭。你明天来，先到草棚那边领牌子。”"
+            }
+          ],
+          "outcomes": [],
+          "goalUpdates": [],
+          "threadUpdates": []
+        },
+        "actionIntent": {
+          "input": "我接过老周递还的按印底单，收好。我愿意留在码头谋生，问清今天核账算不算工、何时结算，以及以后能否兼做点货记录；请把职责和报酬说清，已核清的七包粮不再重复查证。",
+          "requirements": {
+            "A1": "我接过老周递还的按印底单",
+            "A2": "收好",
+            "A3": "我愿意留在码头谋生",
+            "A4": "问清今天核账算不算工、何时结算",
+            "A5": "以及以后能否兼做点货记录",
+            "A6": "请把职责和报酬说清",
+            "A7": "已核清的七包粮不再重复查证"
+          }
+        },
+        "deliveryReceipt": {
+          "version": "narrative-delivery/5",
+          "kind": "observed_state_not_prose_approval",
+          "parentSha256": "dad9012eaa438a12394884032d1976b6819413259641231ced251dfed8d1691a",
+          "narrativeSha256": "a8afca2d7a931721c087eb8f69f180743518c53e3bbe66d34c53e51c07f3aeca",
+          "actionSha256": "914d025db4d1776321626866302f733c95fa3b006eabed7fb2ea868193932ffb",
+          "data": {
+            "currentScene": {
+              "evidenceQuote": "仓房里剩下你一个人，粮包堆在角上，仓门半开，河风一阵一阵灌进来。",
+              "name": "仓房",
+              "basis": "observed",
+              "paragraphIds": [
+                "P17"
+              ],
+              "presentEntities": [
+                {
+                  "entityId": "character_e663361ab1c7",
+                  "entityName": "你",
+                  "basis": "observed",
+                  "paragraphIds": [
+                    "P17"
+                  ],
+                  "evidenceQuote": "仓房里剩下你一个人，粮包堆在角上，仓门半开，河风一阵一阵灌进来。"
+                }
+              ]
+            },
+            "summary": "顾长离接过老周递还的按印底单，折好收进怀里。他向老周表明愿意留在码头谋生，问清核账工钱、结算方式和兼做点货记录的条件。老周答复：今天核账算半天工四文，明天早上随卸货工钱一并结；卸货仍是一天八文、日结、管晌午饭，明天船到前先到草棚领牌子；点货记数按趟算，粮行给多少他抽一成、余下归顾长离，记岔漏则白干并赔一成，且只记亲眼所见、转述须标明来源。老周说完离开，仓房只剩顾长离一人。",
+            "actionStatus": "performed",
+            "updates": {
+              "introductions": {
+                "characters": [],
+                "items": [],
+                "locations": []
+              },
+              "stateChanges": [
+                {
+                  "entityId": "character_e663361ab1c7",
+                  "entityName": "你",
+                  "basis": "observed",
+                  "attribute": "持有按印底单",
+                  "value": true,
+                  "reason": "顾长离从老周手中接过按印底单并折好收进怀里。",
+                  "paragraphIds": [
+                    "P1"
+                  ]
+                },
+                {
+                  "entityId": "character_e663361ab1c7",
+                  "entityName": "你",
+                  "basis": "observed",
+                  "attribute": "今日核账工钱",
+                  "value": "半天工四文，明日早上随卸货工钱一并结",
+                  "reason": "老周当面确认今天核账算半天工，四文，明天早上发工钱时一并给。",
+                  "paragraphIds": [
+                    "P5"
+                  ]
+                },
+                {
+                  "entityId": "character_e663361ab1c7",
+                  "entityName": "你",
+                  "basis": "observed",
+                  "attribute": "码头卸货工钱约定",
+                  "value": "一天八文，日结，管晌午饭，明日船到前到草棚领牌子",
+                  "reason": "老周重申卸货老规矩，并让顾长离明天先到草棚领牌子。",
+                  "paragraphIds": [
+                    "P6"
+                  ]
+                },
+                {
+                  "entityId": "character_e663361ab1c7",
+                  "entityName": "你",
+                  "basis": "observed",
+                  "attribute": "点货记数活计约定",
+                  "value": "按趟算，粮行给多少老周抽一成、余下归顾长离；记岔漏则白干并赔一成；只记亲眼所见，转述须标明来源",
+                  "reason": "老周当面说明点货记数的工钱算法、责任和记录规矩。",
+                  "paragraphIds": [
+                    "P8",
+                    "P10",
+                    "P12"
+                  ]
+                }
+              ],
+              "outcomes": [],
+              "goalUpdates": [],
+              "threadUpdates": []
+            },
+            "confirmedStates": [
+              {
+                "entityId": "character_e663361ab1c7",
+                "entityName": "你",
+                "basis": "observed",
+                "attribute": "持有按印底单",
+                "value": true,
+                "reason": "顾长离从老周手中接过按印底单并收好。",
+                "paragraphIds": [
+                  "P1"
+                ]
+              },
+              {
+                "entityId": "character_e663361ab1c7",
+                "entityName": "你",
+                "basis": "observed",
+                "attribute": "今日核账工钱",
+                "value": "半天工四文，明日早上随卸货工钱一并结",
+                "reason": "老周当面确认。",
+                "paragraphIds": [
+                  "P5"
+                ]
+              },
+              {
+                "entityId": "character_e663361ab1c7",
+                "entityName": "你",
+                "basis": "observed",
+                "attribute": "码头卸货工钱约定",
+                "value": "一天八文，日结，管晌午饭，明日船到前到草棚领牌子",
+                "reason": "老周重申卸货老规矩。",
+                "paragraphIds": [
+                  "P6"
+                ]
+              },
+              {
+                "entityId": "character_e663361ab1c7",
+                "entityName": "你",
+                "basis": "observed",
+                "attribute": "点货记数活计约定",
+                "value": "按趟算，粮行给多少老周抽一成、余下归顾长离；记岔漏则白干并赔一成；只记亲眼所见，转述须标明来源",
+                "reason": "老周当面说明点货记数的工钱算法、责任和记录规矩。",
+                "paragraphIds": [
+                  "P8",
+                  "P10",
+                  "P12"
+                ]
+              }
+            ],
+            "followups": [],
+            "resolvedFollowups": [
+              {
+                "id": "followup-a4628994c608cfe9719a",
+                "summary": "粮行吴先生核验后认下底单，老周将按印底单递还顾长离，本回合顾长离已实际接过并按印底单收好。",
+                "paragraphIds": [
+                  "P1"
+                ]
+              },
+              {
+                "id": "followup-646076e0dc8ee9dfe69e",
+                "summary": "老周已将按印底单交还顾长离，并称粮行认了；本回合顾长离实际接过收好。",
+                "paragraphIds": [
+                  "P1"
+                ]
+              }
+            ],
+            "journeyEnding": null
+          },
+          "failure": null
+        },
+        "readerOutcome": {
+          "action": {
+            "status": "performed",
+            "summary": "顾长离接过老周递还的按印底单，折好收进怀里。他向老周表明愿意留在码头谋生，问清核账工钱、结算方式和兼做点货记录的条件。老周答复：今天核账算半天工四文，明天早上随卸货工钱一并结；卸货仍是一天八文、日结、管晌午饭，明天船到前先到草棚领牌子；点货记数按趟算，粮行给多少他抽一成、余下归顾长离，记岔漏则白干并赔一成，且只记亲眼所",
+            "evidence": "你伸手接过那张折好的底单。纸角上吴先生的印文还带着一点印泥的潮意，指腹蹭过去，微微发涩。你把它重新折成四折，贴着怀里那十八枚铜钱收好，纸边和钱串挨在一起，走起路来不会散。\n\n老赵已经出去搬粮了，仓房里只剩你和老周。粮包堆在角上，仓门半开，外头河风灌进来，带着水腥气。你看着老周，把话说了。\n\n“我想留在码头上做。”你说，“今天这场核账，算不算工？工钱什么时候结？还有——以后要是再有这种点货、记数的活，我能不能兼着做？干什么、拿多少，你给说清楚。”\n\n老周没马上答。他把腰后那根竹签抽出来，在指间转了半圈，又别回去。他上下打量你一眼，像在重新掂量一个已经用过两天的人。\n\n“今天这场，”他开口，“算半天工。四文。你从早上船到之前就来了，仓房点货、对账、按印，忙到这会儿，半天是有的。这四文跟今天的卸货工钱分开算，明天早上发工钱的时候一并给你。”\n\n他顿了顿，补一句：“卸货还是老规矩，一天八文，日结，管晌午饭。你明天来，先到草棚那边领牌子。”\n\n“点货记数呢？”你问。\n\n“那是另一码事。”老周往粮包上靠了靠，胳膊搭在麻袋口上，“码头上不是天天有货要点。船到了，粮行、布行、盐号的人来收货，才需要有人跟着记数、画位置、标水渍。这活不归脚夫，归仓房这边临时找人。你要是记性好、字写得清，我可以跟粮行那边提一句，下回有货要记，叫你过来。”\n\n“工钱怎么算？”\n\n“记数的工钱不按天，按趟。”老周说，“一趟"
+          },
+          "actions": [],
+          "clues": [],
+          "relationships": []
+        },
+        "continuityFollowups": [
+          {
+            "id": "followup-7bff21afc4fb14d8c54e",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。character_e663361ab1c7",
+            "evidence": "悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”\n\n你答有。其实不多，但够走到镇上。\n\n执事不再多问，只朝西边抬了抬下巴：“去吧。钟响之前离开白线范围，免得旁人看着多话。”\n\n你转身时，陆照临还站在原处。他离得不远，方才的话大概听去了大半。他没有开口拦你，也没有跟上来，只是看着你，像在辨认什么。你与他不过互通了姓名，此刻也不必多说什么。你从他身侧走过，沿石径往西。\n\n身后钟声终于响了，沉而长，一声接一声，撞在山壁上又荡回来。新弟子们的脚步声、衣料摩擦声、低低的呼喝声混在一起，朝后坡涌去。你没有回头。\n\n西侧石阶比试炼场那边窄，青苔从石缝里漫出来，踩上去有些滑。走了约莫半炷香，山势渐低，回头已经望不见试炼场的白线，只看见半山腰的松林和更远处灰蒙蒙的天际。风里有草木气，也有山下人家烧灶的烟味。\n\n石阶尽头是一道侧门，门边坐着个打瞌睡的老杂役。你报了退试，他翻出一本更薄的册子让你按了个手印，便摆摆手放行。门外是一条黄土官道，往左通向东南，路面上有车辙和牲口蹄印，一直伸进远处的薄雾里。\n\n你站在门外，袖中空了，木牌和纸包都不在了。官道两头都安静，只有风卷着落叶从脚边滚过去。青石镇在东南，走一日可到。你抬脚，朝左走去。",
+            "entityIds": [
+              "character_e663361ab1c7"
+            ],
+            "originParentId": "branch_bb2ed016-c551-4a3a-8564-487a2653d2f7",
+            "originNarrativeSha256": "52d6a46b05313a878117026d54d074f3e639110642e0e633efc5e88222c81cf1"
+          },
+          {
+            "id": "followup-85d94526412395823879",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。",
+            "evidence": "悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”\n\n你答有。其实不多，但够走到镇上。\n\n执事不再多问，只朝西边抬了抬下巴：“去吧。钟响之前离开白线范围，免得旁人看着多话。”\n\n你转身时，陆照临还站在原处。他离得不远，方才的话大概听去了大半。他没有开口拦你，也没有跟上来，只是看着你，像在辨认什么。你与他不过互通了姓名，此刻也不必多说什么。你从他身侧走过，沿石径往西。\n\n身后钟声终于响了，沉而长，一声接一声，撞在山壁上又荡回来。新弟子们的脚步声、衣料摩擦声、低低的呼喝声混在一起，朝后坡涌去。你没有回头。\n\n西侧石阶比试炼场那边窄，青苔从石缝里漫出来，踩上去有些滑。走了约莫半炷香，山势渐低，回头已经望不见试炼场的白线，只看见半山腰的松林和更远处灰蒙蒙的天际。风里有草木气，也有山下人家烧灶的烟味。\n\n石阶尽头是一道侧门，门边坐着个打瞌睡的老杂役。你报了退试，他翻出一本更薄的册子让你按了个手印，便摆摆手放行。门外是一条黄土官道，往左通向东南，路面上有车辙和牲口蹄印，一直伸进远处的薄雾里。\n\n你站在门外，袖中空了，木牌和纸包都不在了。官道两头都安静，只有风卷着落叶从脚边滚过去。青石镇在东南，走一日可到。你抬脚，朝左走去。",
+            "entityIds": [],
+            "originParentId": "branch_bb2ed016-c551-4a3a-8564-487a2653d2f7",
+            "originNarrativeSha256": "52d6a46b05313a878117026d54d074f3e639110642e0e633efc5e88222c81cf1"
+          },
+          {
+            "id": "followup-d808b526a690f46de6b5",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。顾长离决定退出试炼，独自前往青石镇谋生，已走上东南官道。",
+            "evidence": "悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”\n\n你答有。其实不多，但够走到镇上。\n\n执事不再多问，只朝西边抬了抬下巴：“去吧。钟响之前离开白线范围，免得旁人看着多话。”\n\n你转身时，陆照临还站在原处。他离得不远，方才的话大概听去了大半。他没有开口拦你，也没有跟上来，只是看着你，像在辨认什么。你与他不过互通了姓名，此刻也不必多说什么。你从他身侧走过，沿石径往西。\n\n身后钟声终于响了，沉而长，一声接一声，撞在山壁上又荡回来。新弟子们的脚步声、衣料摩擦声、低低的呼喝声混在一起，朝后坡涌去。你没有回头。\n\n西侧石阶比试炼场那边窄，青苔从石缝里漫出来，踩上去有些滑。走了约莫半炷香，山势渐低，回头已经望不见试炼场的白线，只看见半山腰的松林和更远处灰蒙蒙的天际。风里有草木气，也有山下人家烧灶的烟味。\n\n石阶尽头是一道侧门，门边坐着个打瞌睡的老杂役。你报了退试，他翻出一本更薄的册子让你按了个手印，便摆摆手放行。门外是一条黄土官道，往左通向东南，路面上有车辙和牲口蹄印，一直伸进远处的薄雾里。\n\n你站在门外，袖中空了，木牌和纸包都不在了。官道两头都安静，只有风卷着落叶从脚边滚过去。青石镇在东南，走一日可到。你抬脚，朝左走去。",
+            "entityIds": [
+              "new-1"
+            ],
+            "originParentId": "branch_bb2ed016-c551-4a3a-8564-487a2653d2f7",
+            "originNarrativeSha256": "52d6a46b05313a878117026d54d074f3e639110642e0e633efc5e88222c81cf1"
+          },
+          {
+            "id": "followup-bf12e52c9860d8e5bddc",
+            "kind": "continuity",
+            "status": "open",
+            "summary": "执事称纸中金屑会呈上查验、与顾长离无关，但查验结果及是否引发后续追查尚未可知。",
+            "evidence": "写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+            "entityIds": [],
+            "originParentId": "branch_bb2ed016-c551-4a3a-8564-487a2653d2f7",
+            "originNarrativeSha256": "52d6a46b05313a878117026d54d074f3e639110642e0e633efc5e88222c81cf1"
+          },
+          {
+            "id": "followup-357c58c60bd7e2ede6fe",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。顾长离已与陈记面铺谈定做工换食宿，明早卯时开始劈柴。",
+            "evidence": "吗？”\n\n“会。”\n\n“挑水呢？井在街口，来回一趟不近。”\n\n“挑得动。”\n\n老陈沉默了一下，回头看了眼灶上还温着的锅。“这样，你先住下。后头有间堆杂物的小屋，收拾出来能睡人。活计是劈柴、挑水、洗碗、擦桌，天不亮就得起，面铺打烊了你才能歇。管两顿饭，早饭和晚饭，晌午你自己对付。”他顿了顿，“工钱嘛，头一个月没有。一个月后你要是还干得下来，每月给你三十文。干不下来，随时走，不欠你的。”\n\n妇人补了一句：“被褥自己想办法，铺子里只有一张旧草席。”\n\n你点头应下。老陈便领你穿过灶台旁的一道窄门，后头是个小天井，堆着柴垛和几只空缸，天井角落有间低矮的土屋，门一推开，一股潮气混着柴灰味涌出来。屋里堆着半屋劈好的柴和几口破缸，靠墙有一块空地，地上铺着张发黑的草席。\n\n“就这儿。”老陈把门边一盏油灯递给你，“灯油省着用。明早卯时起来，先把灶下的柴劈够一天的。”\n\n他说完便回前头去了。你把油灯搁在草席边，蹲下身把散落的柴块归拢到墙角，腾出一块能躺下的地方。天井上头露出一小方暗下来的天，前铺传来碗筷碰撞的声响，还有那汉子吃完面付钱出门的脚步声。你坐在草席上，从怀里摸出干粮袋，还剩最后小半块饼，就着水囊里剩的水咽下去。\n\n前头老陈的声音又响起来，像是在跟妇人说话，隔着墙听不真切。你吹熄了灯，屋里黑下来，只有门缝里漏进一线前铺的灯光。草席硬，潮气从底下往上渗，你翻了个身，把外衣裹紧了些。明天卯时，劈柴。",
+            "entityIds": [
+              "new-1"
+            ],
+            "originParentId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+            "originNarrativeSha256": "e34f58f129dde6aa9bf8e5140c74a67554aff8412d8c9b7849e6ec258178e093"
+          },
+          {
+            "id": "followup-146c429872f08f5fcb6f",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。character_laochen",
+            "evidence": "不了。”\n\n你沉默了一下。灶上的水滚了，妇人从前面探进头来，见你们在说话，没插嘴，只把一摞碗搁在案上。\n\n“歇息呢？”你问。\n\n“天不亮起，打烊了歇。中间没整块的闲时候，活干完了能在天井坐会儿。”老陈顿了顿，“劈柴、挑水、洗碗、擦桌，就这些。柴要够一天烧的，水缸不能见底。做完了，你歇你的。”\n\n他把话说到这份上，意思很清楚：条件就是昨天那些，没有松动的余地。你心里盘算着——管两顿，晌午自理，头一个月白干，满月三十文。这比空手强，可也谈不上宽裕。\n\n“要是这样，”你说，“我住这一夜，该付多少？付了钱，我另找活计。”\n\n老陈没立刻接话。倒是那妇人先开了口，她把手在围裙上擦了擦：“后生，你要是嫌这儿条件差，镇东码头和粮行这几天正缺短工。管一顿晌午饭，日结几文钱，活重些，可不包住。你要找，趁早去问，晚了就让人占了。”\n\n老陈瞥了她一眼，没拦，只对你说：“住一夜的钱，你看着给两文就行，草席也不值什么。你要走，我不留；你要留，卯时的柴还得劈。”\n\n他说完转身去照看灶上的锅，不再多言。前铺传来门板卸下的声响，天光从门口漫进来，照见案板上昨夜没擦净的面粉印子。\n\n你站在灶边，手边就是那把靠在柴垛上的斧子。镇东的码头和粮行在什么方位，你还不知道，但妇人说得明白——日结，管一顿晌午。留下，是两顿饭、一张草席、一个月后三十文；走，是两文钱结清，去镇东碰碰运气。\n\n斧柄被握得发亮，灶膛里的火噼啪响了一声。",
+            "entityIds": [
+              "character_laochen"
+            ],
+            "originParentId": "branch_8b16121f-77b6-46c4-b594-f9ec4b4a66f8",
+            "originNarrativeSha256": "fa2ceba4cde5402cedcea5994b73127b0810e9a3ca51e384e1035670f50c9a21"
+          },
+          {
+            "id": "followup-e8a7bc7fe2f8d0b7051f",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。老陈对顾长离提出只付住这一夜费用另找活计的回应。",
+            "evidence": "不了。”\n\n你沉默了一下。灶上的水滚了，妇人从前面探进头来，见你们在说话，没插嘴，只把一摞碗搁在案上。\n\n“歇息呢？”你问。\n\n“天不亮起，打烊了歇。中间没整块的闲时候，活干完了能在天井坐会儿。”老陈顿了顿，“劈柴、挑水、洗碗、擦桌，就这些。柴要够一天烧的，水缸不能见底。做完了，你歇你的。”\n\n他把话说到这份上，意思很清楚：条件就是昨天那些，没有松动的余地。你心里盘算着——管两顿，晌午自理，头一个月白干，满月三十文。这比空手强，可也谈不上宽裕。\n\n“要是这样，”你说，“我住这一夜，该付多少？付了钱，我另找活计。”\n\n老陈没立刻接话。倒是那妇人先开了口，她把手在围裙上擦了擦：“后生，你要是嫌这儿条件差，镇东码头和粮行这几天正缺短工。管一顿晌午饭，日结几文钱，活重些，可不包住。你要找，趁早去问，晚了就让人占了。”\n\n老陈瞥了她一眼，没拦，只对你说：“住一夜的钱，你看着给两文就行，草席也不值什么。你要走，我不留；你要留，卯时的柴还得劈。”\n\n他说完转身去照看灶上的锅，不再多言。前铺传来门板卸下的声响，天光从门口漫进来，照见案板上昨夜没擦净的面粉印子。\n\n你站在灶边，手边就是那把靠在柴垛上的斧子。镇东的码头和粮行在什么方位，你还不知道，但妇人说得明白——日结，管一顿晌午。留下，是两顿饭、一张草席、一个月后三十文；走，是两文钱结清，去镇东碰碰运气。\n\n斧柄被握得发亮，灶膛里的火噼啪响了一声。",
+            "entityIds": [
+              "character_laochen"
+            ],
+            "originParentId": "branch_8b16121f-77b6-46c4-b594-f9ec4b4a66f8",
+            "originNarrativeSha256": "fa2ceba4cde5402cedcea5994b73127b0810e9a3ca51e384e1035670f50c9a21"
+          },
+          {
+            "id": "followup-25da0b85d7d92656dcd9",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。付清住宿、离开陈记面铺，过石桥到镇东码头，在草棚吃饭。",
+            "evidence": "腰里摸出一块小木牌递给你，牌上刻着个“柒”字：“拿着，收工凭这个领钱。跟我来。”\n\n他领你到跳板口，指着船上一个正往下递粮包的汉子：“老赵，新来的，搭把手。”那汉子应了一声，把一包粮往你肩上送。你侧身接住，粮包压在肩上，沉甸甸的，麻袋的粗纤维硌着脖颈。你稳住步子，跟着前面的人往仓房走。\n\n日头渐渐升高，河面上的水汽蒸起来，混着汗味。你一趟一趟地走，肩上换了不知多少包粮，脚下的石板被踩得发亮。领工的站在跳板口，竹签一下一下地点着数，偶尔喊一声“快些”。岸上歇气的脚夫换了一拨又一拨，草棚那边飘出饭香的时候，领工的果然喊了歇。\n\n你放下肩上的粮包，跟着众人往草棚走。糙米饭盛在粗瓷碗里，咸菜是萝卜干，还有一勺煮豆子。你端着碗蹲在棚边吃，饭是热的，管饱。旁边一个脚夫边扒饭边跟你搭话：“头回干？看你扛得还行。”\n\n“头回。”你答。\n\n“这活累是累，钱现成。”他嚼着饭含糊道，“领工的老周不克扣，说八文就八文。就是下雨天没船，就没活。”\n\n你点点头，没多问。吃完饭歇了一炷香的工夫，老周又喊开工。剩下的粮包卸到日头偏西，船空了，仓房满了。老周拿着竹签挨个收牌发钱，轮到你时，他数了八枚铜钱搁在你手心，铜钱还带着他掌心的汗。\n\n“明天还来不来？”他问。\n\n八文钱在手里沉甸甸的。你抬头看了看天色，又看了看码头上渐渐散去的脚夫。天还没黑，镇上的灯火该陆续亮起来了。今晚住哪儿，明天还来不来，都得你自己拿主意。",
+            "entityIds": [
+              "character_e663361ab1c7"
+            ],
+            "originParentId": "branch_44f5316d-4142-47fc-b620-5aa1e90a7ae4",
+            "originNarrativeSha256": "0287b68b4cfd64736abd96c9a46b3f123ac09aca22597a9052565430d4f99a8c"
+          },
+          {
+            "id": "followup-ae3ac1bf0beb0d7da125",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。与领工老周谈妥条件，答应试做一天。",
+            "evidence": "腰里摸出一块小木牌递给你，牌上刻着个“柒”字：“拿着，收工凭这个领钱。跟我来。”\n\n他领你到跳板口，指着船上一个正往下递粮包的汉子：“老赵，新来的，搭把手。”那汉子应了一声，把一包粮往你肩上送。你侧身接住，粮包压在肩上，沉甸甸的，麻袋的粗纤维硌着脖颈。你稳住步子，跟着前面的人往仓房走。\n\n日头渐渐升高，河面上的水汽蒸起来，混着汗味。你一趟一趟地走，肩上换了不知多少包粮，脚下的石板被踩得发亮。领工的站在跳板口，竹签一下一下地点着数，偶尔喊一声“快些”。岸上歇气的脚夫换了一拨又一拨，草棚那边飘出饭香的时候，领工的果然喊了歇。\n\n你放下肩上的粮包，跟着众人往草棚走。糙米饭盛在粗瓷碗里，咸菜是萝卜干，还有一勺煮豆子。你端着碗蹲在棚边吃，饭是热的，管饱。旁边一个脚夫边扒饭边跟你搭话：“头回干？看你扛得还行。”\n\n“头回。”你答。\n\n“这活累是累，钱现成。”他嚼着饭含糊道，“领工的老周不克扣，说八文就八文。就是下雨天没船，就没活。”\n\n你点点头，没多问。吃完饭歇了一炷香的工夫，老周又喊开工。剩下的粮包卸到日头偏西，船空了，仓房满了。老周拿着竹签挨个收牌发钱，轮到你时，他数了八枚铜钱搁在你手心，铜钱还带着他掌心的汗。\n\n“明天还来不来？”他问。\n\n八文钱在手里沉甸甸的。你抬头看了看天色，又看了看码头上渐渐散去的脚夫。天还没黑，镇上的灯火该陆续亮起来了。今晚住哪儿，明天还来不来，都得你自己拿主意。",
+            "entityIds": [
+              "character_e663361ab1c7"
+            ],
+            "originParentId": "branch_44f5316d-4142-47fc-b620-5aa1e90a7ae4",
+            "originNarrativeSha256": "0287b68b4cfd64736abd96c9a46b3f123ac09aca22597a9052565430d4f99a8c"
+          },
+          {
+            "id": "followup-d9cf35ef7e75abff1ab4",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。与领工老周谈妥条件并试做一天。",
+            "evidence": "腰里摸出一块小木牌递给你，牌上刻着个“柒”字：“拿着，收工凭这个领钱。跟我来。”\n\n他领你到跳板口，指着船上一个正往下递粮包的汉子：“老赵，新来的，搭把手。”那汉子应了一声，把一包粮往你肩上送。你侧身接住，粮包压在肩上，沉甸甸的，麻袋的粗纤维硌着脖颈。你稳住步子，跟着前面的人往仓房走。\n\n日头渐渐升高，河面上的水汽蒸起来，混着汗味。你一趟一趟地走，肩上换了不知多少包粮，脚下的石板被踩得发亮。领工的站在跳板口，竹签一下一下地点着数，偶尔喊一声“快些”。岸上歇气的脚夫换了一拨又一拨，草棚那边飘出饭香的时候，领工的果然喊了歇。\n\n你放下肩上的粮包，跟着众人往草棚走。糙米饭盛在粗瓷碗里，咸菜是萝卜干，还有一勺煮豆子。你端着碗蹲在棚边吃，饭是热的，管饱。旁边一个脚夫边扒饭边跟你搭话：“头回干？看你扛得还行。”\n\n“头回。”你答。\n\n“这活累是累，钱现成。”他嚼着饭含糊道，“领工的老周不克扣，说八文就八文。就是下雨天没船，就没活。”\n\n你点点头，没多问。吃完饭歇了一炷香的工夫，老周又喊开工。剩下的粮包卸到日头偏西，船空了，仓房满了。老周拿着竹签挨个收牌发钱，轮到你时，他数了八枚铜钱搁在你手心，铜钱还带着他掌心的汗。\n\n“明天还来不来？”他问。\n\n八文钱在手里沉甸甸的。你抬头看了看天色，又看了看码头上渐渐散去的脚夫。天还没黑，镇上的灯火该陆续亮起来了。今晚住哪儿，明天还来不来，都得你自己拿主意。",
+            "entityIds": [
+              "character_e663361ab1c7"
+            ],
+            "originParentId": "branch_44f5316d-4142-47fc-b620-5aa1e90a7ae4",
+            "originNarrativeSha256": "0287b68b4cfd64736abd96c9a46b3f123ac09aca22597a9052565430d4f99a8c"
+          },
+          {
+            "id": "followup-47e705cd15e3a11bb9ae",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。顾长离已退出试炼，转而在青石镇谋生。",
+            "evidence": "腰里摸出一块小木牌递给你，牌上刻着个“柒”字：“拿着，收工凭这个领钱。跟我来。”\n\n他领你到跳板口，指着船上一个正往下递粮包的汉子：“老赵，新来的，搭把手。”那汉子应了一声，把一包粮往你肩上送。你侧身接住，粮包压在肩上，沉甸甸的，麻袋的粗纤维硌着脖颈。你稳住步子，跟着前面的人往仓房走。\n\n日头渐渐升高，河面上的水汽蒸起来，混着汗味。你一趟一趟地走，肩上换了不知多少包粮，脚下的石板被踩得发亮。领工的站在跳板口，竹签一下一下地点着数，偶尔喊一声“快些”。岸上歇气的脚夫换了一拨又一拨，草棚那边飘出饭香的时候，领工的果然喊了歇。\n\n你放下肩上的粮包，跟着众人往草棚走。糙米饭盛在粗瓷碗里，咸菜是萝卜干，还有一勺煮豆子。你端着碗蹲在棚边吃，饭是热的，管饱。旁边一个脚夫边扒饭边跟你搭话：“头回干？看你扛得还行。”\n\n“头回。”你答。\n\n“这活累是累，钱现成。”他嚼着饭含糊道，“领工的老周不克扣，说八文就八文。就是下雨天没船，就没活。”\n\n你点点头，没多问。吃完饭歇了一炷香的工夫，老周又喊开工。剩下的粮包卸到日头偏西，船空了，仓房满了。老周拿着竹签挨个收牌发钱，轮到你时，他数了八枚铜钱搁在你手心，铜钱还带着他掌心的汗。\n\n“明天还来不来？”他问。\n\n八文钱在手里沉甸甸的。你抬头看了看天色，又看了看码头上渐渐散去的脚夫。天还没黑，镇上的灯火该陆续亮起来了。今晚住哪儿，明天还来不来，都得你自己拿主意。",
+            "entityIds": [
+              "opening-goal-2"
+            ],
+            "originParentId": "branch_44f5316d-4142-47fc-b620-5aa1e90a7ae4",
+            "originNarrativeSha256": "0287b68b4cfd64736abd96c9a46b3f123ac09aca22597a9052565430d4f99a8c"
+          },
+          {
+            "id": "followup-a42821b312f44d50e8de",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。顾长离在镇东码头找到卸粮短工，试做一天后领到八文，老周问明天是否还来，尚未决定。",
+            "evidence": "腰里摸出一块小木牌递给你，牌上刻着个“柒”字：“拿着，收工凭这个领钱。跟我来。”\n\n他领你到跳板口，指着船上一个正往下递粮包的汉子：“老赵，新来的，搭把手。”那汉子应了一声，把一包粮往你肩上送。你侧身接住，粮包压在肩上，沉甸甸的，麻袋的粗纤维硌着脖颈。你稳住步子，跟着前面的人往仓房走。\n\n日头渐渐升高，河面上的水汽蒸起来，混着汗味。你一趟一趟地走，肩上换了不知多少包粮，脚下的石板被踩得发亮。领工的站在跳板口，竹签一下一下地点着数，偶尔喊一声“快些”。岸上歇气的脚夫换了一拨又一拨，草棚那边飘出饭香的时候，领工的果然喊了歇。\n\n你放下肩上的粮包，跟着众人往草棚走。糙米饭盛在粗瓷碗里，咸菜是萝卜干，还有一勺煮豆子。你端着碗蹲在棚边吃，饭是热的，管饱。旁边一个脚夫边扒饭边跟你搭话：“头回干？看你扛得还行。”\n\n“头回。”你答。\n\n“这活累是累，钱现成。”他嚼着饭含糊道，“领工的老周不克扣，说八文就八文。就是下雨天没船，就没活。”\n\n你点点头，没多问。吃完饭歇了一炷香的工夫，老周又喊开工。剩下的粮包卸到日头偏西，船空了，仓房满了。老周拿着竹签挨个收牌发钱，轮到你时，他数了八枚铜钱搁在你手心，铜钱还带着他掌心的汗。\n\n“明天还来不来？”他问。\n\n八文钱在手里沉甸甸的。你抬头看了看天色，又看了看码头上渐渐散去的脚夫。天还没黑，镇上的灯火该陆续亮起来了。今晚住哪儿，明天还来不来，都得你自己拿主意。",
+            "entityIds": [
+              "new-1"
+            ],
+            "originParentId": "branch_44f5316d-4142-47fc-b620-5aa1e90a7ae4",
+            "originNarrativeSha256": "0287b68b4cfd64736abd96c9a46b3f123ac09aca22597a9052565430d4f99a8c"
+          },
+          {
+            "id": "followup-87629902410c23df6282",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。通铺掌柜发给顾长离的铺位木牌，上刻“拾贰”二字，对应里间十二号铺位。",
+            "evidence": "正就着油灯算账。他抬头看你一眼，见你一身汗渍、肩上搭着外衣，也不多问。\n\n“住店？”\n\n“通铺，一晚多少？”\n\n“三文。”掌柜把算盘往边上一推，“热水在后院灶上，自己去舀，不另收钱。被褥有，旧的，将就盖。明早天亮前走，不催你。”\n\n“没有别的费用？”\n\n“没有。”掌柜答得干脆，“三文就是三文。你要吃饭，街对面有卖面的，我这儿不管饭。”\n\n你从怀里数出三枚铜钱搁在柜上。掌柜收了钱，从墙上取下一块木牌递给你，牌上刻着“拾贰”两个字。“铺位在里间，十二号，自己找。”\n\n你穿过堂屋，掀开布帘，里间是一长溜通铺，铺板上铺着草席和薄被，已经躺了四五个人，有的打着鼾，有的翻了个身。你找到十二号铺位，把外衣叠了当枕头，行李搁在脚边。后院灶上果然温着一锅热水，你舀了半盆，就着天井的月光洗了把脸，又擦了擦脖颈和胳膊上的汗渍。水是温的，洗过之后身上松快了些。\n\n回到铺上躺下，怀里还剩五文钱，贴着胸口。旁边那人翻了个身，嘟囔了一句什么，又睡过去。通铺里气味杂，汗味、脚味、还有不知谁身上的酒气，混在一起。你闭上眼，想着明天卯时之前得赶到码头，老周说早卸完早歇，工钱照给。\n\n五文钱，够再住一晚，还剩两文。明天再挣八文，就能攒下些。攒够了，或许能换个不那么挤的地方，或许能添件换洗衣裳。这些念头在脑子里转了一圈，渐渐被铺上此起彼伏的鼾声盖过去。\n\n你翻了个身，把薄被拉到肩上。窗外有更夫敲梆子，远远的，一声，两声。",
+            "entityIds": [
+              "item_puwei_mupai_shier"
+            ],
+            "originParentId": "branch_071c4d72-f5a3-4fee-8274-5cc72b5bf1c3",
+            "originNarrativeSha256": "9bb9ca872f42a6aa1ac20b8ec3835d04809646306ae7058bdc7b23bf61b8a715"
+          },
+          {
+            "id": "followup-d530d60299a84af619d6",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。掌柜收钱后把刻“拾贰”的木牌递给顾长离。",
+            "evidence": "正就着油灯算账。他抬头看你一眼，见你一身汗渍、肩上搭着外衣，也不多问。\n\n“住店？”\n\n“通铺，一晚多少？”\n\n“三文。”掌柜把算盘往边上一推，“热水在后院灶上，自己去舀，不另收钱。被褥有，旧的，将就盖。明早天亮前走，不催你。”\n\n“没有别的费用？”\n\n“没有。”掌柜答得干脆，“三文就是三文。你要吃饭，街对面有卖面的，我这儿不管饭。”\n\n你从怀里数出三枚铜钱搁在柜上。掌柜收了钱，从墙上取下一块木牌递给你，牌上刻着“拾贰”两个字。“铺位在里间，十二号，自己找。”\n\n你穿过堂屋，掀开布帘，里间是一长溜通铺，铺板上铺着草席和薄被，已经躺了四五个人，有的打着鼾，有的翻了个身。你找到十二号铺位，把外衣叠了当枕头，行李搁在脚边。后院灶上果然温着一锅热水，你舀了半盆，就着天井的月光洗了把脸，又擦了擦脖颈和胳膊上的汗渍。水是温的，洗过之后身上松快了些。\n\n回到铺上躺下，怀里还剩五文钱，贴着胸口。旁边那人翻了个身，嘟囔了一句什么，又睡过去。通铺里气味杂，汗味、脚味、还有不知谁身上的酒气，混在一起。你闭上眼，想着明天卯时之前得赶到码头，老周说早卸完早歇，工钱照给。\n\n五文钱，够再住一晚，还剩两文。明天再挣八文，就能攒下些。攒够了，或许能换个不那么挤的地方，或许能添件换洗衣裳。这些念头在脑子里转了一圈，渐渐被铺上此起彼伏的鼾声盖过去。\n\n你翻了个身，把薄被拉到肩上。窗外有更夫敲梆子，远远的，一声，两声。",
+            "entityIds": [
+              "item_puwei_mupai_shier"
+            ],
+            "originParentId": "branch_071c4d72-f5a3-4fee-8274-5cc72b5bf1c3",
+            "originNarrativeSha256": "9bb9ca872f42a6aa1ac20b8ec3835d04809646306ae7058bdc7b23bf61b8a715"
+          },
+          {
+            "id": "followup-a77048e87e7972797ef3",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。character_laozhou",
+            "evidence": "走过去，等他空下来才开口：“老周，跳板中段那块板有裂纹，踩上去发软。货堆底下有几包粮受潮了，麻袋是湿的。”\n\n老周眉头一皱，没立刻答话，先跟你走到跳板口。他蹲下看了一眼裂纹，又用脚踩了踩，木板吱了一声。他直起身，脸色不太好看：“昨天收工没细看。这板子再裂下去，扛着粮走上去要出事。”他回头喊了一声，“老赵！”\n\n老赵从船上探出头。老周指着货堆底下那几包：“那几包潮的，你先搬，单独码到仓房角上，别跟好粮混。”又转头对你说，“你从靠岸这头走，别走中段。今天船靠得近，跳板短，稳当。”\n\n你应了一声。老赵跳下船，把那几包受潮的粮先扛走了，嘴里嘟囔了一句“又是底下压着的”。老周没接话，只把竹签往腰后一别，站到跳板口点数。\n\n你从靠岸一侧上跳板，肩上一包接一包。靠岸这头果然稳，脚下没有发软的感觉。日头升高，河面水汽蒸上来，混着汗味。你一趟一趟走，晌午在草棚吃糙米饭配咸菜，歇了一炷香，下午接着卸。船空的时候日头偏西，老周拿竹签挨个收牌发钱，轮到你，八枚铜钱搁在手心。\n\n“今天那几包潮的，”老周数完钱，顺口说，“老赵单独记了，回头跟粮行说。不混进好粮里，也不算你头上。”他顿了顿，“跳板那块板，明天我让人换。”\n\n你点点头，把钱收进怀里。加上昨天剩的五文，一共十三文。码头上脚夫渐渐散了，河面映着西边的天光，一条空船泊在岸边，船工蹲在船头抽烟。今晚还住通铺，还是另找地方，明天还来不来，都得你自己拿主意。",
+            "entityIds": [
+              "character_laozhou"
+            ],
+            "originParentId": "branch_7dcc9da5-2b29-4049-abb6-1978cca053a0",
+            "originNarrativeSha256": "7074d3434354fa3fc107a6cca02fe3152ab62b028c7ae63b125c93355bb60d3f"
+          },
+          {
+            "id": "followup-5e2d57f82642208eef5a",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。老周同意顾长离明天跟着点数、记在纸上，但声明只认仓房里的货，不认他的纸。",
+            "evidence": "了吧。明早卯时前到，先看板子。”\n\n你应了一声，转身往镇口走。河面最后一点天光沉下去，石桥下的水声比白天响。过桥再走半条街，白灯笼已经点上了，光晕昏黄，照着门口一块磨得发亮的门槛石。\n\n掌柜还在柜台后拨算盘，见你进来，头也没抬：“住店？”\n\n“通铺，一晚。”\n\n“三文。”他手一伸。\n\n你从怀里数出三枚铜钱搁在柜上。掌柜收了钱，从墙上取下那块刻着“拾贰”的木牌递过来，还是昨天那块，边角被手磨得发亮。“老位置，十二号。热水在后院，自己去舀。”\n\n你穿过堂屋，掀开布帘。里间通铺上已经躺了三四个人，有的面朝墙，有的仰着打鼾。你找到十二号铺位，把外衣叠了当枕头，行李搁在脚边。后院灶上温着一锅水，你舀了半盆，就着天井里那点月光洗了脸，又擦了擦脖颈和肩上的汗渍。水是温的，洗过之后身上松快了些。\n\n回到铺上躺下，怀里还剩十文钱，贴着胸口。旁边那人翻了个身，嘟囔了一句什么，又睡过去。通铺里气味杂，汗味、脚味、还有不知谁身上的酒气，混在一起。你闭上眼，想着明早卯时前得赶到码头，先看跳板换没换，再跟着老赵点那些受潮的粮包——哪包潮、几包、码在仓房哪个角，都得记清楚。\n\n十文钱，够再住三晚，还剩一文。明天再挣八文，就能攒下些。攒够了，或许能换个不那么挤的地方，或许能添件换洗衣裳。这些念头在脑子里转了一圈，渐渐被铺上此起彼伏的鼾声盖过去。\n\n你翻了个身，把薄被拉到肩上。窗外有更夫敲梆子，远远的，一声，两声。",
+            "entityIds": [
+              "new-1"
+            ],
+            "originParentId": "branch_f627035f-5203-4df6-9cfa-382acbb3908b",
+            "originNarrativeSha256": "d0243775c66955406890ac42c61ae43731f53c211a9c4bcf35bce5f6d9acd5ae"
+          },
+          {
+            "id": "followup-ce1420543f371ef63059",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。character_laozhao",
+            "evidence": "一行看下去，手指点着纸面，嘴里默念。看到第三行，他停了一下：“这包我记的是船底右边，你写的中间。”\n\n“你刚才报的是中间。”\n\n老赵又想了想，挠了挠后脑勺：“是我记岔了。右边那包是前天的，昨天这包确实在中间。你写的是对的。”\n\n他继续往下看，看完把纸还给你：“数目对，七包。位置也对。经手人——都是我搬的，没错。你记的比我那本子清楚。”\n\n你接过纸，把老赵指出的那处又核了一遍，确认无误。两人从仓房出来，老赵把门带上，往码头那边走。老周还在岸边，正跟船工说话。你走过去，把那张纸递上。\n\n老周接过去，就着最后一点天光看了一遍。他看得比老赵慢，眉头微微皱着，看到简图时停了一下，又往下看。看完，他把纸折起来，没有还给你，而是揣进了自己怀里。\n\n“记下了。”他说，“七包，仓房角上，老赵经手。回头粮行来人对账，我拿这个对。”\n\n他顿了顿，看着你：“可我还是那句话——对账的时候，我只认仓房里的货。你这张纸，我留着做个底，对不上，我不认。”\n\n“我记的就是我眼睛看见的。”你说。\n\n老周点点头，没再说什么，转身去招呼剩下的脚夫。你站在岸边，河面上最后一点天光沉下去，船工蹲在船头抽烟，烟头一明一灭。怀里铜钱贴着胸口，八枚，加上昨天的十枚，一共十八枚。\n\n仓房角上那七包受潮的粮，数目、位置、经手人，今天都点清了，老赵核过，老周收了底。跳板也换了，踩上去稳当。明天还来不来，来了还做不做这些，得你自己拿主意。",
+            "entityIds": [
+              "character_laozhao"
+            ],
+            "originParentId": "branch_48ffa97d-4797-4ddd-a289-68ae1b04c0d1",
+            "originNarrativeSha256": "3aa2ecc004a6ab984489c2723b12fcda9ba18411005e13ea8ee105f3e900d5f6"
+          },
+          {
+            "id": "followup-6f5a58e0fc09b5439de9",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。完成受潮粮交接记录。",
+            "evidence": "一行看下去，手指点着纸面，嘴里默念。看到第三行，他停了一下：“这包我记的是船底右边，你写的中间。”\n\n“你刚才报的是中间。”\n\n老赵又想了想，挠了挠后脑勺：“是我记岔了。右边那包是前天的，昨天这包确实在中间。你写的是对的。”\n\n他继续往下看，看完把纸还给你：“数目对，七包。位置也对。经手人——都是我搬的，没错。你记的比我那本子清楚。”\n\n你接过纸，把老赵指出的那处又核了一遍，确认无误。两人从仓房出来，老赵把门带上，往码头那边走。老周还在岸边，正跟船工说话。你走过去，把那张纸递上。\n\n老周接过去，就着最后一点天光看了一遍。他看得比老赵慢，眉头微微皱着，看到简图时停了一下，又往下看。看完，他把纸折起来，没有还给你，而是揣进了自己怀里。\n\n“记下了。”他说，“七包，仓房角上，老赵经手。回头粮行来人对账，我拿这个对。”\n\n他顿了顿，看着你：“可我还是那句话——对账的时候，我只认仓房里的货。你这张纸，我留着做个底，对不上，我不认。”\n\n“我记的就是我眼睛看见的。”你说。\n\n老周点点头，没再说什么，转身去招呼剩下的脚夫。你站在岸边，河面上最后一点天光沉下去，船工蹲在船头抽烟，烟头一明一灭。怀里铜钱贴着胸口，八枚，加上昨天的十枚，一共十八枚。\n\n仓房角上那七包受潮的粮，数目、位置、经手人，今天都点清了，老赵核过，老周收了底。跳板也换了，踩上去稳当。明天还来不来，来了还做不做这些，得你自己拿主意。",
+            "entityIds": [
+              "character_e663361ab1c7"
+            ],
+            "originParentId": "branch_48ffa97d-4797-4ddd-a289-68ae1b04c0d1",
+            "originNarrativeSha256": "3aa2ecc004a6ab984489c2723b12fcda9ba18411005e13ea8ee105f3e900d5f6"
+          },
+          {
+            "id": "followup-3daf155a4e61d1f561c3",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。老周与顾长离当面约定",
+            "evidence": "光展开，手指点在简图那几行字上，慢慢往下挪。他看得很细，看到“船底左角”“船底中间”那几行时，指节停了一下。\n\n“这几处，是老赵报的？”他问。\n\n“是。他报一包，我记一包。数目和位置他后来核过，说有一处他记岔了，我记的是对的——可那也是他先报的。”\n\n老周从腰后抽出竹签，用签尖在纸边空白处划了一道，又划一道，把“位置与潮湿”和“船底位置、经手人”两段隔开。他没带墨，划的是干痕，浅，但看得清。\n\n“行。”他把纸重新折好，这回没揣回怀里，而是捏在手里，“明天粮行的人来，我把这个摊开给他们看。你亲见的归你亲见，老赵说的归老赵说。对得上仓房里的货，就认；对不上，还是那句话，只认货。”\n\n他顿了顿，看你一眼：“你明天来不来？”\n\n“来。”你说，“实货我可以当面跟他们一包一包对。但装船那一段我没在场，不担保。”\n\n“谁让你担保装船了。”老周把竹签别回腰后，语气里没什么情绪，“你担保你看见的就行。明早船到之前来，仓房那边我让老赵把门开着。”\n\n他说完转身走了，脚步踩在岸边湿泥上，留下几个浅浅的印子。你站在原处，河面上最后一点天光沉下去，船工蹲在船头抽烟，烟头一明一灭。怀里铜钱贴着胸口，八枚，加上昨天的十枚，一共十八枚。\n\n那张底单现在在老周手里，来源标了，明天粮行对账时怎么采信，得看实货对不对得上。你亲见的那部分你担得起，老赵转述的那部分，你只做了转记。明天来不来、来了怎么对，你心里已经有了数。",
+            "entityIds": [
+              "character_e663361ab1c7"
+            ],
+            "originParentId": "branch_f2bb81bf-e775-49c6-b6da-24aa2b1cbaec",
+            "originNarrativeSha256": "c4c674247444d30263c82bf801d8f4cdba527f50fc4fdf40c3ef3f440b79a08e"
+          },
+          {
+            "id": "followup-625c2524f92dd6c086b4",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。老周当面说明点货记数的工钱算法、责任和记录规矩。",
+            "evidence": "靠了靠，胳膊搭在麻袋口上，“码头上不是天天有货要点。船到了，粮行、布行、盐号的人来收货，才需要有人跟着记数、画位置、标水渍。这活不归脚夫，归仓房这边临时找人。你要是记性好、字写得清，我可以跟粮行那边提一句，下回有货要记，叫你过来。”\n\n“工钱怎么算？”\n\n“记数的工钱不按天，按趟。”老周说，“一趟货记完，粮行给多少，我抽一成，剩下的给你。数目看货多少，少的三五文，多的十几文。你要是记岔了、漏了，粮行不认，那一趟就白干，还得赔我抽的那一成。”\n\n他说得平，没什么商量的余地，就是码头上的规矩。\n\n“还有一条。”老周看着你，“你记的东西，只记你亲眼见的。别人报给你的，你标明白是谁报的。今天吴先生认你，是认你这一条。你要是把听来的写成自己看见的，下回没人再找你。”\n\n“我明白。”你说。\n\n老周点点头，从粮包上直起身，拍了拍手上的灰。“那就这么定。明天船到之前来，先领牌子卸货。有记数的活，我让人到草棚那边喊你。今天这四文，明天一起结。”\n\n他往仓门口走，走到门槛那儿又停下，回头看你一眼。\n\n“你那张底单收好了。粮行认了是一回事，往后你自己拿它当什么，是另一回事。”\n\n说完他跨出门去，脚步踩在岸边湿泥上，往码头那边走了。仓房里剩下你一个人，粮包堆在角上，仓门半开，河风一阵一阵灌进来。你怀里那张按了印的底单贴着铜钱，纸角硬硬的，硌着胸口。\n\n明天来不来、来了先卸货还是等记数的活，得你自己拿主意。",
+            "entityIds": [
+              "character_e663361ab1c7"
+            ],
+            "originParentId": "branch_74aea80e-5314-4dd9-8fe4-f7a932038818",
+            "originNarrativeSha256": "dd063c00ed2402a400569aff3bcd12703fe1069d75b7a2b23bd99b4ef17bf25a"
+          },
+          {
+            "id": "followup-a4628994c608cfe9719a",
+            "kind": "state_uncertain",
+            "status": "resolved",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。粮行吴先生核验后认下底单，老周将按印底单递还顾长离。",
+            "evidence": "这回他解开了三包的袋口，一包一包抓粮看，看完把袋口重新扎好，站起身，拍了拍手上的灰。\n\n“数目对，七包。”他说，“潮的程度也对得上。位置——”他回头看了一眼那七包粮，“和纸上画的简图一致。”\n\n老周把纸重新折好，捏在手里，看着吴先生：“那这单子，粮行认不认？”\n\n吴先生从长衫襟里摸出一方小印和一小盒印泥，在账册上翻到一页空白，把七包粮的数目、受潮情况、仓房位置简略记下，然后抬眼：“认。数目、现状、位置，我当面核过了，和底单对得上。装船那一段是老赵报的，我另记一笔，注明转述来源，不混进实货核验里。”\n\n他顿了顿，看向你：“你记的那部分，我采信。你没在场的，不写你名下。”\n\n老周把底单递过去，吴先生在纸角按了印，又在自己账册上按了同一个印，两处印文并排。他把账册合上，对老周说：“这七包粮，粮行收下，按受潮粮折价入账。回头我让人来搬。”\n\n老周“嗯”了一声，把按了印的底单折好，这回没揣回怀里，而是递还给你。\n\n“你的底，你拿着。”他说，“粮行认了。”\n\n吴先生已经转身往外走，走到门口又停下，回头看了你一眼：“你是新来的？以前在哪个行当记过账？”\n\n你没答。他也没等，摆摆手走了。\n\n仓房里剩下你和老周、老赵。老赵挠了挠头，冲你咧嘴笑了一下，没说话，出去搬粮了。老周站在粮包旁，手里那根竹签别回腰后，看着你手里的底单。\n\n“粮行认了。”他又说了一遍，语气里听不出什么，“你明天还来不来，随你。”",
+            "entityIds": [
+              "character_laozhou"
+            ],
+            "originParentId": "branch_6a148a8e-6e13-41da-b734-22eea154bb12",
+            "originNarrativeSha256": "9c3e1f79d088cce014fd2a8d01eff02903fc73dde6412ed62084f610a2fd1576",
+            "resolution": "粮行吴先生核验后认下底单，老周将按印底单递还顾长离，本回合顾长离已实际接过并按印底单收好。",
+            "resolutionEvidence": "你伸手接过那张折好的底单。纸角上吴先生的印文还带着一点印泥的潮意，指腹蹭过去，微微发涩。你把它重新折成四折，贴着怀里那十八枚铜钱收好，纸边和钱串挨在一起，走起路来不会散。",
+            "resolutionNarrativeSha256": "dd063c00ed2402a400569aff3bcd12703fe1069d75b7a2b23bd99b4ef17bf25a"
+          },
+          {
+            "id": "followup-646076e0dc8ee9dfe69e",
+            "kind": "state_uncertain",
+            "status": "resolved",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。老周将按印底单交还顾长离，称粮行认了。",
+            "evidence": "这回他解开了三包的袋口，一包一包抓粮看，看完把袋口重新扎好，站起身，拍了拍手上的灰。\n\n“数目对，七包。”他说，“潮的程度也对得上。位置——”他回头看了一眼那七包粮，“和纸上画的简图一致。”\n\n老周把纸重新折好，捏在手里，看着吴先生：“那这单子，粮行认不认？”\n\n吴先生从长衫襟里摸出一方小印和一小盒印泥，在账册上翻到一页空白，把七包粮的数目、受潮情况、仓房位置简略记下，然后抬眼：“认。数目、现状、位置，我当面核过了，和底单对得上。装船那一段是老赵报的，我另记一笔，注明转述来源，不混进实货核验里。”\n\n他顿了顿，看向你：“你记的那部分，我采信。你没在场的，不写你名下。”\n\n老周把底单递过去，吴先生在纸角按了印，又在自己账册上按了同一个印，两处印文并排。他把账册合上，对老周说：“这七包粮，粮行收下，按受潮粮折价入账。回头我让人来搬。”\n\n老周“嗯”了一声，把按了印的底单折好，这回没揣回怀里，而是递还给你。\n\n“你的底，你拿着。”他说，“粮行认了。”\n\n吴先生已经转身往外走，走到门口又停下，回头看了你一眼：“你是新来的？以前在哪个行当记过账？”\n\n你没答。他也没等，摆摆手走了。\n\n仓房里剩下你和老周、老赵。老赵挠了挠头，冲你咧嘴笑了一下，没说话，出去搬粮了。老周站在粮包旁，手里那根竹签别回腰后，看着你手里的底单。\n\n“粮行认了。”他又说了一遍，语气里听不出什么，“你明天还来不来，随你。”",
+            "entityIds": [
+              "character_e663361ab1c7"
+            ],
+            "originParentId": "branch_6a148a8e-6e13-41da-b734-22eea154bb12",
+            "originNarrativeSha256": "9c3e1f79d088cce014fd2a8d01eff02903fc73dde6412ed62084f610a2fd1576",
+            "resolution": "老周已将按印底单交还顾长离，并称粮行认了；本回合顾长离实际接过收好。",
+            "resolutionEvidence": "你伸手接过那张折好的底单。纸角上吴先生的印文还带着一点印泥的潮意，指腹蹭过去，微微发涩。你把它重新折成四折，贴着怀里那十八枚铜钱收好，纸边和钱串挨在一起，走起路来不会散。",
+            "resolutionNarrativeSha256": "dd063c00ed2402a400569aff3bcd12703fe1069d75b7a2b23bd99b4ef17bf25a"
+          },
+          {
+            "id": "followup-477dc670c30d07263659",
+            "kind": "continuity",
+            "status": "resolved",
+            "summary": "老周同意顾长离协助记录受潮粮包，但声明对账时只认仓房里的货，不认顾长离的纸，记录效力待明天实际交接时检验。",
+            "evidence": "老周眯了眯眼，没立刻答。他伸手从怀里摸出个卷了边的旧账本，翻了两页，纸角上沾着粮灰。“老赵识几个字，记是记了，就是潦草。”他把账本合上，在手里掂了掂，“你要记，行。明天受潮的单独码，你跟着点数，记在纸上。可有一条——你记的是你看见的，回头粮行来人对账，对不上，我不认你那张纸，只认仓房里的货。”\n\n“成。”你说，“我记的就是我眼睛看见的。”",
+            "entityIds": [],
+            "originParentId": "branch_f627035f-5203-4df6-9cfa-382acbb3908b",
+            "originNarrativeSha256": "d0243775c66955406890ac42c61ae43731f53c211a9c4bcf35bce5f6d9acd5ae",
+            "resolution": "老周同意顾长离协助记录受潮粮包，粮行吴先生当面核验后认下底单，记录效力已检验。",
+            "resolutionEvidence": "吴先生从长衫襟里摸出一方小印和一小盒印泥，在账册上翻到一页空白，把七包粮的数目、受潮情况、仓房位置简略记下，然后抬眼：“认。数目、现状、位置，我当面核过了，和底单对得上。装船那一段是老赵报的，我另记一笔，注明转述来源，不混进实货核验里。”\n\n他顿了顿，看向你：“你记的那部分，我采信。你没在场的，不写你名下。”\n\n老周把底单递过去，吴先生在纸角按了印，又在自己账册上按了同一个印，两处印文并排。他把账册合上，对老周说：“这七包粮，粮行收下，按受潮粮折价入账。回头我让人来搬。”\n\n老周“嗯”了一声，把按了印的底单折好，这回没揣回怀里，而是递还给你。\n\n“你的底，你拿着。”他说，“粮行认了。”",
+            "resolutionNarrativeSha256": "9c3e1f79d088cce014fd2a8d01eff02903fc73dde6412ed62084f610a2fd1576"
+          },
+          {
+            "id": "followup-99de2d27dc9f349690ac",
+            "kind": "continuity",
+            "status": "resolved",
+            "summary": "老周已接受在底单旁标注来源，但重申对账时只认仓房里的货，对不上不认这张纸；明日粮行对账时记录效力仍待检验。",
+            "evidence": "“行。”他把纸重新折好，这回没揣回怀里，而是捏在手里，“明天粮行的人来，我把这个摊开给他们看。你亲见的归你亲见，老赵说的归老赵说。对得上仓房里的货，就认；对不上，还是那句话，只认货。”\n\n他顿了顿，看你一眼：“你明天来不来？”\n\n“来。”你说，“实货我可以当面跟他们一包一包对。但装船那一段我没在场，不担保。”\n\n“谁让你担保装船了。”老周把竹签别回腰后，语气里没什么情绪，“你担保你看见的就行。明早船到之前来，仓房那边我让老赵把门开着。”",
+            "entityIds": [],
+            "originParentId": "branch_48ffa97d-4797-4ddd-a289-68ae1b04c0d1",
+            "originNarrativeSha256": "3aa2ecc004a6ab984489c2723b12fcda9ba18411005e13ea8ee105f3e900d5f6",
+            "lastObservedNarrativeSha256": "c4c674247444d30263c82bf801d8f4cdba527f50fc4fdf40c3ef3f440b79a08e",
+            "resolution": "老周已接受在底单旁标注来源，粮行吴先生当面核验后认下底单，按印注明转述来源，采信顾长离亲见部分，记录效力已检验。",
+            "resolutionEvidence": "吴先生从长衫襟里摸出一方小印和一小盒印泥，在账册上翻到一页空白，把七包粮的数目、受潮情况、仓房位置简略记下，然后抬眼：“认。数目、现状、位置，我当面核过了，和底单对得上。装船那一段是老赵报的，我另记一笔，注明转述来源，不混进实货核验里。”\n\n他顿了顿，看向你：“你记的那部分，我采信。你没在场的，不写你名下。”\n\n老周把底单递过去，吴先生在纸角按了印，又在自己账册上按了同一个印，两处印文并排。他把账册合上，对老周说：“这七包粮，粮行收下，按受潮粮折价入账。回头我让人来搬。”\n\n老周“嗯”了一声，把按了印的底单折好，这回没揣回怀里，而是递还给你。\n\n“你的底，你拿着。”他说，“粮行认了。”",
+            "resolutionNarrativeSha256": "9c3e1f79d088cce014fd2a8d01eff02903fc73dde6412ed62084f610a2fd1576"
+          },
+          {
+            "id": "followup-0dd2cb58f1d870a528fd",
+            "kind": "continuity",
+            "status": "resolved",
+            "summary": "老周答应明早船到前让老赵带人换跳板中段裂板，但尚未实际更换，需看明天上工前是否兑现。",
+            "evidence": "老周把竹签在鞋帮上磕了两下，站起来，往跳板那边瞥了一眼。“记着呢。明早船到之前我让老赵带人换，库房里有旧板，尺寸差不多。”他顿了顿，像是琢磨你这话，“你倒操心这个。”\n\n“操心的是自己这条命。”你说。\n\n老周哼了一声，没恼，反倒把竹签往腰后一别，正眼看了你一回。“行。明天来先看板子，换好了你再上。”",
+            "entityIds": [],
+            "originParentId": "branch_f627035f-5203-4df6-9cfa-382acbb3908b",
+            "originNarrativeSha256": "d0243775c66955406890ac42c61ae43731f53c211a9c4bcf35bce5f6d9acd5ae",
+            "resolution": "老周承诺的跳板中段裂板已由老赵带人换好，顾长离第三天到码头查看确认新板稳当。",
+            "resolutionEvidence": "跳板还是那块跳板，但中段那块裂板不见了。新换上的木板颜色比两边的浅，木纹还带着毛刺，边缘没来得及刨光。你蹲下，用手掌按了按，板子纹丝不动。又站上去，脚跟用力跺了两下，只发出闷实的一声，没有昨天那种发软的颤。你退回来，又沿跳板从头到尾走了一趟，每块板都踩过，靠岸这头稳，中段新板也稳。\n\n老周的声音从船那边传过来：“看够了没有？”\n\n他站在船头，手里还是那根竹签，短褂敞着，脸上带着点没睡醒的倦意，但眼神是清的。\n\n“换过了。”你说。\n\n“昨晚上让老赵带人换的。”老周跳下船，走到跳板口，也踩了一脚新板，“库房里翻出来的旧料，尺寸差不多，钉死了。今天能走。”",
+            "resolutionNarrativeSha256": "3aa2ecc004a6ab984489c2723b12fcda9ba18411005e13ea8ee105f3e900d5f6"
+          },
+          {
+            "id": "followup-b9aeaebbf1b0e91e4299",
+            "kind": "continuity",
+            "status": "resolved",
+            "summary": "顾长离尚未决定今晚住哪儿，也未答复老周明天是否继续来码头做工。",
+            "evidence": "“明天还来不来？”他问。\n\n八文钱在手里沉甸甸的。你抬头看了看天色，又看了看码头上渐渐散去的脚夫。天还没黑，镇上的灯火该陆续亮起来了。今晚住哪儿，明天还来不来，都得你自己拿主意。",
+            "entityIds": [],
+            "originParentId": "branch_44f5316d-4142-47fc-b620-5aa1e90a7ae4",
+            "originNarrativeSha256": "0287b68b4cfd64736abd96c9a46b3f123ac09aca22597a9052565430d4f99a8c",
+            "resolution": "顾长离已决定今晚住镇口通铺，并答复老周明天继续来码头做工。",
+            "resolutionEvidence": "“明天还来。”你说。\n\n老周把竹签往腰后一别，点了点头，没多话。你趁他还没走开，又问了一句：“这附近有没有干净便宜的通铺？能洗漱就行。”\n\n他上下打量你一眼，像是早料到你会问。“镇口那边有一家，你顺着这条街往西走，过了石桥再走半条街，门口挂盏白灯笼的就是。”他伸出三根手指，“一晚三文，有热水，洗漱不另收钱。就是铺位挤，通铺，跟人挨着睡。你要嫌吵，往里走还有家客栈，一晚十五文，你自己掂量。”\n\n“三文就行。”你道了谢。\n\n老周摆摆手，转身去招呼剩下几个还没领钱的脚夫。\n\n你按他指的方向走。街上的灯陆续亮起来，卖吃食的摊子收了，只剩几家铺面还开着门。过了石桥，往西半条街，果然看见一盏白灯笼挂在门檐下，灯笼上没写字，只画了个歪歪扭扭的“宿”字。\n\n推门进去，堂里摆着几张条凳，一个五十来岁的掌柜正就着油灯算账。他抬头看你一眼，见你一身汗渍、肩上搭着外衣，也不多问。\n\n“住店？”\n\n“通铺，一晚多少？”\n\n“三文。”掌柜把算盘往边上一推，“热水在后院灶上，自己去舀，不另收钱。被褥有，旧的，将就盖。明早天亮前走，不催你。”\n\n“没有别的费用？”\n\n“没有。”掌柜答得干脆，“三文就是三文。你要吃饭，街对面有卖面的，我这儿不管饭。”\n\n你从怀里数出三枚铜钱搁在柜上。掌柜收了钱，从墙上取下一块木牌递给你，牌上刻着“拾贰”两个字。“铺位在里间，十二号，自己找。”\n\n你穿过堂屋，掀开布帘，里间是一长溜通铺，铺板上铺着草席和薄被，已经躺了四五个人，有的打着鼾，有的翻了个身。你找到十二号铺位，把外衣叠了当枕头，行李搁在脚边。后院灶上果然温着一锅热水，你舀了半盆，就着天井的月光洗了把脸，又擦了擦脖颈和胳膊上的汗渍。水是温的，洗过之后身上松快了些。",
+            "resolutionNarrativeSha256": "9bb9ca872f42a6aa1ac20b8ec3835d04809646306ae7058bdc7b23bf61b8a715"
+          },
+          {
+            "id": "followup-2d6050d43c2f39e6e8eb",
+            "kind": "continuity",
+            "status": "resolved",
+            "summary": "顾长离尚未决定接受陈记面铺条件留下，还是付两文钱离开去镇东码头或粮行找短工；卯时劈柴的约定尚未履行。",
+            "evidence": "老陈瞥了她一眼，没拦，只对你说：“住一夜的钱，你看着给两文就行，草席也不值什么。你要走，我不留；你要留，卯时的柴还得劈。”\n\n他说完转身去照看灶上的锅，不再多言。前铺传来门板卸下的声响，天光从门口漫进来，照见案板上昨夜没擦净的面粉印子。\n\n你站在灶边，手边就是那把靠在柴垛上的斧子。镇东的码头和粮行在什么方位，你还不知道，但妇人说得明白——日结，管一顿晌午。留下，是两顿饭、一张草席、一个月后三十文；走，是两文钱结清，去镇东碰碰运气。\n\n斧柄被握得发亮，灶膛里的火噼啪响了一声。",
+            "entityIds": [],
+            "originParentId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+            "originNarrativeSha256": "e34f58f129dde6aa9bf8e5140c74a67554aff8412d8c9b7849e6ec258178e093",
+            "lastObservedNarrativeSha256": "fa2ceba4cde5402cedcea5994b73127b0810e9a3ca51e384e1035670f50c9a21",
+            "resolution": "顾长离已付清两文住宿钱，离开陈记面铺，未接受面铺条件留下，也未履行卯时劈柴的约定。",
+            "resolutionEvidence": "你把两文铜钱搁在灶台边沿，铜面碰着青砖，响了一声。老陈正低头揉面，手上沾着白粉，只抬眼看了一下钱，又看你。\n\n“住一夜，两文，清了。”你说。\n\n他没多话，用指节把钱拨到灶台里侧，算是收下。你回身穿过那道窄门，到天井角落的土屋里，把昨夜摊开的草席卷起来靠墙放好，油灯搁回门边原处。行李本就不多——一只干粮袋，一只水囊，外衣裹着，往肩上一搭就齐了。你出来时顺手把土屋的门带上。\n\n妇人正在前铺擦桌子，见你背着东西出来，直起腰。你朝她拱了拱手：“多谢指点，码头的事我记着了。”\n\n她点点头，没多问，只说了句：“往东走，过了石桥就是。晌午前到，领工的还在。”\n\n老陈从灶后探出半张脸，声音闷闷的：“路上当心。”说完又缩回去揉他的面。\n\n你出了面铺。清晨的青石镇比昨夜亮堂许多，街面上有了人声。挑担的、赶早市的、蹲在门口喝粥的，各自忙各自的。你按妇人说的往东走，街尾一条石板路斜下去，两旁屋檐渐矮，走到尽头果然见一座单孔石桥，桥下是条不宽的河，水色发浑，浮着些菜叶草屑。过了桥，路宽起来，能听见前面有牲口叫、有人吆喝，还有一股子湿泥和鱼腥混着的气味。",
+            "resolutionNarrativeSha256": "0287b68b4cfd64736abd96c9a46b3f123ac09aca22597a9052565430d4f99a8c"
+          }
+        ],
+        "observationDiagnostics": [
+          {
+            "item": {
+              "entityId": "character_e663361ab1c7",
+              "entityName": "你",
+              "basis": "observed",
+              "attribute": "点货记数活计约定",
+              "value": "按趟算，粮行给多少老周抽一成、余下归顾长离；记岔漏则白干并赔一成；只记亲眼所见，转述须标明来源",
+              "reason": "老周当面说明点货记数的工钱算法、责任和记录规矩。",
+              "paragraphIds": [
+                "P8",
+                "P10",
+                "P12"
+              ]
+            },
+            "reason": "状态依据含转述、设想或未核实信息，保留待澄清"
+          },
+          {
+            "item": {
+              "entityId": "character_e663361ab1c7",
+              "entityName": "你",
+              "basis": "observed",
+              "attribute": "点货记数活计约定",
+              "value": "按趟算，粮行给多少老周抽一成、余下归顾长离；记岔漏则白干并赔一成；只记亲眼所见，转述须标明来源",
+              "reason": "老周当面说明点货记数的工钱算法、责任和记录规矩。",
+              "paragraphIds": [
+                "P8",
+                "P10",
+                "P12"
+              ]
+            },
+            "reason": "状态依据含转述、设想或未核实信息，保留待澄清"
+          }
+        ],
+        "readingProfile": {
+          "level": "dynamic",
+          "targetCjk": [
+            500,
+            500
+          ],
+          "reason": "本次行动为交接底单并问清谋生条件，需要老周的具体答复和顾长离的即时反应，篇幅适中。",
+          "hardMinimum": false,
+          "minCjk": 80,
+          "maxCjk": 1500,
+          "lengthPolicy": "final_visible_prose_dynamic_80_1500",
+          "actualCjk": 849,
+          "expansionApplied": false
+        },
+        "proseQuality": {
+          "status": "not_automatically_reviewed",
+          "reviewer": "developer"
+        },
+        "storyJourney": {
+          "version": "story-journey/1",
+          "budget": {
+            "targetMinutes": 150,
+            "typicalMinutes": [
+              120,
+              180
+            ],
+            "targetCjk": 30000,
+            "typicalCjk": [
+              25000,
+              40000
+            ],
+            "targetTurns": 45,
+            "typicalTurns": [
+              40,
+              60
+            ]
+          },
+          "progress": {
+            "consumedCjk": 11380,
+            "completedTurns": 11,
+            "remainingCjk": 18620,
+            "remainingTurns": 34,
+            "suggestedPhase": "turn",
+            "pacing": "developing",
+            "plotCompletion": null
+          },
+          "plan": {
+            "premise": "顾长离第一次参加玄霄宗外门试炼，却在钟响前决定退出，交回木牌与包着金屑的纸包，独自下山到青石镇谋生。离开宗门庇护后，他要在陌生市镇立足，同时面对退试带来的后果与那粒金屑未解之谜的余波。",
+            "centralQuestion": "一个主动放弃宗门试炼的人，能否在青石镇靠自己活出另一条路，并承受这个选择带来的代价？",
+            "revisionReason": "玩家明确放弃试炼与金屑调查，转向退出宗门、独自谋生，原计划围绕试炼与金屑推进的路径失效，故重排为下山立足与后果承担。",
+            "phases": [
+              {
+                "id": "establish",
+                "title": "钟响前退试",
+                "purpose": "顾长离向执事交回木牌与纸包，办理退试手续，听取后果；执事可能劝阻、记录或放行，玩家决定如何应对。",
+                "payoff": "确立退试的正式后果与下山身份，为青石镇谋生提供起点，并留下金屑纸包已交出的后续可能。",
+                "targetEndCjk": 4500
+              },
+              {
+                "id": "develop",
+                "title": "青石镇立足",
+                "purpose": "顾长离独自下山到青石镇，寻找住处与活计，面对无宗门背景的谋生困难；玩家决定以何种方式谋生、与谁打交道。",
+                "payoff": "建立市镇关系与生计基础，暴露退试者身份可能带来的偏见或机会，为后续冲突准备资源与人脉。",
+                "targetEndCjk": 10500
+              },
+              {
+                "id": "turn",
+                "title": "退试的代价",
+                "purpose": "退试后果或金屑旧事以某种方式追到青石镇，顾长离必须在安稳谋生与重新面对旧疑之间选择；玩家决定是否回应、如何回应。",
+                "payoff": "把退试选择与金屑线索重新拉回，检验顾长离是否真能放下，或被迫以新身份处理旧问题。",
+                "targetEndCjk": 18000
+              },
+              {
+                "id": "resolve",
+                "title": "自己的路",
+                "purpose": "顾长离在青石镇的关键冲突中做出最终取舍，可能彻底切断与玄霄宗试炼的牵连，也可能以平民身份解决金屑余波；玩家决定立场与手段。",
+                "payoff": "兑现退试与谋生的核心矛盾，交代金屑线索的走向，让顾长离获得或失去他在青石镇的位置。",
+                "targetEndCjk": 25000
+              },
+              {
+                "id": "conclude",
+                "title": "山下余波",
+                "purpose": "处理关键选择的直接后果，展示顾长离在青石镇的新日常或离镇去向，收束退试与金屑的余波。",
+                "payoff": "给出顾长离独自谋生这条路的阶段性结果，留下符合世界规则的余韵，不强行拉回宗门主线。",
+                "targetEndCjk": 30000
+              }
+            ]
+          },
+          "planStatus": "provisional",
+          "revision": 1,
+          "review": {
+            "status": "recorded",
+            "decision": "keep",
+            "reason": "玩家继续在青石镇码头谋生，与既有计划「青石镇立足」阶段一致；本次行动是接过按印底单并问清核账工钱、结算与兼做点货记录的职责报酬，属于立足阶段的自然推进，不改变原路径。",
+            "nextMilestone": "老周就核账是否算工、何时结算、能否兼做点货记录给出明确答复，顾长离得到一份可预期的码头活计安排。"
+          },
+          "authority": "future_possibilities_not_facts",
+          "ending": null
+        },
+        "naturalEnding": false,
+        "selectedDirectionId": "direction_free_822a20bfde70",
+        "selectedDirection": {
+          "id": "direction_free_822a20bfde70",
+          "title": "自定行动：我接过老周递还的按印底单",
+          "summary": "我接过老周递还的按印底单，收好。我愿意留在码头谋生，问清今天核账算不算工、何时结算，以及以后能否兼做点货记录；请把职责和报酬说清，已核清的七包粮不再重复查证。",
+          "statePatch": {
+            "freeTextProgress": 11
+          },
+          "isFreeText": true
+        },
+        "playerDirection": "我接过老周递还的按印底单，收好。我愿意留在码头谋生，问清今天核账算不算工、何时结算，以及以后能否兼做点货记录；请把职责和报酬说清，已核清的七包粮不再重复查证。",
+        "requestId": "playthrough-809747e6d2cd4d0da9a7e01ab324599a",
+        "contextId": "ctx-0dbdaa9b6ee0a6b9",
+        "readerChoices": [
+          {
+            "id": "reader-5407ff2c7336033e",
+            "title": "收好底单，明天先领牌卸货",
+            "summary": "我把按印底单和铜钱贴身收好，明天船到之前来草棚领牌子卸货，按老周说的先干一天八文的脚夫活，等记数的活有人来喊再说。",
+            "evidence": [
+              "“今天这场，”他开口，“算半天工。四文。你从早上船到之前就来了，仓房点货、对账、按印，忙到这会儿，半天是有的。这四文跟今天的卸货工钱分开算，明天早上发工钱的时候一并给你。”",
+              "他顿了顿，补一句：“卸货还是老规矩，一天八文，日结，管晌午饭。你明天来，先到草棚那边领牌子。”",
+              "老周点点头，从粮包上直起身，拍了拍手上的灰。“那就这么定。明天船到之前来，先领牌子卸货。有记数的活，我让人到草棚那边喊你。今天这四文，明天一起结。”",
+              "说完他跨出门去，脚步踩在岸边湿泥上，往码头那边走了。仓房里剩下你一个人，粮包堆在角上，仓门半开，河风一阵一阵灌进来。你怀里那张按了印的底单贴着铜钱，纸角硬硬的，硌着胸口。"
+            ],
+            "dependencies": {
+              "version": "reader-choice-dependencies/3",
+              "contextDigest": "e27660efcc547c0e29c52c43673e64420a799aae061411e32a69d63ea6e0d16e",
+              "paragraphIds": [
+                "P5",
+                "P6",
+                "P14",
+                "P17"
+              ],
+              "interactWith": [
+                "character_laozhou"
+              ],
+              "mentionOnly": []
+            }
+          },
+          {
+            "id": "reader-27196b5e74fc50f0",
+            "title": "找老周问清记数活怎么喊我",
+            "summary": "我追上往码头走的老周，问明白记数的活具体怎么通知我——是到草棚喊，还是得我自己每天来问一趟，免得错过了趟次。",
+            "evidence": [
+              "“那是另一码事。”老周往粮包上靠了靠，胳膊搭在麻袋口上，“码头上不是天天有货要点。船到了，粮行、布行、盐号的人来收货，才需要有人跟着记数、画位置、标水渍。这活不归脚夫，归仓房这边临时找人。你要是记性好、字写得清，我可以跟粮行那边提一句，下回有货要记，叫你过来。”",
+              "老周点点头，从粮包上直起身，拍了拍手上的灰。“那就这么定。明天船到之前来，先领牌子卸货。有记数的活，我让人到草棚那边喊你。今天这四文，明天一起结。”",
+              "“你那张底单收好了。粮行认了是一回事，往后你自己拿它当什么，是另一回事。”"
+            ],
+            "dependencies": {
+              "version": "reader-choice-dependencies/3",
+              "contextDigest": "e27660efcc547c0e29c52c43673e64420a799aae061411e32a69d63ea6e0d16e",
+              "paragraphIds": [
+                "P8",
+                "P14",
+                "P16"
+              ],
+              "interactWith": [
+                "character_laozhou"
+              ],
+              "mentionOnly": []
+            }
+          },
+          {
+            "id": "reader-2f855b6a10d0c5e4",
+            "title": "留在仓房再核一遍底单",
+            "summary": "仓房里只剩我一个人，我把怀里那张按印底单重新展开，就着半开的仓门透进来的光，把今天记的货数、水渍位置和吴先生的印文再对一遍，确认没有记岔的地方。",
+            "evidence": [
+              "你伸手接过那张折好的底单。纸角上吴先生的印文还带着一点印泥的潮意，指腹蹭过去，微微发涩。你把它重新折成四折，贴着怀里那十八枚铜钱收好，纸边和钱串挨在一起，走起路来不会散。",
+              "“还有一条。”老周看着你，“你记的东西，只记你亲眼见的。别人报给你的，你标明白是谁报的。今天吴先生认你，是认你这一条。你要是把听来的写成自己看见的，下回没人再找你。”",
+              "说完他跨出门去，脚步踩在岸边湿泥上，往码头那边走了。仓房里剩下你一个人，粮包堆在角上，仓门半开，河风一阵一阵灌进来。你怀里那张按了印的底单贴着铜钱，纸角硬硬的，硌着胸口。"
+            ],
+            "dependencies": {
+              "version": "reader-choice-dependencies/3",
+              "contextDigest": "e27660efcc547c0e29c52c43673e64420a799aae061411e32a69d63ea6e0d16e",
+              "paragraphIds": [
+                "P1",
+                "P12",
+                "P17"
+              ],
+              "interactWith": [],
+              "mentionOnly": [
+                "character_wu_xiansheng"
+              ]
+            }
+          }
+        ],
+        "turnInput": {
+          "text": "我接过老周递还的按印底单，收好。我愿意留在码头谋生，问清今天核账算不算工、何时结算，以及以后能否兼做点货记录；请把职责和报酬说清，已核清的七包粮不再重复查证。"
+        },
+        "preparedTurnKey": "e08227d6676b0ac6489581959b222d9c9db575331048d1732ad633185982bf3f",
+        "preparedAttemptId": "d05af79ba71a48cdbfd49bdc430311b5",
+        "routeOutline": {
+          "version": "route-outline/3",
+          "branch_id": "branch_9ad444de-1410-401a-84e5-dedc8db9a4f7",
+          "root_branch_id": "branch_bb2ed016-c551-4a3a-8564-487a2653d2f7",
+          "binding_digest": "d285a12de07915f2ae7218f51dff027c1d841128401f28960c27fcafb4f826a3",
+          "structure": {
+            "volume": null,
+            "arc": "arc_source_chapter_003",
+            "beat": "beat_chapter_011",
+            "source_progress": "chapter_011"
+          },
+          "goals": [
+            {
+              "id": "opening-goal-1",
+              "title": "木牌刻痕里为何有金屑",
+              "status": "abandoned",
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                "ref": "opening-goal-1",
+                "quote": "“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”"
+              },
+              "priority": "unknown",
+              "recoveryWindow": "unknown",
+              "completion": {
+                "ledger": "goalLedger",
+                "target_id": "opening-goal-1",
+                "target_statuses": [
+                  "completed"
+                ],
+                "met": false,
+                "requires_narrative_evidence": true
+              }
+            },
+            {
+              "id": "opening-goal-2",
+              "title": "如何完成第一场外门试炼",
+              "status": "abandoned",
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                "ref": "opening-goal-2",
+                "quote": "“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。"
+              },
+              "priority": "unknown",
+              "recoveryWindow": "unknown",
+              "completion": {
+                "ledger": "goalLedger",
+                "target_id": "opening-goal-2",
+                "target_statuses": [
+                  "completed"
+                ],
+                "met": false,
+                "requires_narrative_evidence": true
+              }
+            }
+          ],
+          "threads": [
+            {
+              "id": "opening-thread-1",
+              "title": "木牌刻痕里为何有金屑",
+              "status": "abandoned",
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                "ref": "opening-thread-1",
+                "quote": "“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”"
+              },
+              "priority": "unknown",
+              "recoveryWindow": "unknown",
+              "completion": {
+                "ledger": "threadLedger",
+                "target_id": "opening-thread-1",
+                "target_statuses": [
+                  "resolved",
+                  "abandoned"
+                ],
+                "met": true,
+                "requires_narrative_evidence": true
+              }
+            },
+            {
+              "id": "opening-thread-2",
+              "title": "如何完成第一场外门试炼",
+              "status": "abandoned",
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                "ref": "opening-thread-2",
+                "quote": "“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。"
+              },
+              "priority": "unknown",
+              "recoveryWindow": "unknown",
+              "completion": {
+                "ledger": "threadLedger",
+                "target_id": "opening-thread-2",
+                "target_statuses": [
+                  "resolved",
+                  "abandoned"
+                ],
+                "met": true,
+                "requires_narrative_evidence": true
+              }
+            },
+            {
+              "id": "thread-fe16398d9e2967cb",
+              "title": "退试弃权的后果",
+              "status": "open",
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                "ref": "thread-fe16398d9e2967cb",
+                "quote": "“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”"
+              },
+              "priority": "normal",
+              "recoveryWindow": "mid",
+              "completion": {
+                "ledger": "threadLedger",
+                "target_id": "thread-fe16398d9e2967cb",
+                "target_statuses": [
+                  "resolved",
+                  "abandoned"
+                ],
+                "met": false,
+                "requires_narrative_evidence": true
+              }
+            },
+            {
+              "id": "thread-8cc7d4110b0407a9",
+              "title": "今晚住哪儿、明天是否继续在码头做工",
+              "status": "resolved",
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_7dcc9da5-2b29-4049-abb6-1978cca053a0",
+                "ref": "thread-8cc7d4110b0407a9",
+                "quote": "“明天还来。”你说。\n\n老周把竹签往腰后一别，点了点头，没多话。你趁他还没走开，又问了一句：“这附近有没有干净便宜的通铺？能洗漱就行。”\n\n他上下打量你一眼，像是早料到你会问。“镇口那边有一家，你顺着这条街往西走，过了石桥再走半条街，门口挂盏白灯笼的就是。”他伸出三根手指，“一晚三文，有热水，洗漱不另收钱。就是铺位挤，通铺，跟人挨着睡。你要嫌吵，往里走还有家客栈，一晚十五文，你自己掂量。”\n\n“三文就行。”你道了谢。\n\n老周摆摆手，转身去招呼剩下几个还没领钱的脚夫。\n\n你按他指的方向走。街上的灯陆续亮起来，卖吃食的摊子收了，只剩几家铺面还开着门。过了石桥，往西半条街，果然看见一盏白灯笼挂在门檐下，灯笼上没写字，只画了个歪歪扭扭的“宿”字。\n\n推门进去，堂里摆着几张条凳，一个五十来岁的掌柜正就着油灯算账。他抬头看你一眼，见你一身汗渍、肩上搭着外衣，也不多问。\n\n“住店？”\n\n“通铺，一晚多少？”\n\n“三文。”掌柜把算盘往边上一推，“热水在后院灶上，自己去舀，不另收钱。被褥有，旧的，将就盖。明早天亮前走，不催你。”\n\n“没有别的费用？”\n\n“没有。”掌柜答得干脆，“三文就是三文。你要吃饭，街对面有卖面的，我这儿不管饭。”\n\n你从怀里数出三枚铜钱搁在柜上。掌柜收了钱，从墙上取下一块木牌递给你，牌上刻着“拾贰”两个字。“铺位在里间，十二号，自己找。”\n\n你穿过堂屋，掀开布帘，里间是一长溜通铺，铺板上铺着草席和薄被，已经躺了四五个人，有的打着鼾，有的翻了个身。你找到十二号铺位，把外衣叠了当枕头，行李搁在脚边。后院灶上果然温着一锅热水，你舀了半盆，就着天井的月光洗了把脸，又擦了擦脖颈和胳膊上的汗渍。水是温的，洗过之后身上松快了些。"
+              },
+              "priority": "normal",
+              "recoveryWindow": "immediate",
+              "completion": {
+                "ledger": "threadLedger",
+                "target_id": "thread-8cc7d4110b0407a9",
+                "target_statuses": [
+                  "resolved",
+                  "abandoned"
+                ],
+                "met": true,
+                "requires_narrative_evidence": true
+              }
+            },
+            {
+              "id": "thread-7411207ee9c5698e",
+              "title": "跳板裂板是否在明早船到前换好",
+              "status": "resolved",
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_f2bb81bf-e775-49c6-b6da-24aa2b1cbaec",
+                "ref": "thread-7411207ee9c5698e",
+                "quote": "跳板还是那块跳板，但中段那块裂板不见了。新换上的木板颜色比两边的浅，木纹还带着毛刺，边缘没来得及刨光。你蹲下，用手掌按了按，板子纹丝不动。又站上去，脚跟用力跺了两下，只发出闷实的一声，没有昨天那种发软的颤。你退回来，又沿跳板从头到尾走了一趟，每块板都踩过，靠岸这头稳，中段新板也稳。\n\n老周的声音从船那边传过来：“看够了没有？”\n\n他站在船头，手里还是那根竹签，短褂敞着，脸上带着点没睡醒的倦意，但眼神是清的。\n\n“换过了。”你说。\n\n“昨晚上让老赵带人换的。”老周跳下船，走到跳板口，也踩了一脚新板，“库房里翻出来的旧料，尺寸差不多，钉死了。今天能走。”"
+              },
+              "priority": "high",
+              "recoveryWindow": "immediate",
+              "completion": {
+                "ledger": "threadLedger",
+                "target_id": "thread-7411207ee9c5698e",
+                "target_statuses": [
+                  "resolved",
+                  "abandoned"
+                ],
+                "met": true,
+                "requires_narrative_evidence": true
+              }
+            },
+            {
+              "id": "thread-686f7f540bce43ee",
+              "title": "受潮粮交接记录是否被老周认可",
+              "status": "resolved",
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_74aea80e-5314-4dd9-8fe4-f7a932038818",
+                "ref": "thread-686f7f540bce43ee",
+                "quote": "吴先生从长衫襟里摸出一方小印和一小盒印泥，在账册上翻到一页空白，把七包粮的数目、受潮情况、仓房位置简略记下，然后抬眼：“认。数目、现状、位置，我当面核过了，和底单对得上。装船那一段是老赵报的，我另记一笔，注明转述来源，不混进实货核验里。”\n\n他顿了顿，看向你：“你记的那部分，我采信。你没在场的，不写你名下。”\n\n老周把底单递过去，吴先生在纸角按了印，又在自己账册上按了同一个印，两处印文并排。他把账册合上，对老周说：“这七包粮，粮行收下，按受潮粮折价入账。回头我让人来搬。”\n\n老周“嗯”了一声，把按了印的底单折好，这回没揣回怀里，而是递还给你。\n\n“你的底，你拿着。”他说，“粮行认了。”"
+              },
+              "priority": "normal",
+              "recoveryWindow": "near",
+              "completion": {
+                "ledger": "threadLedger",
+                "target_id": "thread-686f7f540bce43ee",
+                "target_statuses": [
+                  "resolved",
+                  "abandoned"
+                ],
+                "met": true,
+                "requires_narrative_evidence": true
+              }
+            }
+          ],
+          "conflicts": [],
+          "steps": [
+            {
+              "id": "thread:thread-fe16398d9e2967cb",
+              "kind": "address_thread",
+              "target_id": "thread-fe16398d9e2967cb",
+              "title": "退试弃权的后果",
+              "blockers": [],
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                "ref": "thread-fe16398d9e2967cb",
+                "quote": "“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”"
+              },
+              "priority": "normal",
+              "recoveryWindow": "mid",
+              "completion": {
+                "ledger": "threadLedger",
+                "target_id": "thread-fe16398d9e2967cb",
+                "target_statuses": [
+                  "resolved",
+                  "abandoned"
+                ],
+                "met": false,
+                "requires_narrative_evidence": true
+              }
+            }
+          ]
+        }
+      },
+      "reason": "已登记为本回合自定义行动；状态变化由本地脚本控制。"
+    }
+  }
+]

@@ -479,12 +479,22 @@ class NaturalEndingReceipt(EarlyEndingReceipt):
     binding_digest: str
 
 
+class ObservedEndingReceipt(BaseModel):
+    ending_type: Literal['normal', 'failure']
+    branch_id: str
+    closed_at: str
+    ending_written: Literal[True]
+    source: Literal['observed_narrative']
+    narrative_sha256: str
+    observation: dict[str, JsonValue]
+
+
 class RouteLifecycle(BaseModel):
     phase: Literal['active', 'preparing', 'closing', 'ended']
     intended_type: Literal['normal', 'deviation', 'failure'] | None
     intent_branch_id: str | None
     ending_type: Literal['early', 'normal', 'deviation', 'failure'] | None
-    receipt: EarlyEndingReceipt | NaturalEndingReceipt | None
+    receipt: EarlyEndingReceipt | NaturalEndingReceipt | ObservedEndingReceipt | None
     requires_ending_evidence: Literal[True]
     ending_written: bool
 

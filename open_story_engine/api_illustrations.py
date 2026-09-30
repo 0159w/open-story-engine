@@ -1,5 +1,6 @@
 """Asynchronous scene illustrations, cached apart from source and story state."""
 import base64
+import copy
 import hashlib
 from http.client import HTTPResponse
 import json
@@ -205,6 +206,7 @@ class ImageGateway:
 
     def generate(self, prompt, *, timeout=75):
         self.usage = None
+        self.timings = {}
         deadline = time.monotonic() + min(75, max(0, timeout))
         payload = {'model': self.model, 'prompt': prompt, 'n': 1, 'size': self.size}
         if self.model.startswith('gpt-image-'):
@@ -214,12 +216,15 @@ class ImageGateway:
             payload['response_format'] = 'b64_json'
         request = Request(self.base_url + '/images/generations', data=json.dumps(payload).encode(),
                           headers={'Authorization': 'Bearer ' + self.api_key, 'Content-Type': 'application/json'})
+        started = time.monotonic()
         raw = image_response_bytes(request, MAX_IMAGE_BYTES * 2, deadline)
+        self.timings['provider_ms'] = round((time.monotonic() - started) * 1000)
         if len(raw) > MAX_IMAGE_BYTES * 2:
             raise ValueError('image response too large')
         parsed = json.loads(raw)
         self.usage = parsed.get('usage')
         item = parsed['data'][0]
+        self.timings['download_ms'] = 0
         if item.get('b64_json'):
             return image_bytes(base64.b64decode(item['b64_json'], validate=True))
         # Persist provider output so expiring URLs do not break old saves.
@@ -227,7 +232,10 @@ class ImageGateway:
         url = item.get('url', '')
         if urlparse(url).scheme != 'https':
             raise ValueError('invalid image URL')
-        return image_bytes(image_response_bytes(Request(url), MAX_IMAGE_BYTES, deadline))
+        started = time.monotonic()
+        data = image_response_bytes(Request(url), MAX_IMAGE_BYTES, deadline)
+        self.timings['download_ms'] = round((time.monotonic() - started) * 1000)
+        return image_bytes(data)
 
 
 class IllustrationService:
@@ -244,9 +252,10 @@ class IllustrationService:
         self._lock = Lock()
         self._jobs = {}
         self._released = {}
-        # One image worker leaves text generation independent. Explicit requests
-        # are the only queued work: speculative text drafts have no image jobs.
-        self._pool = ThreadPoolExecutor(max_workers=1, thread_name_prefix='story-image')
+        # A cancelled in-flight provider call cannot be interrupted. A second
+        # worker lets the next selected page start without waiting for it.
+        # Only explicit saved-page requests spend; concurrency stays bounded.
+        self._pool = ThreadPoolExecutor(max_workers=2, thread_name_prefix='story-image')
         self._stop = Event()
         self._reaper = Thread(target=self._reap, daemon=True)
         self._reaper.start()
@@ -407,7 +416,8 @@ class IllustrationService:
 
     def _persist(self, job):
         self.directory.mkdir(parents=True, exist_ok=True)
-        fields = ('key', 'sid', 'bid', 'status', 'provider_calls', 'usage', 'cancel_stage', 'reason', 'model', 'mime', 'completed', 'displayed', 'display_ms', 'generation_ms', 'prompt_chars')
+        fields = ('key', 'sid', 'bid', 'status', 'provider_calls', 'usage', 'cancel_stage', 'reason', 'model', 'mime', 'completed', 'displayed', 'display_ms', 'generation_ms', 'prompt_chars',
+                  'queued_ms', 'provider_ms', 'download_ms', 'asset_write_ms', 'ready_ms')
         data = {k: job.get(k) for k in fields}
         path = self.directory / (job['key'] + '.json')
         temporary = path.with_suffix('.json.tmp')
@@ -547,36 +557,44 @@ class IllustrationService:
             self._sweep()
             if job['status'] != 'queued':
                 return
-            job.update(status='generating', provider_calls=1)
+            job.update(status='generating', provider_calls=1,
+                       queued_ms=round((time.monotonic() - job['created']) * 1000))
             self._persist(job)  # Reserve the spend before contacting the provider.
+        gateway = copy.copy(self.gateway) if isinstance(self.gateway, ImageGateway) else self.gateway
         started = time.monotonic()
         try:
-            # One worker owns the gateway; discard a previous job's receipt
-            # before this attempt, including providers that fail before reset.
-            self.gateway.usage = None
-            if isinstance(self.gateway, ImageGateway):
+            # Request-local gateway receipts prevent concurrent attribution to
+            # another branch. Provider configuration is copied unchanged.
+            gateway.usage = None
+            if isinstance(gateway, ImageGateway):
+                gateway.timings = {}
                 remaining = self.DEADLINE_SECONDS - (time.monotonic() - job['created'])
-                data, mime = self.gateway.generate(prompt, timeout=remaining)
+                data, mime = gateway.generate(prompt, timeout=remaining)
             else:
-                data, mime = self.gateway.generate(prompt)
+                data, mime = gateway.generate(prompt)
             data, mime = image_bytes(data)
             with self._lock:
-                job['usage'] = getattr(self.gateway, 'usage', None)
+                job['usage'] = getattr(gateway, 'usage', None)
+                if isinstance(gateway, ImageGateway):
+                    job.update(gateway.timings)
                 if not isinstance(job['usage'], dict):
                     job['usage'] = None
                 job.update(completed=True, mime=mime, generation_ms=round((time.monotonic() - started) * 1000))
                 self._sweep()
                 if job['status'] != 'cancelled':
+                    writing = time.monotonic()
                     path = self.directory / (key + '.image')
                     temporary = path.with_suffix('.tmp')
                     temporary.write_bytes(data)
                     temporary.replace(path)
                     job['status'] = 'ready'
+                    job['asset_write_ms'] = round((time.monotonic() - writing) * 1000)
+                    job['ready_ms'] = round((time.monotonic() - job['created']) * 1000)
                 self._persist(job)
         except Exception as error:
             logging.getLogger(__name__).warning('Illustration failed: %s (HTTP %s)', type(error).__name__, getattr(error, 'code', None))
             with self._lock:
-                usage = getattr(self.gateway, 'usage', None)
+                usage = getattr(gateway, 'usage', None)
                 job['usage'] = usage if isinstance(usage, dict) else None
                 if job['status'] != 'cancelled':
                     job['status'] = 'failed'

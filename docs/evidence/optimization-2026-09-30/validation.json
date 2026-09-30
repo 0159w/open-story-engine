@@ -1,0 +1,66 @@
+{
+  "core": {
+    "passed": 664,
+    "log": "core-verification.log"
+  },
+  "apiFull": {
+    "passed": 612,
+    "log": "api-verification.log"
+  },
+  "journeyAfterAdditionalTest": {
+    "passed": 17,
+    "log": "journey-verification.log",
+    "overlapsFullSuite": true
+  },
+  "frontend": {
+    "passed": 66,
+    "typecheck": "passed",
+    "productionBuild": "passed"
+  },
+  "diffCheck": "passed",
+  "live": {
+    "role-ye": {
+      "status": "failed",
+      "completedInteractions": 2,
+      "userVisibleFailures": 1,
+      "sessionId": "6fd66217-dec7-5c12-82b5-defd3376a292",
+      "branchId": "branch_f93e72f8-2b91-4b0b-a2f9-0f5ada7d9c45",
+      "cjk": 2876,
+      "requestElapsedMs": 93515,
+      "humanPlayDurationVerified": false
+    },
+    "role-gu": {
+      "status": "active",
+      "completedInteractions": 4,
+      "userVisibleFailures": 0,
+      "sessionId": "a9e65451-253e-53ef-81ce-e8f923ccc3bc",
+      "branchId": "branch_87d2f221-6bbb-4caf-941e-8d32cd7d71db",
+      "cjk": 4227,
+      "requestElapsedMs": 141190,
+      "humanPlayDurationVerified": false
+    },
+    "final-ye": {
+      "status": "active",
+      "completedInteractions": 3,
+      "userVisibleFailures": 0,
+      "sessionId": "f5f635d0-081f-50c6-a0c5-ed75aa0ebb47",
+      "branchId": "branch_c0c3e77b-836a-4baf-9bd5-5b1338d645d5",
+      "cjk": 2886,
+      "requestElapsedMs": 94909,
+      "humanPlayDurationVerified": false
+    },
+    "final-gu": {
+      "status": "active",
+      "completedInteractions": 12,
+      "userVisibleFailures": 0,
+      "sessionId": "81384798-247a-58c8-9ea5-b28a8189aa0d",
+      "branchId": "branch_6e9db5ea-6d56-4fd9-840f-e2a9000ca1bf",
+      "cjk": 12158,
+      "requestElapsedMs": 373263,
+      "humanPlayDurationVerified": false
+    }
+  },
+  "contentAcceptance": "not_fully_passed",
+  "jev": "blocked_auth_and_connection",
+  "opening": "awaiting_form_selection"
+}

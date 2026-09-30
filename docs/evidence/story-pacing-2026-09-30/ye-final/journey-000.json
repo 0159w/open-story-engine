@@ -1,0 +1,163 @@
+{
+  "branch_id": "branch_92bd14ea-9862-4119-84a8-f51602bdc031",
+  "threads": [
+    {
+      "id": "opening-thread-1",
+      "title": "沈砚秋删去陆沉舟记录的责任",
+      "status": "open",
+      "source": "opening",
+      "openedBranchId": null,
+      "causeBranchId": null,
+      "reason": "",
+      "evidence": "",
+      "priority": "unknown",
+      "recoveryWindow": "unknown"
+    },
+    {
+      "id": "opening-thread-2",
+      "title": "玄霄宗是否承认旧档案的错误",
+      "status": "open",
+      "source": "opening",
+      "openedBranchId": null,
+      "causeBranchId": null,
+      "reason": "",
+      "evidence": "",
+      "priority": "unknown",
+      "recoveryWindow": "unknown"
+    }
+  ],
+  "goals": [
+    {
+      "id": "opening-goal-1",
+      "title": "沈砚秋删去陆沉舟记录的责任",
+      "status": "active",
+      "characterId": "character_2cf2b083593b",
+      "dependencies": [],
+      "source": "opening",
+      "evidence": "你坐在祖师殿前听见对旧档案的追问，掌门身份要求你先面对被删去的名字。",
+      "causeBranchId": null
+    },
+    {
+      "id": "opening-goal-2",
+      "title": "玄霄宗是否承认旧档案的错误",
+      "status": "active",
+      "characterId": "character_2cf2b083593b",
+      "dependencies": [],
+      "source": "opening",
+      "evidence": "你坐在祖师殿前听见对旧档案的追问，掌门身份要求你先面对被删去的名字。",
+      "causeBranchId": null
+    }
+  ],
+  "playthrough_length": {
+    "target_minutes": 150,
+    "typical_minutes": [
+      120,
+      180
+    ],
+    "target_cjk": 30000,
+    "consumed_cjk": 178,
+    "completed_turns": 0,
+    "estimate_only": true
+  },
+  "ledger_coverage": {
+    "goals": "unknown",
+    "threads": "recorded"
+  },
+  "role_name": "叶青冥",
+  "goal": "沈砚秋删去陆沉舟记录的责任；玄霄宗是否承认旧档案的错误",
+  "progress": null,
+  "progress_label": "本路线历程",
+  "choices_made": 0,
+  "milestones": [],
+  "current_task": "沈砚秋删去陆沉舟记录的责任",
+  "status": "active",
+  "feedback": [],
+  "clues": [
+    "玄霄宗山门外站满了要求说法的人。",
+    "宗门最初的残印、最早的天门记录和陆照临的名字都曾从山门中走出去。",
+    "沈砚秋已经捧着《太虚遗录》进入祖师殿，并承认删去旧记录。"
+  ],
+  "people": [
+    {
+      "id": "character_aa4580d38571",
+      "name": "沈砚秋",
+      "is_player": false,
+      "first_page": 1,
+      "last_page": 1,
+      "identity": "身份随剧情逐渐明确",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_92bd14ea-9862-4119-84a8-f51602bdc031",
+        "page": 1,
+        "quote": "沈砚秋捧着《太虚遗录》走进来，承认自己曾删去旧记录。你知道掌门的第一句话会决定众人是否把责难继续推给一个人，也决定宗门是否承认自己曾经参与过错误。",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": "/images/taixu-shen-yanqiu-v1.png",
+        "source": "published",
+        "fallback_key": "person-1"
+      },
+      "status": {
+        "code": "unknown",
+        "label": "状态未确认",
+        "permanence": null,
+        "evidence": null
+      }
+    },
+    {
+      "id": "character_2cf2b083593b",
+      "name": "叶青冥",
+      "is_player": true,
+      "first_page": 1,
+      "last_page": 1,
+      "identity": "玄霄宗掌门，肩负宗门秩序与传承。面对旧事的追问，他必须以掌门身份作出回应",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_92bd14ea-9862-4119-84a8-f51602bdc031",
+        "page": 1,
+        "quote": "你坐在祖师殿前最高的石阶上，手边放着断剑。山门外的人要求玄霄宗交代最初的残印、天门记录和陆照临的名字从何处走出；殿中的长老仍想用一套统一档案重新建立秩序。",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": "/images/taixu-ye-qingming-v1.png",
+        "source": "published",
+        "fallback_key": "person-5"
+      },
+      "status": {
+        "code": "unknown",
+        "label": "状态未确认",
+        "permanence": null,
+        "evidence": null
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source": "character_2cf2b083593b",
+      "target": "character_aa4580d38571",
+      "label": "玄霄宗执事",
+      "evidence": "玄霄宗执事，正被追问删去陆沉舟记录的责任。",
+      "page": 1,
+      "origin": "opening"
+    }
+  ],
+  "recap": [],
+  "lineage": [
+    "branch_92bd14ea-9862-4119-84a8-f51602bdc031"
+  ],
+  "route_health": {
+    "signals": [],
+    "review_recommended": false,
+    "window": 3,
+    "unchanged_state_turns": 0,
+    "repeated_action_turns": 0,
+    "source_progress_streak": 0,
+    "closure_readiness": "needs_explanation",
+    "closure_outstanding_count": 4,
+    "ending_written": false,
+    "note": "停滞信号与收束清单仅作路线诊断；不表示应强制结束，也不表示自然结局已写成。"
+  },
+  "location": "玄霄宗祖师殿"
+}

@@ -1,0 +1,404 @@
+{
+  "branch_id": "branch_a2e71f08-ab90-4a66-b0f4-02294f205acf",
+  "threads": [
+    {
+      "id": "opening-thread-1",
+      "title": "沈砚秋删去陆沉舟记录的责任",
+      "status": "open",
+      "source": "opening",
+      "openedBranchId": null,
+      "causeBranchId": "branch_398c1ae4-9281-43b8-9c9a-d9a5a778948b",
+      "reason": "沈砚秋已说明删改范围、三处亲笔涂改与现存原件线索，但责任归属与处置仍待掌门决定。",
+      "evidence": "“回掌门。我经手的删改，不在近三十年的卷册，主要在旧档房西架第三层到第五层——那是宗门早年收录的散卷，按年份捆扎，没有正式编目。我动过其中七捆，涉及天门旧录两卷、残印拓本一卷、还有几册记名簿。”\n\n她说到这里，喉间停了一下。\n\n“亲手改的，有三处。一处是记名簿上一行墨字，原写‘陆沉舟’，我以浓墨涂去，又在旁侧补了‘录事失考’四字。一处是天门旧录里一段批注，原批‘此印自外门入’，我划去‘外门’二字，改成‘来历未详’。还有一处，是残印拓本边角的一行小字，我裁去了半行，只留‘玄霄宗藏’四字。”\n\n殿中有人轻轻吸了口气。你没有打断。\n\n“原件，”沈砚秋继续道，“记名簿那一册还在旧档房西架第三层，涂改处未再动过。天门旧录两卷也在原处，批注划改可见。残印拓本我裁下的半行，当时没有销毁，夹在第五层一册空白簿页之间——但那册空白簿后来是否被人动过，我不知道。”\n\n“你不知道的，就说不知道。”你说。\n\n“是。我不知道那半行如今还在不在。也不知道除我之外，还有谁进过旧档房西架。”她声音很平，“这些是我能说清的。再往前的卷册，我没碰过；再往后的，我也没碰过。”",
+      "priority": "high",
+      "recoveryWindow": "near"
+    },
+    {
+      "id": "opening-thread-2",
+      "title": "玄霄宗是否承认旧档案的错误",
+      "status": "resolved",
+      "source": "opening",
+      "openedBranchId": null,
+      "causeBranchId": "branch_3513b30c-bb8d-4f65-96e8-62cf268695e6",
+      "reason": "叶青冥在山门石阶当众承认宗门有删改记录、册目缺页与核验责任，宗门对外立场已明确。",
+      "evidence": "“玄霄宗有删改记录的事，今天认了。”你说，“旧档房西架的册目缺页，是宗门自己没看住。核验的事，也是宗门自己该做的。这两件，不推给执事，也不推给哪一房。我是掌门，我认。”",
+      "priority": "high",
+      "recoveryWindow": "near"
+    }
+  ],
+  "goals": [
+    {
+      "id": "opening-goal-1",
+      "title": "沈砚秋删去陆沉舟记录的责任",
+      "status": "active",
+      "characterId": "character_2cf2b083593b",
+      "dependencies": [],
+      "source": "player_branch",
+      "evidence": "册目摊在正中的长案上。沈砚秋翻到缺页处，手指按在装订线上：“这里，原本是第七十一页到第七十四页。四页，一整帖被裁掉了。裁口齐整，是刀，不是虫蛀，也不是年久脱落。”\n\n“哪几年？”你问。\n\n“册目按年编。第六十九页记的是玄霄宗一百四十七年，第七十五页起是一百五十二年。”她顿了一下，“缺的这四页，正好是一百四十八年到一百五十一年。”\n\n灰袍长老在旁翻开一本执事交接录，对照着念：“一百四十八年，执事是柳姓长老，交接录上只写‘册目如常’。一百四十九年，执事换成了……沈执事的前任，姓方。交接录上写‘册目有损，已补’。一百五十年、一百五十一年，都是方执事经手，交接录上写‘如常’。”\n\n“有损，已补。”你重复了一遍，“补的是什么？”\n\n沈砚秋摇头：“交接录只写这四个字。补的内容，要么在缺的那四页上，要么在别处另录。我核过三遍，旧档房里没有另录的副本。”\n\n你让灰袍长老把交接录翻到一百四十九年那一页，自己凑近看。字是方执事的笔迹，墨色比前后页略新，像是后来补写的。你问沈砚秋：“方执事现在何处？”\n\n“七年前病故了。”她说，“他经手的记名簿，我接手时清点过，数目对得上。但册目缺页这件事，交接录里只提了‘有损’，没提缺的是哪几年。”",
+      "causeBranchId": "branch_a2e71f08-ab90-4a66-b0f4-02294f205acf",
+      "reason": "本回合查清册目缺页年份与经手人，但涂改责任归属与处置仍未定。",
+      "successor": ""
+    },
+    {
+      "id": "opening-goal-2",
+      "title": "玄霄宗是否承认旧档案的错误",
+      "status": "completed",
+      "characterId": "character_2cf2b083593b",
+      "dependencies": [],
+      "source": "player_branch",
+      "evidence": "“玄霄宗有删改记录的事，今天认了。”你说，“旧档房西架的册目缺页，是宗门自己没看住。核验的事，也是宗门自己该做的。这两件，不推给执事，也不推给哪一房。我是掌门，我认。”",
+      "causeBranchId": "branch_3513b30c-bb8d-4f65-96e8-62cf268695e6",
+      "reason": "叶青冥已当众公开承认宗门有删改记录、册目缺页与核验责任，并由掌门自认，不再推给执事或任何一房。",
+      "successor": ""
+    }
+  ],
+  "playthrough_length": {
+    "target_minutes": 150,
+    "typical_minutes": [
+      120,
+      180
+    ],
+    "target_cjk": 30000,
+    "consumed_cjk": 9434,
+    "completed_turns": 6,
+    "estimate_only": true
+  },
+  "ledger_coverage": {
+    "goals": "recorded",
+    "threads": "recorded"
+  },
+  "role_name": "叶青冥",
+  "goal": "沈砚秋删去陆沉舟记录的责任",
+  "progress": null,
+  "progress_label": "本路线历程",
+  "choices_made": 6,
+  "milestones": [],
+  "current_task": "沈砚秋删去陆沉舟记录的责任",
+  "status": "active",
+  "feedback": [
+    "辰时前，叶青冥在旧档房主持公开核验。沈砚秋指出册目缺页为一百四十八至一百五十一年共四页，裁口齐整；灰袍长老对照执事交接录，查出方执事经手时记“有损已补”。陈小满竹箱中一封一百五十年旧驿道陈氏致方执事的信，提及“册目四页暂存我处”；周大石木牌与北河城来函残纸并排，来函问赵三河下落，正文被裁，裁口与册目缺页一致。叶青冥命逐",
+    "来到旧档房"
+  ],
+  "clues": [
+    "玄霄宗山门外站满了要求说法的人。",
+    "宗门最初的残印、最早的天门记录和陆照临的名字都曾从山门中走出去。",
+    "沈砚秋已经捧着《太虚遗录》进入祖师殿，并承认删去旧记录。"
+  ],
+  "people": [
+    {
+      "id": "character_37531636ecf5",
+      "name": "陆沉舟",
+      "is_player": false,
+      "first_page": 3,
+      "last_page": 3,
+      "identity": "身份随剧情逐渐明确",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_d8e5ec8e-df6d-4d92-bdb7-732e83c51a13",
+        "page": 3,
+        "quote": "你没有接话，把记名簿合上，放回第三层原位，又去抽第四层那卷《执事交接录》。这卷比记名簿厚，封皮上沾着灰。你翻开，一页页找。沈砚秋说的那条记录在靠后位置，字迹是另一人的，写着某年某月，奉掌门令，记名簿丙册陆沉舟一条着即涂去，经办人沈砚秋。记录末尾有执事堂的印，印色已经发暗。",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": "/images/taixu-lu-chenzhou-v1.png",
+        "source": "published",
+        "fallback_key": "person-8"
+      },
+      "status": {
+        "code": "unknown",
+        "label": "状态未确认",
+        "permanence": null,
+        "evidence": null
+      }
+    },
+    {
+      "id": "character_aa4580d38571",
+      "name": "沈砚秋",
+      "is_player": false,
+      "first_page": 1,
+      "last_page": 7,
+      "identity": "身份随剧情逐渐明确",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_bcccb329-a9d7-489b-9a3e-29f8ac6b6765",
+        "page": 1,
+        "quote": "沈砚秋捧着《太虚遗录》走进来，承认自己曾删去旧记录。你知道掌门的第一句话会决定众人是否把责难继续推给一个人，也决定宗门是否承认自己曾经参与过错误。",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": "/images/taixu-shen-yanqiu-v1.png",
+        "source": "published",
+        "fallback_key": "person-1"
+      },
+      "status": {
+        "code": "unknown",
+        "label": "状态未确认",
+        "permanence": null,
+        "evidence": null
+      }
+    },
+    {
+      "id": "character_2cf2b083593b",
+      "name": "叶青冥",
+      "is_player": true,
+      "first_page": 1,
+      "last_page": 7,
+      "identity": "玄霄宗掌门，肩负宗门秩序与传承。面对旧事的追问，他必须以掌门身份作出回应",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_bcccb329-a9d7-489b-9a3e-29f8ac6b6765",
+        "page": 1,
+        "quote": "你坐在祖师殿前最高的石阶上，手边放着断剑。山门外的人要求玄霄宗交代最初的残印、天门记录和陆照临的名字从何处走出；殿中的长老仍想用一套统一档案重新建立秩序。",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": "/images/taixu-ye-qingming-v1.png",
+        "source": "published",
+        "fallback_key": "person-5"
+      },
+      "status": {
+        "code": "unknown",
+        "label": "状态未确认",
+        "permanence": null,
+        "evidence": null
+      }
+    },
+    {
+      "id": "character_shen_yanqiu",
+      "name": "沈砚秋",
+      "is_player": false,
+      "first_page": 1,
+      "last_page": 7,
+      "identity": "身份随剧情逐渐明确",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_bcccb329-a9d7-489b-9a3e-29f8ac6b6765",
+        "page": 1,
+        "quote": "沈砚秋捧着《太虚遗录》走进来，承认自己曾删去旧记录。你知道掌门的第一句话会决定众人是否把责难继续推给一个人，也决定宗门是否承认自己曾经参与过错误。",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": null,
+        "source": "preset",
+        "fallback_key": "person-2"
+      },
+      "status": {
+        "code": "unknown",
+        "label": "状态未确认",
+        "permanence": null,
+        "evidence": null
+      }
+    },
+    {
+      "id": "character_gray_robe_elder",
+      "name": "灰袍长老",
+      "is_player": false,
+      "first_page": 3,
+      "last_page": 7,
+      "identity": "身份随剧情逐渐明确",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_d8e5ec8e-df6d-4d92-bdb7-732e83c51a13",
+        "page": 3,
+        "quote": "灰袍长老看完，嘴唇动了动，没说出话。年纪最大的那位长老扶着架子，慢慢点头：“印是真的。执事堂的印，我认得。”",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": null,
+        "source": "preset",
+        "fallback_key": "person-3"
+      },
+      "status": {
+        "code": "unknown",
+        "label": "状态未确认",
+        "permanence": null,
+        "evidence": null
+      }
+    },
+    {
+      "id": "character_oldest_elder",
+      "name": "年纪最大的那位长老",
+      "is_player": false,
+      "first_page": 3,
+      "last_page": 4,
+      "identity": "身份随剧情逐渐明确",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_d8e5ec8e-df6d-4d92-bdb7-732e83c51a13",
+        "page": 3,
+        "quote": "灰袍长老看完，嘴唇动了动，没说出话。年纪最大的那位长老扶着架子，慢慢点头：“印是真的。执事堂的印，我认得。”",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": null,
+        "source": "preset",
+        "fallback_key": "person-5"
+      },
+      "status": {
+        "code": "unknown",
+        "label": "状态未确认",
+        "permanence": null,
+        "evidence": null
+      }
+    },
+    {
+      "id": "character_zhou_dashi",
+      "name": "周大石",
+      "is_player": false,
+      "first_page": 5,
+      "last_page": 7,
+      "identity": "身份随剧情逐渐明确",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_6d4b3c36-cf6e-48ab-a9e8-4a30dca61a64",
+        "page": 5,
+        "quote": "你转向周大石：“你的木牌，我让人拓一份留档，原件你带走。赵三河这个名字，今日起在记名簿缺页查清之前，先单独立一页存疑名录，写明‘北河城赵三河，三年前失踪，待核’。这不是承认他在册，也不是否认。是留一个位置。”",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": null,
+        "source": "preset",
+        "fallback_key": "person-8"
+      },
+      "status": {
+        "code": "unknown",
+        "label": "状态未确认",
+        "permanence": null,
+        "evidence": null
+      }
+    },
+    {
+      "id": "character_chen_xiaoman",
+      "name": "陈小满",
+      "is_player": false,
+      "first_page": 5,
+      "last_page": 7,
+      "identity": "身份随剧情逐渐明确",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_6d4b3c36-cf6e-48ab-a9e8-4a30dca61a64",
+        "page": 5,
+        "quote": "陈小满蹲下身，把竹箱的铜扣拨开。箱盖掀起时有一股旧纸和干草的气味。他从里面捧出一卷用麻绳捆着的手抄册子，绳结打得很紧，他解了两下没解开，索性把绳子整个褪下来。册子摊在灯下，扉页朝上。",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": null,
+        "source": "preset",
+        "fallback_key": "person-8"
+      },
+      "status": {
+        "code": "unknown",
+        "label": "状态未确认",
+        "permanence": null,
+        "evidence": null
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source": "character_2cf2b083593b",
+      "target": "character_shen_yanqiu",
+      "label": "交谈",
+      "evidence": "你把木牌和那封残纸并排放着，抬头问沈砚秋：",
+      "page": 7
+    },
+    {
+      "source": "character_2cf2b083593b",
+      "target": "character_zhou_dashi",
+      "label": "相遇",
+      "evidence": "你看着面前这两个人，先把目光落在周大石身上",
+      "page": 5
+    },
+    {
+      "source": "character_2cf2b083593b",
+      "target": "character_chen_xiaoman",
+      "label": "相遇",
+      "evidence": "然后你转向陈小满",
+      "page": 5
+    }
+  ],
+  "recap": [
+    {
+      "branch_id": "branch_398c1ae4-9281-43b8-9c9a-d9a5a778948b",
+      "action": "请沈砚秋把删去的记录范围、她亲手删改的内容和仍能找到的原件分别说清。让在场长老先保留各自记录，不做统一改写；我听完后再决定如何向山门外的人交代。",
+      "effects": [
+        "叶青冥在祖师殿前命沈砚秋分说删改范围、亲手所改内容与现存原件，并令在场长老各自封存记录、不得合并或统一改写。沈砚秋答称删改集中于旧档房西架第三至第五层七捆散卷，亲手改过三处：涂去记名簿上“陆沉舟”并补“录事失考”、将天门旧录批注“此印自外门入”改为“来历未详”、裁去残印拓本边角半行小字；原件多数仍在原处，被裁半行夹于第",
+        "新增目标：沈砚秋删去陆沉舟记录的责任",
+        "新增目标：玄霄宗是否承认旧档案的错误"
+      ]
+    },
+    {
+      "branch_id": "branch_d8e5ec8e-df6d-4d92-bdb7-732e83c51a13",
+      "action": "先不向外发布结论。我请沈砚秋带路，和愿意见证的长老一道去旧档房，当面找到她所说的记名簿、旧录和空白簿，逐件核对涂改痕迹及裁下的半行。能找到的就实际查看，找不到的如实记下，不因为她说了就认定已经证实。",
+      "effects": [
+        "叶青冥令沈砚秋带路，与灰袍长老等五位长老同往旧档房，逐件核对：第三层记名簿丙册确有浓墨涂改，沈砚秋承认原字为陆沉舟、奉前任掌门令经执事堂转抄涂去；第四层《执事交接录》有转抄记录及执事堂印；第五层空白簿中夹有半行纸片，第六层拓本裁口与纸片断茬吻合，连读为“陆照临，非陆氏所出，天门所录，另册存之”。原始令文、拓本作者、裁字"
+      ]
+    },
+    {
+      "branch_id": "branch_a369694e-69c7-4d51-81f8-d48632459318",
+      "action": "我回到殿前，向长老们说明亲眼看见的涂改、转抄、裁口与残字，也明确说明拓本来历和原始令文尚未查明。随后请山门外推举两名愿意核验的人入殿，我亲自听他们的要求和证据，不再让他们只等一句统一口径。",
+      "effects": [
+        "叶青冥回到祖师殿前，向长老们逐项说明旧档房所见：记名簿涂改、执事交接录转抄记录、空白簿半行残字与拓本裁口吻合，并明确拓本来历、原始令文、裁字者均未查明，要求照原样传、不得增删。他决定让山门外众人自行推举两名愿意核验的人入殿，亲自听其要求与证据。灰袍长老带回北河城修桥匠人周大石与旧驿道替人送物的陈小满。周大石询问旧档中是",
+        "来到祖师殿"
+      ]
+    },
+    {
+      "branch_id": "branch_6d4b3c36-cf6e-48ab-a9e8-4a30dca61a64",
+      "action": "我请周大石说明亲人的姓名、来城时间和能核对的经历，请陈小满亲手打开竹箱，说明师父姓名并让我们查看功法扉页与正文。请沈砚秋和在场长老当面对照所知，只区分看见的证据、个人记忆和待查部分，先给这两个人能落实的答复。",
+      "effects": [
+        "叶青冥当殿分别询问周大石与陈小满：周大石说明失踪者为妻家兄弟赵三河，三年前开春到北河城后失踪，并出示刻“河”字木牌；陈小满亲手打开竹箱，说明师父陈守拙身份及遗言，功法扉页写“玄霄宗旧录”，正文第三页页脚有被裁的“陆”字残笔。沈砚秋与灰袍长老当面对照，确认纸片与扉页非同一笔迹、转抄记录中“北河城来函”年份对得上但内容被裁",
+        "来到殿中"
+      ]
+    },
+    {
+      "branch_id": "branch_3513b30c-bb8d-4f65-96e8-62cf268695e6",
+      "action": "我决定公开承认宗门有删改记录的事实和保全核验的责任，不把责任全推给沈砚秋。先审看刚才的抄录，确保没把推测写成事实，再请两位代表在场作证，向山门外说明已确认的内容和还需核实的部分，并听众人真正担心什么。",
+      "effects": [
+        "叶青冥抽回灰袍长老的抄录，划掉待查栏中“疑为宗门旧人私录外传”“疑与陆沉舟有关”两行推测，只留册目缺页年份、经手人、旧档房西架近十年出入记录三条待查事项。周大石与陈小满分别看过抄录并确认无误。叶青冥带抄录至山门石阶，当众念出“看见的”“记得的”“待查的”三栏，公开承认宗门有删改记录、册目缺页与核验责任，明确不推给沈砚秋",
+        "来到殿里",
+        "目标已完成：玄霄宗是否承认旧档案的错误",
+        "问题已解决：玄霄宗是否承认旧档案的错误"
+      ]
+    },
+    {
+      "branch_id": "branch_a2e71f08-ab90-4a66-b0f4-02294f205acf",
+      "action": "翌日辰时，我按承诺到旧档房主持公开核验，先和沈砚秋、两位代表一起查册目缺页的年份及经手记录，再核对三年前北河城来函留下的部分。我需要看到能辨认的原文和具体结果；若有人反对公开，就当面说明理由，由我决定，不替我接受隐瞒的安排。",
+      "effects": [
+        "辰时前，叶青冥在旧档房主持公开核验。沈砚秋指出册目缺页为一百四十八至一百五十一年共四页，裁口齐整；灰袍长老对照执事交接录，查出方执事经手时记“有损已补”。陈小满竹箱中一封一百五十年旧驿道陈氏致方执事的信，提及“册目四页暂存我处”；周大石木牌与北河城来函残纸并排，来函问赵三河下落，正文被裁，裁口与册目缺页一致。叶青冥命逐",
+        "来到旧档房"
+      ]
+    }
+  ],
+  "lineage": [
+    "branch_bcccb329-a9d7-489b-9a3e-29f8ac6b6765",
+    "branch_398c1ae4-9281-43b8-9c9a-d9a5a778948b",
+    "branch_d8e5ec8e-df6d-4d92-bdb7-732e83c51a13",
+    "branch_a369694e-69c7-4d51-81f8-d48632459318",
+    "branch_6d4b3c36-cf6e-48ab-a9e8-4a30dca61a64",
+    "branch_3513b30c-bb8d-4f65-96e8-62cf268695e6",
+    "branch_a2e71f08-ab90-4a66-b0f4-02294f205acf"
+  ],
+  "route_health": {
+    "signals": [
+      "source_progress_stalled"
+    ],
+    "review_recommended": true,
+    "window": 3,
+    "unchanged_state_turns": 0,
+    "repeated_action_turns": 1,
+    "source_progress_streak": 6,
+    "closure_readiness": "needs_explanation",
+    "closure_outstanding_count": 2,
+    "ending_written": false,
+    "note": "停滞信号与收束清单仅作路线诊断；不表示应强制结束，也不表示自然结局已写成。"
+  },
+  "location": "旧档房"
+}

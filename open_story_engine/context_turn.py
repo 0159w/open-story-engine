@@ -2,7 +2,7 @@
 import json
 import copy
 
-from . import reader_actions, reader_consequences as consequences
+from . import reader_actions, reader_consequences as consequences, story_journey
 from .api_reader_quality import action_requirements
 from .cocreation import empty_branch_additions, plan_result, scripted_followup_directions
 from .llm import LlmError, parse_json_content
@@ -51,18 +51,21 @@ def plan_turn(planner, context, selected, resolved_state, stream=None, stream_re
     from . import narrative_delivery
     action = player_action(context, selected)
     context = {**context, 'playerDirection': action, 'narrativePolicy': 'context_only'}
+    journey = story_journey.prepare(context)
+    context['storyJourney'] = story_journey.planning_view(journey)
     raw, observations, notes = [], [], []
-    planner._preflight_context_projection(context, selected, resolved_state)
-    requirements = action_requirements(action)
-    payload, audit = planner._result_contract_context(context, selected, requirements)
-    state = context['parent']['branchState']
-    payload['branchEntities'] = {key: [{field: item[field] for field in ('id', 'name') if field in item}
-                                     for item in state.get(key, [])]
-                                 for key in ('derivedCharacters', 'derivedItems', 'derivedLocations')}
-    planner.last_prompt_context['resultContractProjection'] = audit
-    contract = None
-    projected = resolved_state
     try:
+        planner._preflight_context_projection(context, selected, resolved_state)
+        requirements = action_requirements(action)
+        payload, audit = planner._result_contract_context(context, selected, requirements)
+        payload['storyJourney'] = context['storyJourney']
+        state = context['parent']['branchState']
+        payload['branchEntities'] = {key: [{field: item[field] for field in ('id', 'name') if field in item}
+                                         for item in state.get(key, [])]
+                                     for key in ('derivedCharacters', 'derivedItems', 'derivedLocations')}
+        planner.last_prompt_context['resultContractProjection'] = audit
+        contract = None
+        projected = resolved_state
         # The plan helps the writer. It is not a second permission system and
         # its failure cannot discard an otherwise usable narrative response.
         try:
@@ -71,7 +74,11 @@ def plan_turn(planner, context, selected, resolved_state, stream=None, stream_re
                 {'role': 'user', 'content': json.dumps(payload, ensure_ascii=False)}], stage='result_contract')
             raw.append(planned.raw_response)
             observations.extend({**o, 'generationStage': 'result_contract'} for o in planned.observations)
-            candidate = bind_plan_base(parse_json_content(planned.content), context)
+            candidate = parse_json_content(planned.content)
+            journey = story_journey.revise(journey,
+                candidate.get('journeyPlan') if isinstance(candidate, dict) else None,
+                candidate.get('journeyReview') if isinstance(candidate, dict) else None)
+            candidate = bind_plan_base(candidate, context)
             candidate = consequences.validate_plan(candidate, requirements, context)
             if candidate['decision'] == 'ready':
                 scene = candidate.get('scenePlan')
@@ -90,7 +97,7 @@ def plan_turn(planner, context, selected, resolved_state, stream=None, stream_re
                 notes.append(dict(stage='planning', reason=candidate.get('message', '计划未完成')))
         except (ValueError, TypeError, KeyError, AttributeError, LlmError) as error:
             notes.append(dict(stage='planning', reason=str(error)))
-        context = {**context, 'resultContract': contract}
+        context = {**context, 'resultContract': contract, 'storyJourney': journey}
         body, _ = planner._scene_draft(context, selected, projected, None, None, raw, observations, 0, '')
         if not body.strip() or not any(c.isalnum() for c in body):
             raise LlmError('未返回实际正文', 'empty_narrative')
@@ -102,6 +109,7 @@ def plan_turn(planner, context, selected, resolved_state, stream=None, stream_re
         entity_ids = {e['id'] for e in entity_facts['entities']}
         entity_ids.add(context['contract']['persona']['sourceCharacterId'])
         extraction = dict(input=action, desiredPlan=contract,
+            storyJourney=journey,
             entityFacts=entity_facts,
             authoritativeState=observation_state(state, entity_ids),
             registry={k: {f: e[f] for f in ('id', 'name', 'kind') if f in e}
@@ -145,6 +153,16 @@ def plan_turn(planner, context, selected, resolved_state, stream=None, stream_re
             readingProfile={**planner.last_prompt_context.get('pacing', {}),
                             'actualCjk': cjk_character_count(body), 'expansionApplied': False},
             proseQuality={'status': 'not_automatically_reviewed', 'reviewer': 'developer'})
+        result['storyJourney'] = story_journey.record(context, journey, body, data)
+        result['naturalEnding'] = result['storyJourney']['ending'] is not None
+        if result['naturalEnding']:
+            result['nextDirections'] = []
+            result['storyArc']['chapter']['status'] = 'complete'
+            result['storyArc']['goalDisposition'] = (
+                'failed' if result['storyJourney']['ending']['kind'] == 'failed' else 'completed')
+        planner.last_prompt_context['storyJourney'] = dict(
+            version=story_journey.VERSION, progress=journey['progress'],
+            planStatus=journey['planStatus'], automaticLengthGate=False)
         return result, {'operation': 'branch_planner', 'model': planner.gateway.model,
                         'promptVersion': 'context-player-v2+' + catalog_version(), 'requestSummary': action,
                         'rawResponse': '\n\n'.join(raw), 'callObservations': observations,
@@ -155,5 +173,6 @@ def plan_turn(planner, context, selected, resolved_state, stream=None, stream_re
         rejected.audit = {'operation': 'branch_planner', 'model': planner.gateway.model,
                           'rawResponse': '\n\n'.join(raw), 'callObservations': observations,
                           'promptContext': planner.last_prompt_context,
-                          'error': str(error), 'failureStage': 'delivery', 'errorCode': rejected.code}
+                          'error': str(error), 'failureStage': 'context_preflight' if rejected.code == 'context_projection_rejected' else 'delivery',
+                          'errorCode': rejected.code}
         raise rejected

@@ -1,0 +1,1546 @@
+{
+  "status": "written",
+  "request_id": "playthrough-30be2b8d32f6491db717975ff7e184c5",
+  "deduplicated": false,
+  "branch": {
+    "id": "branch_c0c3e77b-836a-4baf-9bd5-5b1338d645d5",
+    "sessionId": "f5f635d0-081f-50c6-a0c5-ed75aa0ebb47",
+    "sequence": 3,
+    "parentId": "branch_0a360436-4470-4372-9634-371ad2ba7b1e",
+    "kind": "generated",
+    "sourceNodeRef": "node_source_continuity",
+    "narrativeText": "“陈老六。”你放下碗，叫住他。\n\n他半个身子还探在门框里，眉毛一挑，等着。\n\n“多谢你替我打听。”你说，“不过有几样事，麻烦你明天问清楚——王家那院墙塌了多大一角，要搬多少石头？管两顿饭之外，有没有工钱？还有，到了那边谁领工，找谁说话？”\n\n陈老六听着，手指在门框上敲了两下，像是把这几条一条条记进心里。\n\n“问得细。”他说，“行，明早我去镇西头，找王二问。领工的就是他，王家自己的院墙，他张罗的。工钱有没有、给多少，我当面问，回来告诉你。”\n\n“我按普通短工过去。”你说，“该怎么算怎么算，不用替我多要。”\n\n“这话我记下了。”陈老六点点头，把身子收回去，又想起什么似的补了一句，“灶间水缸边有块粗布，手要是磨破了，自己擦擦。柴房在左手边，铺盖在最里头那摞柴上，自己拿。”\n\n他走了，前堂传来他招呼客人的声音，碗筷又响起来。\n\n你端着空碗到水缸边，舀了一瓢水，先冲手。掌心那几处磨破的地方被水一激，火辣辣地疼。井绳勒出的红痕横在指根，有两处已经破了皮，渗着一点血丝。你用粗布蘸水，把泥和木屑一点点擦净，又按了按，血止住了，只是碰着还疼。布搭回缸沿，你把碗洗了，扣在灶台上。\n\n柴房里堆着半屋劈好的柴，靠墙一张窄板床，铺盖卷在最里头那摞柴上。你把它抱下来，抖开，一股干草和旧棉絮的味道。床板硬，铺盖薄，但比山路上任何一块石头都平整。你把外衫叠好垫在头下，躺下去，脊背贴着板子，能听见前堂隐约的人声和街上偶尔走过的脚步。\n\n掌心还在隐隐地跳。你把手摊开放在身侧，不去压它。\n\n明天王二那边什么说法，得等陈老六问回来才知道。工钱有没有，石方多少，都是明天的事。眼下这间柴房、这张板床、这两顿饭，是你用一下午的斧头和井绳换来的，踏实。\n\n你闭上眼。灶膛的余温隔着墙透过来一点，柴房里很静。",
+    "summary": "叶青冥向陈老六道谢，托他明天问清王家搬石头的石方、工钱和领工人，并表明愿按普通短工身份过去。陈老六应下，说领工的是王二，明早去镇西头问，回来告诉叶青冥，并指了水缸粗布和柴房铺盖的位置。叶青冥就着水缸的水清洗掌心磨伤，擦干止血，随后在柴房铺好铺盖躺下休息，等陈老六带回王家的答复。",
+    "branchState": {
+      "playerLocationId": "location_observed_3c91388dcbcc92a3",
+      "playerCharacterId": "character_2cf2b083593b",
+      "characterLocationIds": {
+        "character_2cf2b083593b": "location_observed_3c91388dcbcc92a3",
+        "character_aa4580d38571": "location_open_ancestral_hall",
+        "character_ae4cb42b9b49": "location_open_ancestral_hall",
+        "character_e663361ab1c7": "location_open_ancestral_hall",
+        "character_766c4e16f65d": "location_open_ancestral_hall"
+      },
+      "branchLedger": {
+        "schemaVersion": "branch-state-ledger/0.1",
+        "entries": [
+          {
+            "id": "ledger_000001_01ff132b3b0f",
+            "sequence": 1,
+            "kind": "event",
+            "operation": "changed",
+            "entityId": "state:freeTextProgress",
+            "summary": "运行时状态字段“freeTextProgress”已由受控方向更新。",
+            "before": 0,
+            "after": 1,
+            "source": {
+              "kind": "player_direction",
+              "ref": "direction_free_c99516f7ff01",
+              "nodeRef": "node_source_continuity"
+            }
+          },
+          {
+            "id": "ledger_000002_e6156db6f34d",
+            "sequence": 2,
+            "kind": "location",
+            "operation": "added",
+            "entityId": "location_path_down_mountain",
+            "summary": "叶青冥辞任后独自离开山门所走的山路，已走出祖师殿范围。",
+            "before": null,
+            "after": {
+              "id": "location_path_down_mountain",
+              "name": "通往山下的路",
+              "summary": "叶青冥辞任后独自离开山门所走的山路，已走出祖师殿范围。"
+            },
+            "source": {
+              "kind": "direction",
+              "ref": "reader-action",
+              "nodeRef": "reader-action"
+            }
+          },
+          {
+            "id": "ledger_000003_c08e696ab48e",
+            "sequence": 3,
+            "kind": "event",
+            "operation": "changed",
+            "entityId": "state:goalLedger",
+            "summary": "已核对正文的行动结果与持续状态变化",
+            "before": null,
+            "after": [
+              {
+                "id": "opening-goal-1",
+                "title": "沈砚秋删去陆沉舟记录的责任",
+                "status": "transformed",
+                "characterId": "character_2cf2b083593b",
+                "dependencies": [],
+                "source": "player_branch",
+                "evidence": "“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。",
+                "causeBranchId": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+                "reason": "叶青冥将旧案记录与原件交出，不再以掌门身份主导追查，该目标转为由沈砚秋与长老共同查证。",
+                "successor": "new-1"
+              },
+              {
+                "id": "opening-goal-2",
+                "title": "玄霄宗是否承认旧档案的错误",
+                "status": "transformed",
+                "characterId": "character_2cf2b083593b",
+                "dependencies": [],
+                "source": "player_branch",
+                "evidence": "“我知道。”你看着他，“最初的残印、最早的天门记录、陆照临的名字，都曾从玄霄宗走出去。这些决定里有我一份。我不再以掌门身份查下去，是因为掌门这个位置本身，就是当年那些决定的一部分。”\n\n你转向沈砚秋。她抬着头，眼眶发红，却没有躲开你的目光。\n\n“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。\n\n“掌门之位空着，由长老会暂理宗门日常。”你继续说，“山门外的人要问什么，你们答什么。答不出的，就记下来，别再用一套统一档案把名字盖过去。”",
+                "causeBranchId": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+                "reason": "叶青冥当众承认宗门与自己曾参与错误，但将是否正式承认与如何查证交由长老会与沈砚秋处理。",
+                "successor": "new-2"
+              },
+              {
+                "id": "goal-5aebc94c06f7babf",
+                "title": "new-1",
+                "status": "active",
+                "dependencies": [],
+                "reason": "叶青冥将旧案记录与原件交出，不再以掌门身份主导追查，该目标转为由沈砚秋与长老共同查证。",
+                "evidence": "“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。",
+                "successor": "new-1",
+                "characterId": "character_2cf2b083593b",
+                "source": "player_branch",
+                "causeBranchId": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+                "previousGoalId": "opening-goal-1"
+              },
+              {
+                "id": "goal-26d4c7110d5c6dad",
+                "title": "new-2",
+                "status": "active",
+                "dependencies": [],
+                "reason": "叶青冥当众承认宗门与自己曾参与错误，但将是否正式承认与如何查证交由长老会与沈砚秋处理。",
+                "evidence": "“我知道。”你看着他，“最初的残印、最早的天门记录、陆照临的名字，都曾从玄霄宗走出去。这些决定里有我一份。我不再以掌门身份查下去，是因为掌门这个位置本身，就是当年那些决定的一部分。”\n\n你转向沈砚秋。她抬着头，眼眶发红，却没有躲开你的目光。\n\n“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。\n\n“掌门之位空着，由长老会暂理宗门日常。”你继续说，“山门外的人要问什么，你们答什么。答不出的，就记下来，别再用一套统一档案把名字盖过去。”",
+                "successor": "new-2",
+                "characterId": "character_2cf2b083593b",
+                "source": "player_branch",
+                "causeBranchId": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+                "previousGoalId": "opening-goal-2"
+              }
+            ],
+            "source": {
+              "kind": "player_direction",
+              "ref": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+              "nodeRef": "node_source_continuity"
+            }
+          },
+          {
+            "id": "ledger_000004_3c3c02373016",
+            "sequence": 4,
+            "kind": "event",
+            "operation": "changed",
+            "entityId": "state:threadLedger",
+            "summary": "已核对正文的行动结果与持续状态变化",
+            "before": [
+              {
+                "id": "opening-thread-1",
+                "title": "沈砚秋删去陆沉舟记录的责任",
+                "status": "open",
+                "source": "opening",
+                "openedBranchId": null,
+                "causeBranchId": null,
+                "reason": "",
+                "evidence": "",
+                "priority": "unknown",
+                "recoveryWindow": "unknown"
+              },
+              {
+                "id": "opening-thread-2",
+                "title": "玄霄宗是否承认旧档案的错误",
+                "status": "open",
+                "source": "opening",
+                "openedBranchId": null,
+                "causeBranchId": null,
+                "reason": "",
+                "evidence": "",
+                "priority": "unknown",
+                "recoveryWindow": "unknown"
+              }
+            ],
+            "after": [
+              {
+                "id": "opening-thread-1",
+                "title": "沈砚秋删去陆沉舟记录的责任",
+                "status": "open",
+                "source": "opening",
+                "openedBranchId": null,
+                "causeBranchId": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+                "reason": "叶青冥已将记录交出，但沈砚秋删改旧记录的责任尚未实际查清或处置。",
+                "evidence": "“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。",
+                "priority": "high",
+                "recoveryWindow": "near"
+              },
+              {
+                "id": "opening-thread-2",
+                "title": "玄霄宗是否承认旧档案的错误",
+                "status": "open",
+                "source": "opening",
+                "openedBranchId": null,
+                "causeBranchId": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+                "reason": "叶青冥当众承认自己参与错误，但宗门是否正式承认、如何回应山门外质问，仍待长老会与沈砚秋处理。",
+                "evidence": "“我知道。”你看着他，“最初的残印、最早的天门记录、陆照临的名字，都曾从玄霄宗走出去。这些决定里有我一份。我不再以掌门身份查下去，是因为掌门这个位置本身，就是当年那些决定的一部分。”\n\n你转向沈砚秋。她抬着头，眼眶发红，却没有躲开你的目光。\n\n“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。\n\n“掌门之位空着，由长老会暂理宗门日常。”你继续说，“山门外的人要问什么，你们答什么。答不出的，就记下来，别再用一套统一档案把名字盖过去。”",
+                "priority": "high",
+                "recoveryWindow": "near"
+              }
+            ],
+            "source": {
+              "kind": "player_direction",
+              "ref": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+              "nodeRef": "node_source_continuity"
+            }
+          },
+          {
+            "id": "ledger_000005_ade41c15eb5e",
+            "sequence": 5,
+            "kind": "event",
+            "operation": "changed",
+            "entityId": "state:readerEntityStates",
+            "summary": "已核对正文的行动结果与持续状态变化",
+            "before": null,
+            "after": {
+              "character_2cf2b083593b": {
+                "位置": "通往山下的路"
+              }
+            },
+            "source": {
+              "kind": "player_direction",
+              "ref": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+              "nodeRef": "node_source_continuity"
+            }
+          },
+          {
+            "id": "ledger_000006_a087e2268ce4",
+            "sequence": 6,
+            "kind": "event",
+            "operation": "changed",
+            "entityId": "state:characterLocationIds",
+            "summary": "已核对正文的行动结果与持续状态变化",
+            "before": {
+              "character_2cf2b083593b": "location_open_ancestral_hall",
+              "character_aa4580d38571": "location_open_ancestral_hall",
+              "character_ae4cb42b9b49": "location_open_ancestral_hall",
+              "character_e663361ab1c7": "location_open_ancestral_hall",
+              "character_766c4e16f65d": "location_open_ancestral_hall"
+            },
+            "after": {
+              "character_2cf2b083593b": "location_path_down_mountain",
+              "character_aa4580d38571": "location_open_ancestral_hall",
+              "character_ae4cb42b9b49": "location_open_ancestral_hall",
+              "character_e663361ab1c7": "location_open_ancestral_hall",
+              "character_766c4e16f65d": "location_open_ancestral_hall"
+            },
+            "source": {
+              "kind": "player_direction",
+              "ref": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+              "nodeRef": "node_source_continuity"
+            }
+          },
+          {
+            "id": "ledger_000007_f375a71aaf20",
+            "sequence": 7,
+            "kind": "event",
+            "operation": "changed",
+            "entityId": "state:playerLocationId",
+            "summary": "已核对正文的行动结果与持续状态变化",
+            "before": "location_open_ancestral_hall",
+            "after": "location_path_down_mountain",
+            "source": {
+              "kind": "player_direction",
+              "ref": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+              "nodeRef": "node_source_continuity"
+            }
+          },
+          {
+            "id": "ledger_000008_d40144b1228e",
+            "sequence": 8,
+            "kind": "event",
+            "operation": "changed",
+            "entityId": "state:freeTextProgress",
+            "summary": "运行时状态字段“freeTextProgress”已由受控方向更新。",
+            "before": 1,
+            "after": 2,
+            "source": {
+              "kind": "player_direction",
+              "ref": "direction_free_e582e33df352",
+              "nodeRef": "node_source_continuity"
+            }
+          },
+          {
+            "id": "ledger_000009_5ee21249bfdf",
+            "sequence": 9,
+            "kind": "location",
+            "operation": "added",
+            "entityId": "location_foot_town",
+            "summary": "玄霄宗山路尽头山脚的小镇，一条主街，有客栈、杂货铺与柴垛，往来过路人常在此落脚。",
+            "before": null,
+            "after": {
+              "id": "location_foot_town",
+              "name": "镇子",
+              "summary": "玄霄宗山路尽头山脚的小镇，一条主街，有客栈、杂货铺与柴垛，往来过路人常在此落脚。"
+            },
+            "source": {
+              "kind": "direction",
+              "ref": "reader-action",
+              "nodeRef": "reader-action"
+            }
+          },
+          {
+            "id": "ledger_000010_c9d7bbf3e928",
+            "sequence": 10,
+            "kind": "location",
+            "operation": "added",
+            "entityId": "location_chen_inn",
+            "summary": "镇东头客栈，幌子上写着“陈记”，掌柜陈老六，后院有柴垛与柴房。",
+            "before": null,
+            "after": {
+              "id": "location_chen_inn",
+              "name": "陈记",
+              "summary": "镇东头客栈，幌子上写着“陈记”，掌柜陈老六，后院有柴垛与柴房。"
+            },
+            "source": {
+              "kind": "direction",
+              "ref": "reader-action",
+              "nodeRef": "reader-action"
+            }
+          },
+          {
+            "id": "ledger_000011_2383c0af6753",
+            "sequence": 11,
+            "kind": "location",
+            "operation": "added",
+            "entityId": "location_kitchen",
+            "summary": "陈记客栈的灶间，叶青冥在此吃饭，灶膛火未熄。",
+            "before": null,
+            "after": {
+              "id": "location_kitchen",
+              "name": "灶间",
+              "summary": "陈记客栈的灶间，叶青冥在此吃饭，灶膛火未熄。"
+            },
+            "source": {
+              "kind": "direction",
+              "ref": "reader-action",
+              "nodeRef": "reader-action"
+            }
+          },
+          {
+            "id": "ledger_000012_cac76c32fde1",
+            "sequence": 12,
+            "kind": "character",
+            "operation": "added",
+            "entityId": "character_chen_laoliu",
+            "summary": "山脚村镇“陈记”客栈掌柜，五十来岁，见惯过路人，用劈柴挑水换一餐一宿，并主动替叶青冥打听次日搬石头的活计。",
+            "before": null,
+            "after": {
+              "id": "character_chen_laoliu",
+              "name": "陈老六",
+              "summary": "山脚村镇“陈记”客栈掌柜，五十来岁，见惯过路人，用劈柴挑水换一餐一宿，并主动替叶青冥打听次日搬石头的活计。"
+            },
+            "source": {
+              "kind": "direction",
+              "ref": "reader-action",
+              "nodeRef": "reader-action"
+            }
+          },
+          {
+            "id": "ledger_000013_5817eff380f1",
+            "sequence": 13,
+            "kind": "event",
+            "operation": "changed",
+            "entityId": "state:characterOutcomeStates",
+            "summary": "已核对正文的行动结果与持续状态变化",
+            "before": {},
+            "after": {
+              "character_2cf2b083593b": {
+                "characterId": "character_2cf2b083593b",
+                "status": "alive",
+                "permanence": "temporary",
+                "requirementId": "A1",
+                "cause": "叶青冥沿山路下行抵达山脚村镇，以劈柴挑水换得饭食与柴房落脚。",
+                "evidence": "你端着碗坐在灶间的小凳上，饭是糙米饭，菜是一碟腌萝卜和半碗炖豆腐。你吃得很慢，一口一口，尝得出豆腥味和盐粒。灶膛里的火还没熄，映在墙上，一跳一跳的。",
+                "causeBranchId": "branch_0a360436-4470-4372-9634-371ad2ba7b1e"
+              }
+            },
+            "source": {
+              "kind": "player_direction",
+              "ref": "branch_0a360436-4470-4372-9634-371ad2ba7b1e",
+              "nodeRef": "node_source_continuity"
+            }
+          },
+          {
+            "id": "ledger_000014_1b45c8f8cc78",
+            "sequence": 14,
+            "kind": "event",
+            "operation": "changed",
+            "entityId": "state:readerEntityStates",
+            "summary": "已核对正文的行动结果与持续状态变化",
+            "before": {
+              "character_2cf2b083593b": {
+                "位置": "通往山下的路"
+              }
+            },
+            "after": {
+              "character_2cf2b083593b": {
+                "位置": "通往山下的路",
+                "身份": "以普通人身份落脚，未表明前掌门身份",
+                "持有物": "两手空空，未带断剑"
+              }
+            },
+            "source": {
+              "kind": "player_direction",
+              "ref": "branch_0a360436-4470-4372-9634-371ad2ba7b1e",
+              "nodeRef": "node_source_continuity"
+            }
+          },
+          {
+            "id": "ledger_000015_0c13f0220abf",
+            "sequence": 15,
+            "kind": "event",
+            "operation": "changed",
+            "entityId": "state:characterLocationIds",
+            "summary": "已核对正文的行动结果与持续状态变化",
+            "before": {
+              "character_2cf2b083593b": "location_path_down_mountain",
+              "character_aa4580d38571": "location_open_ancestral_hall",
+              "character_ae4cb42b9b49": "location_open_ancestral_hall",
+              "character_e663361ab1c7": "location_open_ancestral_hall",
+              "character_766c4e16f65d": "location_open_ancestral_hall"
+            },
+            "after": {
+              "character_2cf2b083593b": "location_kitchen",
+              "character_aa4580d38571": "location_open_ancestral_hall",
+              "character_ae4cb42b9b49": "location_open_ancestral_hall",
+              "character_e663361ab1c7": "location_open_ancestral_hall",
+              "character_766c4e16f65d": "location_open_ancestral_hall"
+            },
+            "source": {
+              "kind": "player_direction",
+              "ref": "branch_0a360436-4470-4372-9634-371ad2ba7b1e",
+              "nodeRef": "node_source_continuity"
+            }
+          },
+          {
+            "id": "ledger_000016_3fe446f93631",
+            "sequence": 16,
+            "kind": "event",
+            "operation": "changed",
+            "entityId": "state:playerLocationId",
+            "summary": "已核对正文的行动结果与持续状态变化",
+            "before": "location_path_down_mountain",
+            "after": "location_kitchen",
+            "source": {
+              "kind": "player_direction",
+              "ref": "branch_0a360436-4470-4372-9634-371ad2ba7b1e",
+              "nodeRef": "node_source_continuity"
+            }
+          },
+          {
+            "id": "ledger_000017_817bc4197c27",
+            "sequence": 17,
+            "kind": "event",
+            "operation": "changed",
+            "entityId": "state:freeTextProgress",
+            "summary": "运行时状态字段“freeTextProgress”已由受控方向更新。",
+            "before": 2,
+            "after": 3,
+            "source": {
+              "kind": "player_direction",
+              "ref": "direction_free_000fe374c795",
+              "nodeRef": "node_source_continuity"
+            }
+          },
+          {
+            "id": "ledger_000018_a38ebcb26b09",
+            "sequence": 18,
+            "kind": "location",
+            "operation": "added",
+            "entityId": "location_observed_3c91388dcbcc92a3",
+            "summary": "本回合原文确认的场所：柴房",
+            "before": null,
+            "after": {
+              "id": "location_observed_3c91388dcbcc92a3",
+              "name": "柴房",
+              "summary": "本回合原文确认的场所：柴房"
+            },
+            "source": {
+              "kind": "direction",
+              "ref": "reader-action",
+              "nodeRef": "reader-action"
+            }
+          },
+          {
+            "id": "ledger_000019_c36cbdf2f555",
+            "sequence": 19,
+            "kind": "character",
+            "operation": "added",
+            "entityId": "character_wang_er",
+            "summary": "镇西头王家院墙塌角后负责领工的人，陈老六口中明天要去问工的人，尚未与叶青冥见面。",
+            "before": null,
+            "after": {
+              "id": "character_wang_er",
+              "name": "王二",
+              "summary": "镇西头王家院墙塌角后负责领工的人，陈老六口中明天要去问工的人，尚未与叶青冥见面。"
+            },
+            "source": {
+              "kind": "direction",
+              "ref": "reader-action",
+              "nodeRef": "reader-action"
+            }
+          },
+          {
+            "id": "ledger_000020_9fad53dfd057",
+            "sequence": 20,
+            "kind": "event",
+            "operation": "changed",
+            "entityId": "state:readerEntityStates",
+            "summary": "已核对正文的行动结果与持续状态变化",
+            "before": {
+              "character_2cf2b083593b": {
+                "位置": "通往山下的路",
+                "身份": "以普通人身份落脚，未表明前掌门身份",
+                "持有物": "两手空空，未带断剑"
+              }
+            },
+            "after": {
+              "character_2cf2b083593b": {
+                "位置": "通往山下的路",
+                "身份": "以普通人身份落脚，未表明前掌门身份",
+                "持有物": "两手空空，未带断剑",
+                "palmAbrasion": "已清洗止血，碰着仍疼",
+                "lodging": "陈记客栈柴房板床"
+              }
+            },
+            "source": {
+              "kind": "player_direction",
+              "ref": "branch_c0c3e77b-836a-4baf-9bd5-5b1338d645d5",
+              "nodeRef": "node_source_continuity"
+            }
+          },
+          {
+            "id": "ledger_000021_e770f3d97f88",
+            "sequence": 21,
+            "kind": "event",
+            "operation": "changed",
+            "entityId": "state:characterLocationIds",
+            "summary": "已核对正文的行动结果与持续状态变化",
+            "before": {
+              "character_2cf2b083593b": "location_kitchen",
+              "character_aa4580d38571": "location_open_ancestral_hall",
+              "character_ae4cb42b9b49": "location_open_ancestral_hall",
+              "character_e663361ab1c7": "location_open_ancestral_hall",
+              "character_766c4e16f65d": "location_open_ancestral_hall"
+            },
+            "after": {
+              "character_2cf2b083593b": "location_observed_3c91388dcbcc92a3",
+              "character_aa4580d38571": "location_open_ancestral_hall",
+              "character_ae4cb42b9b49": "location_open_ancestral_hall",
+              "character_e663361ab1c7": "location_open_ancestral_hall",
+              "character_766c4e16f65d": "location_open_ancestral_hall"
+            },
+            "source": {
+              "kind": "player_direction",
+              "ref": "branch_c0c3e77b-836a-4baf-9bd5-5b1338d645d5",
+              "nodeRef": "node_source_continuity"
+            }
+          },
+          {
+            "id": "ledger_000022_6af20d50959a",
+            "sequence": 22,
+            "kind": "event",
+            "operation": "changed",
+            "entityId": "state:playerLocationId",
+            "summary": "已核对正文的行动结果与持续状态变化",
+            "before": "location_kitchen",
+            "after": "location_observed_3c91388dcbcc92a3",
+            "source": {
+              "kind": "player_direction",
+              "ref": "branch_c0c3e77b-836a-4baf-9bd5-5b1338d645d5",
+              "nodeRef": "node_source_continuity"
+            }
+          }
+        ]
+      },
+      "sourceProgress": "chapter_335",
+      "freeTextProgress": 3,
+      "storyScope": "source",
+      "derivativeStage": "inactive",
+      "derivedTurn": 0,
+      "derivedLocations": [
+        {
+          "id": "location_path_down_mountain",
+          "name": "通往山下的路",
+          "summary": "叶青冥辞任后独自离开山门所走的山路，已走出祖师殿范围。"
+        },
+        {
+          "id": "location_foot_town",
+          "name": "镇子",
+          "summary": "玄霄宗山路尽头山脚的小镇，一条主街，有客栈、杂货铺与柴垛，往来过路人常在此落脚。"
+        },
+        {
+          "id": "location_chen_inn",
+          "name": "陈记",
+          "summary": "镇东头客栈，幌子上写着“陈记”，掌柜陈老六，后院有柴垛与柴房。"
+        },
+        {
+          "id": "location_kitchen",
+          "name": "灶间",
+          "summary": "陈记客栈的灶间，叶青冥在此吃饭，灶膛火未熄。"
+        },
+        {
+          "id": "location_observed_3c91388dcbcc92a3",
+          "name": "柴房",
+          "summary": "本回合原文确认的场所：柴房"
+        }
+      ],
+      "derivedCharacters": [
+        {
+          "id": "character_chen_laoliu",
+          "name": "陈老六",
+          "summary": "山脚村镇“陈记”客栈掌柜，五十来岁，见惯过路人，用劈柴挑水换一餐一宿，并主动替叶青冥打听次日搬石头的活计。"
+        },
+        {
+          "id": "character_wang_er",
+          "name": "王二",
+          "summary": "镇西头王家院墙塌角后负责领工的人，陈老六口中明天要去问工的人，尚未与叶青冥见面。"
+        }
+      ],
+      "derivedItems": [],
+      "derivedCharacterReveals": [],
+      "derivedRelationships": [],
+      "derivedClues": [],
+      "derivedEvents": [],
+      "itemOwnerCharacterIds": {
+        "item_open_broken_sword": "character_2cf2b083593b"
+      },
+      "itemLocationIds": {},
+      "characterOutcomeStates": {
+        "character_2cf2b083593b": {
+          "characterId": "character_2cf2b083593b",
+          "status": "alive",
+          "permanence": "temporary",
+          "requirementId": "A1",
+          "cause": "叶青冥沿山路下行抵达山脚村镇，以劈柴挑水换得饭食与柴房落脚。",
+          "evidence": "你端着碗坐在灶间的小凳上，饭是糙米饭，菜是一碟腌萝卜和半碗炖豆腐。你吃得很慢，一口一口，尝得出豆腥味和盐粒。灶膛里的火还没熄，映在墙上，一跳一跳的。",
+          "causeBranchId": "branch_0a360436-4470-4372-9634-371ad2ba7b1e"
+        }
+      },
+      "threadLedger": [
+        {
+          "id": "opening-thread-1",
+          "title": "沈砚秋删去陆沉舟记录的责任",
+          "status": "open",
+          "source": "opening",
+          "openedBranchId": null,
+          "causeBranchId": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+          "reason": "叶青冥已将记录交出，但沈砚秋删改旧记录的责任尚未实际查清或处置。",
+          "evidence": "“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。",
+          "priority": "high",
+          "recoveryWindow": "near"
+        },
+        {
+          "id": "opening-thread-2",
+          "title": "玄霄宗是否承认旧档案的错误",
+          "status": "open",
+          "source": "opening",
+          "openedBranchId": null,
+          "causeBranchId": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+          "reason": "叶青冥当众承认自己参与错误，但宗门是否正式承认、如何回应山门外质问，仍待长老会与沈砚秋处理。",
+          "evidence": "“我知道。”你看着他，“最初的残印、最早的天门记录、陆照临的名字，都曾从玄霄宗走出去。这些决定里有我一份。我不再以掌门身份查下去，是因为掌门这个位置本身，就是当年那些决定的一部分。”\n\n你转向沈砚秋。她抬着头，眼眶发红，却没有躲开你的目光。\n\n“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。\n\n“掌门之位空着，由长老会暂理宗门日常。”你继续说，“山门外的人要问什么，你们答什么。答不出的，就记下来，别再用一套统一档案把名字盖过去。”",
+          "priority": "high",
+          "recoveryWindow": "near"
+        }
+      ],
+      "readerEntityStates": {
+        "character_2cf2b083593b": {
+          "位置": "通往山下的路",
+          "身份": "以普通人身份落脚，未表明前掌门身份",
+          "持有物": "两手空空，未带断剑",
+          "palmAbrasion": "已清洗止血，碰着仍疼",
+          "lodging": "陈记客栈柴房板床"
+        }
+      },
+      "goalLedger": [
+        {
+          "id": "opening-goal-1",
+          "title": "沈砚秋删去陆沉舟记录的责任",
+          "status": "transformed",
+          "characterId": "character_2cf2b083593b",
+          "dependencies": [],
+          "source": "player_branch",
+          "evidence": "“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。",
+          "causeBranchId": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+          "reason": "叶青冥将旧案记录与原件交出，不再以掌门身份主导追查，该目标转为由沈砚秋与长老共同查证。",
+          "successor": "new-1"
+        },
+        {
+          "id": "opening-goal-2",
+          "title": "玄霄宗是否承认旧档案的错误",
+          "status": "transformed",
+          "characterId": "character_2cf2b083593b",
+          "dependencies": [],
+          "source": "player_branch",
+          "evidence": "“我知道。”你看着他，“最初的残印、最早的天门记录、陆照临的名字，都曾从玄霄宗走出去。这些决定里有我一份。我不再以掌门身份查下去，是因为掌门这个位置本身，就是当年那些决定的一部分。”\n\n你转向沈砚秋。她抬着头，眼眶发红，却没有躲开你的目光。\n\n“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。\n\n“掌门之位空着，由长老会暂理宗门日常。”你继续说，“山门外的人要问什么，你们答什么。答不出的，就记下来，别再用一套统一档案把名字盖过去。”",
+          "causeBranchId": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+          "reason": "叶青冥当众承认宗门与自己曾参与错误，但将是否正式承认与如何查证交由长老会与沈砚秋处理。",
+          "successor": "new-2"
+        },
+        {
+          "id": "goal-5aebc94c06f7babf",
+          "title": "new-1",
+          "status": "active",
+          "dependencies": [],
+          "reason": "叶青冥将旧案记录与原件交出，不再以掌门身份主导追查，该目标转为由沈砚秋与长老共同查证。",
+          "evidence": "“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。",
+          "successor": "new-1",
+          "characterId": "character_2cf2b083593b",
+          "source": "player_branch",
+          "causeBranchId": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+          "previousGoalId": "opening-goal-1"
+        },
+        {
+          "id": "goal-26d4c7110d5c6dad",
+          "title": "new-2",
+          "status": "active",
+          "dependencies": [],
+          "reason": "叶青冥当众承认宗门与自己曾参与错误，但将是否正式承认与如何查证交由长老会与沈砚秋处理。",
+          "evidence": "“我知道。”你看着他，“最初的残印、最早的天门记录、陆照临的名字，都曾从玄霄宗走出去。这些决定里有我一份。我不再以掌门身份查下去，是因为掌门这个位置本身，就是当年那些决定的一部分。”\n\n你转向沈砚秋。她抬着头，眼眶发红，却没有躲开你的目光。\n\n“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。\n\n“掌门之位空着，由长老会暂理宗门日常。”你继续说，“山门外的人要问什么，你们答什么。答不出的，就记下来，别再用一套统一档案把名字盖过去。”",
+          "successor": "new-2",
+          "characterId": "character_2cf2b083593b",
+          "source": "player_branch",
+          "causeBranchId": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+          "previousGoalId": "opening-goal-2"
+        }
+      ]
+    },
+    "nextDirections": [
+      {
+        "id": "goal-direction-goal-5aebc94c06f7babf-4",
+        "title": "推进目标：new-1",
+        "summary": "围绕“new-1”，依据眼前条件采取下一步行动，不恢复已放下的目标。",
+        "statePatch": {
+          "freeTextProgress": 4
+        },
+        "isFreeText": true
+      },
+      {
+        "id": "goal-direction-goal-26d4c7110d5c6dad-4",
+        "title": "推进目标：new-2",
+        "summary": "围绕“new-2”，依据眼前条件采取下一步行动，不恢复已放下的目标。",
+        "statePatch": {
+          "freeTextProgress": 4
+        },
+        "isFreeText": true
+      }
+    ],
+    "openThreads": [
+      "沈砚秋删去陆沉舟记录的责任",
+      "玄霄宗是否承认旧档案的错误",
+      "尚未完成的当前目标"
+    ],
+    "createdAt": "2026-09-30T01:38:13.173Z",
+    "canonicalRelation": "diverged",
+    "factDeltas": [],
+    "storyArc": {
+      "activeGoal": "自定行动：我当众宣布辞去掌门之位，",
+      "currentPhase": "自定行动：我感谢陈老六愿意介绍活计",
+      "goalDisposition": "continued",
+      "chapter": {
+        "title": "《太虚遗录》·共创篇",
+        "status": "continuing"
+      }
+    },
+    "planning": {
+      "citations": [
+        {
+          "kind": "branch_node",
+          "ref": "branch_0a360436-4470-4372-9634-371ad2ba7b1e",
+          "rationale": "承接已确认的上一节点。"
+        }
+      ],
+      "confidence": "medium",
+      "stateChangeProposals": []
+    },
+    "branchAdditions": {
+      "locations": [],
+      "characters": [],
+      "items": [],
+      "relationships": [],
+      "clues": [],
+      "events": [],
+      "characterReveals": [],
+      "changes": []
+    },
+    "consequenceUpdate": {
+      "decision": "ready",
+      "message": "",
+      "requirements": {
+        "A1": {
+          "mode": "attempt",
+          "summary": "我感谢陈老六愿意介绍活计，请他问清王家明天具体要搬多少石头、是否有工钱、谁负责领工，愿意按普通短工的身份过去。今晚先洗手处理磨伤，把柴房收拾好休息。"
+        }
+      },
+      "method": "只登记正文已发生的结果",
+      "steps": [
+        {
+          "id": "S1",
+          "actorId": "character_2cf2b083593b",
+          "action": "我感谢陈老六愿意介绍活计，请他问清王家明天具体要搬多少石头、是否有工钱、谁负责领工，愿意按普通短工的身份过去。今晚先洗手处理磨伤，把柴房收拾好休息。",
+          "requirementIds": [
+            "A1"
+          ],
+          "authority": "player",
+          "causeStepId": null,
+          "usedItemIds": []
+        }
+      ],
+      "introductions": {
+        "characters": [
+          {
+            "id": "character_wang_er",
+            "name": "王二",
+            "summary": "镇西头王家院墙塌角后负责领工的人，陈老六口中明天要去问工的人，尚未与叶青冥见面。",
+            "sourceStepId": "S1",
+            "evidence": "“问得细。”他说，“行，明早我去镇西头，找王二问。领工的就是他，王家自己的院墙，他张罗的。工钱有没有、给多少，我当面问，回来告诉你。”"
+          }
+        ],
+        "items": [],
+        "locations": [
+          {
+            "id": "location_observed_3c91388dcbcc92a3",
+            "name": "柴房",
+            "summary": "本回合原文确认的场所：柴房",
+            "sourceStepId": "S1",
+            "evidence": "你闭上眼。灶膛的余温隔着墙透过来一点，柴房里很静。"
+          }
+        ]
+      },
+      "stateChanges": [
+        {
+          "id": "C1",
+          "entityId": "character_2cf2b083593b",
+          "attribute": "locationId",
+          "before": "location_kitchen",
+          "value": "location_observed_3c91388dcbcc92a3",
+          "stepId": "S1",
+          "reason": "本回合当前场所原文确认",
+          "evidence": "你把它抱下来，抖开，一股干草和旧棉絮的味道。"
+        },
+        {
+          "id": "C2",
+          "entityId": "character_2cf2b083593b",
+          "attribute": "palmAbrasion",
+          "before": null,
+          "value": "已清洗止血，碰着仍疼",
+          "stepId": "S1",
+          "reason": "劈柴挑水磨伤掌心，当晚就着水缸的水清洗处理。",
+          "evidence": "你端着空碗到水缸边，舀了一瓢水，先冲手。掌心那几处磨破的地方被水一激，火辣辣地疼。井绳勒出的红痕横在指根，有两处已经破了皮，渗着一点血丝。你用粗布蘸水，把泥和木屑一点点擦净，又按了按，血止住了，只是碰着还疼。布搭回缸沿，你把碗洗了，扣在灶台上。"
+        },
+        {
+          "id": "C3",
+          "entityId": "character_2cf2b083593b",
+          "attribute": "lodging",
+          "before": null,
+          "value": "陈记客栈柴房板床",
+          "stepId": "S1",
+          "reason": "陈老六让叶青冥住柴房，叶青冥收拾铺盖歇下。",
+          "evidence": "柴房里堆着半屋劈好的柴，靠墙一张窄板床，铺盖卷在最里头那摞柴上。你把它抱下来，抖开，一股干草和旧棉絮的味道。床板硬，铺盖薄，但比山路上任何一块石头都平整。你把外衫叠好垫在头下，躺下去，脊背贴着板子，能听见前堂隐约的人声和街上偶尔走过的脚步。"
+        }
+      ],
+      "outcomes": [],
+      "goalUpdates": [],
+      "threadUpdates": []
+    },
+    "actionIntent": {
+      "input": "我感谢陈老六愿意介绍活计，请他问清王家明天具体要搬多少石头、是否有工钱、谁负责领工，愿意按普通短工的身份过去。今晚先洗手处理磨伤，把柴房收拾好休息。",
+      "requirements": {
+        "A1": "我感谢陈老六愿意介绍活计",
+        "A2": "请他问清王家明天具体要搬多少石头、是否有工钱、谁负责领工",
+        "A3": "愿意按普通短工的身份过去",
+        "A4": "今晚先洗手处理磨伤",
+        "A5": "把柴房收拾好休息"
+      }
+    },
+    "deliveryReceipt": {
+      "version": "narrative-delivery/5",
+      "kind": "observed_state_not_prose_approval",
+      "parentSha256": "f4cf0d32114fb7d855c76aef38a7f90fb2bee87bcadb3659c25e93faf67ef9fa",
+      "narrativeSha256": "294e09d164370cd482f64076c562c6a28a15ce3877b42c2f4bf2cef82a48fb25",
+      "actionSha256": "6e585740fc8103577eb70de33a8502137b3aea4ca80f82c9e563a38edb17c497",
+      "data": {
+        "currentScene": {
+          "evidenceQuote": "你闭上眼。灶膛的余温隔着墙透过来一点，柴房里很静。",
+          "name": "柴房",
+          "basis": "observed",
+          "paragraphIds": [
+            "P13"
+          ],
+          "presentEntities": [
+            {
+              "entityId": "character_2cf2b083593b",
+              "entityName": "你",
+              "basis": "observed",
+              "paragraphIds": [
+                "P10"
+              ],
+              "evidenceQuote": "你把它抱下来，抖开，一股干草和旧棉絮的味道。"
+            }
+          ]
+        },
+        "summary": "叶青冥向陈老六道谢，托他明天问清王家搬石头的石方、工钱和领工人，并表明愿按普通短工身份过去。陈老六应下，说领工的是王二，明早去镇西头问，回来告诉叶青冥，并指了水缸粗布和柴房铺盖的位置。叶青冥就着水缸的水清洗掌心磨伤，擦干止血，随后在柴房铺好铺盖躺下休息，等陈老六带回王家的答复。",
+        "actionStatus": "performed",
+        "updates": {
+          "introductions": {
+            "characters": [
+              {
+                "id": "character_wang_er",
+                "name": "王二",
+                "summary": "镇西头王家院墙塌角后负责领工的人，陈老六口中明天要去问工的人，尚未与叶青冥见面。",
+                "paragraphIds": [
+                  "P5"
+                ]
+              }
+            ],
+            "items": [],
+            "locations": []
+          },
+          "stateChanges": [
+            {
+              "entityId": "character_2cf2b083593b",
+              "entityName": "你",
+              "basis": "observed",
+              "attribute": "palmAbrasion",
+              "value": "已清洗止血，碰着仍疼",
+              "reason": "劈柴挑水磨伤掌心，当晚就着水缸的水清洗处理。",
+              "paragraphIds": [
+                "P9"
+              ]
+            },
+            {
+              "entityId": "character_2cf2b083593b",
+              "entityName": "你",
+              "basis": "observed",
+              "attribute": "lodging",
+              "value": "陈记客栈柴房板床",
+              "reason": "陈老六让叶青冥住柴房，叶青冥收拾铺盖歇下。",
+              "paragraphIds": [
+                "P10"
+              ]
+            }
+          ],
+          "outcomes": [],
+          "goalUpdates": [],
+          "threadUpdates": []
+        },
+        "confirmedStates": [
+          {
+            "entityId": "character_2cf2b083593b",
+            "entityName": "你",
+            "basis": "observed",
+            "attribute": "身份",
+            "value": "以普通短工身份落脚陈记客栈",
+            "reason": "叶青冥向陈老六表明按普通短工过去，不用替他多要。",
+            "paragraphIds": [
+              "P6"
+            ]
+          },
+          {
+            "entityId": "character_chen_laoliu",
+            "entityName": "陈老六",
+            "basis": "observed",
+            "attribute": "承诺",
+            "value": "明早去镇西头找王二问清王家活计细节后回来告诉叶青冥",
+            "reason": "陈老六应下叶青冥的托问。",
+            "paragraphIds": [
+              "P5"
+            ]
+          }
+        ],
+        "followups": [
+          {
+            "id": "followup-a79875c4e3021217c015",
+            "summary": "叶青冥以普通人身份落脚后，旧案与受牵连者是否追来尚未交代。",
+            "paragraphIds": [
+              "P12"
+            ]
+          },
+          {
+            "id": "followup-f2ed987d1b3a9a2cacf1",
+            "summary": "沈砚秋与长老是否接受共同保管查证旧案记录、原件的安排，以及掌门之位暂由长老会代理后的实际运作，尚未交代。",
+            "paragraphIds": [
+              "P12"
+            ]
+          },
+          {
+            "id": "new-1",
+            "summary": "王家搬石头的具体石方、工钱与领工安排，须待陈老六明早问回王二后才能确认。",
+            "paragraphIds": [
+              "P3",
+              "P5",
+              "P12"
+            ]
+          }
+        ],
+        "resolvedFollowups": [],
+        "journeyEnding": null
+      },
+      "failure": null
+    },
+    "readerOutcome": {
+      "action": {
+        "status": "performed",
+        "summary": "叶青冥向陈老六道谢，托他明天问清王家搬石头的石方、工钱和领工人，并表明愿按普通短工身份过去。陈老六应下，说领工的是王二，明早去镇西头问，回来告诉叶青冥，并指了水缸粗布和柴房铺盖的位置。叶青冥就着水缸的水清洗掌心磨伤，擦干止血，随后在柴房铺好铺盖躺下休息，等陈老六带回王家的答复。",
+        "evidence": "“陈老六。”你放下碗，叫住他。\n\n他半个身子还探在门框里，眉毛一挑，等着。\n\n“多谢你替我打听。”你说，“不过有几样事，麻烦你明天问清楚——王家那院墙塌了多大一角，要搬多少石头？管两顿饭之外，有没有工钱？还有，到了那边谁领工，找谁说话？”\n\n陈老六听着，手指在门框上敲了两下，像是把这几条一条条记进心里。\n\n“问得细。”他说，“行，明早我去镇西头，找王二问。领工的就是他，王家自己的院墙，他张罗的。工钱有没有、给多少，我当面问，回来告诉你。”\n\n“我按普通短工过去。”你说，“该怎么算怎么算，不用替我多要。”\n\n“这话我记下了。”陈老六点点头，把身子收回去，又想起什么似的补了一句，“灶间水缸边有块粗布，手要是磨破了，自己擦擦。柴房在左手边，铺盖在最里头那摞柴上，自己拿。”\n\n他走了，前堂传来他招呼客人的声音，碗筷又响起来。\n\n你端着空碗到水缸边，舀了一瓢水，先冲手。掌心那几处磨破的地方被水一激，火辣辣地疼。井绳勒出的红痕横在指根，有两处已经破了皮，渗着一点血丝。你用粗布蘸水，把泥和木屑一点点擦净，又按了按，血止住了，只是碰着还疼。布搭回缸沿，你把碗洗了，扣在灶台上。\n\n柴房里堆着半屋劈好的柴，靠墙一张窄板床，铺盖卷在最里头那摞柴上。你把它抱下来，抖开，一股干草和旧棉絮的味道。床板硬，铺盖薄，但比山路上任何一块石头都平整。你把外衫叠好垫在头下，躺下去，脊背贴着板子，能听见前堂隐约的人声和街"
+      },
+      "actions": [],
+      "clues": [],
+      "relationships": []
+    },
+    "continuityFollowups": [
+      {
+        "id": "followup-aac0afafc2e9c04ab1aa",
+        "kind": "state_uncertain",
+        "status": "open",
+        "summary": "叶青冥辞去掌门之位、交出旧案记录后的持续结果仍需结合后续正文澄清。",
+        "evidence": "你走在石阶上，一级一级往下。身后祖师殿的方向早已看不见了，连山门飞檐的轮廓也被松林遮住。风从谷底往上涌，带着湿土和腐叶的气味，比殿里的香灰真实得多。石阶两侧的野草被踩得倒伏，有些地方长了青苔，脚底发滑。你走得不快，也不慢，像一个赶路的人，不像一个逃开的人。",
+        "entityIds": [
+          "character_2cf2b083593b"
+        ],
+        "originParentId": "branch_e2b93d9e-afe5-4cf9-8c97-8902b7cf4560",
+        "originNarrativeSha256": "5e10a85447e66e581ae77dc6f464acb098815ed0526eecb4cdb50b0f4215131b",
+        "lastObservedNarrativeSha256": "bad9b162251c821080f13237fa28493c5a6954f4109adec5e1bb861abd4ffb69"
+      },
+      {
+        "id": "followup-b2d7277f89e60054dec8",
+        "kind": "state_uncertain",
+        "status": "open",
+        "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。将《太虚遗录》及旧案记录、原件交由沈砚秋与长老共同保管查证。",
+        "evidence": "。她抬着头，眼眶发红，却没有躲开你的目光。\n\n“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。\n\n“掌门之位空着，由长老会暂理宗门日常。”你继续说，“山门外的人要问什么，你们答什么。答不出的，就记下来，别再用一套统一档案把名字盖过去。”\n\n你走下石阶。经过断剑时，脚步顿了一下，终究没有弯腰。剑留在那里，像一件该由宗门自己收好的旧物。\n\n“叶青冥。”身后有人叫你，是沈砚秋的声音，带着一点压不住的颤，“你下山之后……若有人问起你，我该怎么说？”\n\n你没有回头。\n\n“就说玄霄宗前掌门，去做个普通人了。”\n\n山门在你面前打开。门外的人群让开一条道，无数道目光落在你身上，有审视，有愤怒，也有说不清的复杂。你没有停步，也没有解释。风从山下来，带着草木和尘土的气味，比殿里的香灰真实得多。\n\n你一个人走下石阶，走进那条通往山下的路。身后祖师殿的方向，隐约传来长老们压低的商议声，还有沈砚秋翻动书页的轻响。那些声音越来越远，最后只剩下你自己的脚步声，一步一步，落在陌生的、不再属于掌门的土地上。",
+        "entityIds": [
+          "character_2cf2b083593b"
+        ],
+        "originParentId": "branch_e2b93d9e-afe5-4cf9-8c97-8902b7cf4560",
+        "originNarrativeSha256": "5e10a85447e66e581ae77dc6f464acb098815ed0526eecb4cdb50b0f4215131b"
+      },
+      {
+        "id": "followup-eacb6ef5e0b08fce1249",
+        "kind": "state_uncertain",
+        "status": "open",
+        "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。当众宣布辞去掌门之位。",
+        "evidence": "。她抬着头，眼眶发红，却没有躲开你的目光。\n\n“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。\n\n“掌门之位空着，由长老会暂理宗门日常。”你继续说，“山门外的人要问什么，你们答什么。答不出的，就记下来，别再用一套统一档案把名字盖过去。”\n\n你走下石阶。经过断剑时，脚步顿了一下，终究没有弯腰。剑留在那里，像一件该由宗门自己收好的旧物。\n\n“叶青冥。”身后有人叫你，是沈砚秋的声音，带着一点压不住的颤，“你下山之后……若有人问起你，我该怎么说？”\n\n你没有回头。\n\n“就说玄霄宗前掌门，去做个普通人了。”\n\n山门在你面前打开。门外的人群让开一条道，无数道目光落在你身上，有审视，有愤怒，也有说不清的复杂。你没有停步，也没有解释。风从山下来，带着草木和尘土的气味，比殿里的香灰真实得多。\n\n你一个人走下石阶，走进那条通往山下的路。身后祖师殿的方向，隐约传来长老们压低的商议声，还有沈砚秋翻动书页的轻响。那些声音越来越远，最后只剩下你自己的脚步声，一步一步，落在陌生的、不再属于掌门的土地上。",
+        "entityIds": [
+          "character_2cf2b083593b"
+        ],
+        "originParentId": "branch_e2b93d9e-afe5-4cf9-8c97-8902b7cf4560",
+        "originNarrativeSha256": "5e10a85447e66e581ae77dc6f464acb098815ed0526eecb4cdb50b0f4215131b"
+      },
+      {
+        "id": "followup-a79875c4e3021217c015",
+        "kind": "state_uncertain",
+        "status": "open",
+        "summary": "叶青冥以普通人身份落脚后，旧案与受牵连者是否追来尚未交代。",
+        "evidence": "明天王二那边什么说法，得等陈老六问回来才知道。工钱有没有，石方多少，都是明天的事。眼下这间柴房、这张板床、这两顿饭，是你用一下午的斧头和井绳换来的，踏实。",
+        "entityIds": [
+          "new-1"
+        ],
+        "originParentId": "branch_e2b93d9e-afe5-4cf9-8c97-8902b7cf4560",
+        "originNarrativeSha256": "5e10a85447e66e581ae77dc6f464acb098815ed0526eecb4cdb50b0f4215131b",
+        "lastObservedNarrativeSha256": "23d9f6d8c29c9a522d7a1eedbda2710f70b6b7bf82d7748eabf8782623b5a5ee"
+      },
+      {
+        "id": "followup-6dabf60e0bb32fdac28b",
+        "kind": "state_uncertain",
+        "status": "open",
+        "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。叶青冥将记录与原件交出，要求共同保管、共同查证，结果不必再经掌门一人点头。",
+        "evidence": "。她抬着头，眼眶发红，却没有躲开你的目光。\n\n“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。\n\n“掌门之位空着，由长老会暂理宗门日常。”你继续说，“山门外的人要问什么，你们答什么。答不出的，就记下来，别再用一套统一档案把名字盖过去。”\n\n你走下石阶。经过断剑时，脚步顿了一下，终究没有弯腰。剑留在那里，像一件该由宗门自己收好的旧物。\n\n“叶青冥。”身后有人叫你，是沈砚秋的声音，带着一点压不住的颤，“你下山之后……若有人问起你，我该怎么说？”\n\n你没有回头。\n\n“就说玄霄宗前掌门，去做个普通人了。”\n\n山门在你面前打开。门外的人群让开一条道，无数道目光落在你身上，有审视，有愤怒，也有说不清的复杂。你没有停步，也没有解释。风从山下来，带着草木和尘土的气味，比殿里的香灰真实得多。\n\n你一个人走下石阶，走进那条通往山下的路。身后祖师殿的方向，隐约传来长老们压低的商议声，还有沈砚秋翻动书页的轻响。那些声音越来越远，最后只剩下你自己的脚步声，一步一步，落在陌生的、不再属于掌门的土地上。",
+        "entityIds": [
+          "new-2"
+        ],
+        "originParentId": "branch_e2b93d9e-afe5-4cf9-8c97-8902b7cf4560",
+        "originNarrativeSha256": "5e10a85447e66e581ae77dc6f464acb098815ed0526eecb4cdb50b0f4215131b"
+      },
+      {
+        "id": "followup-f2ed987d1b3a9a2cacf1",
+        "kind": "continuity",
+        "status": "open",
+        "summary": "沈砚秋与长老是否接受共同保管查证旧案记录、原件的安排，以及掌门之位暂由长老会代理后的实际运作，尚未交代。",
+        "evidence": "明天王二那边什么说法，得等陈老六问回来才知道。工钱有没有，石方多少，都是明天的事。眼下这间柴房、这张板床、这两顿饭，是你用一下午的斧头和井绳换来的，踏实。",
+        "entityIds": [],
+        "originParentId": "branch_e2b93d9e-afe5-4cf9-8c97-8902b7cf4560",
+        "originNarrativeSha256": "5e10a85447e66e581ae77dc6f464acb098815ed0526eecb4cdb50b0f4215131b",
+        "lastObservedNarrativeSha256": "23d9f6d8c29c9a522d7a1eedbda2710f70b6b7bf82d7748eabf8782623b5a5ee"
+      },
+      {
+        "id": "followup-6561b5a45818ee744080",
+        "kind": "continuity",
+        "status": "open",
+        "summary": "山门外要求说法的人群在叶青冥离开后如何反应、宗门如何回应，尚未交代。",
+        "evidence": "你走在石阶上，一级一级往下。身后祖师殿的方向早已看不见了，连山门飞檐的轮廓也被松林遮住。风从谷底往上涌，带着湿土和腐叶的气味，比殿里的香灰真实得多。石阶两侧的野草被踩得倒伏，有些地方长了青苔，脚底发滑。你走得不快，也不慢，像一个赶路的人，不像一个逃开的人。",
+        "entityIds": [],
+        "originParentId": "branch_e2b93d9e-afe5-4cf9-8c97-8902b7cf4560",
+        "originNarrativeSha256": "5e10a85447e66e581ae77dc6f464acb098815ed0526eecb4cdb50b0f4215131b",
+        "lastObservedNarrativeSha256": "bad9b162251c821080f13237fa28493c5a6954f4109adec5e1bb861abd4ffb69"
+      },
+      {
+        "id": "followup-49befc0d409b84e746a9",
+        "kind": "state_uncertain",
+        "status": "open",
+        "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。叶青冥沿山路下行进入山脚村镇，在陈记客栈干活后于灶间吃饭。",
+        "evidence": "。”\n\n“叶……”他念了一遍，没说什么，只把抹布往柜台上一搭，“柴房在左手边，铺盖自己拿。水缸满了叫我一声，我看看够不够。”\n\n你拿起斧头，往后院走。斧柄被前一个用的人磨得光滑，握在手里有些凉。后院的地面是夯实的泥地，两垛圆木靠在墙根，旁边散着几块劈好的柴，断面还是湿的。你把外衫脱了搭在柴垛上，抡起斧头。\n\n第一下劈下去，木头裂开的声音很闷，湿木比干木难劈得多。你调整了角度，第二下、第三下，木块终于顺着纹理裂成两半。斧头起落之间，汗水从额角滑下来，滴在泥地上，砸出一个个深色的小点。\n\n街上有小孩跑过，扒着后院的矮墙往里看，看了两眼又跑开了。陈老六在店里招呼客人，偶尔传来碗筷碰撞的声响。你劈完一垛，把柴块码到屋檐下通风的地方，又去街尾挑水。井绳勒进掌心，木桶沉下去，提上来，一趟又一趟。水缸从见底到半满，再到快溢出来。\n\n日头偏西的时候，你放下扁担，甩了甩发酸的手腕。陈老六从店里出来，掀开水缸盖子看了一眼，点了点头。\n\n“够了。”他说，“灶上给你留了饭，自己去盛。柴房我指给你。”\n\n你端着碗坐在灶间的小凳上，饭是糙米饭，菜是一碟腌萝卜和半碗炖豆腐。你吃得很慢，一口一口，尝得出豆腥味和盐粒。灶膛里的火还没熄，映在墙上，一跳一跳的。\n\n陈老六从门口探进半个身子：“明天要是还想干，镇西头王家的院墙塌了一角，缺人搬石头。我替你问一声，管两顿饭，住还是住我这儿，柴房不收你钱。”\n\n他等着你回话。",
+        "entityIds": [
+          "character_2cf2b083593b"
+        ],
+        "originParentId": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+        "originNarrativeSha256": "bad9b162251c821080f13237fa28493c5a6954f4109adec5e1bb861abd4ffb69"
+      },
+      {
+        "id": "followup-9ba196b3c4e5f54d94d7",
+        "kind": "state_uncertain",
+        "status": "open",
+        "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。叶青冥向陈老六表明按普通短工过去，不用替他多要。",
+        "evidence": "这几条一条条记进心里。\n\n“问得细。”他说，“行，明早我去镇西头，找王二问。领工的就是他，王家自己的院墙，他张罗的。工钱有没有、给多少，我当面问，回来告诉你。”\n\n“我按普通短工过去。”你说，“该怎么算怎么算，不用替我多要。”\n\n“这话我记下了。”陈老六点点头，把身子收回去，又想起什么似的补了一句，“灶间水缸边有块粗布，手要是磨破了，自己擦擦。柴房在左手边，铺盖在最里头那摞柴上，自己拿。”\n\n他走了，前堂传来他招呼客人的声音，碗筷又响起来。\n\n你端着空碗到水缸边，舀了一瓢水，先冲手。掌心那几处磨破的地方被水一激，火辣辣地疼。井绳勒出的红痕横在指根，有两处已经破了皮，渗着一点血丝。你用粗布蘸水，把泥和木屑一点点擦净，又按了按，血止住了，只是碰着还疼。布搭回缸沿，你把碗洗了，扣在灶台上。\n\n柴房里堆着半屋劈好的柴，靠墙一张窄板床，铺盖卷在最里头那摞柴上。你把它抱下来，抖开，一股干草和旧棉絮的味道。床板硬，铺盖薄，但比山路上任何一块石头都平整。你把外衫叠好垫在头下，躺下去，脊背贴着板子，能听见前堂隐约的人声和街上偶尔走过的脚步。\n\n掌心还在隐隐地跳。你把手摊开放在身侧，不去压它。\n\n明天王二那边什么说法，得等陈老六问回来才知道。工钱有没有，石方多少，都是明天的事。眼下这间柴房、这张板床、这两顿饭，是你用一下午的斧头和井绳换来的，踏实。\n\n你闭上眼。灶膛的余温隔着墙透过来一点，柴房里很静。",
+        "entityIds": [
+          "character_2cf2b083593b"
+        ],
+        "originParentId": "branch_0a360436-4470-4372-9634-371ad2ba7b1e",
+        "originNarrativeSha256": "23d9f6d8c29c9a522d7a1eedbda2710f70b6b7bf82d7748eabf8782623b5a5ee"
+      },
+      {
+        "id": "followup-e8bec505fcc677b42408",
+        "kind": "state_uncertain",
+        "status": "open",
+        "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。陈老六应下叶青冥的托问。",
+        "evidence": "这几条一条条记进心里。\n\n“问得细。”他说，“行，明早我去镇西头，找王二问。领工的就是他，王家自己的院墙，他张罗的。工钱有没有、给多少，我当面问，回来告诉你。”\n\n“我按普通短工过去。”你说，“该怎么算怎么算，不用替我多要。”\n\n“这话我记下了。”陈老六点点头，把身子收回去，又想起什么似的补了一句，“灶间水缸边有块粗布，手要是磨破了，自己擦擦。柴房在左手边，铺盖在最里头那摞柴上，自己拿。”\n\n他走了，前堂传来他招呼客人的声音，碗筷又响起来。\n\n你端着空碗到水缸边，舀了一瓢水，先冲手。掌心那几处磨破的地方被水一激，火辣辣地疼。井绳勒出的红痕横在指根，有两处已经破了皮，渗着一点血丝。你用粗布蘸水，把泥和木屑一点点擦净，又按了按，血止住了，只是碰着还疼。布搭回缸沿，你把碗洗了，扣在灶台上。\n\n柴房里堆着半屋劈好的柴，靠墙一张窄板床，铺盖卷在最里头那摞柴上。你把它抱下来，抖开，一股干草和旧棉絮的味道。床板硬，铺盖薄，但比山路上任何一块石头都平整。你把外衫叠好垫在头下，躺下去，脊背贴着板子，能听见前堂隐约的人声和街上偶尔走过的脚步。\n\n掌心还在隐隐地跳。你把手摊开放在身侧，不去压它。\n\n明天王二那边什么说法，得等陈老六问回来才知道。工钱有没有，石方多少，都是明天的事。眼下这间柴房、这张板床、这两顿饭，是你用一下午的斧头和井绳换来的，踏实。\n\n你闭上眼。灶膛的余温隔着墙透过来一点，柴房里很静。",
+        "entityIds": [
+          "character_chen_laoliu"
+        ],
+        "originParentId": "branch_0a360436-4470-4372-9634-371ad2ba7b1e",
+        "originNarrativeSha256": "23d9f6d8c29c9a522d7a1eedbda2710f70b6b7bf82d7748eabf8782623b5a5ee"
+      }
+    ],
+    "observationDiagnostics": [
+      {
+        "item": {
+          "entityId": "character_2cf2b083593b",
+          "entityName": "你",
+          "basis": "observed",
+          "attribute": "身份",
+          "value": "以普通短工身份落脚陈记客栈",
+          "reason": "叶青冥向陈老六表明按普通短工过去，不用替他多要。",
+          "paragraphIds": [
+            "P6"
+          ]
+        },
+        "reason": "状态依据含转述、设想或未核实信息，保留待澄清"
+      },
+      {
+        "item": {
+          "entityId": "character_chen_laoliu",
+          "entityName": "陈老六",
+          "basis": "observed",
+          "attribute": "承诺",
+          "value": "明早去镇西头找王二问清王家活计细节后回来告诉叶青冥",
+          "reason": "陈老六应下叶青冥的托问。",
+          "paragraphIds": [
+            "P5"
+          ]
+        },
+        "reason": "实际称呼没有绑定登记身份，不能补全近似姓名"
+      },
+      {
+        "reason": "待澄清事项更新须引用已有ID"
+      }
+    ],
+    "readingProfile": {
+      "level": "dynamic",
+      "targetCjk": [
+        420,
+        420
+      ],
+      "reason": "承接落脚第一日的收尾，落实道谢、托问、处理磨伤与休息，不拖成多回合琐事。",
+      "hardMinimum": false,
+      "minCjk": 80,
+      "maxCjk": 1500,
+      "lengthPolicy": "final_visible_prose_dynamic_80_1500",
+      "actualCjk": 604,
+      "expansionApplied": false
+    },
+    "proseQuality": {
+      "status": "not_automatically_reviewed",
+      "reviewer": "developer"
+    },
+    "storyJourney": {
+      "version": "story-journey/1",
+      "budget": {
+        "targetMinutes": 150,
+        "typicalMinutes": [
+          120,
+          180
+        ],
+        "targetCjk": 30000,
+        "typicalCjk": [
+          25000,
+          40000
+        ],
+        "targetTurns": 45,
+        "typicalTurns": [
+          40,
+          60
+        ]
+      },
+      "progress": {
+        "consumedCjk": 2886,
+        "completedTurns": 3,
+        "remainingCjk": 27114,
+        "remainingTurns": 42,
+        "suggestedPhase": "establish",
+        "pacing": "developing",
+        "plotCompletion": null
+      },
+      "plan": {
+        "premise": "叶青冥在众目之下卸下玄霄宗掌门之位，把旧案记录与原件交给沈砚秋和长老共同查证，独自下山做回普通人。他必须面对卸任后仍追随而来的责任、旧日决定的余波，以及一个不再有掌门身份可依的自己。",
+        "centralQuestion": "当一个人交出权位与档案、承认自己曾参与错误之后，他还能以什么身份承担过去、面对被牵连的人？",
+        "revisionReason": "玩家首次行动即放弃掌门身份与旧案主导权，转向卸任、交出记录、独自下山的新路线，原以掌门身份推进调查的计划不再适用。",
+        "phases": [
+          {
+            "id": "establish",
+            "title": "辞位与交档",
+            "purpose": "叶青冥当众宣布辞任、交出旧案记录，观察长老、沈砚秋与山门外来客的即时反应，决定交接是否被接受、以何种条件接受。",
+            "payoff": "确立卸任后的身份空缺与旧案归属，为下山后的追责与余波埋下依据。",
+            "targetEndCjk": 4500
+          },
+          {
+            "id": "develop",
+            "title": "下山之后",
+            "purpose": "叶青冥以普通人身份离开宗门，面对山门外等待说法的人群、旧日决定的受牵连者，以及不再有掌门权威可用的处境。",
+            "payoff": "让旧案与责任的后果从宗门内部扩散到更广的世界，检验卸任是否真能切断牵连。",
+            "targetEndCjk": 10500
+          },
+          {
+            "id": "turn",
+            "title": "旧账追来",
+            "purpose": "旧案查证出现新进展或有人直接找上叶青冥，逼他选择：继续置身事外，还是以普通人身份回应自己曾参与的错误。",
+            "payoff": "把核心问题从制度交接推向个人承担，为最终选择积累压力。",
+            "targetEndCjk": 18000
+          },
+          {
+            "id": "resolve",
+            "title": "以何身份承担",
+            "purpose": "叶青冥在无掌门身份的条件下作出关键选择，回应旧案、受牵连者与自身责任，兑现或放弃此前埋下的线索。",
+            "payoff": "完成对核心问题的回答，交代旧案与宗门新秩序的结果。",
+            "targetEndCjk": 25000
+          },
+          {
+            "id": "conclude",
+            "title": "余波与去处",
+            "purpose": "呈现辞任与交档的长期后果：宗门如何继续、旧案如何收束、叶青冥以何种身份留在世间。",
+            "payoff": "收束个人与宗门的双重线索，留下自然余韵。",
+            "targetEndCjk": 30000
+          }
+        ]
+      },
+      "planStatus": "provisional",
+      "revision": 1,
+      "review": {
+        "status": "recorded",
+        "decision": "keep",
+        "reason": "玩家继续以普通人身份在山脚村镇落脚，感谢陈老六并请其问清王家短工细节，与既有“下山之后”阶段一致，无需改道。",
+        "nextMilestone": "陈老六带回王家搬石头的具体条件，叶青冥处理磨伤并在柴房过夜，完成落脚第一日。"
+      },
+      "authority": "future_possibilities_not_facts",
+      "ending": null
+    },
+    "naturalEnding": false,
+    "selectedDirectionId": "direction_free_000fe374c795",
+    "selectedDirection": {
+      "id": "direction_free_000fe374c795",
+      "title": "自定行动：我感谢陈老六愿意介绍活计",
+      "summary": "我感谢陈老六愿意介绍活计，请他问清王家明天具体要搬多少石头、是否有工钱、谁负责领工，愿意按普通短工的身份过去。今晚先洗手处理磨伤，把柴房收拾好休息。",
+      "statePatch": {
+        "freeTextProgress": 3
+      },
+      "isFreeText": true
+    },
+    "playerDirection": "我感谢陈老六愿意介绍活计，请他问清王家明天具体要搬多少石头、是否有工钱、谁负责领工，愿意按普通短工的身份过去。今晚先洗手处理磨伤，把柴房收拾好休息。",
+    "requestId": "playthrough-30be2b8d32f6491db717975ff7e184c5",
+    "contextId": "ctx-bae8fde954e2bf69",
+    "readerChoices": [
+      {
+        "id": "reader-6dd1d30ebd749f0a",
+        "title": "趁早去镇西头找王二",
+        "summary": "我不等陈老六回来，天亮就自己往镇西头走，找王二当面问王家院墙的活。到了地方我先看院墙塌成什么样、要搬多少石头，再问工钱和领工的事。问明白之前我不应下开工。",
+        "evidence": [
+          "“问得细。”他说，“行，明早我去镇西头，找王二问。领工的就是他，王家自己的院墙，他张罗的。工钱有没有、给多少，我当面问，回来告诉你。”",
+          "明天王二那边什么说法，得等陈老六问回来才知道。工钱有没有，石方多少，都是明天的事。眼下这间柴房、这张板床、这两顿饭，是你用一下午的斧头和井绳换来的，踏实。"
+        ],
+        "dependencies": {
+          "version": "reader-choice-dependencies/3",
+          "contextDigest": "9c63ff33e31233bbecc5e2c8ec0faa53f7b1d4c09f812e1a389ac5ad3dd23492",
+          "paragraphIds": [
+            "P5",
+            "P12"
+          ],
+          "interactWith": [],
+          "mentionOnly": [
+            "character_chen_laoliu"
+          ]
+        }
+      }
+    ],
+    "turnInput": {
+      "text": "我感谢陈老六愿意介绍活计，请他问清王家明天具体要搬多少石头、是否有工钱、谁负责领工，愿意按普通短工的身份过去。今晚先洗手处理磨伤，把柴房收拾好休息。"
+    },
+    "preparedTurnKey": "bee851c686dc4a9405140c3fbcb26dff63c07eabc2f88ecb9b24e120ebd669a6",
+    "preparedAttemptId": "c57288d48e754bdab20ce0b9124ce039",
+    "routeOutline": {
+      "version": "route-outline/3",
+      "branch_id": "branch_c0c3e77b-836a-4baf-9bd5-5b1338d645d5",
+      "root_branch_id": "branch_e2b93d9e-afe5-4cf9-8c97-8902b7cf4560",
+      "binding_digest": "0ed93e9d1b52e191167c2d30b71d1765a36b12928fb8568f76cb25e1cbda81e2",
+      "structure": {
+        "volume": null,
+        "arc": "arc_source_chapter_050",
+        "beat": "beat_chapter_335",
+        "source_progress": "chapter_335"
+      },
+      "goals": [
+        {
+          "id": "opening-goal-1",
+          "title": "沈砚秋删去陆沉舟记录的责任",
+          "status": "transformed",
+          "evidence": {
+            "kind": "narrative",
+            "branch_id": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+            "ref": "opening-goal-1",
+            "quote": "“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。"
+          },
+          "priority": "unknown",
+          "recoveryWindow": "unknown",
+          "completion": {
+            "ledger": "goalLedger",
+            "target_id": "opening-goal-1",
+            "target_statuses": [
+              "completed"
+            ],
+            "met": false,
+            "requires_narrative_evidence": true
+          }
+        },
+        {
+          "id": "opening-goal-2",
+          "title": "玄霄宗是否承认旧档案的错误",
+          "status": "transformed",
+          "evidence": {
+            "kind": "narrative",
+            "branch_id": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+            "ref": "opening-goal-2",
+            "quote": "“我知道。”你看着他，“最初的残印、最早的天门记录、陆照临的名字，都曾从玄霄宗走出去。这些决定里有我一份。我不再以掌门身份查下去，是因为掌门这个位置本身，就是当年那些决定的一部分。”\n\n你转向沈砚秋。她抬着头，眼眶发红，却没有躲开你的目光。\n\n“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。\n\n“掌门之位空着，由长老会暂理宗门日常。”你继续说，“山门外的人要问什么，你们答什么。答不出的，就记下来，别再用一套统一档案把名字盖过去。”"
+          },
+          "priority": "unknown",
+          "recoveryWindow": "unknown",
+          "completion": {
+            "ledger": "goalLedger",
+            "target_id": "opening-goal-2",
+            "target_statuses": [
+              "completed"
+            ],
+            "met": false,
+            "requires_narrative_evidence": true
+          }
+        },
+        {
+          "id": "goal-5aebc94c06f7babf",
+          "title": "new-1",
+          "status": "active",
+          "evidence": {
+            "kind": "narrative",
+            "branch_id": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+            "ref": "goal-5aebc94c06f7babf",
+            "quote": "“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。"
+          },
+          "priority": "unknown",
+          "recoveryWindow": "unknown",
+          "completion": {
+            "ledger": "goalLedger",
+            "target_id": "goal-5aebc94c06f7babf",
+            "target_statuses": [
+              "completed"
+            ],
+            "met": false,
+            "requires_narrative_evidence": true
+          }
+        },
+        {
+          "id": "goal-26d4c7110d5c6dad",
+          "title": "new-2",
+          "status": "active",
+          "evidence": {
+            "kind": "narrative",
+            "branch_id": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+            "ref": "goal-26d4c7110d5c6dad",
+            "quote": "“我知道。”你看着他，“最初的残印、最早的天门记录、陆照临的名字，都曾从玄霄宗走出去。这些决定里有我一份。我不再以掌门身份查下去，是因为掌门这个位置本身，就是当年那些决定的一部分。”\n\n你转向沈砚秋。她抬着头，眼眶发红，却没有躲开你的目光。\n\n“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。\n\n“掌门之位空着，由长老会暂理宗门日常。”你继续说，“山门外的人要问什么，你们答什么。答不出的，就记下来，别再用一套统一档案把名字盖过去。”"
+          },
+          "priority": "unknown",
+          "recoveryWindow": "unknown",
+          "completion": {
+            "ledger": "goalLedger",
+            "target_id": "goal-26d4c7110d5c6dad",
+            "target_statuses": [
+              "completed"
+            ],
+            "met": false,
+            "requires_narrative_evidence": true
+          }
+        }
+      ],
+      "threads": [
+        {
+          "id": "opening-thread-1",
+          "title": "沈砚秋删去陆沉舟记录的责任",
+          "status": "open",
+          "evidence": {
+            "kind": "narrative",
+            "branch_id": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+            "ref": "opening-thread-1",
+            "quote": "“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。"
+          },
+          "priority": "high",
+          "recoveryWindow": "near",
+          "completion": {
+            "ledger": "threadLedger",
+            "target_id": "opening-thread-1",
+            "target_statuses": [
+              "resolved",
+              "abandoned"
+            ],
+            "met": false,
+            "requires_narrative_evidence": true
+          }
+        },
+        {
+          "id": "opening-thread-2",
+          "title": "玄霄宗是否承认旧档案的错误",
+          "status": "open",
+          "evidence": {
+            "kind": "narrative",
+            "branch_id": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+            "ref": "opening-thread-2",
+            "quote": "“我知道。”你看着他，“最初的残印、最早的天门记录、陆照临的名字，都曾从玄霄宗走出去。这些决定里有我一份。我不再以掌门身份查下去，是因为掌门这个位置本身，就是当年那些决定的一部分。”\n\n你转向沈砚秋。她抬着头，眼眶发红，却没有躲开你的目光。\n\n“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。\n\n“掌门之位空着，由长老会暂理宗门日常。”你继续说，“山门外的人要问什么，你们答什么。答不出的，就记下来，别再用一套统一档案把名字盖过去。”"
+          },
+          "priority": "high",
+          "recoveryWindow": "near",
+          "completion": {
+            "ledger": "threadLedger",
+            "target_id": "opening-thread-2",
+            "target_statuses": [
+              "resolved",
+              "abandoned"
+            ],
+            "met": false,
+            "requires_narrative_evidence": true
+          }
+        }
+      ],
+      "conflicts": [],
+      "steps": [
+        {
+          "id": "goal:goal-5aebc94c06f7babf",
+          "kind": "pursue_goal",
+          "target_id": "goal-5aebc94c06f7babf",
+          "title": "new-1",
+          "blockers": [],
+          "evidence": {
+            "kind": "narrative",
+            "branch_id": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+            "ref": "goal-5aebc94c06f7babf",
+            "quote": "“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。"
+          },
+          "priority": "unknown",
+          "recoveryWindow": "unknown",
+          "completion": {
+            "ledger": "goalLedger",
+            "target_id": "goal-5aebc94c06f7babf",
+            "target_statuses": [
+              "completed"
+            ],
+            "met": false,
+            "requires_narrative_evidence": true
+          }
+        },
+        {
+          "id": "goal:goal-26d4c7110d5c6dad",
+          "kind": "pursue_goal",
+          "target_id": "goal-26d4c7110d5c6dad",
+          "title": "new-2",
+          "blockers": [],
+          "evidence": {
+            "kind": "narrative",
+            "branch_id": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+            "ref": "goal-26d4c7110d5c6dad",
+            "quote": "“我知道。”你看着他，“最初的残印、最早的天门记录、陆照临的名字，都曾从玄霄宗走出去。这些决定里有我一份。我不再以掌门身份查下去，是因为掌门这个位置本身，就是当年那些决定的一部分。”\n\n你转向沈砚秋。她抬着头，眼眶发红，却没有躲开你的目光。\n\n“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。\n\n“掌门之位空着，由长老会暂理宗门日常。”你继续说，“山门外的人要问什么，你们答什么。答不出的，就记下来，别再用一套统一档案把名字盖过去。”"
+          },
+          "priority": "unknown",
+          "recoveryWindow": "unknown",
+          "completion": {
+            "ledger": "goalLedger",
+            "target_id": "goal-26d4c7110d5c6dad",
+            "target_statuses": [
+              "completed"
+            ],
+            "met": false,
+            "requires_narrative_evidence": true
+          }
+        },
+        {
+          "id": "thread:opening-thread-1",
+          "kind": "address_thread",
+          "target_id": "opening-thread-1",
+          "title": "沈砚秋删去陆沉舟记录的责任",
+          "blockers": [],
+          "evidence": {
+            "kind": "narrative",
+            "branch_id": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+            "ref": "opening-thread-1",
+            "quote": "“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。"
+          },
+          "priority": "high",
+          "recoveryWindow": "near",
+          "completion": {
+            "ledger": "threadLedger",
+            "target_id": "opening-thread-1",
+            "target_statuses": [
+              "resolved",
+              "abandoned"
+            ],
+            "met": false,
+            "requires_narrative_evidence": true
+          }
+        },
+        {
+          "id": "thread:opening-thread-2",
+          "kind": "address_thread",
+          "target_id": "opening-thread-2",
+          "title": "玄霄宗是否承认旧档案的错误",
+          "blockers": [],
+          "evidence": {
+            "kind": "narrative",
+            "branch_id": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+            "ref": "opening-thread-2",
+            "quote": "“我知道。”你看着他，“最初的残印、最早的天门记录、陆照临的名字，都曾从玄霄宗走出去。这些决定里有我一份。我不再以掌门身份查下去，是因为掌门这个位置本身，就是当年那些决定的一部分。”\n\n你转向沈砚秋。她抬着头，眼眶发红，却没有躲开你的目光。\n\n“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。\n\n“掌门之位空着，由长老会暂理宗门日常。”你继续说，“山门外的人要问什么，你们答什么。答不出的，就记下来，别再用一套统一档案把名字盖过去。”"
+          },
+          "priority": "high",
+          "recoveryWindow": "near",
+          "completion": {
+            "ledger": "threadLedger",
+            "target_id": "opening-thread-2",
+            "target_statuses": [
+              "resolved",
+              "abandoned"
+            ],
+            "met": false,
+            "requires_narrative_evidence": true
+          }
+        }
+      ]
+    }
+  },
+  "reason": "已登记为本回合自定义行动；状态变化由本地脚本控制。"
+}

@@ -150,6 +150,9 @@ def route_status(store, sid, nodes, package, terminal=None):
     ended = next((endings[n['id']] for n in nodes if n['id'] in endings), None)
     if ended:
         return ended
+    from .story_journey import enabled as journey_enabled
+    if journey_enabled(nodes[-1]):
+        return 'completed' if nodes[-1].get('naturalEnding') is True else 'active'
     if terminal is None:
         if api_routes.role_name(package, state):
             terminal = api_routes.completed_steps(state) == api_routes.STEPS
@@ -362,6 +365,12 @@ def journey(store, sid, bid, package):
     if source_progress is not None and not route_name and not rainy:
         progress = source_progress
     status = route_status(store, sid, nodes, package, terminal)
+    from .story_journey import enabled as journey_enabled, public_view as journey_length
+    if journey_enabled(current):
+        terminal = status == 'completed'
+        source_progress = None
+        checkpoints = [{'label': '走到这条路线的结局', 'complete': terminal}]
+        progress = 100 if terminal else None
     # Open-ended routes have no validated denominator yet. A single ending
     # checkpoint would misleadingly report 0% throughout a long adventure.
     measured_progress = rainy or bool(route_name) or source_progress is not None or terminal
@@ -404,6 +413,7 @@ def journey(store, sid, bid, package):
     threads, thread_coverage = ledger_records(lambda: threads_for(package, store.contract(sid), state), 'threadLedger')
     health = route_health(store, sid, nodes, package, status)
     return {'branch_id': bid, 'threads': threads, 'goals': goals,
+            'playthrough_length': journey_length(nodes),
             'ledger_coverage': {'goals': goal_coverage, 'threads': thread_coverage},
             'role_name': name, 'goal': goal_text or ( ROLE_GOALS.get(name, '探索这段故事，走到属于你的结局') if rainy else '探索这段故事，走到属于你的结局'),
             'progress': progress, 'progress_label': progress_label, 'choices_made': len(recap),

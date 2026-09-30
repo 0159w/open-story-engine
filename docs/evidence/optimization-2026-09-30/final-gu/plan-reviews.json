@@ -1,0 +1,141 @@
+[
+  {
+    "file": "result-000.json",
+    "revision": null,
+    "review": null,
+    "ending": null
+  },
+  {
+    "file": "result-001.json",
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "revise",
+      "reason": "玩家明确放弃试炼与金屑调查，转向退出宗门、独自下山谋生，旧计划中围绕试炼与金屑的推进路径失效，需重排阶段。",
+      "nextMilestone": "执事受理退试申请，说明手续与后果，顾长离交回木牌与纸包，试炼资格被取消，下山路径与青石镇方向得到确认。",
+      "planChanged": true
+    },
+    "ending": null
+  },
+  {
+    "file": "result-002.json",
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家沿官道赴青石镇、途中节省盘缠并找安全处歇脚、抵达后求职换食宿，与既有计划中“青石镇立足”阶段一致；不打听金屑旧事也与已放弃金屑调查的既成事实相符，无需改道。",
+      "nextMilestone": "顾长离走完官道进入青石镇，在镇上找到一家尚在营业的食铺，向店家问明做工换食宿的具体活计与工钱算法，得到店家当场答复。"
+    },
+    "ending": null
+  },
+  {
+    "file": "result-003.json",
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家仍在青石镇立足阶段，行动是向老陈澄清昨日问工钱的本意并重新谈条件，与既有计划一致，无需改道。",
+      "nextMilestone": "老陈对工钱与管饭条件给出明确答复，顾长离得到一份可执行或需另寻的雇佣结果。"
+    },
+    "ending": null
+  },
+  {
+    "file": "result-004.json",
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家决定付清两文、离开陈记面铺去镇东码头找短工，与既有计划中“青石镇立足、以何种方式谋生”的develop阶段一致，不构成改道。退试后果与金屑旧事仍作为后续可能保留，不强迫玩家回头调查。",
+      "nextMilestone": "顾长离付清住宿、收拾行李、向老陈与妇人道谢后离店，抵达镇东码头找到领工，问清工钱、结算方式、午饭与搬运量，并据条件决定是否试做一天。"
+    },
+    "ending": null
+  },
+  {
+    "file": "result-005.json",
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家延续下山谋生路线：收工钱、答应继续做工、找通铺安顿，与develop阶段“青石镇立足”一致，无需改道。",
+      "nextMilestone": "顾长离落实明日码头做工，并在镇上找到可洗漱、无额外费用的通铺住下，建立稳定落脚点。"
+    },
+    "ending": null
+  },
+  {
+    "file": "result-006.json",
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家继续在青石镇码头做工谋生，与既有develop阶段「青石镇立足」一致；本回合新增的是对货物与跳板安全的主动检查、以及拒绝为未检查货物担责的立场，属于谋生方式内的具体行动，不改变路线。",
+      "nextMilestone": "顾长离次日按时上工，检查跳板与货物后开始卸粮；若出现责任推诿，他当面把问题说清，得到老周或相关人的当场回应，并完成当日八文工钱结算。"
+    },
+    "ending": null
+  },
+  {
+    "file": "result-007.json",
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家延续青石镇立足阶段：继续码头做工、关注安全与交接记录、仍住通铺。与既有计划一致，无需改道。",
+      "nextMilestone": "老周对换跳板与协助记录受潮粮包给出明确答复，顾长离据此决定明天上工方式，并回通铺付三文住下。"
+    },
+    "ending": null
+  },
+  {
+    "file": "result-008.json",
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家继续在码头做工并推进受潮粮交接，与“青石镇立足”阶段一致；本次行动落实跳板与粮包两条待办，不改变既有路线。",
+      "nextMilestone": "确认跳板是否已换，并与老赵逐包点清受潮粮、完成交接记录。"
+    },
+    "ending": null
+  },
+  {
+    "file": "result-009.json",
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家仍在青石镇码头谋生线内，主动补正受潮粮记录的来源标注，属于既有「受潮粮交接记录是否被老周认可」问题的自然推进，不改变原计划方向。",
+      "nextMilestone": "老周对来源标注作出实际回应：是否同意在底单旁注明「位置与潮湿为顾长离亲见、船底位置与经手人为老赵转述」，并说明粮行核账时如何采信。"
+    },
+    "ending": null
+  },
+  {
+    "file": "result-010.json",
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家行动仍在“青石镇立足”阶段内：以码头短工身份推进受潮粮交接，检验记录效力，符合既有计划与已铺垫的粮行对账线索。无需改道。",
+      "nextMilestone": "粮行来人到场，顾长离当面逐包点验七包受潮粮，老周摊开底单，粮行给出接收或异议的明确结果。"
+    },
+    "ending": null
+  },
+  {
+    "file": "result-011.json",
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家继续在青石镇码头谋生，与既有计划「青石镇立足」阶段一致；本次行动是接过按印底单并问清核账工钱、结算与兼做点货记录的职责报酬，属于立足阶段的自然推进，不改变原路径。",
+      "nextMilestone": "老周就核账是否算工、何时结算、能否兼做点货记录给出明确答复，顾长离得到一份可预期的码头活计安排。"
+    },
+    "ending": null
+  },
+  {
+    "file": "result-012.json",
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家继续在码头谋生，只拒接记数抽成差事、要求结清卸货与核账工钱，与既有“青石镇立足”阶段一致，无需改道。",
+      "nextMilestone": "顾长离当面回绝记数差事，次日正常卸货，收工时与老周核对并领到八文加四文共十二文。"
+    },
+    "ending": null
+  }
+]

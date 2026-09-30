@@ -1,0 +1,54 @@
+[
+  {
+    "file": "result-000.json",
+    "revision": null,
+    "review": null,
+    "ending": null
+  },
+  {
+    "file": "result-001.json",
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "本次行动是开局阶段自然的关系推进与试炼准备，与既有目标（查明金屑、完成试炼）一致，未放弃或改道。",
+      "nextMilestone": "陆照临给出是否同行的答复，并透露一点自身来历或对木牌的看法；钟声响起，试炼正式开始。",
+      "planChanged": true
+    },
+    "ending": null
+  },
+  {
+    "file": "result-002.json",
+    "revision": 2,
+    "review": {
+      "status": "recorded",
+      "decision": "revise",
+      "reason": "玩家明确放弃试炼与金屑调查，转向退出试炼、下山谋生，旧计划围绕试炼与金屑展开已失效，须重排为退出与谋生路线。",
+      "nextMilestone": "顾长离当场向陆照临说明退出，回到场边向执事交还木牌与纸包，得到退出手续的即时回应与后果说明。",
+      "planChanged": true
+    },
+    "ending": null
+  },
+  {
+    "file": "result-003.json",
+    "revision": 2,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家行动与既有计划一致：承接下山后进入青石镇谋生，属于develop阶段“下山的路/立足起点”。未改道，无需重排。",
+      "nextMilestone": "顾长离进入青石镇，找到一家营业的客栈或食铺，向店主问清今日活计与结算方式，得到具体条件或拒绝。"
+    },
+    "ending": null
+  },
+  {
+    "file": "result-004.json",
+    "revision": 2,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家继续在青石镇食铺做工谋生，与既有计划“下山立足”一致；本回合推进当日活计与工钱核对，未改道。",
+      "nextMilestone": "顾长离完成午市擦桌端碗，收工后与周婶核对当日活计与应记工钱，确立第一天的雇佣关系与工钱账目。"
+    },
+    "ending": null
+  }
+]

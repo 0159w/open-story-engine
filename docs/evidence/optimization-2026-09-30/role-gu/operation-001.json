@@ -1,0 +1,1344 @@
+[
+  {
+    "event": "delta",
+    "data": {
+      "text": "你把木牌翻过来，指尖点在背面那道刻痕上。黑泥嵌得很深，若不是凑近了看，谁也瞧不出里面还夹着一点金屑——你刮下一粒时，指甲缝里还留着那点细亮的痕迹。\n\n“你看这里。”你把木牌递到陆照临面前，没有"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "绕弯子，“刻痕里的泥不干净，混着金屑。我刮了一粒下来，包在纸里。”\n\n陆照临没有立刻接木牌，先低头看了两眼，才伸手托住牌角。他翻到背面，又翻回正面，拇指在“青露草”三个字上蹭了一下，像在确认什"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "么。\n\n“金屑。”他重复了一遍，声音不高，“刻规矩的人，手上不会有金粉。”\n\n这话说得轻，却把你也想到的那层意思挑明了。你没接话，只把袖中那枚纸包取出来，当着他的面折了两折，塞进贴身的衣袋里。"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "纸很薄，隔着布料几乎感觉不到，但你知道它在。\n\n“试炼钟快响了。”你收回木牌，看着他，“后坡药圃，日落前取青露草。我不越白线，不争抢，不伤人——你若愿意，同行。”\n\n陆照临沉默了片刻。场边又有"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "两名弟子从你们身侧经过，脚步匆匆，谁也没往这边多看一眼。他这才开口，语气比方才松了些：“我本来也是一个人。同行可以，但丑话说前头——我取草是为了过试炼，不是为了查金屑。你若半路要往白线边上凑，"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "我不拦你，也不陪你。”\n\n“不必你陪。”你说。\n\n他点了下头，算是应了。没有击掌，也没有多余的客套，只是往石径那边挪了半步，把靠外的一侧让给你。这个动作很小，你却看得明白——他站到了临崖的那边"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "。\n\n钟声就在这时响了。\n\n第一声撞在石壁上，余音还没散，第二声已经追上来。场边的执事抬起手，朝后坡方向一挥，人群便像被风吹开的草籽一样散出去。你和陆照临几乎同时迈步，沿着石径往后坡走。药圃的"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "竹篱已经在望，篱外一条白线横在草叶间，被晨露浸得发亮。\n\n陆照临走在你左前方半步远的地方，没再提金屑的事。你也没提。纸包贴着你的衣袋，随着脚步轻轻晃动，像一粒还没落定的尘。"
+    }
+  },
+  {
+    "event": "done",
+    "data": {
+      "status": "written",
+      "request_id": "playthrough-9ae1ab4e15f94ae39e37debf29c24fc4",
+      "deduplicated": false,
+      "branch": {
+        "id": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+        "sessionId": "a9e65451-253e-53ef-81ce-e8f923ccc3bc",
+        "sequence": 1,
+        "parentId": "branch_ecb1fbac-8dfc-4368-970e-af37f2ca5b7c",
+        "kind": "generated",
+        "sourceNodeRef": "node_source_continuity",
+        "narrativeText": "你把木牌翻过来，指尖点在背面那道刻痕上。黑泥嵌得很深，若不是凑近了看，谁也瞧不出里面还夹着一点金屑——你刮下一粒时，指甲缝里还留着那点细亮的痕迹。\n\n“你看这里。”你把木牌递到陆照临面前，没有绕弯子，“刻痕里的泥不干净，混着金屑。我刮了一粒下来，包在纸里。”\n\n陆照临没有立刻接木牌，先低头看了两眼，才伸手托住牌角。他翻到背面，又翻回正面，拇指在“青露草”三个字上蹭了一下，像在确认什么。\n\n“金屑。”他重复了一遍，声音不高，“刻规矩的人，手上不会有金粉。”\n\n这话说得轻，却把你也想到的那层意思挑明了。你没接话，只把袖中那枚纸包取出来，当着他的面折了两折，塞进贴身的衣袋里。纸很薄，隔着布料几乎感觉不到，但你知道它在。\n\n“试炼钟快响了。”你收回木牌，看着他，“后坡药圃，日落前取青露草。我不越白线，不争抢，不伤人——你若愿意，同行。”\n\n陆照临沉默了片刻。场边又有两名弟子从你们身侧经过，脚步匆匆，谁也没往这边多看一眼。他这才开口，语气比方才松了些：“我本来也是一个人。同行可以，但丑话说前头——我取草是为了过试炼，不是为了查金屑。你若半路要往白线边上凑，我不拦你，也不陪你。”\n\n“不必你陪。”你说。\n\n他点了下头，算是应了。没有击掌，也没有多余的客套，只是往石径那边挪了半步，把靠外的一侧让给你。这个动作很小，你却看得明白——他站到了临崖的那边。\n\n钟声就在这时响了。\n\n第一声撞在石壁上，余音还没散，第二声已经追上来。场边的执事抬起手，朝后坡方向一挥，人群便像被风吹开的草籽一样散出去。你和陆照临几乎同时迈步，沿着石径往后坡走。药圃的竹篱已经在望，篱外一条白线横在草叶间，被晨露浸得发亮。\n\n陆照临走在你左前方半步远的地方，没再提金屑的事。你也没提。纸包贴着你的衣袋，随着脚步轻轻晃动，像一粒还没落定的尘。",
+        "summary": "顾长离把木牌刻痕里的金屑指给陆照临看，并说明自己刮下一粒包在纸里。陆照临看过木牌后说刻规矩的人手上不会有金粉。顾长离将纸包折好收进贴身衣袋，提出同行条件：不越白线、不争抢、不伤人。陆照临答应同行，但声明自己只为过试炼，不会陪她查金屑、也不陪她靠近白线。钟声响起，执事挥手放行，两人沿石径往后坡药圃走去，白线已在望。",
+        "branchState": {
+          "playerLocationId": "location_stone_path",
+          "playerCharacterId": "character_e663361ab1c7",
+          "characterLocationIds": {
+            "character_e663361ab1c7": "location_stone_path",
+            "character_ae4cb42b9b49": "location_open_trial",
+            "character_lu_zhaolin": "location_stone_path"
+          },
+          "branchLedger": {
+            "schemaVersion": "branch-state-ledger/0.1",
+            "entries": [
+              {
+                "id": "ledger_000001_f0c32308e3ea",
+                "sequence": 1,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:freeTextProgress",
+                "summary": "运行时状态字段“freeTextProgress”已由受控方向更新。",
+                "before": 0,
+                "after": 1,
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "direction_free_0aa1427d2616",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000002_3896db5db3fa",
+                "sequence": 2,
+                "kind": "location",
+                "operation": "added",
+                "entityId": "location_stone_path",
+                "summary": "半山试炼场通往坡后药圃的石路，钟响后顾长离与陆照临沿此路往后坡走。",
+                "before": null,
+                "after": {
+                  "id": "location_stone_path",
+                  "name": "石径",
+                  "summary": "半山试炼场通往坡后药圃的石路，钟响后顾长离与陆照临沿此路往后坡走。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000003_3c5e38850cc4",
+                "sequence": 3,
+                "kind": "character",
+                "operation": "added",
+                "entityId": "character_lu_zhaolin",
+                "summary": "与顾长离互通姓名的年轻弟子，答应在不越白线、不争抢、不伤人的前提下同行参加试炼，但明确表示只为过试炼，不参与查金屑。",
+                "before": null,
+                "after": {
+                  "id": "character_lu_zhaolin",
+                  "name": "陆照临",
+                  "summary": "与顾长离互通姓名的年轻弟子，答应在不越白线、不争抢、不伤人的前提下同行参加试炼，但明确表示只为过试炼，不参与查金屑。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000004_193324036754",
+                "sequence": 4,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:goalLedger",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": null,
+                "after": [
+                  {
+                    "id": "opening-goal-1",
+                    "title": "木牌刻痕里为何有金屑",
+                    "status": "active",
+                    "characterId": "character_e663361ab1c7",
+                    "dependencies": [],
+                    "source": "player_branch",
+                    "evidence": "“你看这里。”你把木牌递到陆照临面前，没有绕弯子，“刻痕里的泥不干净，混着金屑。我刮了一粒下来，包在纸里。”\n\n陆照临没有立刻接木牌，先低头看了两眼，才伸手托住牌角。他翻到背面，又翻回正面，拇指在“青露草”三个字上蹭了一下，像在确认什么。\n\n“金屑。”他重复了一遍，声音不高，“刻规矩的人，手上不会有金粉。”",
+                    "causeBranchId": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+                    "reason": "顾长离已把金屑疑点告知陆照临，但金屑来源仍未查明。",
+                    "successor": ""
+                  },
+                  {
+                    "id": "opening-goal-2",
+                    "title": "如何完成第一场外门试炼",
+                    "status": "active",
+                    "characterId": "character_e663361ab1c7",
+                    "dependencies": [],
+                    "source": "player_branch",
+                    "evidence": "钟声就在这时响了。\n\n第一声撞在石壁上，余音还没散，第二声已经追上来。场边的执事抬起手，朝后坡方向一挥，人群便像被风吹开的草籽一样散出去。你和陆照临几乎同时迈步，沿着石径往后坡走。药圃的竹篱已经在望，篱外一条白线横在草叶间，被晨露浸得发亮。",
+                    "causeBranchId": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+                    "reason": "钟声已响，试炼正式开始，顾长离与陆照临沿石径往后坡药圃走。",
+                    "successor": ""
+                  }
+                ],
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000005_cb4a93a04e3c",
+                "sequence": 5,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:threadLedger",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": [
+                  {
+                    "id": "opening-thread-1",
+                    "title": "木牌刻痕里为何有金屑",
+                    "status": "open",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": null,
+                    "reason": "",
+                    "evidence": "",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "id": "opening-thread-2",
+                    "title": "如何完成第一场外门试炼",
+                    "status": "open",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": null,
+                    "reason": "",
+                    "evidence": "",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  }
+                ],
+                "after": [
+                  {
+                    "id": "opening-thread-1",
+                    "title": "木牌刻痕里为何有金屑",
+                    "status": "open",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+                    "reason": "顾长离已向陆照临说明金屑疑点，陆照临认为刻规矩的人手上不会有金粉，但来源仍未查明。",
+                    "evidence": "“你看这里。”你把木牌递到陆照临面前，没有绕弯子，“刻痕里的泥不干净，混着金屑。我刮了一粒下来，包在纸里。”\n\n陆照临没有立刻接木牌，先低头看了两眼，才伸手托住牌角。他翻到背面，又翻回正面，拇指在“青露草”三个字上蹭了一下，像在确认什么。\n\n“金屑。”他重复了一遍，声音不高，“刻规矩的人，手上不会有金粉。”",
+                    "priority": "normal",
+                    "recoveryWindow": "mid"
+                  },
+                  {
+                    "id": "opening-thread-2",
+                    "title": "如何完成第一场外门试炼",
+                    "status": "open",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+                    "reason": "钟声已响，试炼正式开始，顾长离与陆照临正沿石径往后坡药圃走。",
+                    "evidence": "钟声就在这时响了。\n\n第一声撞在石壁上，余音还没散，第二声已经追上来。场边的执事抬起手，朝后坡方向一挥，人群便像被风吹开的草籽一样散出去。你和陆照临几乎同时迈步，沿着石径往后坡走。药圃的竹篱已经在望，篱外一条白线横在草叶间，被晨露浸得发亮。",
+                    "priority": "high",
+                    "recoveryWindow": "immediate"
+                  }
+                ],
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000006_c0bca3f9120a",
+                "sequence": 6,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:readerEntityStates",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": null,
+                "after": {
+                  "character_lu_zhaolin": {
+                    "knownGoldFlake": true,
+                    "companionAgreement": "同行但不参与查金屑、不靠近白线"
+                  },
+                  "character_e663361ab1c7": {
+                    "goldPaperStowed": true
+                  }
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000007_182de0d27944",
+                "sequence": 7,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:characterLocationIds",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": {
+                  "character_e663361ab1c7": "location_open_trial",
+                  "character_ae4cb42b9b49": "location_open_trial"
+                },
+                "after": {
+                  "character_e663361ab1c7": "location_stone_path",
+                  "character_ae4cb42b9b49": "location_open_trial",
+                  "character_lu_zhaolin": "location_stone_path"
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000008_aa0f27fb2eec",
+                "sequence": 8,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:playerLocationId",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": "location_open_trial",
+                "after": "location_stone_path",
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+                  "nodeRef": "node_source_continuity"
+                }
+              }
+            ]
+          },
+          "sourceProgress": "chapter_011",
+          "freeTextProgress": 1,
+          "storyScope": "source",
+          "derivativeStage": "inactive",
+          "derivedTurn": 0,
+          "derivedLocations": [
+            {
+              "id": "location_stone_path",
+              "name": "石径",
+              "summary": "半山试炼场通往坡后药圃的石路，钟响后顾长离与陆照临沿此路往后坡走。"
+            }
+          ],
+          "derivedCharacters": [
+            {
+              "id": "character_lu_zhaolin",
+              "name": "陆照临",
+              "summary": "与顾长离互通姓名的年轻弟子，答应在不越白线、不争抢、不伤人的前提下同行参加试炼，但明确表示只为过试炼，不参与查金屑。"
+            }
+          ],
+          "derivedItems": [],
+          "derivedCharacterReveals": [],
+          "derivedRelationships": [],
+          "derivedClues": [],
+          "derivedEvents": [],
+          "itemOwnerCharacterIds": {
+            "item_open_gu_token": "character_e663361ab1c7",
+            "item_open_gold_paper": "character_e663361ab1c7"
+          },
+          "itemLocationIds": {},
+          "characterOutcomeStates": {},
+          "threadLedger": [
+            {
+              "id": "opening-thread-1",
+              "title": "木牌刻痕里为何有金屑",
+              "status": "open",
+              "source": "opening",
+              "openedBranchId": null,
+              "causeBranchId": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+              "reason": "顾长离已向陆照临说明金屑疑点，陆照临认为刻规矩的人手上不会有金粉，但来源仍未查明。",
+              "evidence": "“你看这里。”你把木牌递到陆照临面前，没有绕弯子，“刻痕里的泥不干净，混着金屑。我刮了一粒下来，包在纸里。”\n\n陆照临没有立刻接木牌，先低头看了两眼，才伸手托住牌角。他翻到背面，又翻回正面，拇指在“青露草”三个字上蹭了一下，像在确认什么。\n\n“金屑。”他重复了一遍，声音不高，“刻规矩的人，手上不会有金粉。”",
+              "priority": "normal",
+              "recoveryWindow": "mid"
+            },
+            {
+              "id": "opening-thread-2",
+              "title": "如何完成第一场外门试炼",
+              "status": "open",
+              "source": "opening",
+              "openedBranchId": null,
+              "causeBranchId": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+              "reason": "钟声已响，试炼正式开始，顾长离与陆照临正沿石径往后坡药圃走。",
+              "evidence": "钟声就在这时响了。\n\n第一声撞在石壁上，余音还没散，第二声已经追上来。场边的执事抬起手，朝后坡方向一挥，人群便像被风吹开的草籽一样散出去。你和陆照临几乎同时迈步，沿着石径往后坡走。药圃的竹篱已经在望，篱外一条白线横在草叶间，被晨露浸得发亮。",
+              "priority": "high",
+              "recoveryWindow": "immediate"
+            }
+          ],
+          "readerEntityStates": {
+            "character_lu_zhaolin": {
+              "knownGoldFlake": true,
+              "companionAgreement": "同行但不参与查金屑、不靠近白线"
+            },
+            "character_e663361ab1c7": {
+              "goldPaperStowed": true
+            }
+          },
+          "goalLedger": [
+            {
+              "id": "opening-goal-1",
+              "title": "木牌刻痕里为何有金屑",
+              "status": "active",
+              "characterId": "character_e663361ab1c7",
+              "dependencies": [],
+              "source": "player_branch",
+              "evidence": "“你看这里。”你把木牌递到陆照临面前，没有绕弯子，“刻痕里的泥不干净，混着金屑。我刮了一粒下来，包在纸里。”\n\n陆照临没有立刻接木牌，先低头看了两眼，才伸手托住牌角。他翻到背面，又翻回正面，拇指在“青露草”三个字上蹭了一下，像在确认什么。\n\n“金屑。”他重复了一遍，声音不高，“刻规矩的人，手上不会有金粉。”",
+              "causeBranchId": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+              "reason": "顾长离已把金屑疑点告知陆照临，但金屑来源仍未查明。",
+              "successor": ""
+            },
+            {
+              "id": "opening-goal-2",
+              "title": "如何完成第一场外门试炼",
+              "status": "active",
+              "characterId": "character_e663361ab1c7",
+              "dependencies": [],
+              "source": "player_branch",
+              "evidence": "钟声就在这时响了。\n\n第一声撞在石壁上，余音还没散，第二声已经追上来。场边的执事抬起手，朝后坡方向一挥，人群便像被风吹开的草籽一样散出去。你和陆照临几乎同时迈步，沿着石径往后坡走。药圃的竹篱已经在望，篱外一条白线横在草叶间，被晨露浸得发亮。",
+              "causeBranchId": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+              "reason": "钟声已响，试炼正式开始，顾长离与陆照临沿石径往后坡药圃走。",
+              "successor": ""
+            }
+          ]
+        },
+        "nextDirections": [
+          {
+            "id": "goal-direction-opening-goal-1-2",
+            "title": "推进目标：木牌刻痕里为何有金屑",
+            "summary": "围绕“木牌刻痕里为何有金屑”，依据眼前条件采取下一步行动，不恢复已放下的目标。",
+            "statePatch": {
+              "freeTextProgress": 2
+            },
+            "isFreeText": true
+          },
+          {
+            "id": "goal-direction-opening-goal-2-2",
+            "title": "推进目标：如何完成第一场外门试炼",
+            "summary": "围绕“如何完成第一场外门试炼”，依据眼前条件采取下一步行动，不恢复已放下的目标。",
+            "statePatch": {
+              "freeTextProgress": 2
+            },
+            "isFreeText": true
+          }
+        ],
+        "openThreads": [
+          "木牌刻痕里为何有金屑",
+          "如何完成第一场外门试炼",
+          "尚未完成的当前目标"
+        ],
+        "createdAt": "2026-09-30T01:20:41.135Z",
+        "canonicalRelation": "diverged",
+        "factDeltas": [],
+        "storyArc": {
+          "activeGoal": "自定行动：我向陆照临说明木牌上的疑",
+          "currentPhase": "自定行动：我向陆照临说明木牌上的疑",
+          "goalDisposition": "continued",
+          "chapter": {
+            "title": "《太虚遗录》·共创篇",
+            "status": "continuing"
+          }
+        },
+        "planning": {
+          "citations": [
+            {
+              "kind": "branch_node",
+              "ref": "branch_ecb1fbac-8dfc-4368-970e-af37f2ca5b7c",
+              "rationale": "承接已确认的上一节点。"
+            }
+          ],
+          "confidence": "medium",
+          "stateChangeProposals": []
+        },
+        "branchAdditions": {
+          "locations": [],
+          "characters": [],
+          "items": [],
+          "relationships": [],
+          "clues": [],
+          "events": [],
+          "characterReveals": [],
+          "changes": []
+        },
+        "consequenceUpdate": {
+          "decision": "ready",
+          "message": "",
+          "requirements": {
+            "A1": {
+              "mode": "attempt",
+              "summary": "我向陆照临说明木牌上的疑点，把纸包收好，问他愿不愿意在不越过白线、不争抢伤人的前提下同行参加试炼；听取他的答复，再一起等钟响。"
+            }
+          },
+          "method": "只登记正文已发生的结果",
+          "steps": [
+            {
+              "id": "S1",
+              "actorId": "character_e663361ab1c7",
+              "action": "我向陆照临说明木牌上的疑点，把纸包收好，问他愿不愿意在不越过白线、不争抢伤人的前提下同行参加试炼；听取他的答复，再一起等钟响。",
+              "requirementIds": [
+                "A1"
+              ],
+              "authority": "player",
+              "causeStepId": null,
+              "usedItemIds": []
+            }
+          ],
+          "introductions": {
+            "characters": [
+              {
+                "id": "character_lu_zhaolin",
+                "name": "陆照临",
+                "summary": "与顾长离互通姓名的年轻弟子，答应在不越白线、不争抢、不伤人的前提下同行参加试炼，但明确表示只为过试炼，不参与查金屑。",
+                "sourceStepId": "S1",
+                "evidence": "陆照临没有立刻接木牌，先低头看了两眼，才伸手托住牌角。他翻到背面，又翻回正面，拇指在“青露草”三个字上蹭了一下，像在确认什么。\n\n“金屑。”他重复了一遍，声音不高，“刻规矩的人，手上不会有金粉。”\n\n这话说得轻，却把你也想到的那层意思挑明了。你没接话，只把袖中那枚纸包取出来，当着他的面折了两折，塞进贴身的衣袋里。纸很薄，隔着布料几乎感觉不到，但你知道它在。\n\n“试炼钟快响了。”你收回木牌，看着他，“后坡药圃，日落前取青露草。我不越白线，不争抢，不伤人——你若愿意，同行。”\n\n陆照临沉默了片刻。场边又有两名弟子从你们身侧经过，脚步匆匆，谁也没往这边多看一眼。他这才开口，语气比方才松了些：“我本来也是一个人。同行可以，但丑话说前头——我取草是为了过试炼，不是为了查金屑。你若半路要往白线边上凑，我不拦你，也不陪你。”"
+              }
+            ],
+            "items": [],
+            "locations": [
+              {
+                "id": "location_stone_path",
+                "name": "石径",
+                "summary": "半山试炼场通往坡后药圃的石路，钟响后顾长离与陆照临沿此路往后坡走。",
+                "sourceStepId": "S1",
+                "evidence": "第一声撞在石壁上，余音还没散，第二声已经追上来。场边的执事抬起手，朝后坡方向一挥，人群便像被风吹开的草籽一样散出去。你和陆照临几乎同时迈步，沿着石径往后坡走。药圃的竹篱已经在望，篱外一条白线横在草叶间，被晨露浸得发亮。"
+              }
+            ]
+          },
+          "stateChanges": [
+            {
+              "id": "C1",
+              "entityId": "character_e663361ab1c7",
+              "attribute": "locationId",
+              "before": "location_open_trial",
+              "value": "location_stone_path",
+              "stepId": "S1",
+              "reason": "本回合当前场所原文确认",
+              "evidence": "你和陆照临几乎同时迈步，沿着石径往后坡走。"
+            },
+            {
+              "id": "C2",
+              "entityId": "character_lu_zhaolin",
+              "attribute": "locationId",
+              "before": null,
+              "value": "location_stone_path",
+              "stepId": "S1",
+              "reason": "本回合当前场所原文确认",
+              "evidence": "你和陆照临几乎同时迈步，沿着石径往后坡走。"
+            },
+            {
+              "id": "C3",
+              "entityId": "character_lu_zhaolin",
+              "attribute": "knownGoldFlake",
+              "before": null,
+              "value": true,
+              "stepId": "S1",
+              "reason": "顾长离主动把木牌刻痕里的金屑指给陆照临看并说明自己刮下一粒包好。",
+              "evidence": "“你看这里。”你把木牌递到陆照临面前，没有绕弯子，“刻痕里的泥不干净，混着金屑。我刮了一粒下来，包在纸里。”\n\n陆照临没有立刻接木牌，先低头看了两眼，才伸手托住牌角。他翻到背面，又翻回正面，拇指在“青露草”三个字上蹭了一下，像在确认什么。"
+            },
+            {
+              "id": "C4",
+              "entityId": "character_e663361ab1c7",
+              "attribute": "goldPaperStowed",
+              "before": null,
+              "value": true,
+              "stepId": "S1",
+              "reason": "顾长离将包金屑的纸片折好收进贴身衣袋。",
+              "evidence": "这话说得轻，却把你也想到的那层意思挑明了。你没接话，只把袖中那枚纸包取出来，当着他的面折了两折，塞进贴身的衣袋里。纸很薄，隔着布料几乎感觉不到，但你知道它在。"
+            },
+            {
+              "id": "C5",
+              "entityId": "character_lu_zhaolin",
+              "attribute": "companionAgreement",
+              "before": null,
+              "value": "同行但不参与查金屑、不靠近白线",
+              "stepId": "S1",
+              "reason": "陆照临答应同行，但声明只为过试炼，不会陪顾长离查金屑或往白线边上凑。",
+              "evidence": "陆照临沉默了片刻。场边又有两名弟子从你们身侧经过，脚步匆匆，谁也没往这边多看一眼。他这才开口，语气比方才松了些：“我本来也是一个人。同行可以，但丑话说前头——我取草是为了过试炼，不是为了查金屑。你若半路要往白线边上凑，我不拦你，也不陪你。”"
+            }
+          ],
+          "outcomes": [],
+          "goalUpdates": [
+            {
+              "id": "opening-goal-1",
+              "title": "木牌刻痕里为何有金屑",
+              "status": "active",
+              "dependencies": [],
+              "reason": "顾长离已把金屑疑点告知陆照临，但金屑来源仍未查明。",
+              "evidence": "“你看这里。”你把木牌递到陆照临面前，没有绕弯子，“刻痕里的泥不干净，混着金屑。我刮了一粒下来，包在纸里。”\n\n陆照临没有立刻接木牌，先低头看了两眼，才伸手托住牌角。他翻到背面，又翻回正面，拇指在“青露草”三个字上蹭了一下，像在确认什么。\n\n“金屑。”他重复了一遍，声音不高，“刻规矩的人，手上不会有金粉。”",
+              "successor": ""
+            },
+            {
+              "id": "opening-goal-2",
+              "title": "如何完成第一场外门试炼",
+              "status": "active",
+              "dependencies": [],
+              "reason": "钟声已响，试炼正式开始，顾长离与陆照临沿石径往后坡药圃走。",
+              "evidence": "钟声就在这时响了。\n\n第一声撞在石壁上，余音还没散，第二声已经追上来。场边的执事抬起手，朝后坡方向一挥，人群便像被风吹开的草籽一样散出去。你和陆照临几乎同时迈步，沿着石径往后坡走。药圃的竹篱已经在望，篱外一条白线横在草叶间，被晨露浸得发亮。",
+              "successor": ""
+            }
+          ],
+          "threadUpdates": [
+            {
+              "id": "opening-thread-1",
+              "title": "木牌刻痕里为何有金屑",
+              "status": "open",
+              "priority": "normal",
+              "recoveryWindow": "mid",
+              "reason": "顾长离已向陆照临说明金屑疑点，陆照临认为刻规矩的人手上不会有金粉，但来源仍未查明。",
+              "stepIds": [
+                "S1"
+              ],
+              "evidence": "“你看这里。”你把木牌递到陆照临面前，没有绕弯子，“刻痕里的泥不干净，混着金屑。我刮了一粒下来，包在纸里。”\n\n陆照临没有立刻接木牌，先低头看了两眼，才伸手托住牌角。他翻到背面，又翻回正面，拇指在“青露草”三个字上蹭了一下，像在确认什么。\n\n“金屑。”他重复了一遍，声音不高，“刻规矩的人，手上不会有金粉。”"
+            },
+            {
+              "id": "opening-thread-2",
+              "title": "如何完成第一场外门试炼",
+              "status": "open",
+              "priority": "high",
+              "recoveryWindow": "immediate",
+              "reason": "钟声已响，试炼正式开始，顾长离与陆照临正沿石径往后坡药圃走。",
+              "stepIds": [
+                "S1"
+              ],
+              "evidence": "钟声就在这时响了。\n\n第一声撞在石壁上，余音还没散，第二声已经追上来。场边的执事抬起手，朝后坡方向一挥，人群便像被风吹开的草籽一样散出去。你和陆照临几乎同时迈步，沿着石径往后坡走。药圃的竹篱已经在望，篱外一条白线横在草叶间，被晨露浸得发亮。"
+            }
+          ]
+        },
+        "actionIntent": {
+          "input": "我向陆照临说明木牌上的疑点，把纸包收好，问他愿不愿意在不越过白线、不争抢伤人的前提下同行参加试炼；听取他的答复，再一起等钟响。",
+          "requirements": {
+            "A1": "我向陆照临说明木牌上的疑点",
+            "A2": "把纸包收好",
+            "A3": "问他愿不愿意在不越过白线、不争抢伤人的前提下同行参加试炼",
+            "A4": "听取他的答复",
+            "A5": "再一起等钟响"
+          }
+        },
+        "deliveryReceipt": {
+          "version": "narrative-delivery/5",
+          "kind": "observed_state_not_prose_approval",
+          "parentSha256": "1aa610d86d8a2992f9d9dfc57b800fbb897f012d081deceeb8477911cf42c6e8",
+          "narrativeSha256": "c528db40b4b9f026b483dfc31be2422d62eac9f7d5c31435dce0c128b4cb230e",
+          "actionSha256": "6558520feabf0fe72578a0a4b322059d8b157d6f0f6fdcc515dc048f381a22f5",
+          "data": {
+            "currentScene": {
+              "evidenceQuote": "你和陆照临几乎同时迈步，沿着石径往后坡走。",
+              "name": "石径",
+              "basis": "observed",
+              "paragraphIds": [
+                "P11"
+              ],
+              "presentEntities": [
+                {
+                  "entityId": "character_e663361ab1c7",
+                  "entityName": "你",
+                  "basis": "observed",
+                  "paragraphIds": [
+                    "P11"
+                  ],
+                  "evidenceQuote": "你和陆照临几乎同时迈步，沿着石径往后坡走。"
+                },
+                {
+                  "entityId": "character_lu_zhaolin",
+                  "entityName": "陆照临",
+                  "basis": "observed",
+                  "paragraphIds": [
+                    "P11"
+                  ],
+                  "evidenceQuote": "你和陆照临几乎同时迈步，沿着石径往后坡走。"
+                }
+              ]
+            },
+            "summary": "顾长离把木牌刻痕里的金屑指给陆照临看，并说明自己刮下一粒包在纸里。陆照临看过木牌后说刻规矩的人手上不会有金粉。顾长离将纸包折好收进贴身衣袋，提出同行条件：不越白线、不争抢、不伤人。陆照临答应同行，但声明自己只为过试炼，不会陪她查金屑、也不陪她靠近白线。钟声响起，执事挥手放行，两人沿石径往后坡药圃走去，白线已在望。",
+            "actionStatus": "performed",
+            "updates": {
+              "introductions": {
+                "characters": [
+                  {
+                    "id": "character_lu_zhaolin",
+                    "name": "陆照临",
+                    "summary": "与顾长离互通姓名的年轻弟子，答应在不越白线、不争抢、不伤人的前提下同行参加试炼，但明确表示只为过试炼，不参与查金屑。",
+                    "paragraphIds": [
+                      "P3",
+                      "P7"
+                    ]
+                  }
+                ],
+                "items": [],
+                "locations": [
+                  {
+                    "id": "location_stone_path",
+                    "name": "石径",
+                    "summary": "半山试炼场通往坡后药圃的石路，钟响后顾长离与陆照临沿此路往后坡走。",
+                    "paragraphIds": [
+                      "P11"
+                    ]
+                  }
+                ]
+              },
+              "stateChanges": [
+                {
+                  "entityId": "character_lu_zhaolin",
+                  "entityName": "陆照临",
+                  "basis": "observed",
+                  "attribute": "knownGoldFlake",
+                  "value": true,
+                  "reason": "顾长离主动把木牌刻痕里的金屑指给陆照临看并说明自己刮下一粒包好。",
+                  "paragraphIds": [
+                    "P2",
+                    "P3"
+                  ]
+                },
+                {
+                  "entityId": "character_e663361ab1c7",
+                  "entityName": "你",
+                  "basis": "observed",
+                  "attribute": "goldPaperStowed",
+                  "value": true,
+                  "reason": "顾长离将包金屑的纸片折好收进贴身衣袋。",
+                  "paragraphIds": [
+                    "P5"
+                  ]
+                },
+                {
+                  "entityId": "character_lu_zhaolin",
+                  "entityName": "陆照临",
+                  "basis": "observed",
+                  "attribute": "companionAgreement",
+                  "value": "同行但不参与查金屑、不靠近白线",
+                  "reason": "陆照临答应同行，但声明只为过试炼，不会陪顾长离查金屑或往白线边上凑。",
+                  "paragraphIds": [
+                    "P7"
+                  ]
+                },
+                {
+                  "entityId": "character_e663361ab1c7",
+                  "entityName": "你",
+                  "basis": "observed",
+                  "attribute": "locationId",
+                  "value": "location_stone_path",
+                  "reason": "钟响后顾长离与陆照临沿石径往后坡走。",
+                  "paragraphIds": [
+                    "P11"
+                  ]
+                },
+                {
+                  "entityId": "character_lu_zhaolin",
+                  "entityName": "陆照临",
+                  "basis": "observed",
+                  "attribute": "locationId",
+                  "value": "location_stone_path",
+                  "reason": "钟响后顾长离与陆照临沿石径往后坡走。",
+                  "paragraphIds": [
+                    "P11"
+                  ]
+                }
+              ],
+              "outcomes": [],
+              "goalUpdates": [
+                {
+                  "id": "opening-goal-1",
+                  "title": "木牌刻痕里为何有金屑",
+                  "status": "active",
+                  "dependencies": [],
+                  "reason": "顾长离已把金屑疑点告知陆照临，但金屑来源仍未查明。",
+                  "successor": "",
+                  "paragraphIds": [
+                    "P2",
+                    "P4"
+                  ]
+                },
+                {
+                  "id": "opening-goal-2",
+                  "title": "如何完成第一场外门试炼",
+                  "status": "active",
+                  "dependencies": [],
+                  "reason": "钟声已响，试炼正式开始，顾长离与陆照临沿石径往后坡药圃走。",
+                  "successor": "",
+                  "paragraphIds": [
+                    "P10",
+                    "P11"
+                  ]
+                }
+              ],
+              "threadUpdates": [
+                {
+                  "id": "opening-thread-1",
+                  "title": "木牌刻痕里为何有金屑",
+                  "status": "open",
+                  "priority": "normal",
+                  "recoveryWindow": "mid",
+                  "reason": "顾长离已向陆照临说明金屑疑点，陆照临认为刻规矩的人手上不会有金粉，但来源仍未查明。",
+                  "paragraphIds": [
+                    "P2",
+                    "P4"
+                  ]
+                },
+                {
+                  "id": "opening-thread-2",
+                  "title": "如何完成第一场外门试炼",
+                  "status": "open",
+                  "priority": "high",
+                  "recoveryWindow": "immediate",
+                  "reason": "钟声已响，试炼正式开始，顾长离与陆照临正沿石径往后坡药圃走。",
+                  "paragraphIds": [
+                    "P10",
+                    "P11"
+                  ]
+                }
+              ]
+            },
+            "confirmedStates": [
+              {
+                "entityId": "character_e663361ab1c7",
+                "entityName": "你",
+                "basis": "observed",
+                "attribute": "goldPaperStowed",
+                "value": true,
+                "reason": "顾长离将包金屑的纸片折好收进贴身衣袋。",
+                "paragraphIds": [
+                  "P5"
+                ]
+              },
+              {
+                "entityId": "character_lu_zhaolin",
+                "entityName": "陆照临",
+                "basis": "observed",
+                "attribute": "knownGoldFlake",
+                "value": true,
+                "reason": "顾长离主动把木牌刻痕里的金屑指给陆照临看并说明自己刮下一粒包好。",
+                "paragraphIds": [
+                  "P2",
+                  "P3"
+                ]
+              },
+              {
+                "entityId": "character_lu_zhaolin",
+                "entityName": "陆照临",
+                "basis": "observed",
+                "attribute": "companionAgreement",
+                "value": "同行但不参与查金屑、不靠近白线",
+                "reason": "陆照临答应同行，但声明只为过试炼，不会陪顾长离查金屑或往白线边上凑。",
+                "paragraphIds": [
+                  "P7"
+                ]
+              }
+            ],
+            "followups": [
+              {
+                "summary": "陆照临认为刻规矩的人手上不会有金粉，但金屑来源仍未查明。",
+                "paragraphIds": [
+                  "P4"
+                ]
+              }
+            ],
+            "resolvedFollowups": [],
+            "journeyEnding": null
+          },
+          "failure": null
+        },
+        "readerOutcome": {
+          "action": {
+            "status": "performed",
+            "summary": "顾长离把木牌刻痕里的金屑指给陆照临看，并说明自己刮下一粒包在纸里。陆照临看过木牌后说刻规矩的人手上不会有金粉。顾长离将纸包折好收进贴身衣袋，提出同行条件：不越白线、不争抢、不伤人。陆照临答应同行，但声明自己只为过试炼，不会陪她查金屑、也不陪她靠近白线。钟声响起，执事挥手放行，两人沿石径往后坡药圃走去，白线已在望。",
+            "evidence": "你把木牌翻过来，指尖点在背面那道刻痕上。黑泥嵌得很深，若不是凑近了看，谁也瞧不出里面还夹着一点金屑——你刮下一粒时，指甲缝里还留着那点细亮的痕迹。\n\n“你看这里。”你把木牌递到陆照临面前，没有绕弯子，“刻痕里的泥不干净，混着金屑。我刮了一粒下来，包在纸里。”\n\n陆照临没有立刻接木牌，先低头看了两眼，才伸手托住牌角。他翻到背面，又翻回正面，拇指在“青露草”三个字上蹭了一下，像在确认什么。\n\n“金屑。”他重复了一遍，声音不高，“刻规矩的人，手上不会有金粉。”\n\n这话说得轻，却把你也想到的那层意思挑明了。你没接话，只把袖中那枚纸包取出来，当着他的面折了两折，塞进贴身的衣袋里。纸很薄，隔着布料几乎感觉不到，但你知道它在。\n\n“试炼钟快响了。”你收回木牌，看着他，“后坡药圃，日落前取青露草。我不越白线，不争抢，不伤人——你若愿意，同行。”\n\n陆照临沉默了片刻。场边又有两名弟子从你们身侧经过，脚步匆匆，谁也没往这边多看一眼。他这才开口，语气比方才松了些：“我本来也是一个人。同行可以，但丑话说前头——我取草是为了过试炼，不是为了查金屑。你若半路要往白线边上凑，我不拦你，也不陪你。”\n\n“不必你陪。”你说。\n\n他点了下头，算是应了。没有击掌，也没有多余的客套，只是往石径那边挪了半步，把靠外的一侧让给你。这个动作很小，你却看得明白——他站到了临崖的那边。\n\n钟声就在这时响了。\n\n第一声撞在石壁上，余"
+          },
+          "actions": [],
+          "clues": [],
+          "relationships": []
+        },
+        "continuityFollowups": [
+          {
+            "id": "followup-b1a4bfc29cdcc39c368b",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。钟响后顾长离与陆照临沿石径往后坡走。",
+            "evidence": "他翻到背面，又翻回正面，拇指在“青露草”三个字上蹭了一下，像在确认什么。\n\n“金屑。”他重复了一遍，声音不高，“刻规矩的人，手上不会有金粉。”\n\n这话说得轻，却把你也想到的那层意思挑明了。你没接话，只把袖中那枚纸包取出来，当着他的面折了两折，塞进贴身的衣袋里。纸很薄，隔着布料几乎感觉不到，但你知道它在。\n\n“试炼钟快响了。”你收回木牌，看着他，“后坡药圃，日落前取青露草。我不越白线，不争抢，不伤人——你若愿意，同行。”\n\n陆照临沉默了片刻。场边又有两名弟子从你们身侧经过，脚步匆匆，谁也没往这边多看一眼。他这才开口，语气比方才松了些：“我本来也是一个人。同行可以，但丑话说前头——我取草是为了过试炼，不是为了查金屑。你若半路要往白线边上凑，我不拦你，也不陪你。”\n\n“不必你陪。”你说。\n\n他点了下头，算是应了。没有击掌，也没有多余的客套，只是往石径那边挪了半步，把靠外的一侧让给你。这个动作很小，你却看得明白——他站到了临崖的那边。\n\n钟声就在这时响了。\n\n第一声撞在石壁上，余音还没散，第二声已经追上来。场边的执事抬起手，朝后坡方向一挥，人群便像被风吹开的草籽一样散出去。你和陆照临几乎同时迈步，沿着石径往后坡走。药圃的竹篱已经在望，篱外一条白线横在草叶间，被晨露浸得发亮。\n\n陆照临走在你左前方半步远的地方，没再提金屑的事。你也没提。纸包贴着你的衣袋，随着脚步轻轻晃动，像一粒还没落定的尘。",
+            "entityIds": [
+              "character_e663361ab1c7"
+            ],
+            "originParentId": "branch_ecb1fbac-8dfc-4368-970e-af37f2ca5b7c",
+            "originNarrativeSha256": "e40f9b9f809e68f46729172453ebd9faf9f93154421e528ef06929b20c5ea3c7"
+          },
+          {
+            "id": "followup-0776bb0c73476452a511",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。钟响后顾长离与陆照临沿石径往后坡走。",
+            "evidence": "他翻到背面，又翻回正面，拇指在“青露草”三个字上蹭了一下，像在确认什么。\n\n“金屑。”他重复了一遍，声音不高，“刻规矩的人，手上不会有金粉。”\n\n这话说得轻，却把你也想到的那层意思挑明了。你没接话，只把袖中那枚纸包取出来，当着他的面折了两折，塞进贴身的衣袋里。纸很薄，隔着布料几乎感觉不到，但你知道它在。\n\n“试炼钟快响了。”你收回木牌，看着他，“后坡药圃，日落前取青露草。我不越白线，不争抢，不伤人——你若愿意，同行。”\n\n陆照临沉默了片刻。场边又有两名弟子从你们身侧经过，脚步匆匆，谁也没往这边多看一眼。他这才开口，语气比方才松了些：“我本来也是一个人。同行可以，但丑话说前头——我取草是为了过试炼，不是为了查金屑。你若半路要往白线边上凑，我不拦你，也不陪你。”\n\n“不必你陪。”你说。\n\n他点了下头，算是应了。没有击掌，也没有多余的客套，只是往石径那边挪了半步，把靠外的一侧让给你。这个动作很小，你却看得明白——他站到了临崖的那边。\n\n钟声就在这时响了。\n\n第一声撞在石壁上，余音还没散，第二声已经追上来。场边的执事抬起手，朝后坡方向一挥，人群便像被风吹开的草籽一样散出去。你和陆照临几乎同时迈步，沿着石径往后坡走。药圃的竹篱已经在望，篱外一条白线横在草叶间，被晨露浸得发亮。\n\n陆照临走在你左前方半步远的地方，没再提金屑的事。你也没提。纸包贴着你的衣袋，随着脚步轻轻晃动，像一粒还没落定的尘。",
+            "entityIds": [
+              "character_lu_zhaolin"
+            ],
+            "originParentId": "branch_ecb1fbac-8dfc-4368-970e-af37f2ca5b7c",
+            "originNarrativeSha256": "e40f9b9f809e68f46729172453ebd9faf9f93154421e528ef06929b20c5ea3c7"
+          },
+          {
+            "id": "followup-59274c1af72446995e35",
+            "kind": "continuity",
+            "status": "open",
+            "summary": "陆照临认为刻规矩的人手上不会有金粉，但金屑来源仍未查明。",
+            "evidence": "“金屑。”他重复了一遍，声音不高，“刻规矩的人，手上不会有金粉。”",
+            "entityIds": [],
+            "originParentId": "branch_ecb1fbac-8dfc-4368-970e-af37f2ca5b7c",
+            "originNarrativeSha256": "e40f9b9f809e68f46729172453ebd9faf9f93154421e528ef06929b20c5ea3c7"
+          }
+        ],
+        "observationDiagnostics": [
+          {
+            "item": {
+              "entityId": "character_e663361ab1c7",
+              "entityName": "你",
+              "basis": "observed",
+              "attribute": "locationId",
+              "value": "location_stone_path",
+              "reason": "钟响后顾长离与陆照临沿石径往后坡走。",
+              "paragraphIds": [
+                "P11"
+              ]
+            },
+            "reason": "位置记录缺少实际地点称呼，保留待澄清"
+          },
+          {
+            "item": {
+              "entityId": "character_lu_zhaolin",
+              "entityName": "陆照临",
+              "basis": "observed",
+              "attribute": "locationId",
+              "value": "location_stone_path",
+              "reason": "钟响后顾长离与陆照临沿石径往后坡走。",
+              "paragraphIds": [
+                "P11"
+              ]
+            },
+            "reason": "位置记录缺少实际地点称呼，保留待澄清"
+          }
+        ],
+        "readingProfile": {
+          "level": "dynamic",
+          "targetCjk": [
+            500,
+            500
+          ],
+          "reason": "需要完成说明、收好、询问、答复、钟响五个动作，并让陆照临的答复有具体内容，不宜过短。",
+          "hardMinimum": false,
+          "minCjk": 80,
+          "maxCjk": 1500,
+          "lengthPolicy": "final_visible_prose_dynamic_80_1500",
+          "actualCjk": 626,
+          "expansionApplied": false
+        },
+        "proseQuality": {
+          "status": "not_automatically_reviewed",
+          "reviewer": "developer"
+        },
+        "storyJourney": {
+          "version": "story-journey/1",
+          "budget": {
+            "targetMinutes": 150,
+            "typicalMinutes": [
+              120,
+              180
+            ],
+            "targetCjk": 30000,
+            "typicalCjk": [
+              25000,
+              40000
+            ],
+            "targetTurns": 45,
+            "typicalTurns": [
+              40,
+              60
+            ]
+          },
+          "progress": {
+            "consumedCjk": 866,
+            "completedTurns": 1,
+            "remainingCjk": 29134,
+            "remainingTurns": 44,
+            "suggestedPhase": "establish",
+            "pacing": "developing",
+            "plotCompletion": null
+          },
+          "plan": {
+            "premise": "顾长离第一次参加玄霄宗外门试炼，却在试炼木牌刻痕中发现一粒金屑。她与刚认识的陆照临结伴取青露草，试图在不违规的前提下查清金屑来源，同时面对试炼本身暗藏的筛选与危险。",
+            "centralQuestion": "顾长离能否在遵守规则与查明真相之间找到平衡，并决定自己愿意为答案付出多少代价？",
+            "revisionReason": "首次规划，基于新弟子身份、木牌金屑疑点与刚建立的陆照临关系。",
+            "phases": [
+              {
+                "id": "establish",
+                "title": "钟响之前",
+                "purpose": "建立顾长离的试炼目标、与陆照临的初步信任，以及木牌金屑的疑点。玩家可决定是否结伴、如何分配注意力。",
+                "payoff": "为后坡药圃的取草行动与金屑调查埋下线索和人际基础。",
+                "targetEndCjk": 4500
+              },
+              {
+                "id": "develop",
+                "title": "青露草与白线",
+                "purpose": "试炼正式开始，玩家在取草过程中遭遇其他弟子、地形限制或规则边缘的诱惑，金屑线索可能指向药圃某处。",
+                "payoff": "揭示试炼规则背后的筛选意图，并让顾长离与陆照临的关系经受第一次考验。",
+                "targetEndCjk": 10500
+              },
+              {
+                "id": "turn",
+                "title": "刻痕里的秘密",
+                "purpose": "金屑来源浮出水面，可能与玄霄宗旧事或某位执事有关；玩家须在完成试炼与深挖真相之间做出关键选择。",
+                "payoff": "将个人疑点与宗门更大背景连接，为后续冲突提供动机与代价。",
+                "targetEndCjk": 18000
+              },
+              {
+                "id": "resolve",
+                "title": "试炼之外",
+                "purpose": "玩家面对因调查引发的后果——可能影响试炼结果、陆照临的立场或执事的注意；须决定如何收束金屑线索。",
+                "payoff": "兑现金屑疑点的核心答案，并让顾长离在宗门中确立初步立场。",
+                "targetEndCjk": 25000
+              },
+              {
+                "id": "conclude",
+                "title": "第一场试炼之后",
+                "purpose": "试炼结果落定，顾长离与陆照临的关系、金屑真相的余波共同构成新起点；玩家决定如何面对接下来的宗门生活。",
+                "payoff": "收束本局核心问题，留下顾长离在玄霄宗继续前行的自然出口。",
+                "targetEndCjk": 30000
+              }
+            ]
+          },
+          "planStatus": "provisional",
+          "revision": 1,
+          "review": {
+            "status": "recorded",
+            "decision": "keep",
+            "reason": "本次行动是开局阶段自然的关系推进与试炼准备，与既有目标（查明金屑、完成试炼）一致，未放弃或改道。",
+            "nextMilestone": "陆照临给出是否同行的答复，并透露一点自身来历或对木牌的看法；钟声响起，试炼正式开始。",
+            "planChanged": true
+          },
+          "authority": "future_possibilities_not_facts",
+          "ending": null
+        },
+        "naturalEnding": false,
+        "selectedDirectionId": "direction_free_0aa1427d2616",
+        "selectedDirection": {
+          "id": "direction_free_0aa1427d2616",
+          "title": "自定行动：我向陆照临说明木牌上的疑",
+          "summary": "我向陆照临说明木牌上的疑点，把纸包收好，问他愿不愿意在不越过白线、不争抢伤人的前提下同行参加试炼；听取他的答复，再一起等钟响。",
+          "statePatch": {
+            "freeTextProgress": 1
+          },
+          "isFreeText": true
+        },
+        "playerDirection": "我向陆照临说明木牌上的疑点，把纸包收好，问他愿不愿意在不越过白线、不争抢伤人的前提下同行参加试炼；听取他的答复，再一起等钟响。",
+        "requestId": "playthrough-9ae1ab4e15f94ae39e37debf29c24fc4",
+        "contextId": "ctx-89e0ee4068689a30",
+        "contextMemory": {
+          "schemaVersion": "committed-outcome-memory/2",
+          "package": {
+            "id": "taixu-relics-part1",
+            "version": "0.1.3",
+            "moduleIndexSha256": "0894f7eebc6fa34b23310839da0eb3cd7b15d2784d7e559aee3f18af9aa171c2"
+          },
+          "originBranchId": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+          "parentBranchId": "branch_ecb1fbac-8dfc-4368-970e-af37f2ca5b7c",
+          "sourceNodeRef": "node_source_continuity",
+          "narrativeSha256": "c528db40b4b9f026b483dfc31be2422d62eac9f7d5c31435dce0c128b4cb230e",
+          "intentSha256": "8bc96606ad0c1ba9c81104a58322f1a21e252092389a75e634d057763638590f",
+          "reviewSha256": "508b98834261e4d92dd2525395a61b4a81f625c2da592a0ffcc8f7c8b67d900e",
+          "records": [
+            {
+              "domain": "goal",
+              "entityId": "opening-goal-1",
+              "stateSha256": "d660cd4197d89fc55d57139fd0c8d9446cb130bf33f863ce6017a7872b5c2e45",
+              "memory": {
+                "memoryId": "memory-83422c51d826955b4c5f1fbf",
+                "kind": "event",
+                "sourceIds": [
+                  "memory:goal:branch_6cad56a2-25df-43de-94c0-e42452a26d51:opening-goal-1"
+                ],
+                "branchId": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+                "visibility": "player_known",
+                "authority": "confirmed_evidence",
+                "validity": "confirmed",
+                "status": "confirmed",
+                "sequence": 2,
+                "content": "目标「木牌刻痕里为何有金屑」：进行中。"
+              }
+            },
+            {
+              "domain": "goal",
+              "entityId": "opening-goal-2",
+              "stateSha256": "f50f9993c733979cacc1d025c9f0757c40c50e907e419fdd97f19b0d4244309a",
+              "memory": {
+                "memoryId": "memory-14589c6257f75fe5dfb871c1",
+                "kind": "event",
+                "sourceIds": [
+                  "memory:goal:branch_6cad56a2-25df-43de-94c0-e42452a26d51:opening-goal-2"
+                ],
+                "branchId": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+                "visibility": "player_known",
+                "authority": "confirmed_evidence",
+                "validity": "confirmed",
+                "status": "confirmed",
+                "sequence": 2,
+                "content": "目标「如何完成第一场外门试炼」：进行中。"
+              }
+            },
+            {
+              "domain": "thread",
+              "entityId": "opening-thread-1",
+              "stateSha256": "00bfa6ea18e8e5b24cbcc8a8066e2673f10e36695845f44f85d10500ddb40442",
+              "memory": {
+                "memoryId": "memory-b412e61ee54e725e84aab79f",
+                "kind": "event",
+                "sourceIds": [
+                  "memory:thread:branch_6cad56a2-25df-43de-94c0-e42452a26d51:opening-thread-1"
+                ],
+                "branchId": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+                "visibility": "player_known",
+                "authority": "confirmed_evidence",
+                "validity": "confirmed",
+                "status": "confirmed",
+                "sequence": 2,
+                "content": "剧情问题「木牌刻痕里为何有金屑」：待处理。"
+              }
+            },
+            {
+              "domain": "thread",
+              "entityId": "opening-thread-2",
+              "stateSha256": "e8f329df94d6b03c9e549a5189607ed45f695a6a204d80f93e2fa2cafbea0806",
+              "memory": {
+                "memoryId": "memory-a5a6d33d3bb883334392f7cf",
+                "kind": "event",
+                "sourceIds": [
+                  "memory:thread:branch_6cad56a2-25df-43de-94c0-e42452a26d51:opening-thread-2"
+                ],
+                "branchId": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+                "visibility": "player_known",
+                "authority": "confirmed_evidence",
+                "validity": "confirmed",
+                "status": "confirmed",
+                "sequence": 2,
+                "content": "剧情问题「如何完成第一场外门试炼」：待处理。"
+              }
+            }
+          ]
+        },
+        "readerChoices": [
+          {
+            "id": "reader-b30fcd006d91d17a",
+            "title": "先查白线边的青露草",
+            "summary": "我进药圃后先不急着采草，沿白线外侧走一段，看白线附近是否有青露草，以及草叶间有没有与木牌刻痕里相似的金屑或异样痕迹。只查看，不越线，不与旁人争抢。",
+            "evidence": [
+              "你把木牌翻过来，指尖点在背面那道刻痕上。黑泥嵌得很深，若不是凑近了看，谁也瞧不出里面还夹着一点金屑——你刮下一粒时，指甲缝里还留着那点细亮的痕迹。",
+              "第一声撞在石壁上，余音还没散，第二声已经追上来。场边的执事抬起手，朝后坡方向一挥，人群便像被风吹开的草籽一样散出去。你和陆照临几乎同时迈步，沿着石径往后坡走。药圃的竹篱已经在望，篱外一条白线横在草叶间，被晨露浸得发亮。"
+            ],
+            "dependencies": {
+              "version": "reader-choice-dependencies/3",
+              "contextDigest": "35d727fafa209f95db4ef0766966c0f7bdc6d4178b4566d854b01ac7b6b99b53",
+              "paragraphIds": [
+                "P1",
+                "P11"
+              ],
+              "interactWith": [],
+              "mentionOnly": [
+                "character_lu_zhaolin"
+              ]
+            }
+          }
+        ],
+        "turnInput": {
+          "text": "我向陆照临说明木牌上的疑点，把纸包收好，问他愿不愿意在不越过白线、不争抢伤人的前提下同行参加试炼；听取他的答复，再一起等钟响。"
+        },
+        "preparedTurnKey": "023b3944a8cb60569ae5d289868093758751f1d10fd13938d94985654cef26ae",
+        "preparedAttemptId": "0d3b5a8977e54ffb9606b6d57eeeca11",
+        "routeOutline": {
+          "version": "route-outline/3",
+          "branch_id": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+          "root_branch_id": "branch_ecb1fbac-8dfc-4368-970e-af37f2ca5b7c",
+          "binding_digest": "2c514748b8f5ffe4bc2d7cf193dab7e946359ce0979a48cf4ad8cd6657244e7f",
+          "structure": {
+            "volume": null,
+            "arc": "arc_source_chapter_003",
+            "beat": "beat_chapter_011",
+            "source_progress": "chapter_011"
+          },
+          "goals": [
+            {
+              "id": "opening-goal-1",
+              "title": "木牌刻痕里为何有金屑",
+              "status": "active",
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+                "ref": "opening-goal-1",
+                "quote": "“你看这里。”你把木牌递到陆照临面前，没有绕弯子，“刻痕里的泥不干净，混着金屑。我刮了一粒下来，包在纸里。”\n\n陆照临没有立刻接木牌，先低头看了两眼，才伸手托住牌角。他翻到背面，又翻回正面，拇指在“青露草”三个字上蹭了一下，像在确认什么。\n\n“金屑。”他重复了一遍，声音不高，“刻规矩的人，手上不会有金粉。”"
+              },
+              "priority": "unknown",
+              "recoveryWindow": "unknown",
+              "completion": {
+                "ledger": "goalLedger",
+                "target_id": "opening-goal-1",
+                "target_statuses": [
+                  "completed"
+                ],
+                "met": false,
+                "requires_narrative_evidence": true
+              }
+            },
+            {
+              "id": "opening-goal-2",
+              "title": "如何完成第一场外门试炼",
+              "status": "active",
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+                "ref": "opening-goal-2",
+                "quote": "钟声就在这时响了。\n\n第一声撞在石壁上，余音还没散，第二声已经追上来。场边的执事抬起手，朝后坡方向一挥，人群便像被风吹开的草籽一样散出去。你和陆照临几乎同时迈步，沿着石径往后坡走。药圃的竹篱已经在望，篱外一条白线横在草叶间，被晨露浸得发亮。"
+              },
+              "priority": "unknown",
+              "recoveryWindow": "unknown",
+              "completion": {
+                "ledger": "goalLedger",
+                "target_id": "opening-goal-2",
+                "target_statuses": [
+                  "completed"
+                ],
+                "met": false,
+                "requires_narrative_evidence": true
+              }
+            }
+          ],
+          "threads": [
+            {
+              "id": "opening-thread-1",
+              "title": "木牌刻痕里为何有金屑",
+              "status": "open",
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+                "ref": "opening-thread-1",
+                "quote": "“你看这里。”你把木牌递到陆照临面前，没有绕弯子，“刻痕里的泥不干净，混着金屑。我刮了一粒下来，包在纸里。”\n\n陆照临没有立刻接木牌，先低头看了两眼，才伸手托住牌角。他翻到背面，又翻回正面，拇指在“青露草”三个字上蹭了一下，像在确认什么。\n\n“金屑。”他重复了一遍，声音不高，“刻规矩的人，手上不会有金粉。”"
+              },
+              "priority": "normal",
+              "recoveryWindow": "mid",
+              "completion": {
+                "ledger": "threadLedger",
+                "target_id": "opening-thread-1",
+                "target_statuses": [
+                  "resolved",
+                  "abandoned"
+                ],
+                "met": false,
+                "requires_narrative_evidence": true
+              }
+            },
+            {
+              "id": "opening-thread-2",
+              "title": "如何完成第一场外门试炼",
+              "status": "open",
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+                "ref": "opening-thread-2",
+                "quote": "钟声就在这时响了。\n\n第一声撞在石壁上，余音还没散，第二声已经追上来。场边的执事抬起手，朝后坡方向一挥，人群便像被风吹开的草籽一样散出去。你和陆照临几乎同时迈步，沿着石径往后坡走。药圃的竹篱已经在望，篱外一条白线横在草叶间，被晨露浸得发亮。"
+              },
+              "priority": "high",
+              "recoveryWindow": "immediate",
+              "completion": {
+                "ledger": "threadLedger",
+                "target_id": "opening-thread-2",
+                "target_statuses": [
+                  "resolved",
+                  "abandoned"
+                ],
+                "met": false,
+                "requires_narrative_evidence": true
+              }
+            }
+          ],
+          "conflicts": [],
+          "steps": [
+            {
+              "id": "goal:opening-goal-1",
+              "kind": "pursue_goal",
+              "target_id": "opening-goal-1",
+              "title": "木牌刻痕里为何有金屑",
+              "blockers": [],
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+                "ref": "opening-goal-1",
+                "quote": "“你看这里。”你把木牌递到陆照临面前，没有绕弯子，“刻痕里的泥不干净，混着金屑。我刮了一粒下来，包在纸里。”\n\n陆照临没有立刻接木牌，先低头看了两眼，才伸手托住牌角。他翻到背面，又翻回正面，拇指在“青露草”三个字上蹭了一下，像在确认什么。\n\n“金屑。”他重复了一遍，声音不高，“刻规矩的人，手上不会有金粉。”"
+              },
+              "priority": "unknown",
+              "recoveryWindow": "unknown",
+              "completion": {
+                "ledger": "goalLedger",
+                "target_id": "opening-goal-1",
+                "target_statuses": [
+                  "completed"
+                ],
+                "met": false,
+                "requires_narrative_evidence": true
+              }
+            },
+            {
+              "id": "goal:opening-goal-2",
+              "kind": "pursue_goal",
+              "target_id": "opening-goal-2",
+              "title": "如何完成第一场外门试炼",
+              "blockers": [],
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+                "ref": "opening-goal-2",
+                "quote": "钟声就在这时响了。\n\n第一声撞在石壁上，余音还没散，第二声已经追上来。场边的执事抬起手，朝后坡方向一挥，人群便像被风吹开的草籽一样散出去。你和陆照临几乎同时迈步，沿着石径往后坡走。药圃的竹篱已经在望，篱外一条白线横在草叶间，被晨露浸得发亮。"
+              },
+              "priority": "unknown",
+              "recoveryWindow": "unknown",
+              "completion": {
+                "ledger": "goalLedger",
+                "target_id": "opening-goal-2",
+                "target_statuses": [
+                  "completed"
+                ],
+                "met": false,
+                "requires_narrative_evidence": true
+              }
+            },
+            {
+              "id": "thread:opening-thread-1",
+              "kind": "address_thread",
+              "target_id": "opening-thread-1",
+              "title": "木牌刻痕里为何有金屑",
+              "blockers": [],
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+                "ref": "opening-thread-1",
+                "quote": "“你看这里。”你把木牌递到陆照临面前，没有绕弯子，“刻痕里的泥不干净，混着金屑。我刮了一粒下来，包在纸里。”\n\n陆照临没有立刻接木牌，先低头看了两眼，才伸手托住牌角。他翻到背面，又翻回正面，拇指在“青露草”三个字上蹭了一下，像在确认什么。\n\n“金屑。”他重复了一遍，声音不高，“刻规矩的人，手上不会有金粉。”"
+              },
+              "priority": "normal",
+              "recoveryWindow": "mid",
+              "completion": {
+                "ledger": "threadLedger",
+                "target_id": "opening-thread-1",
+                "target_statuses": [
+                  "resolved",
+                  "abandoned"
+                ],
+                "met": false,
+                "requires_narrative_evidence": true
+              }
+            },
+            {
+              "id": "thread:opening-thread-2",
+              "kind": "address_thread",
+              "target_id": "opening-thread-2",
+              "title": "如何完成第一场外门试炼",
+              "blockers": [],
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+                "ref": "opening-thread-2",
+                "quote": "钟声就在这时响了。\n\n第一声撞在石壁上，余音还没散，第二声已经追上来。场边的执事抬起手，朝后坡方向一挥，人群便像被风吹开的草籽一样散出去。你和陆照临几乎同时迈步，沿着石径往后坡走。药圃的竹篱已经在望，篱外一条白线横在草叶间，被晨露浸得发亮。"
+              },
+              "priority": "high",
+              "recoveryWindow": "immediate",
+              "completion": {
+                "ledger": "threadLedger",
+                "target_id": "opening-thread-2",
+                "target_statuses": [
+                  "resolved",
+                  "abandoned"
+                ],
+                "met": false,
+                "requires_narrative_evidence": true
+              }
+            }
+          ]
+        }
+      },
+      "reason": "已登记为本回合自定义行动；状态变化由本地脚本控制。"
+    }
+  }
+]

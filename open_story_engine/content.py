@@ -140,6 +140,14 @@ def expand_state_visibility(
 
     def add(pointer: str, audience: str) -> None:
         if pointer not in leaves:
+            # Observed departures/missing persons deliberately remove their
+            # location entry. There is no value to expose in this snapshot.
+            segments = pointer.split("/")
+            if len(segments) == 3 and segments[1] == "characterLocationIds":
+                character_id = segments[2].replace("~1", "/").replace("~0", "~")
+                outcome = normalized_state.get("characterOutcomeStates", {}).get(character_id, {})
+                if outcome.get("status") in ("departed", "missing"):
+                    return
             raise StoryPackageError("stateVisibility 必须指向现有叶子字段: " + pointer)
         previous = expanded.get(pointer)
         if previous is not None and previous != audience:

@@ -4723,6 +4723,10 @@ class CoCreationService:
         if updated_goals is not None:
             result["nextDirections"] = updated_goals
         result["nextDirections"] = filter_directions(result["nextDirections"], self.package, resolved)
+        from .story_journey import enabled as journey_enabled
+        if journey_enabled(result) and result.get('naturalEnding') is True:
+            # Legacy arc/goal menus must not reopen an observed ending.
+            result['nextDirections'] = []
         assert_published_directions(self.package, source_node_ref, resolved, result["nextDirections"])
         node = {
             **result, "id": branch_id, "parentId": parent_id, "sourceNodeRef": source_node_ref, "branchState": resolved,

@@ -1,0 +1,184 @@
+{
+  "branch_id": "branch_65e7eeb9-0200-4d69-9434-89c364f10eef",
+  "threads": [
+    {
+      "id": "opening-thread-1",
+      "title": "沈砚秋删去陆沉舟记录的责任",
+      "status": "open",
+      "source": "opening",
+      "openedBranchId": null,
+      "causeBranchId": "branch_30c039f9-3590-459a-be48-d10a0e17d1b3",
+      "reason": "沈砚秋当众承认亲手刮去陆沉舟之名并补墨改写为“陆照临”，交出原件存放处与可验痕迹，但责任归属与原件核实仍待推进",
+      "evidence": "“我亲手删的，只有一处。”她说，“《太虚遗录》旧本第三卷，记天门初开前后名录的那一册。陆沉舟的名字原本在册，我用刀刮去了那一行，又在刮痕上补了墨，写成‘陆照临’。”\n\n殿中有人吸了口气。你不动声色，只问：“原件呢？”\n\n“旧本还在。”她答得很快，“在藏经阁西侧第三间库房，乙字柜最下层，用青布包着。刮痕没有磨平，对着光能看出来。补墨的地方比原字新，纸背也透得见刀口。”\n\n“为什么删？”\n\n她沉默了片刻。“这是我亲眼见的——不是听来的。前任执事交接时，我亲眼看见那册旧本上陆沉舟的名字旁，有一行小字批注，写的是‘此名不可留’。批注的笔迹，我认得，是上一代掌籍长老的。”\n\n“那长老现在何处？”你问。\n\n“三年前坐化。”她说，“所以这桩事，如今只剩我一人能说清。”\n\n你注意到殿角有长老脸色变了。沈砚秋没有看他们，继续道：“我删名，是因为那行批注。我以为照做便是守宗门的规矩。这是我亲手做的，我认。”",
+      "priority": "high",
+      "recoveryWindow": "near"
+    },
+    {
+      "id": "opening-thread-2",
+      "title": "玄霄宗是否承认旧档案的错误",
+      "status": "open",
+      "source": "opening",
+      "openedBranchId": null,
+      "causeBranchId": "branch_30c039f9-3590-459a-be48-d10a0e17d1b3",
+      "reason": "掌门宣布暂缓统一档案、不许销毁补改，长老就即刻取旧本验看或先封库再议出现分歧，宗门认错与否尚未决定",
+      "evidence": "“今日暂缓统一档案。旧物一件不许销毁，一件不许补改。”你的目光扫过殿内众人，“也不许把责任先推给她一个人。”\n\n沈砚秋垂着眼，过了几息才抬起头。她没有立刻辩解，先把《太虚遗录》放在阶前石面上，退开半步，像是把一件东西交出来。\n\n“我亲手删的，只有一处。”她说，“《太虚遗录》旧本第三卷，记天门初开前后名录的那一册。陆沉舟的名字原本在册，我用刀刮去了那一行，又在刮痕上补了墨，写成‘陆照临’。”\n\n殿中有人吸了口气。你不动声色，只问：“原件呢？”\n\n“旧本还在。”她答得很快，“在藏经阁西侧第三间库房，乙字柜最下层，用青布包着。刮痕没有磨平，对着光能看出来。补墨的地方比原字新，纸背也透得见刀口。”\n\n“为什么删？”\n\n她沉默了片刻。“这是我亲眼见的——不是听来的。前任执事交接时，我亲眼看见那册旧本上陆沉舟的名字旁，有一行小字批注，写的是‘此名不可留’。批注的笔迹，我认得，是上一代掌籍长老的。”\n\n“那长老现在何处？”你问。\n\n“三年前坐化。”她说，“所以这桩事，如今只剩我一人能说清。”\n\n你注意到殿角有长老脸色变了。沈砚秋没有看他们，继续道：“我删名，是因为那行批注。我以为照做便是守宗门的规矩。这是我亲手做的，我认。”\n\n“听来的呢？”\n\n“听来的有两件。”她声音低了些，“其一，山门外传的‘陆照临’这个名字，最早是从天门记录里抄出去的。抄录的人是谁，我只是听说，没有亲见。其二，有人说最初的残印与陆沉舟有关——这一条我没有见过任何原件，不敢认。”\n\n她说到这里，停住，抬眼看你。\n\n“掌门要我把三样分开，我分开了。亲手做的，我认。亲眼见的，我说了。听来的，我不替它作证。”\n\n殿中一时无人接话。先前主张统一档案的那位长老终于开口：“掌门，旧本既在，何不即刻取来，当众验看刮痕？”\n\n另一位长老却道：“验看可以，但若旧本上真有前代长老批注，牵涉的就大了。是否该先封库，再议？”",
+      "priority": "high",
+      "recoveryWindow": "near"
+    }
+  ],
+  "goals": [
+    {
+      "id": "opening-goal-1",
+      "title": "沈砚秋删去陆沉舟记录的责任",
+      "status": "active",
+      "characterId": "character_2cf2b083593b",
+      "dependencies": [],
+      "source": "opening",
+      "evidence": "你坐在祖师殿前听见对旧档案的追问，掌门身份要求你先面对被删去的名字。",
+      "causeBranchId": null
+    },
+    {
+      "id": "opening-goal-2",
+      "title": "玄霄宗是否承认旧档案的错误",
+      "status": "active",
+      "characterId": "character_2cf2b083593b",
+      "dependencies": [],
+      "source": "opening",
+      "evidence": "你坐在祖师殿前听见对旧档案的追问，掌门身份要求你先面对被删去的名字。",
+      "causeBranchId": null
+    }
+  ],
+  "playthrough_length": {
+    "target_minutes": 150,
+    "typical_minutes": [
+      120,
+      180
+    ],
+    "target_cjk": 30000,
+    "consumed_cjk": 2074,
+    "completed_turns": 2,
+    "estimate_only": true
+  },
+  "ledger_coverage": {
+    "goals": "recorded",
+    "threads": "recorded"
+  },
+  "role_name": "叶青冥",
+  "goal": "沈砚秋删去陆沉舟记录的责任；玄霄宗是否承认旧档案的错误",
+  "progress": null,
+  "progress_label": "本路线历程",
+  "choices_made": 2,
+  "milestones": [],
+  "current_task": "沈砚秋删去陆沉舟记录的责任",
+  "status": "active",
+  "feedback": [
+    "叶青冥当众决定即刻前往库房验看旧本，沈砚秋带路，主张即刻验看的长老与另两名长老随行，殿角一位长老未动。在藏经阁西侧第三间库房乙字柜最下层取出青布包裹的《太虚遗录》第三卷，迎光验看：名录页有细长刮痕、补墨写成“陆照临”、纸背透出刀口，页边有淡墨小字批注“此名不可留”，老长老认出似掌籍一脉笔法，沈砚秋称认得是上一代掌籍长老"
+  ],
+  "clues": [
+    "玄霄宗山门外站满了要求说法的人。",
+    "宗门最初的残印、最早的天门记录和陆照临的名字都曾从山门中走出去。",
+    "沈砚秋已经捧着《太虚遗录》进入祖师殿，并承认删去旧记录。"
+  ],
+  "people": [
+    {
+      "id": "character_aa4580d38571",
+      "name": "沈砚秋",
+      "is_player": false,
+      "first_page": 1,
+      "last_page": 3,
+      "identity": "身份随剧情逐渐明确",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_92bd14ea-9862-4119-84a8-f51602bdc031",
+        "page": 1,
+        "quote": "沈砚秋捧着《太虚遗录》走进来，承认自己曾删去旧记录。你知道掌门的第一句话会决定众人是否把责难继续推给一个人，也决定宗门是否承认自己曾经参与过错误。",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": "/images/taixu-shen-yanqiu-v1.png",
+        "source": "published",
+        "fallback_key": "person-1"
+      },
+      "status": {
+        "code": "unknown",
+        "label": "状态未确认",
+        "permanence": null,
+        "evidence": null
+      }
+    },
+    {
+      "id": "character_2cf2b083593b",
+      "name": "叶青冥",
+      "is_player": true,
+      "first_page": 1,
+      "last_page": 3,
+      "identity": "玄霄宗掌门，肩负宗门秩序与传承。面对旧事的追问，他必须以掌门身份作出回应",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_92bd14ea-9862-4119-84a8-f51602bdc031",
+        "page": 1,
+        "quote": "你坐在祖师殿前最高的石阶上，手边放着断剑。山门外的人要求玄霄宗交代最初的残印、天门记录和陆照临的名字从何处走出；殿中的长老仍想用一套统一档案重新建立秩序。",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": "/images/taixu-ye-qingming-v1.png",
+        "source": "published",
+        "fallback_key": "person-5"
+      },
+      "status": {
+        "code": "unknown",
+        "label": "状态未确认",
+        "permanence": null,
+        "evidence": null
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source": "character_2cf2b083593b",
+      "target": "character_aa4580d38571",
+      "label": "玄霄宗执事",
+      "evidence": "玄霄宗执事，正被追问删去陆沉舟记录的责任。",
+      "page": 1,
+      "origin": "opening"
+    }
+  ],
+  "recap": [
+    {
+      "branch_id": "branch_30c039f9-3590-459a-be48-d10a0e17d1b3",
+      "action": "我先请沈砚秋当着在场人的面说明：她删过哪一份记录、删去什么、为何而删，现存原件和删改痕迹在哪里。请她把亲手做的、亲眼见的与听说的分开讲；暂缓统一档案，不许销毁或补改旧物，也不先把所有责任推给她。",
+      "effects": [
+        "叶青冥当众令沈砚秋分述删改旧档经过，并宣布暂缓统一档案、不许销毁补改、不先归责于她一人。沈砚秋交出《太虚遗录》，承认亲手刮去旧本第三卷陆沉舟之名并补墨改写成“陆照临”，原件在藏经阁西侧第三间库房乙字柜最下层青布包中，刮痕与补墨可验；她亲眼所见前代掌籍长老批注“此名不可留”，该长老三年前坐化；听来的两件（“陆照临”最早由",
+        "新增目标：沈砚秋删去陆沉舟记录的责任",
+        "新增目标：玄霄宗是否承认旧档案的错误"
+      ]
+    },
+    {
+      "branch_id": "branch_65e7eeb9-0200-4d69-9434-89c364f10eef",
+      "action": "不等另议。我请沈砚秋带路，与在场愿意见证的长老一起去她说的库房，取出旧本，在不损伤纸页的前提下当场查看刮痕、补墨、纸背刀口和批注。她的口供先完整保留，实际看见什么就记什么，不能先认定死去长老指使了一切。",
+      "effects": [
+        "叶青冥当众决定即刻前往库房验看旧本，沈砚秋带路，主张即刻验看的长老与另两名长老随行，殿角一位长老未动。在藏经阁西侧第三间库房乙字柜最下层取出青布包裹的《太虚遗录》第三卷，迎光验看：名录页有细长刮痕、补墨写成“陆照临”、纸背透出刀口，页边有淡墨小字批注“此名不可留”，老长老认出似掌籍一脉笔法，沈砚秋称认得是上一代掌籍长老"
+      ]
+    }
+  ],
+  "lineage": [
+    "branch_92bd14ea-9862-4119-84a8-f51602bdc031",
+    "branch_30c039f9-3590-459a-be48-d10a0e17d1b3",
+    "branch_65e7eeb9-0200-4d69-9434-89c364f10eef"
+  ],
+  "route_health": {
+    "signals": [],
+    "review_recommended": false,
+    "window": 3,
+    "unchanged_state_turns": 0,
+    "repeated_action_turns": 1,
+    "source_progress_streak": 2,
+    "closure_readiness": "needs_explanation",
+    "closure_outstanding_count": 4,
+    "ending_written": false,
+    "note": "停滞信号与收束清单仅作路线诊断；不表示应强制结束，也不表示自然结局已写成。"
+  },
+  "location": "玄霄宗祖师殿"
+}

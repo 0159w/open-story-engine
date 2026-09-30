@@ -1,0 +1,1415 @@
+[
+  {
+    "event": "delta",
+    "data": {
+      "text": "钟声还没响。场边的新弟子们三三两两站着，有人反复摩挲木牌，有人已经朝后坡张望。你穿过人群，走向石台边那个穿灰袍的中年人。他正低头在册子上记着什么，听见脚步才抬眼。\n\n你把木牌搁在册子旁边，又从"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "袖中取出那个纸包，一并放下。\n\n“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”\n\n你答有。其实不多，但够走到镇上。\n\n执事不再多问，只朝西边抬了抬下巴：“去吧。钟响"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "之前离开白线范围，免得旁人看着多话。”\n\n你转身时，陆照临还站在原处。他离得不远，方才的话大概听去了大半。他没有开口拦你，也没有跟上来，只是看着你，像在辨认什么。你与他不过互通了姓名，此刻也不"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "必多说什么。你从他身侧走过，沿石径往西。\n\n身后钟声终于响了，沉而长，一声接一声，撞在山壁上又荡回来。新弟子们的脚步声、衣料摩擦声、低低的呼喝声混在一起，朝后坡涌去。你没有回头。\n\n西侧石阶比"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "试炼场那边窄，青苔从石缝里漫出来，踩上去有些滑。走了约莫半炷香，山势渐低，回头已经望不见试炼场的白线，只看见半山腰的松林和更远处灰蒙蒙的天际。风里有草木气，也有山下人家烧灶的烟味。\n\n石阶尽头"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "是一道侧门，门边坐着个打瞌睡的老杂役。你报了退试，他翻出一本更薄的册子让你按了个手印，便摆摆手放行。门外是一条黄土官道，往左通向东南，路面上有车辙和牲口蹄印，一直伸进远处的薄雾里。\n\n你站在门"
+    }
+  },
+  {
+    "event": "delta",
+    "data": {
+      "text": "外，袖中空了，木牌和纸包都不在了。官道两头都安静，只有风卷着落叶从脚边滚过去。青石镇在东南，走一日可到。你抬脚，朝左走去。"
+    }
+  },
+  {
+    "event": "done",
+    "data": {
+      "status": "written",
+      "request_id": "playthrough-0b127c5a28eb45f7a83162dbdaca21b5",
+      "deduplicated": false,
+      "branch": {
+        "id": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+        "sessionId": "81384798-247a-58c8-9ea5-b28a8189aa0d",
+        "sequence": 1,
+        "parentId": "branch_bb2ed016-c551-4a3a-8564-487a2653d2f7",
+        "kind": "generated",
+        "sourceNodeRef": "node_source_continuity",
+        "narrativeText": "钟声还没响。场边的新弟子们三三两两站着，有人反复摩挲木牌，有人已经朝后坡张望。你穿过人群，走向石台边那个穿灰袍的中年人。他正低头在册子上记着什么，听见脚步才抬眼。\n\n你把木牌搁在册子旁边，又从袖中取出那个纸包，一并放下。\n\n“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”\n\n你答有。其实不多，但够走到镇上。\n\n执事不再多问，只朝西边抬了抬下巴：“去吧。钟响之前离开白线范围，免得旁人看着多话。”\n\n你转身时，陆照临还站在原处。他离得不远，方才的话大概听去了大半。他没有开口拦你，也没有跟上来，只是看着你，像在辨认什么。你与他不过互通了姓名，此刻也不必多说什么。你从他身侧走过，沿石径往西。\n\n身后钟声终于响了，沉而长，一声接一声，撞在山壁上又荡回来。新弟子们的脚步声、衣料摩擦声、低低的呼喝声混在一起，朝后坡涌去。你没有回头。\n\n西侧石阶比试炼场那边窄，青苔从石缝里漫出来，踩上去有些滑。走了约莫半炷香，山势渐低，回头已经望不见试炼场的白线，只看见半山腰的松林和更远处灰蒙蒙的天际。风里有草木气，也有山下人家烧灶的烟味。\n\n石阶尽头是一道侧门，门边坐着个打瞌睡的老杂役。你报了退试，他翻出一本更薄的册子让你按了个手印，便摆摆手放行。门外是一条黄土官道，往左通向东南，路面上有车辙和牲口蹄印，一直伸进远处的薄雾里。\n\n你站在门外，袖中空了，木牌和纸包都不在了。官道两头都安静，只有风卷着落叶从脚边滚过去。青石镇在东南，走一日可到。你抬脚，朝左走去。",
+        "summary": "顾长离在试炼钟响前向灰袍执事交回木牌和包金屑的纸包，正式退出试炼。执事按弃权处理，记名在册，三年内不得再投玄霄宗山门，并告知纸中物会呈上查验、下山走西侧石阶、青石镇在东南沿官道一日可到。顾长离未与陆照临多言，从西侧石阶下山，经侧门老杂役按手印放行，独自走上通往东南的黄土官道。",
+        "branchState": {
+          "playerLocationId": "location_west_side_gate",
+          "playerCharacterId": "character_e663361ab1c7",
+          "characterLocationIds": {
+            "character_e663361ab1c7": "location_west_side_gate",
+            "character_ae4cb42b9b49": "location_open_trial"
+          },
+          "branchLedger": {
+            "schemaVersion": "branch-state-ledger/0.1",
+            "entries": [
+              {
+                "id": "ledger_000001_c8b65f26d6b0",
+                "sequence": 1,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:freeTextProgress",
+                "summary": "运行时状态字段“freeTextProgress”已由受控方向更新。",
+                "before": 0,
+                "after": 1,
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "direction_free_93a93ae1ee10",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000002_4302a31cb195",
+                "sequence": 2,
+                "kind": "location",
+                "operation": "added",
+                "entityId": "location_west_side_gate",
+                "summary": "半山试炼场西侧石阶尽头的门，门外是通往东南的黄土官道。",
+                "before": null,
+                "after": {
+                  "id": "location_west_side_gate",
+                  "name": "侧门",
+                  "summary": "半山试炼场西侧石阶尽头的门，门外是通往东南的黄土官道。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000003_25214d570c5a",
+                "sequence": 3,
+                "kind": "character",
+                "operation": "added",
+                "entityId": "character_gray_robe_deacon",
+                "summary": "半山试炼场负责试炼的执事，受理顾长离退试，记名弃权，告知三年内不得再投玄霄宗山门，并收下木牌与纸包。",
+                "before": null,
+                "after": {
+                  "id": "character_gray_robe_deacon",
+                  "name": "灰袍执事",
+                  "summary": "半山试炼场负责试炼的执事，受理顾长离退试，记名弃权，告知三年内不得再投玄霄宗山门，并收下木牌与纸包。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000004_12b16dd06b4b",
+                "sequence": 4,
+                "kind": "character",
+                "operation": "added",
+                "entityId": "character_old_handyman",
+                "summary": "西侧门边打瞌睡的老杂役，让顾长离按手印后放行下山。",
+                "before": null,
+                "after": {
+                  "id": "character_old_handyman",
+                  "name": "老杂役",
+                  "summary": "西侧门边打瞌睡的老杂役，让顾长离按手印后放行下山。"
+                },
+                "source": {
+                  "kind": "direction",
+                  "ref": "reader-action",
+                  "nodeRef": "reader-action"
+                }
+              },
+              {
+                "id": "ledger_000005_2982f0b7079f",
+                "sequence": 5,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:goalLedger",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": null,
+                "after": [
+                  {
+                    "id": "opening-goal-1",
+                    "title": "木牌刻痕里为何有金屑",
+                    "status": "abandoned",
+                    "characterId": "character_e663361ab1c7",
+                    "dependencies": [],
+                    "source": "player_branch",
+                    "evidence": "“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离交回纸包并明确不再调查金屑，执事称纸中物会呈上查验、与他无关。",
+                    "successor": ""
+                  },
+                  {
+                    "id": "opening-goal-2",
+                    "title": "如何完成第一场外门试炼",
+                    "status": "abandoned",
+                    "characterId": "character_e663361ab1c7",
+                    "dependencies": [],
+                    "source": "player_branch",
+                    "evidence": "“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。",
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离在钟响前正式退出试炼，执事按弃权处理。",
+                    "successor": ""
+                  }
+                ],
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000006_3fb1f758a17b",
+                "sequence": 6,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:threadLedger",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": [
+                  {
+                    "id": "opening-thread-1",
+                    "title": "木牌刻痕里为何有金屑",
+                    "status": "open",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": null,
+                    "reason": "",
+                    "evidence": "",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "id": "opening-thread-2",
+                    "title": "如何完成第一场外门试炼",
+                    "status": "open",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": null,
+                    "reason": "",
+                    "evidence": "",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  }
+                ],
+                "after": [
+                  {
+                    "id": "opening-thread-1",
+                    "title": "木牌刻痕里为何有金屑",
+                    "status": "abandoned",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离交回纸包并明确不再调查金屑，执事收下称会呈上查验。",
+                    "evidence": "“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "id": "opening-thread-2",
+                    "title": "如何完成第一场外门试炼",
+                    "status": "abandoned",
+                    "source": "opening",
+                    "openedBranchId": null,
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "reason": "顾长离在钟响前退试，执事按弃权处理并记名。",
+                    "evidence": "“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。",
+                    "priority": "unknown",
+                    "recoveryWindow": "unknown"
+                  },
+                  {
+                    "title": "退试弃权的后果",
+                    "status": "open",
+                    "reason": "执事已告知三年内不得再投玄霄宗山门，纸中物会呈上查验，后续影响尚未展开。",
+                    "evidence": "“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+                    "priority": "normal",
+                    "recoveryWindow": "mid",
+                    "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                    "id": "thread-fe16398d9e2967cb",
+                    "source": "player_branch",
+                    "openedBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d"
+                  }
+                ],
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000007_d89caf0fabae",
+                "sequence": 7,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:readerEntityStates",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": null,
+                "after": {
+                  "character_e663361ab1c7": {
+                    "trialStatus": "弃权",
+                    "sectBan": "三年内不得再投玄霄宗山门"
+                  }
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000008_5059a8b8a7b7",
+                "sequence": 8,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:characterLocationIds",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": {
+                  "character_e663361ab1c7": "location_open_trial",
+                  "character_ae4cb42b9b49": "location_open_trial"
+                },
+                "after": {
+                  "character_e663361ab1c7": "location_west_side_gate",
+                  "character_ae4cb42b9b49": "location_open_trial"
+                },
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                  "nodeRef": "node_source_continuity"
+                }
+              },
+              {
+                "id": "ledger_000009_b947fdad218b",
+                "sequence": 9,
+                "kind": "event",
+                "operation": "changed",
+                "entityId": "state:playerLocationId",
+                "summary": "已核对正文的行动结果与持续状态变化",
+                "before": "location_open_trial",
+                "after": "location_west_side_gate",
+                "source": {
+                  "kind": "player_direction",
+                  "ref": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                  "nodeRef": "node_source_continuity"
+                }
+              }
+            ]
+          },
+          "sourceProgress": "chapter_011",
+          "freeTextProgress": 1,
+          "storyScope": "source",
+          "derivativeStage": "inactive",
+          "derivedTurn": 0,
+          "derivedLocations": [
+            {
+              "id": "location_west_side_gate",
+              "name": "侧门",
+              "summary": "半山试炼场西侧石阶尽头的门，门外是通往东南的黄土官道。"
+            }
+          ],
+          "derivedCharacters": [
+            {
+              "id": "character_gray_robe_deacon",
+              "name": "灰袍执事",
+              "summary": "半山试炼场负责试炼的执事，受理顾长离退试，记名弃权，告知三年内不得再投玄霄宗山门，并收下木牌与纸包。"
+            },
+            {
+              "id": "character_old_handyman",
+              "name": "老杂役",
+              "summary": "西侧门边打瞌睡的老杂役，让顾长离按手印后放行下山。"
+            }
+          ],
+          "derivedItems": [],
+          "derivedCharacterReveals": [],
+          "derivedRelationships": [],
+          "derivedClues": [],
+          "derivedEvents": [],
+          "itemOwnerCharacterIds": {
+            "item_open_gu_token": "character_e663361ab1c7",
+            "item_open_gold_paper": "character_e663361ab1c7"
+          },
+          "itemLocationIds": {},
+          "characterOutcomeStates": {},
+          "threadLedger": [
+            {
+              "id": "opening-thread-1",
+              "title": "木牌刻痕里为何有金屑",
+              "status": "abandoned",
+              "source": "opening",
+              "openedBranchId": null,
+              "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+              "reason": "顾长离交回纸包并明确不再调查金屑，执事收下称会呈上查验。",
+              "evidence": "“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+              "priority": "unknown",
+              "recoveryWindow": "unknown"
+            },
+            {
+              "id": "opening-thread-2",
+              "title": "如何完成第一场外门试炼",
+              "status": "abandoned",
+              "source": "opening",
+              "openedBranchId": null,
+              "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+              "reason": "顾长离在钟响前退试，执事按弃权处理并记名。",
+              "evidence": "“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。",
+              "priority": "unknown",
+              "recoveryWindow": "unknown"
+            },
+            {
+              "title": "退试弃权的后果",
+              "status": "open",
+              "reason": "执事已告知三年内不得再投玄霄宗山门，纸中物会呈上查验，后续影响尚未展开。",
+              "evidence": "“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+              "priority": "normal",
+              "recoveryWindow": "mid",
+              "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+              "id": "thread-fe16398d9e2967cb",
+              "source": "player_branch",
+              "openedBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d"
+            }
+          ],
+          "readerEntityStates": {
+            "character_e663361ab1c7": {
+              "trialStatus": "弃权",
+              "sectBan": "三年内不得再投玄霄宗山门"
+            }
+          },
+          "goalLedger": [
+            {
+              "id": "opening-goal-1",
+              "title": "木牌刻痕里为何有金屑",
+              "status": "abandoned",
+              "characterId": "character_e663361ab1c7",
+              "dependencies": [],
+              "source": "player_branch",
+              "evidence": "“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+              "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+              "reason": "顾长离交回纸包并明确不再调查金屑，执事称纸中物会呈上查验、与他无关。",
+              "successor": ""
+            },
+            {
+              "id": "opening-goal-2",
+              "title": "如何完成第一场外门试炼",
+              "status": "abandoned",
+              "characterId": "character_e663361ab1c7",
+              "dependencies": [],
+              "source": "player_branch",
+              "evidence": "“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。",
+              "causeBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+              "reason": "顾长离在钟响前正式退出试炼，执事按弃权处理。",
+              "successor": ""
+            }
+          ]
+        },
+        "nextDirections": [],
+        "openThreads": [
+          "木牌刻痕里为何有金屑",
+          "如何完成第一场外门试炼",
+          "尚未完成的当前目标"
+        ],
+        "createdAt": "2026-09-30T01:35:37.633Z",
+        "canonicalRelation": "diverged",
+        "factDeltas": [],
+        "storyArc": {
+          "activeGoal": "自定行动：我向执事交回木牌和包着金",
+          "currentPhase": "自定行动：我向执事交回木牌和包着金",
+          "goalDisposition": "continued",
+          "chapter": {
+            "title": "《太虚遗录》·共创篇",
+            "status": "continuing"
+          }
+        },
+        "planning": {
+          "citations": [
+            {
+              "kind": "branch_node",
+              "ref": "branch_bb2ed016-c551-4a3a-8564-487a2653d2f7",
+              "rationale": "承接已确认的上一节点。"
+            }
+          ],
+          "confidence": "medium",
+          "stateChangeProposals": []
+        },
+        "branchAdditions": {
+          "locations": [],
+          "characters": [],
+          "items": [],
+          "relationships": [],
+          "clues": [],
+          "events": [],
+          "characterReveals": [],
+          "changes": []
+        },
+        "consequenceUpdate": {
+          "decision": "ready",
+          "message": "",
+          "requirements": {
+            "A1": {
+              "mode": "attempt",
+              "summary": "我向执事交回木牌和包着金屑的纸包，说明我决定退出试炼，独自下山到青石镇谋生，请他办清手续并告知后果。我不再调查金屑，也不邀请陆照临同行。"
+            }
+          },
+          "method": "只登记正文已发生的结果",
+          "steps": [
+            {
+              "id": "S1",
+              "actorId": "character_e663361ab1c7",
+              "action": "我向执事交回木牌和包着金屑的纸包，说明我决定退出试炼，独自下山到青石镇谋生，请他办清手续并告知后果。我不再调查金屑，也不邀请陆照临同行。",
+              "requirementIds": [
+                "A1"
+              ],
+              "authority": "player",
+              "causeStepId": null,
+              "usedItemIds": []
+            }
+          ],
+          "introductions": {
+            "characters": [
+              {
+                "id": "character_gray_robe_deacon",
+                "name": "灰袍执事",
+                "summary": "半山试炼场负责试炼的执事，受理顾长离退试，记名弃权，告知三年内不得再投玄霄宗山门，并收下木牌与纸包。",
+                "sourceStepId": "S1",
+                "evidence": "钟声还没响。场边的新弟子们三三两两站着，有人反复摩挲木牌，有人已经朝后坡张望。你穿过人群，走向石台边那个穿灰袍的中年人。他正低头在册子上记着什么，听见脚步才抬眼。\n\n你把木牌搁在册子旁边，又从袖中取出那个纸包，一并放下。\n\n“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”"
+              },
+              {
+                "id": "character_old_handyman",
+                "name": "老杂役",
+                "summary": "西侧门边打瞌睡的老杂役，让顾长离按手印后放行下山。",
+                "sourceStepId": "S1",
+                "evidence": "石阶尽头是一道侧门，门边坐着个打瞌睡的老杂役。你报了退试，他翻出一本更薄的册子让你按了个手印，便摆摆手放行。门外是一条黄土官道，往左通向东南，路面上有车辙和牲口蹄印，一直伸进远处的薄雾里。"
+              }
+            ],
+            "items": [],
+            "locations": [
+              {
+                "id": "location_west_side_gate",
+                "name": "侧门",
+                "summary": "半山试炼场西侧石阶尽头的门，门外是通往东南的黄土官道。",
+                "sourceStepId": "S1",
+                "evidence": "石阶尽头是一道侧门，门边坐着个打瞌睡的老杂役。你报了退试，他翻出一本更薄的册子让你按了个手印，便摆摆手放行。门外是一条黄土官道，往左通向东南，路面上有车辙和牲口蹄印，一直伸进远处的薄雾里。\n\n你站在门外，袖中空了，木牌和纸包都不在了。官道两头都安静，只有风卷着落叶从脚边滚过去。青石镇在东南，走一日可到。你抬脚，朝左走去。"
+              }
+            ]
+          },
+          "stateChanges": [
+            {
+              "id": "C1",
+              "entityId": "character_e663361ab1c7",
+              "attribute": "trialStatus",
+              "before": null,
+              "value": "弃权",
+              "stepId": "S1",
+              "reason": "钟前自退，执事按弃权处理并记名在册。",
+              "evidence": "“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。"
+            },
+            {
+              "id": "C2",
+              "entityId": "character_e663361ab1c7",
+              "attribute": "sectBan",
+              "before": null,
+              "value": "三年内不得再投玄霄宗山门",
+              "stepId": "S1",
+              "reason": "执事告知弃权者记名在册，三年内不得再投本宗山门。",
+              "evidence": "“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”"
+            },
+            {
+              "id": "C3",
+              "entityId": "character_e663361ab1c7",
+              "attribute": "locationId",
+              "before": "location_open_trial",
+              "value": "location_west_side_gate",
+              "stepId": "S1",
+              "reason": "经侧门老杂役放行后走出门外，站在黄土官道旁。",
+              "evidence": "石阶尽头是一道侧门，门边坐着个打瞌睡的老杂役。你报了退试，他翻出一本更薄的册子让你按了个手印，便摆摆手放行。门外是一条黄土官道，往左通向东南，路面上有车辙和牲口蹄印，一直伸进远处的薄雾里。\n\n你站在门外，袖中空了，木牌和纸包都不在了。官道两头都安静，只有风卷着落叶从脚边滚过去。青石镇在东南，走一日可到。你抬脚，朝左走去。"
+            }
+          ],
+          "outcomes": [],
+          "goalUpdates": [
+            {
+              "id": "opening-goal-1",
+              "title": "木牌刻痕里为何有金屑",
+              "status": "abandoned",
+              "dependencies": [],
+              "reason": "顾长离交回纸包并明确不再调查金屑，执事称纸中物会呈上查验、与他无关。",
+              "evidence": "“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+              "successor": ""
+            },
+            {
+              "id": "opening-goal-2",
+              "title": "如何完成第一场外门试炼",
+              "status": "abandoned",
+              "dependencies": [],
+              "reason": "顾长离在钟响前正式退出试炼，执事按弃权处理。",
+              "evidence": "“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。",
+              "successor": ""
+            }
+          ],
+          "threadUpdates": [
+            {
+              "id": "opening-thread-1",
+              "title": "木牌刻痕里为何有金屑",
+              "status": "abandoned",
+              "priority": "unknown",
+              "recoveryWindow": "unknown",
+              "reason": "顾长离交回纸包并明确不再调查金屑，执事收下称会呈上查验。",
+              "stepIds": [
+                "S1"
+              ],
+              "evidence": "“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”"
+            },
+            {
+              "id": "opening-thread-2",
+              "title": "如何完成第一场外门试炼",
+              "status": "abandoned",
+              "priority": "unknown",
+              "recoveryWindow": "unknown",
+              "reason": "顾长离在钟响前退试，执事按弃权处理并记名。",
+              "stepIds": [
+                "S1"
+              ],
+              "evidence": "“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。"
+            },
+            {
+              "id": "new-1",
+              "title": "退试弃权的后果",
+              "status": "open",
+              "priority": "normal",
+              "recoveryWindow": "mid",
+              "reason": "执事已告知三年内不得再投玄霄宗山门，纸中物会呈上查验，后续影响尚未展开。",
+              "stepIds": [
+                "S1"
+              ],
+              "evidence": "“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”"
+            }
+          ]
+        },
+        "actionIntent": {
+          "input": "我向执事交回木牌和包着金屑的纸包，说明我决定退出试炼，独自下山到青石镇谋生，请他办清手续并告知后果。我不再调查金屑，也不邀请陆照临同行。",
+          "requirements": {
+            "A1": "我向执事交回木牌和包着金屑的纸包",
+            "A2": "说明我决定退出试炼",
+            "A3": "独自下山到青石镇谋生",
+            "A4": "请他办清手续并告知后果",
+            "A5": "我不再调查金屑",
+            "A6": "也不邀请陆照临同行"
+          }
+        },
+        "deliveryReceipt": {
+          "version": "narrative-delivery/5",
+          "kind": "observed_state_not_prose_approval",
+          "parentSha256": "4928cf24ad8f3aacc88179e8927df86513523a346e61f12c374cadc143e3df6b",
+          "narrativeSha256": "5aea42bd9ef6eb7cd2699c9ff66b4c922599b3f02e2863dc1f456a3c9f3be2f6",
+          "actionSha256": "31d77d5dc98eb3feb550752c917a48a73928ac3bb774164b65f06fb401bf40d5",
+          "data": {
+            "currentScene": {
+              "evidenceQuote": "你站在门外，袖中空了，木牌和纸包都不在了。",
+              "name": "门外",
+              "basis": "observed",
+              "paragraphIds": [
+                "P18"
+              ],
+              "presentEntities": [
+                {
+                  "entityId": "character_e663361ab1c7",
+                  "entityName": "你",
+                  "basis": "observed",
+                  "paragraphIds": [
+                    "P18"
+                  ],
+                  "evidenceQuote": "你站在门外，袖中空了，木牌和纸包都不在了。"
+                }
+              ]
+            },
+            "summary": "顾长离在试炼钟响前向灰袍执事交回木牌和包金屑的纸包，正式退出试炼。执事按弃权处理，记名在册，三年内不得再投玄霄宗山门，并告知纸中物会呈上查验、下山走西侧石阶、青石镇在东南沿官道一日可到。顾长离未与陆照临多言，从西侧石阶下山，经侧门老杂役按手印放行，独自走上通往东南的黄土官道。",
+            "actionStatus": "performed",
+            "updates": {
+              "introductions": {
+                "characters": [
+                  {
+                    "id": "character_gray_robe_deacon",
+                    "name": "灰袍执事",
+                    "summary": "半山试炼场负责试炼的执事，受理顾长离退试，记名弃权，告知三年内不得再投玄霄宗山门，并收下木牌与纸包。",
+                    "paragraphIds": [
+                      "P1",
+                      "P4",
+                      "P7",
+                      "P10",
+                      "P11"
+                    ]
+                  },
+                  {
+                    "id": "character_old_handyman",
+                    "name": "老杂役",
+                    "summary": "西侧门边打瞌睡的老杂役，让顾长离按手印后放行下山。",
+                    "paragraphIds": [
+                      "P17"
+                    ]
+                  }
+                ],
+                "items": [],
+                "locations": [
+                  {
+                    "id": "location_west_side_gate",
+                    "name": "侧门",
+                    "summary": "半山试炼场西侧石阶尽头的门，门外是通往东南的黄土官道。",
+                    "paragraphIds": [
+                      "P17",
+                      "P18"
+                    ]
+                  }
+                ]
+              },
+              "stateChanges": [
+                {
+                  "entityId": "character_e663361ab1c7",
+                  "entityName": "你",
+                  "basis": "observed",
+                  "attribute": "trialStatus",
+                  "value": "弃权",
+                  "reason": "钟前自退，执事按弃权处理并记名在册。",
+                  "paragraphIds": [
+                    "P7",
+                    "P10"
+                  ]
+                },
+                {
+                  "entityId": "character_e663361ab1c7",
+                  "entityName": "你",
+                  "basis": "observed",
+                  "attribute": "sectBan",
+                  "value": "三年内不得再投玄霄宗山门",
+                  "reason": "执事告知弃权者记名在册，三年内不得再投本宗山门。",
+                  "paragraphIds": [
+                    "P7"
+                  ]
+                },
+                {
+                  "entityId": "character_e663361ab1c7",
+                  "entityName": "你",
+                  "basis": "observed",
+                  "attribute": "locationId",
+                  "value": "location_west_side_gate",
+                  "locationName": "侧门",
+                  "observedLocationName": "门外",
+                  "reason": "经侧门老杂役放行后走出门外，站在黄土官道旁。",
+                  "paragraphIds": [
+                    "P17",
+                    "P18"
+                  ]
+                }
+              ],
+              "outcomes": [],
+              "goalUpdates": [
+                {
+                  "id": "opening-goal-1",
+                  "title": "木牌刻痕里为何有金屑",
+                  "status": "abandoned",
+                  "dependencies": [],
+                  "reason": "顾长离交回纸包并明确不再调查金屑，执事称纸中物会呈上查验、与他无关。",
+                  "successor": "",
+                  "paragraphIds": [
+                    "P5",
+                    "P11"
+                  ]
+                },
+                {
+                  "id": "opening-goal-2",
+                  "title": "如何完成第一场外门试炼",
+                  "status": "abandoned",
+                  "dependencies": [],
+                  "reason": "顾长离在钟响前正式退出试炼，执事按弃权处理。",
+                  "successor": "",
+                  "paragraphIds": [
+                    "P3",
+                    "P7",
+                    "P10"
+                  ]
+                },
+                {
+                  "id": "new-1",
+                  "title": "独自下山到青石镇谋生",
+                  "status": "active",
+                  "dependencies": [],
+                  "reason": "顾长离决定退出试炼，独自前往青石镇谋生，已走上东南官道。",
+                  "successor": "",
+                  "paragraphIds": [
+                    "P11",
+                    "P18"
+                  ]
+                }
+              ],
+              "threadUpdates": [
+                {
+                  "id": "opening-thread-1",
+                  "title": "木牌刻痕里为何有金屑",
+                  "status": "abandoned",
+                  "priority": "unknown",
+                  "recoveryWindow": "unknown",
+                  "reason": "顾长离交回纸包并明确不再调查金屑，执事收下称会呈上查验。",
+                  "paragraphIds": [
+                    "P5",
+                    "P11"
+                  ]
+                },
+                {
+                  "id": "opening-thread-2",
+                  "title": "如何完成第一场外门试炼",
+                  "status": "abandoned",
+                  "priority": "unknown",
+                  "recoveryWindow": "unknown",
+                  "reason": "顾长离在钟响前退试，执事按弃权处理并记名。",
+                  "paragraphIds": [
+                    "P3",
+                    "P7",
+                    "P10"
+                  ]
+                },
+                {
+                  "id": "new-1",
+                  "title": "退试弃权的后果",
+                  "status": "open",
+                  "priority": "normal",
+                  "recoveryWindow": "mid",
+                  "reason": "执事已告知三年内不得再投玄霄宗山门，纸中物会呈上查验，后续影响尚未展开。",
+                  "paragraphIds": [
+                    "P7",
+                    "P11"
+                  ]
+                }
+              ]
+            },
+            "confirmedStates": [
+              {
+                "entityId": "character_e663361ab1c7",
+                "entityName": "你",
+                "basis": "observed",
+                "attribute": "trialStatus",
+                "value": "弃权",
+                "reason": "钟前自退，执事按弃权处理并记名在册。",
+                "paragraphIds": [
+                  "P7",
+                  "P10"
+                ]
+              },
+              {
+                "entityId": "character_e663361ab1c7",
+                "entityName": "你",
+                "basis": "observed",
+                "attribute": "sectBan",
+                "value": "三年内不得再投玄霄宗山门",
+                "reason": "执事告知弃权者记名在册，三年内不得再投本宗山门。",
+                "paragraphIds": [
+                  "P7"
+                ]
+              },
+              {
+                "entityId": "character_e663361ab1c7",
+                "entityName": "你",
+                "basis": "observed",
+                "attribute": "locationId",
+                "value": "location_west_side_gate",
+                "locationName": "侧门",
+                "observedLocationName": "门外",
+                "reason": "经侧门老杂役放行后走出门外，站在黄土官道旁。",
+                "paragraphIds": [
+                  "P17",
+                  "P18"
+                ]
+              }
+            ],
+            "followups": [
+              {
+                "summary": "执事称纸中金屑会呈上查验、与顾长离无关，但查验结果及是否引发后续追查尚未可知。",
+                "paragraphIds": [
+                  "P11"
+                ]
+              }
+            ],
+            "resolvedFollowups": [],
+            "journeyEnding": null
+          },
+          "failure": null
+        },
+        "readerOutcome": {
+          "action": {
+            "status": "performed",
+            "summary": "顾长离在试炼钟响前向灰袍执事交回木牌和包金屑的纸包，正式退出试炼。执事按弃权处理，记名在册，三年内不得再投玄霄宗山门，并告知纸中物会呈上查验、下山走西侧石阶、青石镇在东南沿官道一日可到。顾长离未与陆照临多言，从西侧石阶下山，经侧门老杂役按手印放行，独自走上通往东南的黄土官道。",
+            "evidence": "钟声还没响。场边的新弟子们三三两两站着，有人反复摩挲木牌，有人已经朝后坡张望。你穿过人群，走向石台边那个穿灰袍的中年人。他正低头在册子上记着什么，听见脚步才抬眼。\n\n你把木牌搁在册子旁边，又从袖中取出那个纸包，一并放下。\n\n“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇"
+          },
+          "actions": [],
+          "clues": [],
+          "relationships": []
+        },
+        "continuityFollowups": [
+          {
+            "id": "followup-7bff21afc4fb14d8c54e",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。character_e663361ab1c7",
+            "evidence": "悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”\n\n你答有。其实不多，但够走到镇上。\n\n执事不再多问，只朝西边抬了抬下巴：“去吧。钟响之前离开白线范围，免得旁人看着多话。”\n\n你转身时，陆照临还站在原处。他离得不远，方才的话大概听去了大半。他没有开口拦你，也没有跟上来，只是看着你，像在辨认什么。你与他不过互通了姓名，此刻也不必多说什么。你从他身侧走过，沿石径往西。\n\n身后钟声终于响了，沉而长，一声接一声，撞在山壁上又荡回来。新弟子们的脚步声、衣料摩擦声、低低的呼喝声混在一起，朝后坡涌去。你没有回头。\n\n西侧石阶比试炼场那边窄，青苔从石缝里漫出来，踩上去有些滑。走了约莫半炷香，山势渐低，回头已经望不见试炼场的白线，只看见半山腰的松林和更远处灰蒙蒙的天际。风里有草木气，也有山下人家烧灶的烟味。\n\n石阶尽头是一道侧门，门边坐着个打瞌睡的老杂役。你报了退试，他翻出一本更薄的册子让你按了个手印，便摆摆手放行。门外是一条黄土官道，往左通向东南，路面上有车辙和牲口蹄印，一直伸进远处的薄雾里。\n\n你站在门外，袖中空了，木牌和纸包都不在了。官道两头都安静，只有风卷着落叶从脚边滚过去。青石镇在东南，走一日可到。你抬脚，朝左走去。",
+            "entityIds": [
+              "character_e663361ab1c7"
+            ],
+            "originParentId": "branch_bb2ed016-c551-4a3a-8564-487a2653d2f7",
+            "originNarrativeSha256": "52d6a46b05313a878117026d54d074f3e639110642e0e633efc5e88222c81cf1"
+          },
+          {
+            "id": "followup-85d94526412395823879",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。",
+            "evidence": "悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”\n\n你答有。其实不多，但够走到镇上。\n\n执事不再多问，只朝西边抬了抬下巴：“去吧。钟响之前离开白线范围，免得旁人看着多话。”\n\n你转身时，陆照临还站在原处。他离得不远，方才的话大概听去了大半。他没有开口拦你，也没有跟上来，只是看着你，像在辨认什么。你与他不过互通了姓名，此刻也不必多说什么。你从他身侧走过，沿石径往西。\n\n身后钟声终于响了，沉而长，一声接一声，撞在山壁上又荡回来。新弟子们的脚步声、衣料摩擦声、低低的呼喝声混在一起，朝后坡涌去。你没有回头。\n\n西侧石阶比试炼场那边窄，青苔从石缝里漫出来，踩上去有些滑。走了约莫半炷香，山势渐低，回头已经望不见试炼场的白线，只看见半山腰的松林和更远处灰蒙蒙的天际。风里有草木气，也有山下人家烧灶的烟味。\n\n石阶尽头是一道侧门，门边坐着个打瞌睡的老杂役。你报了退试，他翻出一本更薄的册子让你按了个手印，便摆摆手放行。门外是一条黄土官道，往左通向东南，路面上有车辙和牲口蹄印，一直伸进远处的薄雾里。\n\n你站在门外，袖中空了，木牌和纸包都不在了。官道两头都安静，只有风卷着落叶从脚边滚过去。青石镇在东南，走一日可到。你抬脚，朝左走去。",
+            "entityIds": [],
+            "originParentId": "branch_bb2ed016-c551-4a3a-8564-487a2653d2f7",
+            "originNarrativeSha256": "52d6a46b05313a878117026d54d074f3e639110642e0e633efc5e88222c81cf1"
+          },
+          {
+            "id": "followup-d808b526a690f46de6b5",
+            "kind": "state_uncertain",
+            "status": "open",
+            "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。顾长离决定退出试炼，独自前往青石镇谋生，已走上东南官道。",
+            "evidence": "悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”\n\n你答有。其实不多，但够走到镇上。\n\n执事不再多问，只朝西边抬了抬下巴：“去吧。钟响之前离开白线范围，免得旁人看着多话。”\n\n你转身时，陆照临还站在原处。他离得不远，方才的话大概听去了大半。他没有开口拦你，也没有跟上来，只是看着你，像在辨认什么。你与他不过互通了姓名，此刻也不必多说什么。你从他身侧走过，沿石径往西。\n\n身后钟声终于响了，沉而长，一声接一声，撞在山壁上又荡回来。新弟子们的脚步声、衣料摩擦声、低低的呼喝声混在一起，朝后坡涌去。你没有回头。\n\n西侧石阶比试炼场那边窄，青苔从石缝里漫出来，踩上去有些滑。走了约莫半炷香，山势渐低，回头已经望不见试炼场的白线，只看见半山腰的松林和更远处灰蒙蒙的天际。风里有草木气，也有山下人家烧灶的烟味。\n\n石阶尽头是一道侧门，门边坐着个打瞌睡的老杂役。你报了退试，他翻出一本更薄的册子让你按了个手印，便摆摆手放行。门外是一条黄土官道，往左通向东南，路面上有车辙和牲口蹄印，一直伸进远处的薄雾里。\n\n你站在门外，袖中空了，木牌和纸包都不在了。官道两头都安静，只有风卷着落叶从脚边滚过去。青石镇在东南，走一日可到。你抬脚，朝左走去。",
+            "entityIds": [
+              "new-1"
+            ],
+            "originParentId": "branch_bb2ed016-c551-4a3a-8564-487a2653d2f7",
+            "originNarrativeSha256": "52d6a46b05313a878117026d54d074f3e639110642e0e633efc5e88222c81cf1"
+          },
+          {
+            "id": "followup-bf12e52c9860d8e5bddc",
+            "kind": "continuity",
+            "status": "open",
+            "summary": "执事称纸中金屑会呈上查验、与顾长离无关，但查验结果及是否引发后续追查尚未可知。",
+            "evidence": "写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”",
+            "entityIds": [],
+            "originParentId": "branch_bb2ed016-c551-4a3a-8564-487a2653d2f7",
+            "originNarrativeSha256": "52d6a46b05313a878117026d54d074f3e639110642e0e633efc5e88222c81cf1"
+          }
+        ],
+        "observationDiagnostics": [
+          {
+            "item": {
+              "entityId": "character_e663361ab1c7",
+              "entityName": "你",
+              "basis": "observed",
+              "paragraphIds": [
+                "P18"
+              ],
+              "evidenceQuote": "你站在门外，袖中空了，木牌和纸包都不在了。"
+            },
+            "reason": "人物未到或已离场，不能登记为仍在场"
+          },
+          {
+            "item": {
+              "evidenceQuote": "你站在门外，袖中空了，木牌和纸包都不在了。",
+              "name": "门外",
+              "basis": "observed",
+              "paragraphIds": [
+                "P18"
+              ],
+              "presentEntities": [
+                {
+                  "entityId": "character_e663361ab1c7",
+                  "entityName": "你",
+                  "basis": "observed",
+                  "paragraphIds": [
+                    "P18"
+                  ],
+                  "evidenceQuote": "你站在门外，袖中空了，木牌和纸包都不在了。"
+                }
+              ]
+            },
+            "reason": "当前场所在场人物引用无效"
+          },
+          {
+            "item": {
+              "id": "new-1",
+              "title": "独自下山到青石镇谋生",
+              "status": "active",
+              "dependencies": [],
+              "reason": "顾长离决定退出试炼，独自前往青石镇谋生，已走上东南官道。",
+              "successor": "",
+              "paragraphIds": [
+                "P11",
+                "P18"
+              ]
+            },
+            "reason": "目标引用无效"
+          }
+        ],
+        "readingProfile": {
+          "level": "unplanned",
+          "targetCjk": null,
+          "hardMinimum": false,
+          "minCjk": 80,
+          "maxCjk": 1500,
+          "lengthPolicy": "final_visible_prose_dynamic_80_1500",
+          "actualCjk": 929,
+          "expansionApplied": false
+        },
+        "proseQuality": {
+          "status": "not_automatically_reviewed",
+          "reviewer": "developer"
+        },
+        "storyJourney": {
+          "version": "story-journey/1",
+          "budget": {
+            "targetMinutes": 150,
+            "typicalMinutes": [
+              120,
+              180
+            ],
+            "targetCjk": 30000,
+            "typicalCjk": [
+              25000,
+              40000
+            ],
+            "targetTurns": 45,
+            "typicalTurns": [
+              40,
+              60
+            ]
+          },
+          "progress": {
+            "consumedCjk": 1169,
+            "completedTurns": 1,
+            "remainingCjk": 28831,
+            "remainingTurns": 44,
+            "suggestedPhase": "establish",
+            "pacing": "developing",
+            "plotCompletion": null
+          },
+          "plan": {
+            "premise": "顾长离第一次参加玄霄宗外门试炼，却在钟响前决定退出，交回木牌与包着金屑的纸包，独自下山到青石镇谋生。离开宗门庇护后，他要在陌生市镇立足，同时面对退试带来的后果与那粒金屑未解之谜的余波。",
+            "centralQuestion": "一个主动放弃宗门试炼的人，能否在青石镇靠自己活出另一条路，并承受这个选择带来的代价？",
+            "revisionReason": "玩家明确放弃试炼与金屑调查，转向退出宗门、独自谋生，原计划围绕试炼与金屑推进的路径失效，故重排为下山立足与后果承担。",
+            "phases": [
+              {
+                "id": "establish",
+                "title": "钟响前退试",
+                "purpose": "顾长离向执事交回木牌与纸包，办理退试手续，听取后果；执事可能劝阻、记录或放行，玩家决定如何应对。",
+                "payoff": "确立退试的正式后果与下山身份，为青石镇谋生提供起点，并留下金屑纸包已交出的后续可能。",
+                "targetEndCjk": 4500
+              },
+              {
+                "id": "develop",
+                "title": "青石镇立足",
+                "purpose": "顾长离独自下山到青石镇，寻找住处与活计，面对无宗门背景的谋生困难；玩家决定以何种方式谋生、与谁打交道。",
+                "payoff": "建立市镇关系与生计基础，暴露退试者身份可能带来的偏见或机会，为后续冲突准备资源与人脉。",
+                "targetEndCjk": 10500
+              },
+              {
+                "id": "turn",
+                "title": "退试的代价",
+                "purpose": "退试后果或金屑旧事以某种方式追到青石镇，顾长离必须在安稳谋生与重新面对旧疑之间选择；玩家决定是否回应、如何回应。",
+                "payoff": "把退试选择与金屑线索重新拉回，检验顾长离是否真能放下，或被迫以新身份处理旧问题。",
+                "targetEndCjk": 18000
+              },
+              {
+                "id": "resolve",
+                "title": "自己的路",
+                "purpose": "顾长离在青石镇的关键冲突中做出最终取舍，可能彻底切断与玄霄宗试炼的牵连，也可能以平民身份解决金屑余波；玩家决定立场与手段。",
+                "payoff": "兑现退试与谋生的核心矛盾，交代金屑线索的走向，让顾长离获得或失去他在青石镇的位置。",
+                "targetEndCjk": 25000
+              },
+              {
+                "id": "conclude",
+                "title": "山下余波",
+                "purpose": "处理关键选择的直接后果，展示顾长离在青石镇的新日常或离镇去向，收束退试与金屑的余波。",
+                "payoff": "给出顾长离独自谋生这条路的阶段性结果，留下符合世界规则的余韵，不强行拉回宗门主线。",
+                "targetEndCjk": 30000
+              }
+            ]
+          },
+          "planStatus": "provisional",
+          "revision": 1,
+          "review": {
+            "status": "recorded",
+            "decision": "revise",
+            "reason": "玩家明确放弃试炼与金屑调查，转向退出宗门、独自下山谋生，旧计划中围绕试炼与金屑的推进路径失效，需重排阶段。",
+            "nextMilestone": "执事受理退试申请，说明手续与后果，顾长离交回木牌与纸包，试炼资格被取消，下山路径与青石镇方向得到确认。",
+            "planChanged": true
+          },
+          "authority": "future_possibilities_not_facts",
+          "ending": null
+        },
+        "naturalEnding": false,
+        "selectedDirectionId": "direction_free_93a93ae1ee10",
+        "selectedDirection": {
+          "id": "direction_free_93a93ae1ee10",
+          "title": "自定行动：我向执事交回木牌和包着金",
+          "summary": "我向执事交回木牌和包着金屑的纸包，说明我决定退出试炼，独自下山到青石镇谋生，请他办清手续并告知后果。我不再调查金屑，也不邀请陆照临同行。",
+          "statePatch": {
+            "freeTextProgress": 1
+          },
+          "isFreeText": true
+        },
+        "playerDirection": "我向执事交回木牌和包着金屑的纸包，说明我决定退出试炼，独自下山到青石镇谋生，请他办清手续并告知后果。我不再调查金屑，也不邀请陆照临同行。",
+        "requestId": "playthrough-0b127c5a28eb45f7a83162dbdaca21b5",
+        "contextId": "ctx-d82ccb981fe057b3",
+        "contextMemory": {
+          "schemaVersion": "committed-outcome-memory/2",
+          "package": {
+            "id": "taixu-relics-part1",
+            "version": "0.1.3",
+            "moduleIndexSha256": "0894f7eebc6fa34b23310839da0eb3cd7b15d2784d7e559aee3f18af9aa171c2"
+          },
+          "originBranchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+          "parentBranchId": "branch_bb2ed016-c551-4a3a-8564-487a2653d2f7",
+          "sourceNodeRef": "node_source_continuity",
+          "narrativeSha256": "5aea42bd9ef6eb7cd2699c9ff66b4c922599b3f02e2863dc1f456a3c9f3be2f6",
+          "intentSha256": "4f6327d9da264e94f08cfeb1f62ee0cfc83c2ab1a3074962a5637e7af09ffb94",
+          "reviewSha256": "7d7a0acdd90504bb8372ee8aca67623997a10492afd4fe837b4fb95ce6db41f2",
+          "records": [
+            {
+              "domain": "goal",
+              "entityId": "opening-goal-1",
+              "stateSha256": "78d1140486325b8830e52c10d7728f22f7e7e97b76147b6a4311e33c2bfc2db7",
+              "memory": {
+                "memoryId": "memory-48113bd41795b12c668da35b",
+                "kind": "event",
+                "sourceIds": [
+                  "memory:goal:branch_f4993118-9156-4af2-a4ed-ce20b710d61d:opening-goal-1"
+                ],
+                "branchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                "visibility": "player_known",
+                "authority": "confirmed_evidence",
+                "validity": "confirmed",
+                "status": "confirmed",
+                "sequence": 2,
+                "content": "目标「木牌刻痕里为何有金屑」：已放下。"
+              }
+            },
+            {
+              "domain": "goal",
+              "entityId": "opening-goal-2",
+              "stateSha256": "ae868c55636864b64300288385598bf2c15ea54e36950c256ce0de2a5d464957",
+              "memory": {
+                "memoryId": "memory-91998830fe1b740686d04ead",
+                "kind": "event",
+                "sourceIds": [
+                  "memory:goal:branch_f4993118-9156-4af2-a4ed-ce20b710d61d:opening-goal-2"
+                ],
+                "branchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                "visibility": "player_known",
+                "authority": "confirmed_evidence",
+                "validity": "confirmed",
+                "status": "confirmed",
+                "sequence": 2,
+                "content": "目标「如何完成第一场外门试炼」：已放下。"
+              }
+            },
+            {
+              "domain": "thread",
+              "entityId": "opening-thread-1",
+              "stateSha256": "958efa282bb08daec537fdc21651170b16591d798ff7083a4737b05b6b6b9e89",
+              "memory": {
+                "memoryId": "memory-b1793aebcc15dfbf1e9082c9",
+                "kind": "event",
+                "sourceIds": [
+                  "memory:thread:branch_f4993118-9156-4af2-a4ed-ce20b710d61d:opening-thread-1"
+                ],
+                "branchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                "visibility": "player_known",
+                "authority": "confirmed_evidence",
+                "validity": "confirmed",
+                "status": "confirmed",
+                "sequence": 2,
+                "content": "剧情问题「木牌刻痕里为何有金屑」：已放下。"
+              }
+            },
+            {
+              "domain": "thread",
+              "entityId": "opening-thread-2",
+              "stateSha256": "667b2a3e04304d6199940ee7b97ca2e2a36949f66f84f4512ac5194f94cf512b",
+              "memory": {
+                "memoryId": "memory-f3a8dbd00aba426e22d1f069",
+                "kind": "event",
+                "sourceIds": [
+                  "memory:thread:branch_f4993118-9156-4af2-a4ed-ce20b710d61d:opening-thread-2"
+                ],
+                "branchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                "visibility": "player_known",
+                "authority": "confirmed_evidence",
+                "validity": "confirmed",
+                "status": "confirmed",
+                "sequence": 2,
+                "content": "剧情问题「如何完成第一场外门试炼」：已放下。"
+              }
+            },
+            {
+              "domain": "thread",
+              "entityId": "thread-fe16398d9e2967cb",
+              "stateSha256": "45eda942c71ab1edf227027b49ee95a05074ab460c9c04aec2192df43873bea3",
+              "memory": {
+                "memoryId": "memory-fb2097924da5eb8b8723ee2d",
+                "kind": "event",
+                "sourceIds": [
+                  "memory:thread:branch_f4993118-9156-4af2-a4ed-ce20b710d61d:thread-fe16398d9e2967cb"
+                ],
+                "branchId": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                "visibility": "player_known",
+                "authority": "confirmed_evidence",
+                "validity": "confirmed",
+                "status": "confirmed",
+                "sequence": 2,
+                "content": "剧情问题「退试弃权的后果」：待处理。"
+              }
+            }
+          ]
+        },
+        "readerChoices": [
+          {
+            "id": "reader-71a943d8e0a617cd",
+            "title": "沿官道赴青石镇",
+            "summary": "我沿东南官道继续走，按执事说的方向前往青石镇。路上留意车辙、蹄印和行人，天黑前找落脚处，不绕路也不回头。",
+            "evidence": [
+              "石阶尽头是一道侧门，门边坐着个打瞌睡的老杂役。你报了退试，他翻出一本更薄的册子让你按了个手印，便摆摆手放行。门外是一条黄土官道，往左通向东南，路面上有车辙和牲口蹄印，一直伸进远处的薄雾里。",
+              "你站在门外，袖中空了，木牌和纸包都不在了。官道两头都安静，只有风卷着落叶从脚边滚过去。青石镇在东南，走一日可到。你抬脚，朝左走去。"
+            ],
+            "dependencies": {
+              "version": "reader-choice-dependencies/3",
+              "contextDigest": "9bc26d157fe3ce747c6b69dfa247dc71e74bde6d203e47d847a9129f7f517e77",
+              "paragraphIds": [
+                "P17",
+                "P18"
+              ],
+              "interactWith": [],
+              "mentionOnly": []
+            }
+          },
+          {
+            "id": "reader-8e5b2759fe6a4038",
+            "title": "在门外清点盘缠",
+            "summary": "我站在门外，把袖中和身上剩下的盘缠清点一遍，算算够不够走到青石镇、够不够在镇上撑几天。清点完再决定是继续赶路还是先想别的办法。",
+            "evidence": [
+              "你答有。其实不多，但够走到镇上。",
+              "你站在门外，袖中空了，木牌和纸包都不在了。官道两头都安静，只有风卷着落叶从脚边滚过去。青石镇在东南，走一日可到。你抬脚，朝左走去。"
+            ],
+            "dependencies": {
+              "version": "reader-choice-dependencies/3",
+              "contextDigest": "9bc26d157fe3ce747c6b69dfa247dc71e74bde6d203e47d847a9129f7f517e77",
+              "paragraphIds": [
+                "P12",
+                "P18"
+              ],
+              "interactWith": [],
+              "mentionOnly": []
+            }
+          }
+        ],
+        "turnInput": {
+          "text": "我向执事交回木牌和包着金屑的纸包，说明我决定退出试炼，独自下山到青石镇谋生，请他办清手续并告知后果。我不再调查金屑，也不邀请陆照临同行。"
+        },
+        "preparedTurnKey": "5d14c18bab616214319c6780d2ec8bf956886f0a3d31dd8ca2d761b73cfa2a97",
+        "preparedAttemptId": "ddfe133252154a2da6d0a498a93d61e4",
+        "routeOutline": {
+          "version": "route-outline/3",
+          "branch_id": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+          "root_branch_id": "branch_bb2ed016-c551-4a3a-8564-487a2653d2f7",
+          "binding_digest": "e53ef60340f1b5e9d13f1097b179d6c545a405e449ef1e471215aa849222a691",
+          "structure": {
+            "volume": null,
+            "arc": "arc_source_chapter_003",
+            "beat": "beat_chapter_011",
+            "source_progress": "chapter_011"
+          },
+          "goals": [
+            {
+              "id": "opening-goal-1",
+              "title": "木牌刻痕里为何有金屑",
+              "status": "abandoned",
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                "ref": "opening-goal-1",
+                "quote": "“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”"
+              },
+              "priority": "unknown",
+              "recoveryWindow": "unknown",
+              "completion": {
+                "ledger": "goalLedger",
+                "target_id": "opening-goal-1",
+                "target_statuses": [
+                  "completed"
+                ],
+                "met": false,
+                "requires_narrative_evidence": true
+              }
+            },
+            {
+              "id": "opening-goal-2",
+              "title": "如何完成第一场外门试炼",
+              "status": "abandoned",
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                "ref": "opening-goal-2",
+                "quote": "“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。"
+              },
+              "priority": "unknown",
+              "recoveryWindow": "unknown",
+              "completion": {
+                "ledger": "goalLedger",
+                "target_id": "opening-goal-2",
+                "target_statuses": [
+                  "completed"
+                ],
+                "met": false,
+                "requires_narrative_evidence": true
+              }
+            }
+          ],
+          "threads": [
+            {
+              "id": "opening-thread-1",
+              "title": "木牌刻痕里为何有金屑",
+              "status": "abandoned",
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                "ref": "opening-thread-1",
+                "quote": "“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”"
+              },
+              "priority": "unknown",
+              "recoveryWindow": "unknown",
+              "completion": {
+                "ledger": "threadLedger",
+                "target_id": "opening-thread-1",
+                "target_statuses": [
+                  "resolved",
+                  "abandoned"
+                ],
+                "met": true,
+                "requires_narrative_evidence": true
+              }
+            },
+            {
+              "id": "opening-thread-2",
+              "title": "如何完成第一场外门试炼",
+              "status": "abandoned",
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                "ref": "opening-thread-2",
+                "quote": "“执事，我退出试炼。”\n\n灰袍执事的手停在半空，笔尖悬着没落。他看了看木牌，又看了看你，眉头慢慢拧起来：“你说什么？”\n\n“退出。”你重复了一遍，“木牌交回，这纸里是木牌刻痕里刮出的东西，也一并交给你。请办清手续，告诉我后果。”\n\n执事放下笔，拿起木牌翻到背面。刻痕里那点金屑已经被你刮走，只剩一道浅浅的凹槽。他对着光看了看，又捏起纸包掂了掂，没有拆开。\n\n“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。"
+              },
+              "priority": "unknown",
+              "recoveryWindow": "unknown",
+              "completion": {
+                "ledger": "threadLedger",
+                "target_id": "opening-thread-2",
+                "target_statuses": [
+                  "resolved",
+                  "abandoned"
+                ],
+                "met": true,
+                "requires_narrative_evidence": true
+              }
+            },
+            {
+              "id": "thread-fe16398d9e2967cb",
+              "title": "退试弃权的后果",
+              "status": "open",
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                "ref": "thread-fe16398d9e2967cb",
+                "quote": "“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”"
+              },
+              "priority": "normal",
+              "recoveryWindow": "mid",
+              "completion": {
+                "ledger": "threadLedger",
+                "target_id": "thread-fe16398d9e2967cb",
+                "target_statuses": [
+                  "resolved",
+                  "abandoned"
+                ],
+                "met": false,
+                "requires_narrative_evidence": true
+              }
+            }
+          ],
+          "conflicts": [],
+          "steps": [
+            {
+              "id": "thread:thread-fe16398d9e2967cb",
+              "kind": "address_thread",
+              "target_id": "thread-fe16398d9e2967cb",
+              "title": "退试弃权的后果",
+              "blockers": [],
+              "evidence": {
+                "kind": "narrative",
+                "branch_id": "branch_f4993118-9156-4af2-a4ed-ce20b710d61d",
+                "ref": "thread-fe16398d9e2967cb",
+                "quote": "“顾长离。”他念出木牌侧面的名字，声音不高，“试炼钟未响，你还没入场，退试按弃权论。玄霄宗外门三年一召，弃权者记名在册，三年内不得再投本宗山门。这是规矩，白纸黑字。”\n\n他把木牌搁回册子上，指尖压着：“你确定？现在回头还来得及，钟一响就由不得你了。”\n\n“确定。”\n\n执事盯了你片刻，见你没有改口的意思，便从册子底下抽出一张薄笺，提笔蘸墨，在笺上写了你的名字、籍贯栏空着、事由栏填了“钟前自退”四字。他写得很慢，一笔一画，像是给足你反悔的工夫。你没有反悔。\n\n写罢，他把薄笺夹进册子，木牌收进一只布袋，纸包单独放在一旁。“纸里的东西我会呈上去查验，与你无关了。”他顿了顿，“下山的路从西侧石阶走，半个时辰到山脚。青石镇在东南，出了山门往左，沿官道走一日可到。你身上有盘缠吗？”"
+              },
+              "priority": "normal",
+              "recoveryWindow": "mid",
+              "completion": {
+                "ledger": "threadLedger",
+                "target_id": "thread-fe16398d9e2967cb",
+                "target_statuses": [
+                  "resolved",
+                  "abandoned"
+                ],
+                "met": false,
+                "requires_narrative_evidence": true
+              }
+            }
+          ]
+        }
+      },
+      "reason": "已登记为本回合自定义行动；状态变化由本地脚本控制。"
+    }
+  }
+]

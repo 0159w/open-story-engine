@@ -42,6 +42,18 @@ class StateVisibilityTests(unittest.TestCase):
             },
         )
 
+    def test_observed_absence_has_no_location_to_expose(self):
+        declaration = {"schemaVersion": "state-visibility/0.2", "paths": {},
+                       "pathTemplates": {"/characterLocationIds/{playerCharacterId}": "player_known"}}
+        state = {"playerCharacterId": "character/a", "characterLocationIds": {},
+                 "characterOutcomeStates": {"character/a": {"status": "departed", "permanence": "permanent"}}}
+        self.assertEqual(expand_state_visibility(declaration, state, self.package), {})
+        self.assertEqual(state["characterLocationIds"], {})
+        for status in ("alive", "injured", "dead"):
+            state["characterOutcomeStates"]["character/a"]["status"] = status
+            with self.assertRaisesRegex(StoryPackageError, "现有叶子字段"):
+                expand_state_visibility(declaration, state, self.package)
+
     def test_version_01_is_static_only(self):
         declaration = {
             "schemaVersion": "state-visibility/0.1",

@@ -4,6 +4,7 @@ import { prepareOpeningImage } from '../components/openingImage'
 import { StoryProse } from '../components/StoryProse'
 import { replayProse } from '../components/proseReplay'
 import { RouteClosurePanel } from '../components/RouteClosurePanel'
+import { StoryPausePanel } from '../components/StoryPausePanel'
 import { CharacterGraph } from '../components/CharacterGraph'
 import { GraphPortrait } from '../components/GraphPortrait'
 import { api } from '../api/client'
@@ -511,6 +512,10 @@ export function SessionPage() {
     ? branches.find((b) => b.id === selected.parentId)
     : null
   const children = branches.filter((b) => b.parent_id === selected?.id)
+  const latestBranch = branches.reduce<BranchSummaryItem | null>(
+    (latest, branch) => !latest || branch.sequence > latest.sequence ? branch : latest,
+    null,
+  )
   const people = journal?.people ?? []
   const routeEnded = journal && journal.status !== 'active'
   const activeGoals = journal?.goals?.filter((goal) => goal.status === 'active') ?? []
@@ -547,8 +552,21 @@ export function SessionPage() {
               context?.context.currentChapter.title ??
               '故事正文'}
           </span>
+          {selected && latestBranch && selected.id !== latestBranch.id && (
+            <button
+              className="text-button"
+              disabled={writing || loading}
+              title="打开本存档最后保存的剧情"
+              onClick={() => {
+                setNotice('')
+                void selectBranch(latestBranch.id)
+              }}
+            >
+              回到最新一页
+            </button>
+          )}
           <span>
-            {place ?? '旅程进行中'} · 第 {selected ? selected.sequence + 1 : 1}{' '}
+            {routeEnded ? '路线已结束' : place ?? '旅程进行中'} · 第 {selected ? selected.sequence + 1 : 1}{' '}
             页
           </span>
         </div>
@@ -606,10 +624,13 @@ export function SessionPage() {
                   disabled={!children.length || writing}
                   onClick={() => {
                     setNotice('')
-                    void selectBranch(children[0].id)
+                    if (children.length > 1) {
+                      setTab('review')
+                      setRailOpen(true)
+                    } else if (children[0]) void selectBranch(children[0].id)
                   }}
                 >
-                  下一页
+                  {children.length > 1 ? '选择后续路线' : '下一页'}
                 </button>
               </div>}
             </div>
@@ -641,12 +662,12 @@ export function SessionPage() {
                       : '你在这里停下了脚步'}
                   </h2>
                   <p>
-                    这条路线已保存。你可以在目标时间轴中回到更早的选择，尝试另一种可能。
+                    这条路线已保存。你可以回顾经历，回到更早的选择，尝试另一种可能。
                   </p>
                   <button
                     className="button subtle"
                     onClick={() => {
-                      setTab('goal')
+                      setTab('review')
                       setRailOpen(true)
                     }}
                   >
@@ -779,6 +800,9 @@ export function SessionPage() {
                 <span>{selected ? `第 ${selected.sequence + 1} 页` : '故事开篇'}</span>
                 <span>{routeEnded ? '路线已结束' : '故事进行中'}</span>
               </div>
+              {journal.playthrough_length && <p className="muted">
+                已留下 {journal.playthrough_length.consumed_cjk.toLocaleString('zh-CN')} 字故事 · {journal.playthrough_length.completed_turns} 次互动
+              </p>}
               <section className="journal-section journal-goal" aria-label="当前目标">
                 <span className="eyebrow">当前目标</span>
                 {activeGoals.length ? <ul className="journal-goal-list">
@@ -812,14 +836,21 @@ export function SessionPage() {
                 </details>
               )}
               {selected && <details className="journal-advanced">
-                <summary>{routeEnded ? '查看路线收束记录' : '路线设置与结束'}</summary>
-                <RouteClosurePanel
+                <summary>{journal.playthrough_length ? '保存与告别' : routeEnded ? '查看路线收束记录' : '路线设置与结束'}</summary>
+                {journal.playthrough_length ? <StoryPausePanel
+                  key={selected.id}
+                  sessionId={sessionId}
+                  branchId={selected.id}
+                  ended={!!routeEnded}
+                  canEnd={playable && !writing && !loading && !rechoosing && children.length === 0}
+                  onChanged={() => void loadJournal(selected.id)}
+                /> : <RouteClosurePanel
                   sessionId={sessionId}
                   branchId={selected.id}
                   narrative={selected.narrativeText}
                   canEdit={playable && !routeEnded && children.length === 0}
                   onChanged={() => void loadJournal(selected.id)}
-                />
+                />}
               </details>}
             </div>
           ) : tab === 'review' ? (

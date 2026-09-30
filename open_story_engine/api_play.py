@@ -420,6 +420,11 @@ class PlayService:
                 elif stream:
                     _stream_text(root['narrativeText'], stream)
                 contract['webStartSignature'] = signature
+                if self.mode == 'openai':
+                    from . import story_journey
+                    initial = story_journey.prepare(dict(contract=contract, parent=root, lineage=[root]))
+                    root['storyJourney'] = {k: initial[k] for k in
+                        ('version', 'budget', 'progress', 'plan', 'planStatus', 'authority')}
                 from .route_outline import build_outline
                 try:
                     root['routeOutline'] = build_outline(package, contract, [root])
@@ -766,6 +771,9 @@ class PlayService:
                 beat = player_beat(package, state)
                 ending_ids = package['story'].get('narrativeGraph', {}).get('endingBeatIds', {}).values()
                 terminal = state.get('storyScope') == 'source' and beat and beat['id'] in ending_ids
+                from .story_journey import enabled as journey_enabled
+                if snapshot.node and journey_enabled(snapshot.node):
+                    terminal = snapshot.node.get('naturalEnding') is True
                 if enabled(snapshot.package) and snapshot.node and not terminal:
                     menu, menu_audit = generate_choices(planner.gateway, package, snapshot.story_contract, snapshot.history, snapshot.node)
                     snapshot.audits.append([menu_audit, bid])
@@ -819,6 +827,9 @@ class PlayService:
             return False
         if node.get('naturalEnding') is True:
             return True
+        from .story_journey import enabled as journey_enabled
+        if journey_enabled(node):
+            return False
         ending_ids = set((package.get('story', {}).get('narrativeGraph', {}).get('endingBeatIds') or {}).values())
         return node.get('sourceNodeRef') in ending_ids
 
@@ -831,6 +842,13 @@ class PlayService:
             'ending_type': 'natural', 'branch_id': branch_id, 'closed_at': now(),
             'ending_written': True, 'source': 'scene_completion',
         }
+        from .story_journey import enabled as journey_enabled
+        if journey_enabled(nodes[-1]):
+            ending = nodes[-1]['storyJourney']['ending']
+            record['receipt'].update(
+                ending_type='failure' if ending['kind'] == 'failed' else 'normal',
+                source='observed_narrative', observation=ending,
+                narrative_sha256=hashlib.sha256(nodes[-1]['narrativeText'].encode()).hexdigest())
         save_record(store, session_id, branch_id, record)
         saved = preferences(store, session_id)
         saved['ended'][branch_id] = 'completed'

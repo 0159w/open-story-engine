@@ -896,7 +896,8 @@ class PlayerNarrativePlanner(LlmPlanner):
                     'entityFacts': hard.get('entityFacts', {}),
                 },
                 'allowedEvidence': chapter_projection.get('allowedEvidence', []),
-                'outputContract': chapter_projection.get('outputContract', {}),
+                'outputContract': {k: v for k, v in chapter_projection.get('outputContract', {}).items()
+                                   if k != 'storyJourney'},
                 **({'continuityText': chapter_history} if context.get('narrativePolicy') != 'context_only' else {}),
                 'hardFacts': chapter_facts,
                 'items': projected_items,
@@ -944,7 +945,15 @@ class PlayerNarrativePlanner(LlmPlanner):
                 place_2=f'{place}',
                 repair_instruction=f"{('必须修正：' + repair if repair else '')}",
             )
+        if context.get('storyJourney'):
+            event_brief += '\n整局角色故事规划（未来可能性，不是事实；既成事实和本次行动优先）：' + json.dumps(context['storyJourney'], ensure_ascii=False)
         ending = bool(current and not selected.get('readerInterlude') and api_routes.completed_steps(parent) == api_routes.STEPS-1)
+        ending_instruction = ('这是本路线的结局，明确回应最初目标，自然收束，不再悬置同一个问题。'
+                              if ending or terminal_source_branch else '停在需要你作出下一步决定的位置。')
+        if context.get('storyJourney'):
+            ending_instruction = ('围绕角色自己的目标与选择推进。若实际核心冲突已交代、角色故事已完整，'
+                                  '或本次行动确实造成不可继续的终局，写清结果与余波，自然结束；'
+                                  '否则停在有意义的下一次决定。原著终点、预算耗尽或阶段计划均不代表故事已经结束。')
         self.last_prompt_context['scene'] = current[2] if current else selected['title']
         pacing = scene_pacing(context.get('resultContract'), parent, state)
         self.last_prompt_context['pacing'] = pacing
@@ -963,7 +972,7 @@ class PlayerNarrativePlanner(LlmPlanner):
             character_names=f"{'、'.join(names)}",
             location_names=f"{'、'.join(places)}",
             event_brief=f'{event_brief}',
-            ending_instruction=f"{('这是本路线的结局，明确回应最初目标，自然收束，不再悬置同一个问题。' if ending or terminal_source_branch else '停在需要你作出下一步决定的位置。')}",
+            ending_instruction=ending_instruction,
             repair_instruction=f"{('修正要求：' + repair if repair else '')}",
         )
 

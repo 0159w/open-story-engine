@@ -71,7 +71,9 @@ def choice_context(package, contract, history, node):
     locations = set(places)
     current_place = places.get(state.get('playerLocationId'))
     from .narrative_delivery import continuity_context
+    from .story_journey import public_view
     return {'player': player, 'playerLocationId': state.get('playerLocationId', 'unknown'),
+            'playthroughLength': public_view([*history, current]),
             'currentLocation': {key: current_place[key] for key in ('id', 'name')} if current_place else None,
             'paragraphs': paragraphs,
             **continuity_context(node, node.get('playerDirection') or '', limit=4),

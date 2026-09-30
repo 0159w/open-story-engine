@@ -1,0 +1,31 @@
+{
+  "baseCommit": "09336ab74e3a83962da5f853c0d5e51420fd11ec",
+  "dirtyWorktree": true,
+  "scope": "整局篇幅与节奏；配图等暂缓",
+  "files": {
+    "open_story_engine/story_journey.py": "37061c0c6c9342ca1fd7896b6f0190522b596e3d61ea2826feacdac7466bc19c",
+    "open_story_engine/prompts/reader/context_plan.md": "7c37e9852864d252bce11e7a9ac44d7e8106f823897735d37c293aa85d7bf5e6",
+    "open_story_engine/prompts/reader/context_system.md": "cd7c72eecb8451e9626d7ee920826bb62283f287ce9c312a4106b9c33d6d04e2",
+    "open_story_engine/prompts/reader/state_extract.md": "fa8b7c92fe7cdbfc37a15b86c7be83acbcc42d26eceee8a5e1863ff15495983b",
+    "open_story_engine/context_turn.py": "4e09067d17698f4a9b70fe36d4808c20ce07c768308adfcf694ccbadb3f66637",
+    "open_story_engine/api_narrative.py": "3fd1a783ca18752d2707e73700d69c34fd3e1fd435f106630e10da20c9a5fe72"
+  },
+  "fixedRuntimeDuringLivePlay": false,
+  "promptUpdateBeforeTurn": 7,
+  "promptUpdateReason": "前五回合发现剩余提纲仍预留已放弃的旧案、选项重复数钱。进程缓存提示目录，第 6 回合仍使用初版；第 7 回合前重启隔离服务加载修订，只调整规划与选项提示，保持同一存档和已展示正文。",
+  "finalFiles": {
+    "open_story_engine/story_journey.py": "0698998ea9aadc8f5ce013b6eda13530c7c8bf7bc110e47e1462be035d23e008",
+    "open_story_engine/prompts/reader/context_plan.md": "72274938d017d92f81afe9fc4cd704ed985a3345d132b056e00835e11f65dd77",
+    "open_story_engine/prompts/reader/context_system.md": "cd7c72eecb8451e9626d7ee920826bb62283f287ce9c312a4106b9c33d6d04e2",
+    "open_story_engine/prompts/reader/state_extract.md": "fa8b7c92fe7cdbfc37a15b86c7be83acbcc42d26eceee8a5e1863ff15495983b",
+    "open_story_engine/context_turn.py": "297e3bcd2fc75a5689422ddd3145da2cab7f89672465d22cbfbc56c0d0251c68",
+    "open_story_engine/api_narrative.py": "3fd1a783ca18752d2707e73700d69c34fd3e1fd435f106630e10da20c9a5fe72",
+    "open_story_engine/prompts/reader/choices.md": "82cc73fa220f02a2f370d1363038e3d3ae634a343f01dbec2eaa1eef46e742cb"
+  },
+  "refreshImplementationBeforeTurn": 11,
+  "finalRun": "ye-final",
+  "finalRunRuntimeUnchanged": true,
+  "stoppedReason": "用户要求项目紧急收尾；停止新增开发及真实模型测试。",
+  "finalRunCompletedTurns": 10,
+  "finalRunAcceptance": "incomplete"
+}

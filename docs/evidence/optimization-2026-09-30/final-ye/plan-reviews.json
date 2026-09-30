@@ -1,0 +1,42 @@
+[
+  {
+    "file": "result-000.json",
+    "revision": null,
+    "review": null,
+    "ending": null
+  },
+  {
+    "file": "result-001.json",
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "revise",
+      "reason": "玩家首次行动即宣布辞去掌门、交出旧案记录并独自下山，彻底改道：原计划围绕掌门身份处理旧档案与宗门责任，现需围绕卸任后的个人选择、责任后果与宗门新秩序展开。",
+      "nextMilestone": "当众宣布辞任与交出记录后，长老、沈砚秋与山门外来客的即时反应，以及掌门之位与旧案归属的实际变化。",
+      "planChanged": true
+    },
+    "ending": null
+  },
+  {
+    "file": "result-002.json",
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家延续上一回合辞任下山的方向，沿山路下行、寻找村镇落脚并询问普通活计，与既有计划“下山之后”阶段一致。未取断剑、不重掌宗门，均与已发生的辞任事实相符，无需改道。",
+      "nextMilestone": "叶青冥走完山路抵达一处山脚村镇，在落脚处询问可换食宿的普通活计，得到当地人的实际回应与一个具体去处或条件。"
+    },
+    "ending": null
+  },
+  {
+    "file": "result-003.json",
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "玩家继续以普通人身份在山脚村镇落脚，感谢陈老六并请其问清王家短工细节，与既有“下山之后”阶段一致，无需改道。",
+      "nextMilestone": "陈老六带回王家搬石头的具体条件，叶青冥处理磨伤并在柴房过夜，完成落脚第一日。"
+    },
+    "ending": null
+  }
+]

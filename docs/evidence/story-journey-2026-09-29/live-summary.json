@@ -1,0 +1,15 @@
+{
+  "interactions": 23,
+  "savedPages": 24,
+  "consumedCjk": 30618,
+  "status": "completed",
+  "endingWritten": true,
+  "latencySeconds": {
+    "min": 30.379,
+    "median": 45.708,
+    "max": 61.842,
+    "sum": 1043.6009999999999
+  },
+  "note": "延迟为驱动单次请求到已保存结果与旅程视图的耗时，不是人类完整阅读、思考与游玩时间。",
+  "finalBranchId": "branch_fa3613b1-77ee-4e23-830e-40aa0efa44de"
+}

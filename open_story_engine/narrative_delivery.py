@@ -521,3 +521,9 @@ def validate_commit(context, result):
             or recorded['followups'] != result.get('continuityFollowups')
             or recorded['outcome'] != result.get('readerOutcome')):
         raise ValueError('交付记录与实际提取绑定不符')
+    from . import story_journey
+    if story_journey.enabled(result):
+        ending = story_journey.ending_observation(result['narrativeText'], receipt.get('data'))
+        if (result['storyJourney'].get('ending') != ending
+                or result.get('naturalEnding') is not (ending is not None)):
+            raise ValueError('终局观察与正文交付凭据不符')

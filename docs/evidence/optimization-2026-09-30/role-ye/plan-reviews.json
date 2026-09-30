@@ -1,0 +1,32 @@
+[
+  {
+    "file": "result-000.json",
+    "revision": null,
+    "review": null,
+    "ending": null
+  },
+  {
+    "file": "result-001.json",
+    "revision": 1,
+    "review": {
+      "status": "recorded",
+      "decision": "keep",
+      "reason": "本次行动与既有目标一致：掌门要求沈砚秋当众说明删改内容与依据，并出示原件逐项对照，属于对旧档案责任的直接推进，不改变原定路线。",
+      "nextMilestone": "沈砚秋当众列出删改条目与依据，并出示她仍持有的原件；在场者能当场核实的部分被记录，无法核实的部分明确标注为待查。",
+      "planChanged": true
+    },
+    "ending": null
+  },
+  {
+    "file": "result-002.json",
+    "revision": 2,
+    "review": {
+      "status": "recorded",
+      "decision": "revise",
+      "reason": "玩家明确放弃亲自追查旧案与掌门之位，转向当众移交、辞位、独自下山。原计划围绕掌门身份推进档案公开与责任划分，已不再适用，须重排为交接、回应与离山后的普通人生活。",
+      "nextMilestone": "叶青冥当众完成记录与原件移交，宣布辞去掌门并承担此前决定的责任，听取长老与沈砚秋的回应后独自下山。",
+      "planChanged": true
+    },
+    "ending": null
+  }
+]

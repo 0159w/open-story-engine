@@ -95,6 +95,8 @@ def report(directory):
                                         if private_cache_known else None),
                 displayed=len(displays), display_ms_samples=display_samples,
                 display_ms_summary=display_ms_summary(display_samples),
+                latency={field: display_ms_summary([j[field] for j in jobs if nonnegative_int(j.get(field))])
+                         for field in ('queued_ms', 'provider_ms', 'download_ms', 'asset_write_ms', 'ready_ms')},
                 unreadable_records=unreadable, invalid_visit_records=invalid_visits,
                 invalid_display_records=invalid_displays,
                 queued_cancelled=sum(j.get('cancel_stage') == 'queued' for j in jobs),

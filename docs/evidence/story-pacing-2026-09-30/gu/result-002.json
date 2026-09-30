@@ -1,0 +1,1168 @@
+{
+  "status": "written",
+  "request_id": "playthrough-025e69022ad54c069014f0116d1189ae",
+  "deduplicated": false,
+  "branch": {
+    "id": "branch_729e06d0-2f47-4557-aabf-5eac4da5c5e7",
+    "sessionId": "8678d7c5-2df3-5380-b92f-2de869d802bb",
+    "sequence": 2,
+    "parentId": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+    "kind": "generated",
+    "sourceNodeRef": "node_source_continuity",
+    "narrativeText": "官道在麦田之间笔直地铺向东南，日头一寸寸往西沉。你走得不快，脚底是实的，肚子却是空的。从玄霄宗下来时你身上没有盘缠，也没有干粮，只有一双脚和这条谁也没替你选过的路。路旁偶尔有推车的、赶驴的经过，没人多看你一眼。\n\n天擦黑时，路边出现一间车马店。土墙围出一方院子，檐下挂着盏昏黄的油灯，灯下拴着两头骡子。你走进去，掌柜是个瘦脸妇人，正拿抹布擦桌子，抬眼扫了你一下。\n\n“住店？”\n\n“通铺多少？”\n\n“二十文，管一碗热汤。要吃饭另算。”\n\n你摸了摸袖中。空的。你如实说：“身上没钱。能不能先赊一晚，明日我找着活计就还。”\n\n妇人手里的抹布停了停，把你从头看到脚。你衣裳还算齐整，不像逃荒的，也不像惯常赖账的。她哼了一声：“赊就赊。灶上还剩半锅粥，给你盛一碗，算我积德。明早走时把院子扫了，抵那碗粥。”\n\n你道了谢。粥是糙米熬的，稀得能照见碗底，但热。你喝完，在通铺最里侧找了个位置躺下。旁边几个脚夫鼾声很响，你听着听着也就睡着了。\n\n天亮前你就醒了。扫院子，把骡子粪铲到墙根，妇人没再说什么，只往你手里塞了半个冷馍。你揣着馍上了路。\n\n日头升到头顶时，官道两旁的麦田渐渐变成菜畦，再往前，屋舍密了起来。青石镇到了。镇子比你想的热闹，街面铺着青石板，被车轮碾出两道浅沟。你顺着人流往低处走，水声越来越近，空气里混着河泥和鱼腥的气味。码头就在镇子东头，几条货船泊在岸边，跳板搭着，有人扛着麻袋上上下下。\n\n一个中年男人站在跳板旁，手里捏着根竹签，正对着船上喊话。他皮肤黝黑，短褂敞着，腰间别着个钱袋。你走过去，等他喊完一轮，才开口。\n\n“这位大哥，码头上有搬运的活吗？”\n\n他转过头，上下打量你。目光在你脸上停了一下，又落到你的手上——没有老茧，但也没有养尊处优的细皮。\n\n“新来的？”\n\n“是。”\n\n“搬货的活天天有，看船到不到。”他把竹签往耳朵上一夹，“工钱按日结，一天三十文。管一顿晌午饭，糙米饭配咸菜，不管早晚。当日干完当日结，不拖。要是船晚到，多干的时辰另算，半个时辰五文。”\n\n他顿了顿，又补一句：“丑话说前头，货损了要赔，偷懒耍滑的当场撵走，一文不给。你要是肯干，明早卯时过来，我姓周，喊我周领工就行。”\n\n他说完，也不催你，就那么站着，等你回话。",
+    "summary": "顾长离沿官道东南行，日暮在路边车马店赊住一晚，扫院抵粥，天亮续行，午后抵达青石镇。他到码头向周领工问搬运活，周领工说明条件：按日结一天三十文、管一顿晌午饭、当日干完当日结，船晚到多干半个时辰另算五文，货损要赔、偷懒撵走不给钱，肯干明早卯时来。顾长离听完尚未答复。",
+    "branchState": {
+      "playerLocationId": "location_official_road",
+      "playerCharacterId": "character_e663361ab1c7",
+      "characterLocationIds": {
+        "character_e663361ab1c7": "location_official_road",
+        "character_ae4cb42b9b49": "location_open_trial"
+      },
+      "branchLedger": {
+        "schemaVersion": "branch-state-ledger/0.1",
+        "entries": [
+          {
+            "id": "ledger_000001_76ea7439a462",
+            "sequence": 1,
+            "kind": "event",
+            "operation": "changed",
+            "entityId": "state:freeTextProgress",
+            "summary": "运行时状态字段“freeTextProgress”已由受控方向更新。",
+            "before": 0,
+            "after": 1,
+            "source": {
+              "kind": "player_direction",
+              "ref": "direction_free_56425f73cbed",
+              "nodeRef": "node_source_continuity"
+            }
+          },
+          {
+            "id": "ledger_000002_5d376811777d",
+            "sequence": 2,
+            "kind": "location",
+            "operation": "added",
+            "entityId": "location_official_road",
+            "summary": "山脚向东南延伸的黄土官道，通往青石镇，约一日路程。",
+            "before": null,
+            "after": {
+              "id": "location_official_road",
+              "name": "官道",
+              "summary": "山脚向东南延伸的黄土官道，通往青石镇，约一日路程。"
+            },
+            "source": {
+              "kind": "direction",
+              "ref": "reader-action",
+              "nodeRef": "reader-action"
+            }
+          },
+          {
+            "id": "ledger_000003_de6c529a6dd1",
+            "sequence": 3,
+            "kind": "character",
+            "operation": "added",
+            "entityId": "character_trial_steward",
+            "summary": "玄霄宗半山试炼场负责登记与受理退出的执事，收下顾长离的木牌与纸包，说明退出后果并指路青石镇。",
+            "before": null,
+            "after": {
+              "id": "character_trial_steward",
+              "name": "执事",
+              "summary": "玄霄宗半山试炼场负责登记与受理退出的执事，收下顾长离的木牌与纸包，说明退出后果并指路青石镇。"
+            },
+            "source": {
+              "kind": "direction",
+              "ref": "reader-action",
+              "nodeRef": "reader-action"
+            }
+          },
+          {
+            "id": "ledger_000004_9ab37bda251e",
+            "sequence": 4,
+            "kind": "event",
+            "operation": "changed",
+            "entityId": "state:goalLedger",
+            "summary": "已核对正文的行动结果与持续状态变化",
+            "before": null,
+            "after": [
+              {
+                "id": "opening-goal-1",
+                "title": "木牌刻痕里为何有金屑",
+                "status": "abandoned",
+                "characterId": "character_e663361ab1c7",
+                "dependencies": [],
+                "source": "player_branch",
+                "evidence": "“退出？”你把木牌搁在石台边缘，又摸出那只纸包，一并推过去，“试炼我不参加了。金屑的事，我也不查了。”\n\n执事没有立刻去接。他先看了看木牌，再看了看纸包，最后看回你，眉头慢慢拧起来。\n\n“你可想清楚了。”他开口，声音不高，周围却有几个新弟子悄悄侧过耳朵，“玄霄宗外门试炼，一年一回。今日踏出这道石阶，明年再来，便要从头核验根骨、重走引荐的路子。你荐书上的名字，我这就划去。”\n\n“想清楚了。”\n\n他这才伸手，先把木牌翻过来，指腹在背面那道刻痕上抹了一下。刻痕里的黑泥还在，他没细看，随手将木牌丢进石台下一只竹筐。筐里已经躺着几块同样的木牌，边角磕碰，像是往年留下的。\n\n接着是纸包。执事捏起它，在掌心掂了掂，没有打开。\n\n“这是什么？”\n\n“木牌刻痕里刮下来的。”你说，“一点金屑。”\n\n他的手指顿了一下。纸包很轻，轻得几乎感觉不到分量。他盯着它看了两息，忽然问：“你刮它做什么？”\n\n“看着不像泥。”\n\n执事沉默片刻，把纸包收进袖中，没有再多问。他重新拿起笔，在簿子上划了一道，笔尖压得很重，纸面发出细微的沙沙声。",
+                "causeBranchId": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+                "reason": "顾长离明确向执事表示金屑的事不再查，并将纸包交回。",
+                "successor": ""
+              },
+              {
+                "id": "opening-goal-2",
+                "title": "如何完成第一场外门试炼",
+                "status": "abandoned",
+                "characterId": "character_e663361ab1c7",
+                "dependencies": [],
+                "source": "player_branch",
+                "evidence": "“退出？”你把木牌搁在石台边缘，又摸出那只纸包，一并推过去，“试炼我不参加了。金屑的事，我也不查了。”\n\n执事没有立刻去接。他先看了看木牌，再看了看纸包，最后看回你，眉头慢慢拧起来。\n\n“你可想清楚了。”他开口，声音不高，周围却有几个新弟子悄悄侧过耳朵，“玄霄宗外门试炼，一年一回。今日踏出这道石阶，明年再来，便要从头核验根骨、重走引荐的路子。你荐书上的名字，我这就划去。”\n\n“想清楚了。”\n\n他这才伸手，先把木牌翻过来，指腹在背面那道刻痕上抹了一下。刻痕里的黑泥还在，他没细看，随手将木牌丢进石台下一只竹筐。筐里已经躺着几块同样的木牌，边角磕碰，像是往年留下的。",
+                "causeBranchId": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+                "reason": "顾长离主动退出试炼，交回木牌，试炼目标不再适用。",
+                "successor": ""
+              }
+            ],
+            "source": {
+              "kind": "player_direction",
+              "ref": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+              "nodeRef": "node_source_continuity"
+            }
+          },
+          {
+            "id": "ledger_000005_4f267e14795a",
+            "sequence": 5,
+            "kind": "event",
+            "operation": "changed",
+            "entityId": "state:threadLedger",
+            "summary": "已核对正文的行动结果与持续状态变化",
+            "before": [
+              {
+                "id": "opening-thread-1",
+                "title": "木牌刻痕里为何有金屑",
+                "status": "open",
+                "source": "opening",
+                "openedBranchId": null,
+                "causeBranchId": null,
+                "reason": "",
+                "evidence": "",
+                "priority": "unknown",
+                "recoveryWindow": "unknown"
+              },
+              {
+                "id": "opening-thread-2",
+                "title": "如何完成第一场外门试炼",
+                "status": "open",
+                "source": "opening",
+                "openedBranchId": null,
+                "causeBranchId": null,
+                "reason": "",
+                "evidence": "",
+                "priority": "unknown",
+                "recoveryWindow": "unknown"
+              }
+            ],
+            "after": [
+              {
+                "id": "opening-thread-1",
+                "title": "木牌刻痕里为何有金屑",
+                "status": "abandoned",
+                "source": "opening",
+                "openedBranchId": null,
+                "causeBranchId": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+                "reason": "顾长离明确放弃调查金屑，将纸包交回执事。",
+                "evidence": "“退出？”你把木牌搁在石台边缘，又摸出那只纸包，一并推过去，“试炼我不参加了。金屑的事，我也不查了。”\n\n执事没有立刻去接。他先看了看木牌，再看了看纸包，最后看回你，眉头慢慢拧起来。\n\n“你可想清楚了。”他开口，声音不高，周围却有几个新弟子悄悄侧过耳朵，“玄霄宗外门试炼，一年一回。今日踏出这道石阶，明年再来，便要从头核验根骨、重走引荐的路子。你荐书上的名字，我这就划去。”\n\n“想清楚了。”\n\n他这才伸手，先把木牌翻过来，指腹在背面那道刻痕上抹了一下。刻痕里的黑泥还在，他没细看，随手将木牌丢进石台下一只竹筐。筐里已经躺着几块同样的木牌，边角磕碰，像是往年留下的。\n\n接着是纸包。执事捏起它，在掌心掂了掂，没有打开。\n\n“这是什么？”\n\n“木牌刻痕里刮下来的。”你说，“一点金屑。”\n\n他的手指顿了一下。纸包很轻，轻得几乎感觉不到分量。他盯着它看了两息，忽然问：“你刮它做什么？”\n\n“看着不像泥。”\n\n执事沉默片刻，把纸包收进袖中，没有再多问。他重新拿起笔，在簿子上划了一道，笔尖压得很重，纸面发出细微的沙沙声。",
+                "priority": "unknown",
+                "recoveryWindow": "unknown"
+              },
+              {
+                "id": "opening-thread-2",
+                "title": "如何完成第一场外门试炼",
+                "status": "abandoned",
+                "source": "opening",
+                "openedBranchId": null,
+                "causeBranchId": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+                "reason": "顾长离主动退出试炼，交回木牌，该问题不再适用。",
+                "evidence": "“退出？”你把木牌搁在石台边缘，又摸出那只纸包，一并推过去，“试炼我不参加了。金屑的事，我也不查了。”\n\n执事没有立刻去接。他先看了看木牌，再看了看纸包，最后看回你，眉头慢慢拧起来。\n\n“你可想清楚了。”他开口，声音不高，周围却有几个新弟子悄悄侧过耳朵，“玄霄宗外门试炼，一年一回。今日踏出这道石阶，明年再来，便要从头核验根骨、重走引荐的路子。你荐书上的名字，我这就划去。”\n\n“想清楚了。”\n\n他这才伸手，先把木牌翻过来，指腹在背面那道刻痕上抹了一下。刻痕里的黑泥还在，他没细看，随手将木牌丢进石台下一只竹筐。筐里已经躺着几块同样的木牌，边角磕碰，像是往年留下的。",
+                "priority": "unknown",
+                "recoveryWindow": "unknown"
+              }
+            ],
+            "source": {
+              "kind": "player_direction",
+              "ref": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+              "nodeRef": "node_source_continuity"
+            }
+          },
+          {
+            "id": "ledger_000006_b74a9820acf3",
+            "sequence": 6,
+            "kind": "event",
+            "operation": "changed",
+            "entityId": "state:readerEntityStates",
+            "summary": "已核对正文的行动结果与持续状态变化",
+            "before": null,
+            "after": {
+              "character_e663361ab1c7": {
+                "location": "location_official_road",
+                "宗门身份": "无外门试炼弟子身份"
+              }
+            },
+            "source": {
+              "kind": "player_direction",
+              "ref": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+              "nodeRef": "node_source_continuity"
+            }
+          },
+          {
+            "id": "ledger_000007_b2c56daa84cb",
+            "sequence": 7,
+            "kind": "event",
+            "operation": "changed",
+            "entityId": "state:characterLocationIds",
+            "summary": "已核对正文的行动结果与持续状态变化",
+            "before": {
+              "character_e663361ab1c7": "location_open_trial",
+              "character_ae4cb42b9b49": "location_open_trial"
+            },
+            "after": {
+              "character_e663361ab1c7": "location_official_road",
+              "character_ae4cb42b9b49": "location_open_trial"
+            },
+            "source": {
+              "kind": "player_direction",
+              "ref": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+              "nodeRef": "node_source_continuity"
+            }
+          },
+          {
+            "id": "ledger_000008_a836146803a0",
+            "sequence": 8,
+            "kind": "event",
+            "operation": "changed",
+            "entityId": "state:playerLocationId",
+            "summary": "已核对正文的行动结果与持续状态变化",
+            "before": "location_open_trial",
+            "after": "location_official_road",
+            "source": {
+              "kind": "player_direction",
+              "ref": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+              "nodeRef": "node_source_continuity"
+            }
+          },
+          {
+            "id": "ledger_000009_bd4c05ff0943",
+            "sequence": 9,
+            "kind": "event",
+            "operation": "changed",
+            "entityId": "state:freeTextProgress",
+            "summary": "运行时状态字段“freeTextProgress”已由受控方向更新。",
+            "before": 1,
+            "after": 2,
+            "source": {
+              "kind": "player_direction",
+              "ref": "direction_free_30d7ff1a8ad9",
+              "nodeRef": "node_source_continuity"
+            }
+          },
+          {
+            "id": "ledger_000010_8a88b5f9bc0d",
+            "sequence": 10,
+            "kind": "location",
+            "operation": "added",
+            "entityId": "location_roadside_inn",
+            "summary": "官道旁供行脚客歇脚的车马店，土墙围院，檐下挂油灯，通铺二十文管一碗热汤，可赊账以扫院抵粥。",
+            "before": null,
+            "after": {
+              "id": "location_roadside_inn",
+              "name": "车马店",
+              "summary": "官道旁供行脚客歇脚的车马店，土墙围院，檐下挂油灯，通铺二十文管一碗热汤，可赊账以扫院抵粥。"
+            },
+            "source": {
+              "kind": "direction",
+              "ref": "reader-action",
+              "nodeRef": "reader-action"
+            }
+          },
+          {
+            "id": "ledger_000011_3eeaa95aa06c",
+            "sequence": 11,
+            "kind": "location",
+            "operation": "added",
+            "entityId": "location_qingshi_dock",
+            "summary": "青石镇东头临水码头，几条货船泊岸，跳板搭着，有人扛麻袋上下，短工按日受雇搬运。",
+            "before": null,
+            "after": {
+              "id": "location_qingshi_dock",
+              "name": "码头",
+              "summary": "青石镇东头临水码头，几条货船泊岸，跳板搭着，有人扛麻袋上下，短工按日受雇搬运。"
+            },
+            "source": {
+              "kind": "direction",
+              "ref": "reader-action",
+              "nodeRef": "reader-action"
+            }
+          },
+          {
+            "id": "ledger_000012_7fded909088b",
+            "sequence": 12,
+            "kind": "character",
+            "operation": "added",
+            "entityId": "character_dock_foreman",
+            "summary": "青石镇码头负责招揽搬运短工的中年领工，皮肤黝黑，短褂敞着，腰间别钱袋，自称姓周，说明按日结工钱、管一顿晌午饭、当日结算等条件。",
+            "before": null,
+            "after": {
+              "id": "character_dock_foreman",
+              "name": "周领工",
+              "summary": "青石镇码头负责招揽搬运短工的中年领工，皮肤黝黑，短褂敞着，腰间别钱袋，自称姓周，说明按日结工钱、管一顿晌午饭、当日结算等条件。"
+            },
+            "source": {
+              "kind": "direction",
+              "ref": "reader-action",
+              "nodeRef": "reader-action"
+            }
+          }
+        ]
+      },
+      "sourceProgress": "chapter_011",
+      "freeTextProgress": 2,
+      "storyScope": "source",
+      "derivativeStage": "inactive",
+      "derivedTurn": 0,
+      "derivedLocations": [
+        {
+          "id": "location_official_road",
+          "name": "官道",
+          "summary": "山脚向东南延伸的黄土官道，通往青石镇，约一日路程。"
+        },
+        {
+          "id": "location_roadside_inn",
+          "name": "车马店",
+          "summary": "官道旁供行脚客歇脚的车马店，土墙围院，檐下挂油灯，通铺二十文管一碗热汤，可赊账以扫院抵粥。"
+        },
+        {
+          "id": "location_qingshi_dock",
+          "name": "码头",
+          "summary": "青石镇东头临水码头，几条货船泊岸，跳板搭着，有人扛麻袋上下，短工按日受雇搬运。"
+        }
+      ],
+      "derivedCharacters": [
+        {
+          "id": "character_trial_steward",
+          "name": "执事",
+          "summary": "玄霄宗半山试炼场负责登记与受理退出的执事，收下顾长离的木牌与纸包，说明退出后果并指路青石镇。"
+        },
+        {
+          "id": "character_dock_foreman",
+          "name": "周领工",
+          "summary": "青石镇码头负责招揽搬运短工的中年领工，皮肤黝黑，短褂敞着，腰间别钱袋，自称姓周，说明按日结工钱、管一顿晌午饭、当日结算等条件。"
+        }
+      ],
+      "derivedItems": [],
+      "derivedCharacterReveals": [],
+      "derivedRelationships": [],
+      "derivedClues": [],
+      "derivedEvents": [],
+      "itemOwnerCharacterIds": {
+        "item_open_gu_token": "character_e663361ab1c7",
+        "item_open_gold_paper": "character_e663361ab1c7"
+      },
+      "itemLocationIds": {},
+      "characterOutcomeStates": {},
+      "threadLedger": [
+        {
+          "id": "opening-thread-1",
+          "title": "木牌刻痕里为何有金屑",
+          "status": "abandoned",
+          "source": "opening",
+          "openedBranchId": null,
+          "causeBranchId": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+          "reason": "顾长离明确放弃调查金屑，将纸包交回执事。",
+          "evidence": "“退出？”你把木牌搁在石台边缘，又摸出那只纸包，一并推过去，“试炼我不参加了。金屑的事，我也不查了。”\n\n执事没有立刻去接。他先看了看木牌，再看了看纸包，最后看回你，眉头慢慢拧起来。\n\n“你可想清楚了。”他开口，声音不高，周围却有几个新弟子悄悄侧过耳朵，“玄霄宗外门试炼，一年一回。今日踏出这道石阶，明年再来，便要从头核验根骨、重走引荐的路子。你荐书上的名字，我这就划去。”\n\n“想清楚了。”\n\n他这才伸手，先把木牌翻过来，指腹在背面那道刻痕上抹了一下。刻痕里的黑泥还在，他没细看，随手将木牌丢进石台下一只竹筐。筐里已经躺着几块同样的木牌，边角磕碰，像是往年留下的。\n\n接着是纸包。执事捏起它，在掌心掂了掂，没有打开。\n\n“这是什么？”\n\n“木牌刻痕里刮下来的。”你说，“一点金屑。”\n\n他的手指顿了一下。纸包很轻，轻得几乎感觉不到分量。他盯着它看了两息，忽然问：“你刮它做什么？”\n\n“看着不像泥。”\n\n执事沉默片刻，把纸包收进袖中，没有再多问。他重新拿起笔，在簿子上划了一道，笔尖压得很重，纸面发出细微的沙沙声。",
+          "priority": "unknown",
+          "recoveryWindow": "unknown"
+        },
+        {
+          "id": "opening-thread-2",
+          "title": "如何完成第一场外门试炼",
+          "status": "abandoned",
+          "source": "opening",
+          "openedBranchId": null,
+          "causeBranchId": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+          "reason": "顾长离主动退出试炼，交回木牌，该问题不再适用。",
+          "evidence": "“退出？”你把木牌搁在石台边缘，又摸出那只纸包，一并推过去，“试炼我不参加了。金屑的事，我也不查了。”\n\n执事没有立刻去接。他先看了看木牌，再看了看纸包，最后看回你，眉头慢慢拧起来。\n\n“你可想清楚了。”他开口，声音不高，周围却有几个新弟子悄悄侧过耳朵，“玄霄宗外门试炼，一年一回。今日踏出这道石阶，明年再来，便要从头核验根骨、重走引荐的路子。你荐书上的名字，我这就划去。”\n\n“想清楚了。”\n\n他这才伸手，先把木牌翻过来，指腹在背面那道刻痕上抹了一下。刻痕里的黑泥还在，他没细看，随手将木牌丢进石台下一只竹筐。筐里已经躺着几块同样的木牌，边角磕碰，像是往年留下的。",
+          "priority": "unknown",
+          "recoveryWindow": "unknown"
+        }
+      ],
+      "readerEntityStates": {
+        "character_e663361ab1c7": {
+          "location": "location_official_road",
+          "宗门身份": "无外门试炼弟子身份"
+        }
+      },
+      "goalLedger": [
+        {
+          "id": "opening-goal-1",
+          "title": "木牌刻痕里为何有金屑",
+          "status": "abandoned",
+          "characterId": "character_e663361ab1c7",
+          "dependencies": [],
+          "source": "player_branch",
+          "evidence": "“退出？”你把木牌搁在石台边缘，又摸出那只纸包，一并推过去，“试炼我不参加了。金屑的事，我也不查了。”\n\n执事没有立刻去接。他先看了看木牌，再看了看纸包，最后看回你，眉头慢慢拧起来。\n\n“你可想清楚了。”他开口，声音不高，周围却有几个新弟子悄悄侧过耳朵，“玄霄宗外门试炼，一年一回。今日踏出这道石阶，明年再来，便要从头核验根骨、重走引荐的路子。你荐书上的名字，我这就划去。”\n\n“想清楚了。”\n\n他这才伸手，先把木牌翻过来，指腹在背面那道刻痕上抹了一下。刻痕里的黑泥还在，他没细看，随手将木牌丢进石台下一只竹筐。筐里已经躺着几块同样的木牌，边角磕碰，像是往年留下的。\n\n接着是纸包。执事捏起它，在掌心掂了掂，没有打开。\n\n“这是什么？”\n\n“木牌刻痕里刮下来的。”你说，“一点金屑。”\n\n他的手指顿了一下。纸包很轻，轻得几乎感觉不到分量。他盯着它看了两息，忽然问：“你刮它做什么？”\n\n“看着不像泥。”\n\n执事沉默片刻，把纸包收进袖中，没有再多问。他重新拿起笔，在簿子上划了一道，笔尖压得很重，纸面发出细微的沙沙声。",
+          "causeBranchId": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+          "reason": "顾长离明确向执事表示金屑的事不再查，并将纸包交回。",
+          "successor": ""
+        },
+        {
+          "id": "opening-goal-2",
+          "title": "如何完成第一场外门试炼",
+          "status": "abandoned",
+          "characterId": "character_e663361ab1c7",
+          "dependencies": [],
+          "source": "player_branch",
+          "evidence": "“退出？”你把木牌搁在石台边缘，又摸出那只纸包，一并推过去，“试炼我不参加了。金屑的事，我也不查了。”\n\n执事没有立刻去接。他先看了看木牌，再看了看纸包，最后看回你，眉头慢慢拧起来。\n\n“你可想清楚了。”他开口，声音不高，周围却有几个新弟子悄悄侧过耳朵，“玄霄宗外门试炼，一年一回。今日踏出这道石阶，明年再来，便要从头核验根骨、重走引荐的路子。你荐书上的名字，我这就划去。”\n\n“想清楚了。”\n\n他这才伸手，先把木牌翻过来，指腹在背面那道刻痕上抹了一下。刻痕里的黑泥还在，他没细看，随手将木牌丢进石台下一只竹筐。筐里已经躺着几块同样的木牌，边角磕碰，像是往年留下的。",
+          "causeBranchId": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+          "reason": "顾长离主动退出试炼，交回木牌，试炼目标不再适用。",
+          "successor": ""
+        }
+      ]
+    },
+    "nextDirections": [],
+    "openThreads": [
+      "木牌刻痕里为何有金屑",
+      "如何完成第一场外门试炼",
+      "尚未完成的当前目标"
+    ],
+    "createdAt": "2026-09-30T02:14:45.733Z",
+    "canonicalRelation": "diverged",
+    "factDeltas": [],
+    "storyArc": {
+      "activeGoal": "自定行动：我不参加试炼了，也不再调",
+      "currentPhase": "自定行动：沿官道去青石镇，天黑找安",
+      "goalDisposition": "continued",
+      "chapter": {
+        "title": "《太虚遗录》·共创篇",
+        "status": "continuing"
+      }
+    },
+    "planning": {
+      "citations": [
+        {
+          "kind": "branch_node",
+          "ref": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+          "rationale": "承接已确认的上一节点。"
+        }
+      ],
+      "confidence": "medium",
+      "stateChangeProposals": []
+    },
+    "branchAdditions": {
+      "locations": [],
+      "characters": [],
+      "items": [],
+      "relationships": [],
+      "clues": [],
+      "events": [],
+      "characterReveals": [],
+      "changes": []
+    },
+    "consequenceUpdate": {
+      "decision": "ready",
+      "message": "",
+      "requirements": {
+        "A1": {
+          "mode": "attempt",
+          "summary": "沿官道去青石镇，天黑找安全地方歇脚，天亮继续赶路。抵达后去码头向领工问有没有搬运活，工钱、管饭和当日结算怎么算；先听条件再决定。"
+        }
+      },
+      "method": "只登记正文已发生的结果",
+      "steps": [
+        {
+          "id": "S1",
+          "actorId": "character_e663361ab1c7",
+          "action": "沿官道去青石镇，天黑找安全地方歇脚，天亮继续赶路。抵达后去码头向领工问有没有搬运活，工钱、管饭和当日结算怎么算；先听条件再决定。",
+          "requirementIds": [
+            "A1"
+          ],
+          "authority": "player",
+          "causeStepId": null,
+          "usedItemIds": []
+        }
+      ],
+      "introductions": {
+        "characters": [
+          {
+            "id": "character_dock_foreman",
+            "name": "周领工",
+            "summary": "青石镇码头负责招揽搬运短工的中年领工，皮肤黝黑，短褂敞着，腰间别钱袋，自称姓周，说明按日结工钱、管一顿晌午饭、当日结算等条件。",
+            "sourceStepId": "S1",
+            "evidence": "一个中年男人站在跳板旁，手里捏着根竹签，正对着船上喊话。他皮肤黝黑，短褂敞着，腰间别着个钱袋。你走过去，等他喊完一轮，才开口。\n\n“这位大哥，码头上有搬运的活吗？”\n\n他转过头，上下打量你。目光在你脸上停了一下，又落到你的手上——没有老茧，但也没有养尊处优的细皮。\n\n“新来的？”\n\n“是。”\n\n“搬货的活天天有，看船到不到。”他把竹签往耳朵上一夹，“工钱按日结，一天三十文。管一顿晌午饭，糙米饭配咸菜，不管早晚。当日干完当日结，不拖。要是船晚到，多干的时辰另算，半个时辰五文。”\n\n他顿了顿，又补一句：“丑话说前头，货损了要赔，偷懒耍滑的当场撵走，一文不给。你要是肯干，明早卯时过来，我姓周，喊我周领工就行。”"
+          }
+        ],
+        "items": [],
+        "locations": [
+          {
+            "id": "location_roadside_inn",
+            "name": "车马店",
+            "summary": "官道旁供行脚客歇脚的车马店，土墙围院，檐下挂油灯，通铺二十文管一碗热汤，可赊账以扫院抵粥。",
+            "sourceStepId": "S1",
+            "evidence": "天擦黑时，路边出现一间车马店。土墙围出一方院子，檐下挂着盏昏黄的油灯，灯下拴着两头骡子。你走进去，掌柜是个瘦脸妇人，正拿抹布擦桌子，抬眼扫了你一下。\n\n“住店？”\n\n“通铺多少？”\n\n“二十文，管一碗热汤。要吃饭另算。”\n\n你摸了摸袖中。空的。你如实说：“身上没钱。能不能先赊一晚，明日我找着活计就还。”\n\n妇人手里的抹布停了停，把你从头看到脚。你衣裳还算齐整，不像逃荒的，也不像惯常赖账的。她哼了一声：“赊就赊。灶上还剩半锅粥，给你盛一碗，算我积德。明早走时把院子扫了，抵那碗粥。”"
+          },
+          {
+            "id": "location_qingshi_dock",
+            "name": "码头",
+            "summary": "青石镇东头临水码头，几条货船泊岸，跳板搭着，有人扛麻袋上下，短工按日受雇搬运。",
+            "sourceStepId": "S1",
+            "evidence": "日头升到头顶时，官道两旁的麦田渐渐变成菜畦，再往前，屋舍密了起来。青石镇到了。镇子比你想的热闹，街面铺着青石板，被车轮碾出两道浅沟。你顺着人流往低处走，水声越来越近，空气里混着河泥和鱼腥的气味。码头就在镇子东头，几条货船泊在岸边，跳板搭着，有人扛着麻袋上上下下。\n\n一个中年男人站在跳板旁，手里捏着根竹签，正对着船上喊话。他皮肤黝黑，短褂敞着，腰间别着个钱袋。你走过去，等他喊完一轮，才开口。"
+          }
+        ]
+      },
+      "stateChanges": [],
+      "outcomes": [],
+      "goalUpdates": [],
+      "threadUpdates": []
+    },
+    "actionIntent": {
+      "input": "沿官道去青石镇，天黑找安全地方歇脚，天亮继续赶路。抵达后去码头向领工问有没有搬运活，工钱、管饭和当日结算怎么算；先听条件再决定。",
+      "requirements": {
+        "A1": "沿官道去青石镇",
+        "A2": "天黑找安全地方歇脚",
+        "A3": "天亮继续赶路",
+        "A4": "抵达后去码头向领工问有没有搬运活",
+        "A5": "工钱、管饭和当日结算怎么算",
+        "A6": "先听条件再决定"
+      }
+    },
+    "deliveryReceipt": {
+      "version": "narrative-delivery/5",
+      "kind": "observed_state_not_prose_approval",
+      "parentSha256": "bf52ed6437a946ff4606dd3d12f9c0c4448dd730569421a93b5796f3fe528a9f",
+      "narrativeSha256": "e77f7d27b4cb78792f4857d36cf810aaf7d79c0afa01759effe853b84ee65a54",
+      "actionSha256": "fd21059669ba6d0d61adb58be761c0ff4c6940832aa61240c8a22086c4e8a2bf",
+      "data": {
+        "currentScene": {
+          "evidenceQuote": "他说完，也不催你，就那么站着，等你回话。",
+          "name": "码头",
+          "basis": "observed",
+          "paragraphIds": [
+            "P18"
+          ],
+          "presentEntities": [
+            {
+              "entityId": "character_e663361ab1c7",
+              "entityName": "你",
+              "basis": "observed",
+              "paragraphIds": [
+                "P11",
+                "P12"
+              ],
+              "evidenceQuote": "你走过去，等他喊完一轮，才开口。"
+            },
+            {
+              "entityId": "character_dock_foreman",
+              "entityName": "周领工",
+              "basis": "observed",
+              "paragraphIds": [
+                "P11",
+                "P18"
+              ],
+              "evidenceQuote": "一个中年男人站在跳板旁，手里捏着根竹签，正对着船上喊话。"
+            }
+          ]
+        },
+        "summary": "顾长离沿官道东南行，日暮在路边车马店赊住一晚，扫院抵粥，天亮续行，午后抵达青石镇。他到码头向周领工问搬运活，周领工说明条件：按日结一天三十文、管一顿晌午饭、当日干完当日结，船晚到多干半个时辰另算五文，货损要赔、偷懒撵走不给钱，肯干明早卯时来。顾长离听完尚未答复。",
+        "actionStatus": "performed",
+        "updates": {
+          "introductions": {
+            "characters": [
+              {
+                "id": "character_dock_foreman",
+                "name": "周领工",
+                "summary": "青石镇码头负责招揽搬运短工的中年领工，皮肤黝黑，短褂敞着，腰间别钱袋，自称姓周，说明按日结工钱、管一顿晌午饭、当日结算等条件。",
+                "paragraphIds": [
+                  "P11",
+                  "P16",
+                  "P17"
+                ]
+              }
+            ],
+            "items": [],
+            "locations": [
+              {
+                "id": "location_roadside_inn",
+                "name": "车马店",
+                "summary": "官道旁供行脚客歇脚的车马店，土墙围院，檐下挂油灯，通铺二十文管一碗热汤，可赊账以扫院抵粥。",
+                "paragraphIds": [
+                  "P2",
+                  "P5",
+                  "P7"
+                ]
+              },
+              {
+                "id": "location_qingshi_dock",
+                "name": "码头",
+                "summary": "青石镇东头临水码头，几条货船泊岸，跳板搭着，有人扛麻袋上下，短工按日受雇搬运。",
+                "paragraphIds": [
+                  "P10",
+                  "P11"
+                ]
+              }
+            ]
+          },
+          "stateChanges": [
+            {
+              "entityId": "character_e663361ab1c7",
+              "entityName": "你",
+              "basis": "observed",
+              "attribute": "locationId",
+              "value": "location_qingshi_dock",
+              "reason": "顾长离走完官道抵达青石镇，到码头向领工问工。",
+              "paragraphIds": [
+                "P10",
+                "P11"
+              ]
+            }
+          ],
+          "outcomes": [
+            {
+              "characterId": "character_e663361ab1c7",
+              "entityName": "你",
+              "basis": "observed",
+              "status": "alive",
+              "permanence": "permanent",
+              "cause": "沿官道安全抵达青石镇码头。",
+              "paragraphIds": [
+                "P10"
+              ],
+              "evidenceParagraphId": "P10",
+              "evidenceQuote": "日头升到头顶时，官道两旁的麦田渐渐变成菜畦，再往前，屋舍密了起来。青石镇到了。镇子比你想的热闹，街面铺着青石板，被车轮碾出两道浅沟。你顺着人流往低处走，水声越来越近，空气里混着河泥和鱼腥的气味。码头就在镇子东头，几条货船泊在岸边，跳板搭着，有人扛着麻袋上上下下。"
+            }
+          ],
+          "goalUpdates": [],
+          "threadUpdates": []
+        },
+        "confirmedStates": [
+          {
+            "entityId": "character_e663361ab1c7",
+            "entityName": "你",
+            "basis": "observed",
+            "attribute": "locationId",
+            "value": "location_qingshi_dock",
+            "reason": "正文叙述其抵达青石镇码头问工。",
+            "paragraphIds": [
+              "P10",
+              "P11"
+            ]
+          }
+        ],
+        "followups": [
+          {
+            "summary": "周领工给出的搬运条件（一天三十文、管一顿晌午饭、当日结算、船晚到另算、货损要赔）目前仅为领工口头说法，尚未实际受雇验证。",
+            "paragraphIds": [
+              "P16",
+              "P17"
+            ]
+          }
+        ],
+        "resolvedFollowups": [],
+        "journeyProgress": {
+          "summary": "顾长离走完官道、途中在车马店赊住一夜，抵达青石镇码头，向周领工问明搬运活的工钱、管饭与当日结算条件；周领工给出具体条件并让他自己考虑，顾长离尚未答复。",
+          "basis": "observed",
+          "paragraphId": "P17",
+          "evidenceQuote": "他顿了顿，又补一句：“丑话说前头，货损了要赔，偷懒耍滑的当场撵走，一文不给。你要是肯干，明早卯时过来，我姓周，喊我周领工就行。”"
+        },
+        "journeyEnding": null
+      },
+      "failure": null
+    },
+    "readerOutcome": {
+      "action": {
+        "status": "performed",
+        "summary": "顾长离沿官道东南行，日暮在路边车马店赊住一晚，扫院抵粥，天亮续行，午后抵达青石镇。他到码头向周领工问搬运活，周领工说明条件：按日结一天三十文、管一顿晌午饭、当日干完当日结，船晚到多干半个时辰另算五文，货损要赔、偷懒撵走不给钱，肯干明早卯时来。顾长离听完尚未答复。",
+        "evidence": "官道在麦田之间笔直地铺向东南，日头一寸寸往西沉。你走得不快，脚底是实的，肚子却是空的。从玄霄宗下来时你身上没有盘缠，也没有干粮，只有一双脚和这条谁也没替你选过的路。路旁偶尔有推车的、赶驴的经过，没人多看你一眼。\n\n天擦黑时，路边出现一间车马店。土墙围出一方院子，檐下挂着盏昏黄的油灯，灯下拴着两头骡子。你走进去，掌柜是个瘦脸妇人，正拿抹布擦桌子，抬眼扫了你一下。\n\n“住店？”\n\n“通铺多少？”\n\n“二十文，管一碗热汤。要吃饭另算。”\n\n你摸了摸袖中。空的。你如实说：“身上没钱。能不能先赊一晚，明日我找着活计就还。”\n\n妇人手里的抹布停了停，把你从头看到脚。你衣裳还算齐整，不像逃荒的，也不像惯常赖账的。她哼了一声：“赊就赊。灶上还剩半锅粥，给你盛一碗，算我积德。明早走时把院子扫了，抵那碗粥。”\n\n你道了谢。粥是糙米熬的，稀得能照见碗底，但热。你喝完，在通铺最里侧找了个位置躺下。旁边几个脚夫鼾声很响，你听着听着也就睡着了。\n\n天亮前你就醒了。扫院子，把骡子粪铲到墙根，妇人没再说什么，只往你手里塞了半个冷馍。你揣着馍上了路。\n\n日头升到头顶时，官道两旁的麦田渐渐变成菜畦，再往前，屋舍密了起来。青石镇到了。镇子比你想的热闹，街面铺着青石板，被车轮碾出两道浅沟。你顺着人流往低处走，水声越来越近，空气里混着河泥和鱼腥的气味。码头就在镇子东头，几条货船泊在岸边，跳板搭着，有人扛着麻袋上上下下。\n\n"
+      },
+      "actions": [],
+      "clues": [],
+      "relationships": []
+    },
+    "continuityFollowups": [
+      {
+        "id": "followup-e1aec17ab72c2115e7b3",
+        "kind": "state_uncertain",
+        "status": "open",
+        "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。执事受理退出，划去荐书名字，木牌丢入竹筐。",
+        "evidence": "。第二，你今日从这道石阶下去，往后山门若有事，不得再以试炼弟子身份出入。第三——”\n\n他顿了顿。\n\n“你身上若还带着宗门发放的物件，一并交回。没有别的了。”\n\n你摸了摸袖中，除了那块木牌和纸包，再无他物。\n\n“没有了。”\n\n执事点头，抬手往石阶下方一指。半山云雾正从那条路漫上来，石阶一级级没入白气里，看不见尽头。\n\n“下山走这条路，半个时辰到山脚。山脚往东南，官道走一日，便是青石镇。”他说得简短，像在交代一件早已重复过许多遍的事，“镇上有客栈、有码头、有铁匠铺。你要谋生，那里不缺活计。只是——”\n\n他看了你一眼，没有把话说完，只摆了摆手。\n\n“去吧。”\n\n你转身。人群里有人低声议论，你没去听。陆照临还站在原来的位置，隔着几个人望过来，似乎想说什么，终究只是朝你微微颔首。你与他不过互通了姓名，谈不上交情，这一点头便算作别。\n\n石阶向下延伸，云雾一层层漫过脚面。身后试炼场的钟声终于响了，浑厚的一记，震得半山松枝簌簌落针。那声音追着你往下走，越来越远，越来越轻，最后被山风彻底吹散。\n\n半个时辰后，你踩上平地。回头望，玄霄宗的山门早已隐在云中，只剩一线青灰色的檐角，像谁随手画上去的一笔。官道在脚下铺开，黄土被往来车马碾得发白，两旁是刚抽穗的麦田，风一过便翻起细浪。\n\n东南方向，日头偏西。青石镇还有一日路程。你身上没有盘缠，没有荐书，没有木牌，袖中空空。只有一双脚，和一条谁也没替你选过的路。",
+        "entityIds": [
+          "character_e663361ab1c7"
+        ],
+        "originParentId": "branch_74396796-c57b-46a9-9631-cacff473f3c9",
+        "originNarrativeSha256": "330175dd4b8250966b5292d9dd20103526cfc44630a56939f2032b0169f01e28"
+      },
+      {
+        "id": "followup-fb23ae6dbe337c95c936",
+        "kind": "state_uncertain",
+        "status": "open",
+        "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。执事在簿子上划去顾长离荐书上的名字。",
+        "evidence": "。第二，你今日从这道石阶下去，往后山门若有事，不得再以试炼弟子身份出入。第三——”\n\n他顿了顿。\n\n“你身上若还带着宗门发放的物件，一并交回。没有别的了。”\n\n你摸了摸袖中，除了那块木牌和纸包，再无他物。\n\n“没有了。”\n\n执事点头，抬手往石阶下方一指。半山云雾正从那条路漫上来，石阶一级级没入白气里，看不见尽头。\n\n“下山走这条路，半个时辰到山脚。山脚往东南，官道走一日，便是青石镇。”他说得简短，像在交代一件早已重复过许多遍的事，“镇上有客栈、有码头、有铁匠铺。你要谋生，那里不缺活计。只是——”\n\n他看了你一眼，没有把话说完，只摆了摆手。\n\n“去吧。”\n\n你转身。人群里有人低声议论，你没去听。陆照临还站在原来的位置，隔着几个人望过来，似乎想说什么，终究只是朝你微微颔首。你与他不过互通了姓名，谈不上交情，这一点头便算作别。\n\n石阶向下延伸，云雾一层层漫过脚面。身后试炼场的钟声终于响了，浑厚的一记，震得半山松枝簌簌落针。那声音追着你往下走，越来越远，越来越轻，最后被山风彻底吹散。\n\n半个时辰后，你踩上平地。回头望，玄霄宗的山门早已隐在云中，只剩一线青灰色的檐角，像谁随手画上去的一笔。官道在脚下铺开，黄土被往来车马碾得发白，两旁是刚抽穗的麦田，风一过便翻起细浪。\n\n东南方向，日头偏西。青石镇还有一日路程。你身上没有盘缠，没有荐书，没有木牌，袖中空空。只有一双脚，和一条谁也没替你选过的路。",
+        "entityIds": [
+          "character_e663361ab1c7"
+        ],
+        "originParentId": "branch_74396796-c57b-46a9-9631-cacff473f3c9",
+        "originNarrativeSha256": "330175dd4b8250966b5292d9dd20103526cfc44630a56939f2032b0169f01e28"
+      },
+      {
+        "id": "followup-c5549895bb2b1184da08",
+        "kind": "state_uncertain",
+        "status": "open",
+        "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。木牌丢入竹筐，纸包收入执事袖中，顾长离身上没有盘缠。",
+        "evidence": "。第二，你今日从这道石阶下去，往后山门若有事，不得再以试炼弟子身份出入。第三——”\n\n他顿了顿。\n\n“你身上若还带着宗门发放的物件，一并交回。没有别的了。”\n\n你摸了摸袖中，除了那块木牌和纸包，再无他物。\n\n“没有了。”\n\n执事点头，抬手往石阶下方一指。半山云雾正从那条路漫上来，石阶一级级没入白气里，看不见尽头。\n\n“下山走这条路，半个时辰到山脚。山脚往东南，官道走一日，便是青石镇。”他说得简短，像在交代一件早已重复过许多遍的事，“镇上有客栈、有码头、有铁匠铺。你要谋生，那里不缺活计。只是——”\n\n他看了你一眼，没有把话说完，只摆了摆手。\n\n“去吧。”\n\n你转身。人群里有人低声议论，你没去听。陆照临还站在原来的位置，隔着几个人望过来，似乎想说什么，终究只是朝你微微颔首。你与他不过互通了姓名，谈不上交情，这一点头便算作别。\n\n石阶向下延伸，云雾一层层漫过脚面。身后试炼场的钟声终于响了，浑厚的一记，震得半山松枝簌簌落针。那声音追着你往下走，越来越远，越来越轻，最后被山风彻底吹散。\n\n半个时辰后，你踩上平地。回头望，玄霄宗的山门早已隐在云中，只剩一线青灰色的檐角，像谁随手画上去的一笔。官道在脚下铺开，黄土被往来车马碾得发白，两旁是刚抽穗的麦田，风一过便翻起细浪。\n\n东南方向，日头偏西。青石镇还有一日路程。你身上没有盘缠，没有荐书，没有木牌，袖中空空。只有一双脚，和一条谁也没替你选过的路。",
+        "entityIds": [
+          "character_e663361ab1c7"
+        ],
+        "originParentId": "branch_74396796-c57b-46a9-9631-cacff473f3c9",
+        "originNarrativeSha256": "330175dd4b8250966b5292d9dd20103526cfc44630a56939f2032b0169f01e28"
+      },
+      {
+        "id": "followup-19ec97ac78ca9041b58d",
+        "kind": "state_uncertain",
+        "status": "open",
+        "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。顾长离决定独自下山，执事告知青石镇方向与路程，他已踏上官道。",
+        "evidence": "。第二，你今日从这道石阶下去，往后山门若有事，不得再以试炼弟子身份出入。第三——”\n\n他顿了顿。\n\n“你身上若还带着宗门发放的物件，一并交回。没有别的了。”\n\n你摸了摸袖中，除了那块木牌和纸包，再无他物。\n\n“没有了。”\n\n执事点头，抬手往石阶下方一指。半山云雾正从那条路漫上来，石阶一级级没入白气里，看不见尽头。\n\n“下山走这条路，半个时辰到山脚。山脚往东南，官道走一日，便是青石镇。”他说得简短，像在交代一件早已重复过许多遍的事，“镇上有客栈、有码头、有铁匠铺。你要谋生，那里不缺活计。只是——”\n\n他看了你一眼，没有把话说完，只摆了摆手。\n\n“去吧。”\n\n你转身。人群里有人低声议论，你没去听。陆照临还站在原来的位置，隔着几个人望过来，似乎想说什么，终究只是朝你微微颔首。你与他不过互通了姓名，谈不上交情，这一点头便算作别。\n\n石阶向下延伸，云雾一层层漫过脚面。身后试炼场的钟声终于响了，浑厚的一记，震得半山松枝簌簌落针。那声音追着你往下走，越来越远，越来越轻，最后被山风彻底吹散。\n\n半个时辰后，你踩上平地。回头望，玄霄宗的山门早已隐在云中，只剩一线青灰色的檐角，像谁随手画上去的一笔。官道在脚下铺开，黄土被往来车马碾得发白，两旁是刚抽穗的麦田，风一过便翻起细浪。\n\n东南方向，日头偏西。青石镇还有一日路程。你身上没有盘缠，没有荐书，没有木牌，袖中空空。只有一双脚，和一条谁也没替你选过的路。",
+        "entityIds": [
+          "new-1"
+        ],
+        "originParentId": "branch_74396796-c57b-46a9-9631-cacff473f3c9",
+        "originNarrativeSha256": "330175dd4b8250966b5292d9dd20103526cfc44630a56939f2032b0169f01e28"
+      },
+      {
+        "id": "followup-85d94526412395823879",
+        "kind": "state_uncertain",
+        "status": "open",
+        "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。",
+        "evidence": "算我积德。明早走时把院子扫了，抵那碗粥。”\n\n你道了谢。粥是糙米熬的，稀得能照见碗底，但热。你喝完，在通铺最里侧找了个位置躺下。旁边几个脚夫鼾声很响，你听着听着也就睡着了。\n\n天亮前你就醒了。扫院子，把骡子粪铲到墙根，妇人没再说什么，只往你手里塞了半个冷馍。你揣着馍上了路。\n\n日头升到头顶时，官道两旁的麦田渐渐变成菜畦，再往前，屋舍密了起来。青石镇到了。镇子比你想的热闹，街面铺着青石板，被车轮碾出两道浅沟。你顺着人流往低处走，水声越来越近，空气里混着河泥和鱼腥的气味。码头就在镇子东头，几条货船泊在岸边，跳板搭着，有人扛着麻袋上上下下。\n\n一个中年男人站在跳板旁，手里捏着根竹签，正对着船上喊话。他皮肤黝黑，短褂敞着，腰间别着个钱袋。你走过去，等他喊完一轮，才开口。\n\n“这位大哥，码头上有搬运的活吗？”\n\n他转过头，上下打量你。目光在你脸上停了一下，又落到你的手上——没有老茧，但也没有养尊处优的细皮。\n\n“新来的？”\n\n“是。”\n\n“搬货的活天天有，看船到不到。”他把竹签往耳朵上一夹，“工钱按日结，一天三十文。管一顿晌午饭，糙米饭配咸菜，不管早晚。当日干完当日结，不拖。要是船晚到，多干的时辰另算，半个时辰五文。”\n\n他顿了顿，又补一句：“丑话说前头，货损了要赔，偷懒耍滑的当场撵走，一文不给。你要是肯干，明早卯时过来，我姓周，喊我周领工就行。”\n\n他说完，也不催你，就那么站着，等你回话。",
+        "entityIds": [],
+        "originParentId": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+        "originNarrativeSha256": "28a1eda19f078334311ac5f5b57ef7bb5848907f8f5221f2040225a432db492c"
+      },
+      {
+        "id": "followup-7bff21afc4fb14d8c54e",
+        "kind": "state_uncertain",
+        "status": "open",
+        "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。character_e663361ab1c7",
+        "evidence": "算我积德。明早走时把院子扫了，抵那碗粥。”\n\n你道了谢。粥是糙米熬的，稀得能照见碗底，但热。你喝完，在通铺最里侧找了个位置躺下。旁边几个脚夫鼾声很响，你听着听着也就睡着了。\n\n天亮前你就醒了。扫院子，把骡子粪铲到墙根，妇人没再说什么，只往你手里塞了半个冷馍。你揣着馍上了路。\n\n日头升到头顶时，官道两旁的麦田渐渐变成菜畦，再往前，屋舍密了起来。青石镇到了。镇子比你想的热闹，街面铺着青石板，被车轮碾出两道浅沟。你顺着人流往低处走，水声越来越近，空气里混着河泥和鱼腥的气味。码头就在镇子东头，几条货船泊在岸边，跳板搭着，有人扛着麻袋上上下下。\n\n一个中年男人站在跳板旁，手里捏着根竹签，正对着船上喊话。他皮肤黝黑，短褂敞着，腰间别着个钱袋。你走过去，等他喊完一轮，才开口。\n\n“这位大哥，码头上有搬运的活吗？”\n\n他转过头，上下打量你。目光在你脸上停了一下，又落到你的手上——没有老茧，但也没有养尊处优的细皮。\n\n“新来的？”\n\n“是。”\n\n“搬货的活天天有，看船到不到。”他把竹签往耳朵上一夹，“工钱按日结，一天三十文。管一顿晌午饭，糙米饭配咸菜，不管早晚。当日干完当日结，不拖。要是船晚到，多干的时辰另算，半个时辰五文。”\n\n他顿了顿，又补一句：“丑话说前头，货损了要赔，偷懒耍滑的当场撵走，一文不给。你要是肯干，明早卯时过来，我姓周，喊我周领工就行。”\n\n他说完，也不催你，就那么站着，等你回话。",
+        "entityIds": [
+          "character_e663361ab1c7"
+        ],
+        "originParentId": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+        "originNarrativeSha256": "28a1eda19f078334311ac5f5b57ef7bb5848907f8f5221f2040225a432db492c"
+      },
+      {
+        "id": "followup-8a88c00875ee00194b60",
+        "kind": "state_uncertain",
+        "status": "open",
+        "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。顾长离走完官道抵达青石镇，到码头向领工问工。",
+        "evidence": "算我积德。明早走时把院子扫了，抵那碗粥。”\n\n你道了谢。粥是糙米熬的，稀得能照见碗底，但热。你喝完，在通铺最里侧找了个位置躺下。旁边几个脚夫鼾声很响，你听着听着也就睡着了。\n\n天亮前你就醒了。扫院子，把骡子粪铲到墙根，妇人没再说什么，只往你手里塞了半个冷馍。你揣着馍上了路。\n\n日头升到头顶时，官道两旁的麦田渐渐变成菜畦，再往前，屋舍密了起来。青石镇到了。镇子比你想的热闹，街面铺着青石板，被车轮碾出两道浅沟。你顺着人流往低处走，水声越来越近，空气里混着河泥和鱼腥的气味。码头就在镇子东头，几条货船泊在岸边，跳板搭着，有人扛着麻袋上上下下。\n\n一个中年男人站在跳板旁，手里捏着根竹签，正对着船上喊话。他皮肤黝黑，短褂敞着，腰间别着个钱袋。你走过去，等他喊完一轮，才开口。\n\n“这位大哥，码头上有搬运的活吗？”\n\n他转过头，上下打量你。目光在你脸上停了一下，又落到你的手上——没有老茧，但也没有养尊处优的细皮。\n\n“新来的？”\n\n“是。”\n\n“搬货的活天天有，看船到不到。”他把竹签往耳朵上一夹，“工钱按日结，一天三十文。管一顿晌午饭，糙米饭配咸菜，不管早晚。当日干完当日结，不拖。要是船晚到，多干的时辰另算，半个时辰五文。”\n\n他顿了顿，又补一句：“丑话说前头，货损了要赔，偷懒耍滑的当场撵走，一文不给。你要是肯干，明早卯时过来，我姓周，喊我周领工就行。”\n\n他说完，也不催你，就那么站着，等你回话。",
+        "entityIds": [
+          "character_e663361ab1c7"
+        ],
+        "originParentId": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+        "originNarrativeSha256": "28a1eda19f078334311ac5f5b57ef7bb5848907f8f5221f2040225a432db492c"
+      },
+      {
+        "id": "followup-75bf36dfb39e03c21cf2",
+        "kind": "state_uncertain",
+        "status": "open",
+        "summary": "本回合有尚未确认的持续结果，需要结合原文澄清。正文叙述其抵达青石镇码头问工。",
+        "evidence": "算我积德。明早走时把院子扫了，抵那碗粥。”\n\n你道了谢。粥是糙米熬的，稀得能照见碗底，但热。你喝完，在通铺最里侧找了个位置躺下。旁边几个脚夫鼾声很响，你听着听着也就睡着了。\n\n天亮前你就醒了。扫院子，把骡子粪铲到墙根，妇人没再说什么，只往你手里塞了半个冷馍。你揣着馍上了路。\n\n日头升到头顶时，官道两旁的麦田渐渐变成菜畦，再往前，屋舍密了起来。青石镇到了。镇子比你想的热闹，街面铺着青石板，被车轮碾出两道浅沟。你顺着人流往低处走，水声越来越近，空气里混着河泥和鱼腥的气味。码头就在镇子东头，几条货船泊在岸边，跳板搭着，有人扛着麻袋上上下下。\n\n一个中年男人站在跳板旁，手里捏着根竹签，正对着船上喊话。他皮肤黝黑，短褂敞着，腰间别着个钱袋。你走过去，等他喊完一轮，才开口。\n\n“这位大哥，码头上有搬运的活吗？”\n\n他转过头，上下打量你。目光在你脸上停了一下，又落到你的手上——没有老茧，但也没有养尊处优的细皮。\n\n“新来的？”\n\n“是。”\n\n“搬货的活天天有，看船到不到。”他把竹签往耳朵上一夹，“工钱按日结，一天三十文。管一顿晌午饭，糙米饭配咸菜，不管早晚。当日干完当日结，不拖。要是船晚到，多干的时辰另算，半个时辰五文。”\n\n他顿了顿，又补一句：“丑话说前头，货损了要赔，偷懒耍滑的当场撵走，一文不给。你要是肯干，明早卯时过来，我姓周，喊我周领工就行。”\n\n他说完，也不催你，就那么站着，等你回话。",
+        "entityIds": [
+          "character_e663361ab1c7"
+        ],
+        "originParentId": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+        "originNarrativeSha256": "28a1eda19f078334311ac5f5b57ef7bb5848907f8f5221f2040225a432db492c"
+      },
+      {
+        "id": "followup-e363accfbc8b5678e3d5",
+        "kind": "continuity",
+        "status": "open",
+        "summary": "周领工给出的搬运条件（一天三十文、管一顿晌午饭、当日结算、船晚到另算、货损要赔）目前仅为领工口头说法，尚未实际受雇验证。",
+        "evidence": "“搬货的活天天有，看船到不到。”他把竹签往耳朵上一夹，“工钱按日结，一天三十文。管一顿晌午饭，糙米饭配咸菜，不管早晚。当日干完当日结，不拖。要是船晚到，多干的时辰另算，半个时辰五文。”\n\n他顿了顿，又补一句：“丑话说前头，货损了要赔，偷懒耍滑的当场撵走，一文不给。你要是肯干，明早卯时过来，我姓周，喊我周领工就行。”",
+        "entityIds": [],
+        "originParentId": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+        "originNarrativeSha256": "28a1eda19f078334311ac5f5b57ef7bb5848907f8f5221f2040225a432db492c"
+      }
+    ],
+    "observationDiagnostics": [
+      {
+        "item": {
+          "evidenceQuote": "他说完，也不催你，就那么站着，等你回话。",
+          "name": "码头",
+          "basis": "observed",
+          "paragraphIds": [
+            "P18"
+          ],
+          "presentEntities": [
+            {
+              "entityId": "character_e663361ab1c7",
+              "entityName": "你",
+              "basis": "observed",
+              "paragraphIds": [
+                "P11",
+                "P12"
+              ],
+              "evidenceQuote": "你走过去，等他喊完一轮，才开口。"
+            },
+            {
+              "entityId": "character_dock_foreman",
+              "entityName": "周领工",
+              "basis": "observed",
+              "paragraphIds": [
+                "P11",
+                "P18"
+              ],
+              "evidenceQuote": "一个中年男人站在跳板旁，手里捏着根竹签，正对着船上喊话。"
+            }
+          ]
+        },
+        "reason": "当前场所名称不在引用原文中"
+      },
+      {
+        "item": {
+          "characterId": "character_e663361ab1c7",
+          "entityName": "你",
+          "basis": "observed",
+          "status": "alive",
+          "permanence": "permanent",
+          "cause": "沿官道安全抵达青石镇码头。",
+          "paragraphIds": [
+            "P10"
+          ],
+          "evidenceParagraphId": "P10",
+          "evidenceQuote": "日头升到头顶时，官道两旁的麦田渐渐变成菜畦，再往前，屋舍密了起来。青石镇到了。镇子比你想的热闹，街面铺着青石板，被车轮碾出两道浅沟。你顺着人流往低处走，水声越来越近，空气里混着河泥和鱼腥的气味。码头就在镇子东头，几条货船泊在岸边，跳板搭着，有人扛着麻袋上上下下。"
+        },
+        "reason": "人物后果期限无效"
+      },
+      {
+        "item": {
+          "entityId": "character_e663361ab1c7",
+          "entityName": "你",
+          "basis": "observed",
+          "attribute": "locationId",
+          "value": "location_qingshi_dock",
+          "reason": "顾长离走完官道抵达青石镇，到码头向领工问工。",
+          "paragraphIds": [
+            "P10",
+            "P11"
+          ]
+        },
+        "reason": "位置记录缺少实际地点称呼，保留待澄清"
+      },
+      {
+        "item": {
+          "entityId": "character_e663361ab1c7",
+          "entityName": "你",
+          "basis": "observed",
+          "attribute": "locationId",
+          "value": "location_qingshi_dock",
+          "reason": "正文叙述其抵达青石镇码头问工。",
+          "paragraphIds": [
+            "P10",
+            "P11"
+          ]
+        },
+        "reason": "位置记录缺少实际地点称呼，保留待澄清"
+      }
+    ],
+    "readingProfile": {
+      "level": "dynamic",
+      "targetCjk": [
+        700,
+        700
+      ],
+      "reason": "需完成赶路、过夜、抵达与问工四段推进，并留出领工答复的现场感。",
+      "hardMinimum": false,
+      "minCjk": 80,
+      "maxCjk": 1500,
+      "lengthPolicy": "final_visible_prose_dynamic_80_1500",
+      "actualCjk": 753,
+      "expansionApplied": false
+    },
+    "proseQuality": {
+      "status": "not_automatically_reviewed",
+      "reviewer": "developer"
+    },
+    "storyJourney": {
+      "version": "story-journey/1",
+      "budget": {
+        "targetMinutes": 150,
+        "typicalMinutes": [
+          120,
+          180
+        ],
+        "targetCjk": 30000,
+        "typicalCjk": [
+          25000,
+          40000
+        ],
+        "targetTurns": 45,
+        "typicalTurns": [
+          40,
+          60
+        ]
+      },
+      "progress": {
+        "consumedCjk": 2014,
+        "completedTurns": 2,
+        "remainingCjk": 27986,
+        "remainingTurns": 43,
+        "suggestedPhase": "establish",
+        "pacing": "developing",
+        "plotCompletion": null
+      },
+      "plan": {
+        "premise": "顾长离在玄霄宗外门试炼开场前主动退出，交回木牌与包着金屑的纸，独自下山前往青石镇谋生。他放弃宗门路径，却带着对金屑的一丝未解印象与一次退出的记录，在凡俗市镇里重新立足，并面对退出带来的实际代价与新的谋生选择。",
+        "centralQuestion": "一个主动放弃宗门试炼的人，能否在青石镇的寻常生计里找到自己的位置，并承受退出所留下的后果？",
+        "revisionReason": "玩家明确放弃试炼与金屑调查，转向退出宗门、下山谋生，旧计划围绕试炼与金屑展开的五阶段不再适用，故首次给出完整修订计划。",
+        "phases": [
+          {
+            "id": "establish",
+            "title": "退出试炼与下山",
+            "purpose": "办理退出、交回木牌与纸包、问清后果，确立青石镇谋生方向；玩家可决定如何应对执事的追问与退出手续。",
+            "payoff": "为山下谋生准备身份、盘缠与路径信息，并留下退出记录这一后续可能被提及的痕迹。",
+            "targetEndCjk": 4500
+          },
+          {
+            "id": "develop",
+            "title": "青石镇立足",
+            "purpose": "在青石镇寻找活计与落脚处，建立新的日常关系；玩家可决定接受何种营生、与谁往来。",
+            "payoff": "积累谋生资源与人际牵挂，为后续冲突提供具体的人与事。",
+            "targetEndCjk": 10500
+          },
+          {
+            "id": "turn",
+            "title": "退出代价浮现",
+            "purpose": "退出的实际后果或旧日痕迹以某种方式找上门，迫使玩家在安稳与旧事之间作选择。",
+            "payoff": "把退出记录与金屑印象转化为具体压力，检验玩家是否真正放下。",
+            "targetEndCjk": 18000
+          },
+          {
+            "id": "resolve",
+            "title": "谋生与旧痕的了断",
+            "purpose": "玩家在青石镇的生计与旧事之间作出取舍，处理退出带来的核心矛盾。",
+            "payoff": "兑现退出后果与金屑伏笔，给顾长离一个自己选择的位置。",
+            "targetEndCjk": 25000
+          },
+          {
+            "id": "conclude",
+            "title": "青石镇的余波",
+            "purpose": "呈现选择后的生活状态与关系变化，交代退出与谋生的最终结果。",
+            "payoff": "收束顾长离在青石镇的新身份与代价，留下自然余韵。",
+            "targetEndCjk": 30000
+          }
+        ]
+      },
+      "planStatus": "provisional",
+      "revision": 1,
+      "review": {
+        "status": "recorded",
+        "decision": "keep",
+        "reason": "玩家行动与既有计划一致：沿官道赴青石镇、途中歇脚、抵达后到码头问搬运活并先听条件。这是从退出宗门转向山下谋生的自然延续，无需改道。",
+        "nextMilestone": "顾长离走完官道、在途中安全过夜，抵达青石镇码头向领工问明搬运活的工钱、管饭与结算方式，得到具体条件后停在决定前。",
+        "phaseId": "establish",
+        "phaseReason": "退出试炼与下山已落实，但青石镇立足尚未开始。本回合应完成赶路、歇脚与抵达码头问工，把谋生方向从意向变为具体接触。"
+      },
+      "lastOutcome": {
+        "summary": "顾长离走完官道、途中在车马店赊住一夜，抵达青石镇码头，向周领工问明搬运活的工钱、管饭与当日结算条件；周领工给出具体条件并让他自己考虑，顾长离尚未答复。",
+        "paragraphId": "P17",
+        "evidenceQuote": "他顿了顿，又补一句：“丑话说前头，货损了要赔，偷懒耍滑的当场撵走，一文不给。你要是肯干，明早卯时过来，我姓周，喊我周领工就行。”",
+        "basis": "observed"
+      },
+      "authority": "future_possibilities_not_facts",
+      "ending": null
+    },
+    "naturalEnding": false,
+    "selectedDirectionId": "direction_free_30d7ff1a8ad9",
+    "selectedDirection": {
+      "id": "direction_free_30d7ff1a8ad9",
+      "title": "自定行动：沿官道去青石镇，天黑找安",
+      "summary": "沿官道去青石镇，天黑找安全地方歇脚，天亮继续赶路。抵达后去码头向领工问有没有搬运活，工钱、管饭和当日结算怎么算；先听条件再决定。",
+      "statePatch": {
+        "freeTextProgress": 2
+      },
+      "isFreeText": true
+    },
+    "playerDirection": "沿官道去青石镇，天黑找安全地方歇脚，天亮继续赶路。抵达后去码头向领工问有没有搬运活，工钱、管饭和当日结算怎么算；先听条件再决定。",
+    "requestId": "playthrough-025e69022ad54c069014f0116d1189ae",
+    "contextId": "ctx-f7d54faa15f9368a",
+    "readerChoices": [
+      {
+        "id": "reader-addf7938fbfb59fe",
+        "title": "应下明早卯时的搬运活",
+        "summary": "我点头应下周领工，说好明早卯时过来上工。然后我问他今晚码头附近有没有能凑合过夜的地方，或者能不能先预支几文钱买口吃的。",
+        "evidence": [
+          "“搬货的活天天有，看船到不到。”他把竹签往耳朵上一夹，“工钱按日结，一天三十文。管一顿晌午饭，糙米饭配咸菜，不管早晚。当日干完当日结，不拖。要是船晚到，多干的时辰另算，半个时辰五文。”",
+          "他顿了顿，又补一句：“丑话说前头，货损了要赔，偷懒耍滑的当场撵走，一文不给。你要是肯干，明早卯时过来，我姓周，喊我周领工就行。”",
+          "他说完，也不催你，就那么站着，等你回话。"
+        ],
+        "dependencies": {
+          "version": "reader-choice-dependencies/3",
+          "contextDigest": "b75cae87af90900eec38a32c1e3cd67e6b8b059699a1eb6a33b0d1ae67207272",
+          "paragraphIds": [
+            "P16",
+            "P17",
+            "P18"
+          ],
+          "interactWith": [
+            "character_e663361ab1c7"
+          ],
+          "mentionOnly": []
+        }
+      },
+      {
+        "id": "reader-dfefeec07973b1c1",
+        "title": "先问清工钱结算和货损规矩",
+        "summary": "我不急着答应，先向周领工问明白：三十文是当天干完就当场结清，还是收工后统一发；货损要赔的话，赔多少、怎么算，有没有个准数。问清楚了再回他干不干。",
+        "evidence": [
+          "“搬货的活天天有，看船到不到。”他把竹签往耳朵上一夹，“工钱按日结，一天三十文。管一顿晌午饭，糙米饭配咸菜，不管早晚。当日干完当日结，不拖。要是船晚到，多干的时辰另算，半个时辰五文。”",
+          "他顿了顿，又补一句：“丑话说前头，货损了要赔，偷懒耍滑的当场撵走，一文不给。你要是肯干，明早卯时过来，我姓周，喊我周领工就行。”",
+          "他说完，也不催你，就那么站着，等你回话。"
+        ],
+        "dependencies": {
+          "version": "reader-choice-dependencies/3",
+          "contextDigest": "b75cae87af90900eec38a32c1e3cd67e6b8b059699a1eb6a33b0d1ae67207272",
+          "paragraphIds": [
+            "P16",
+            "P17",
+            "P18"
+          ],
+          "interactWith": [
+            "character_e663361ab1c7"
+          ],
+          "mentionOnly": []
+        }
+      },
+      {
+        "id": "reader-254942fa9d053801",
+        "title": "不接码头活，先去镇上找别的营生",
+        "summary": "我谢过周领工，说再想想，转身离开码头。我沿着青石镇的街面往镇里走，看看有没有客栈、饭铺或铁匠铺在招人手，先问上一两家。",
+        "evidence": [
+          "日头升到头顶时，官道两旁的麦田渐渐变成菜畦，再往前，屋舍密了起来。青石镇到了。镇子比你想的热闹，街面铺着青石板，被车轮碾出两道浅沟。你顺着人流往低处走，水声越来越近，空气里混着河泥和鱼腥的气味。码头就在镇子东头，几条货船泊在岸边，跳板搭着，有人扛着麻袋上上下下。",
+          "一个中年男人站在跳板旁，手里捏着根竹签，正对着船上喊话。他皮肤黝黑，短褂敞着，腰间别着个钱袋。你走过去，等他喊完一轮，才开口。",
+          "他说完，也不催你，就那么站着，等你回话。"
+        ],
+        "dependencies": {
+          "version": "reader-choice-dependencies/3",
+          "contextDigest": "b75cae87af90900eec38a32c1e3cd67e6b8b059699a1eb6a33b0d1ae67207272",
+          "paragraphIds": [
+            "P10",
+            "P11",
+            "P18"
+          ],
+          "interactWith": [
+            "character_e663361ab1c7"
+          ],
+          "mentionOnly": []
+        }
+      }
+    ],
+    "turnInput": {
+      "text": "沿官道去青石镇，天黑找安全地方歇脚，天亮继续赶路。抵达后去码头向领工问有没有搬运活，工钱、管饭和当日结算怎么算；先听条件再决定。"
+    },
+    "preparedTurnKey": "e49b6fa83a9e6343584d096e312c1ac591dde6890b9df36cb08a116cc1d584b3",
+    "preparedAttemptId": "5e4130bb731940eca27009ba3dee940b",
+    "routeOutline": {
+      "version": "route-outline/3",
+      "branch_id": "branch_729e06d0-2f47-4557-aabf-5eac4da5c5e7",
+      "root_branch_id": "branch_74396796-c57b-46a9-9631-cacff473f3c9",
+      "binding_digest": "d4b878678f0b80fd9611968c5bbf9b92c1ab2aeb4f72a5db05f096953fed77c2",
+      "structure": {
+        "volume": null,
+        "arc": "arc_source_chapter_003",
+        "beat": "beat_chapter_011",
+        "source_progress": "chapter_011"
+      },
+      "goals": [
+        {
+          "id": "opening-goal-1",
+          "title": "木牌刻痕里为何有金屑",
+          "status": "abandoned",
+          "evidence": {
+            "kind": "narrative",
+            "branch_id": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+            "ref": "opening-goal-1",
+            "quote": "“退出？”你把木牌搁在石台边缘，又摸出那只纸包，一并推过去，“试炼我不参加了。金屑的事，我也不查了。”\n\n执事没有立刻去接。他先看了看木牌，再看了看纸包，最后看回你，眉头慢慢拧起来。\n\n“你可想清楚了。”他开口，声音不高，周围却有几个新弟子悄悄侧过耳朵，“玄霄宗外门试炼，一年一回。今日踏出这道石阶，明年再来，便要从头核验根骨、重走引荐的路子。你荐书上的名字，我这就划去。”\n\n“想清楚了。”\n\n他这才伸手，先把木牌翻过来，指腹在背面那道刻痕上抹了一下。刻痕里的黑泥还在，他没细看，随手将木牌丢进石台下一只竹筐。筐里已经躺着几块同样的木牌，边角磕碰，像是往年留下的。\n\n接着是纸包。执事捏起它，在掌心掂了掂，没有打开。\n\n“这是什么？”\n\n“木牌刻痕里刮下来的。”你说，“一点金屑。”\n\n他的手指顿了一下。纸包很轻，轻得几乎感觉不到分量。他盯着它看了两息，忽然问：“你刮它做什么？”\n\n“看着不像泥。”\n\n执事沉默片刻，把纸包收进袖中，没有再多问。他重新拿起笔，在簿子上划了一道，笔尖压得很重，纸面发出细微的沙沙声。"
+          },
+          "priority": "unknown",
+          "recoveryWindow": "unknown",
+          "completion": {
+            "ledger": "goalLedger",
+            "target_id": "opening-goal-1",
+            "target_statuses": [
+              "completed"
+            ],
+            "met": false,
+            "requires_narrative_evidence": true
+          }
+        },
+        {
+          "id": "opening-goal-2",
+          "title": "如何完成第一场外门试炼",
+          "status": "abandoned",
+          "evidence": {
+            "kind": "narrative",
+            "branch_id": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+            "ref": "opening-goal-2",
+            "quote": "“退出？”你把木牌搁在石台边缘，又摸出那只纸包，一并推过去，“试炼我不参加了。金屑的事，我也不查了。”\n\n执事没有立刻去接。他先看了看木牌，再看了看纸包，最后看回你，眉头慢慢拧起来。\n\n“你可想清楚了。”他开口，声音不高，周围却有几个新弟子悄悄侧过耳朵，“玄霄宗外门试炼，一年一回。今日踏出这道石阶，明年再来，便要从头核验根骨、重走引荐的路子。你荐书上的名字，我这就划去。”\n\n“想清楚了。”\n\n他这才伸手，先把木牌翻过来，指腹在背面那道刻痕上抹了一下。刻痕里的黑泥还在，他没细看，随手将木牌丢进石台下一只竹筐。筐里已经躺着几块同样的木牌，边角磕碰，像是往年留下的。"
+          },
+          "priority": "unknown",
+          "recoveryWindow": "unknown",
+          "completion": {
+            "ledger": "goalLedger",
+            "target_id": "opening-goal-2",
+            "target_statuses": [
+              "completed"
+            ],
+            "met": false,
+            "requires_narrative_evidence": true
+          }
+        }
+      ],
+      "threads": [
+        {
+          "id": "opening-thread-1",
+          "title": "木牌刻痕里为何有金屑",
+          "status": "abandoned",
+          "evidence": {
+            "kind": "narrative",
+            "branch_id": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+            "ref": "opening-thread-1",
+            "quote": "“退出？”你把木牌搁在石台边缘，又摸出那只纸包，一并推过去，“试炼我不参加了。金屑的事，我也不查了。”\n\n执事没有立刻去接。他先看了看木牌，再看了看纸包，最后看回你，眉头慢慢拧起来。\n\n“你可想清楚了。”他开口，声音不高，周围却有几个新弟子悄悄侧过耳朵，“玄霄宗外门试炼，一年一回。今日踏出这道石阶，明年再来，便要从头核验根骨、重走引荐的路子。你荐书上的名字，我这就划去。”\n\n“想清楚了。”\n\n他这才伸手，先把木牌翻过来，指腹在背面那道刻痕上抹了一下。刻痕里的黑泥还在，他没细看，随手将木牌丢进石台下一只竹筐。筐里已经躺着几块同样的木牌，边角磕碰，像是往年留下的。\n\n接着是纸包。执事捏起它，在掌心掂了掂，没有打开。\n\n“这是什么？”\n\n“木牌刻痕里刮下来的。”你说，“一点金屑。”\n\n他的手指顿了一下。纸包很轻，轻得几乎感觉不到分量。他盯着它看了两息，忽然问：“你刮它做什么？”\n\n“看着不像泥。”\n\n执事沉默片刻，把纸包收进袖中，没有再多问。他重新拿起笔，在簿子上划了一道，笔尖压得很重，纸面发出细微的沙沙声。"
+          },
+          "priority": "unknown",
+          "recoveryWindow": "unknown",
+          "completion": {
+            "ledger": "threadLedger",
+            "target_id": "opening-thread-1",
+            "target_statuses": [
+              "resolved",
+              "abandoned"
+            ],
+            "met": true,
+            "requires_narrative_evidence": true
+          }
+        },
+        {
+          "id": "opening-thread-2",
+          "title": "如何完成第一场外门试炼",
+          "status": "abandoned",
+          "evidence": {
+            "kind": "narrative",
+            "branch_id": "branch_8f98a83b-089d-4cf2-bfa8-c8884a1621d2",
+            "ref": "opening-thread-2",
+            "quote": "“退出？”你把木牌搁在石台边缘，又摸出那只纸包，一并推过去，“试炼我不参加了。金屑的事，我也不查了。”\n\n执事没有立刻去接。他先看了看木牌，再看了看纸包，最后看回你，眉头慢慢拧起来。\n\n“你可想清楚了。”他开口，声音不高，周围却有几个新弟子悄悄侧过耳朵，“玄霄宗外门试炼，一年一回。今日踏出这道石阶，明年再来，便要从头核验根骨、重走引荐的路子。你荐书上的名字，我这就划去。”\n\n“想清楚了。”\n\n他这才伸手，先把木牌翻过来，指腹在背面那道刻痕上抹了一下。刻痕里的黑泥还在，他没细看，随手将木牌丢进石台下一只竹筐。筐里已经躺着几块同样的木牌，边角磕碰，像是往年留下的。"
+          },
+          "priority": "unknown",
+          "recoveryWindow": "unknown",
+          "completion": {
+            "ledger": "threadLedger",
+            "target_id": "opening-thread-2",
+            "target_statuses": [
+              "resolved",
+              "abandoned"
+            ],
+            "met": true,
+            "requires_narrative_evidence": true
+          }
+        }
+      ],
+      "conflicts": [],
+      "steps": []
+    }
+  },
+  "reason": "已登记为本回合自定义行动；状态变化由本地脚本控制。"
+}

@@ -2,6 +2,7 @@
 import tempfile
 import time
 import unittest
+from threading import Event
 from unittest.mock import Mock, patch
 from http.client import HTTPResponse
 
@@ -12,6 +13,47 @@ from tests_api.test_story_media import PNG, media_service
 
 
 class InlineIllustrationTests(unittest.TestCase):
+    def test_cancelled_inflight_image_does_not_delay_next_page_or_mix_receipts(self):
+        source = longform_cases()[0]['source'].read_text()
+        read = Mock()
+        read.branch_view.return_value = dict(parentId='root', narrativeText=source[:3000], branchState={})
+        gateway = ImageGateway()
+        gateway.base_url, gateway.api_key, gateway.model = 'https://test.invalid', 'test', 'gpt-image-test'
+        first, second, finish = Event(), Event(), Event()
+        instances = []
+        def generate(instance, prompt, *, timeout):
+            instances.append(instance)
+            number = len(instances)
+            instance.usage = {'total_tokens': number}
+            instance.timings = {'provider_ms': number, 'download_ms': 0}
+            if number == 1:
+                first.set()
+                self.assertTrue(finish.wait(3))
+            else:
+                second.set()
+            return PNG, 'image/png'
+        with tempfile.TemporaryDirectory() as directory, patch.object(ImageGateway, 'generate', generate):
+            service = media_service(read, directory, gateway)
+            try:
+                service.ensure('s', 'old', subscriber='old-tab', draw=True)
+                self.assertTrue(first.wait(1))
+                service.release('s', 'old', 'old-tab')
+                service.ensure('s', 'new', subscriber='new-tab', draw=True)
+                self.assertTrue(second.wait(1), '新页面不能等待已取消请求返回')
+            finally:
+                finish.set()
+                service._pool.shutdown(wait=True)
+                service.close()
+            jobs = {job['bid']: job for job in service._jobs.values()}
+            self.assertEqual(jobs['old']['status'], 'cancelled')
+            self.assertEqual(jobs['new']['status'], 'ready')
+            self.assertEqual(jobs['old']['usage']['total_tokens'], 1)
+            self.assertEqual(jobs['new']['usage']['total_tokens'], 2)
+            self.assertIsNot(instances[0], instances[1])
+            self.assertIsNone(gateway.usage)
+            self.assertGreaterEqual(jobs['new']['ready_ms'], jobs['new']['queued_ms'])
+            self.assertEqual(jobs['new']['provider_calls'], 1)
+
     def test_very_short_pages_still_trigger_fourth_and_seventh_pages(self):
         source = longform_cases()[0]['source'].read_text()
         nodes = [dict(narrativeText=source[i:i+180]) for i in range(0, 1260, 180)]

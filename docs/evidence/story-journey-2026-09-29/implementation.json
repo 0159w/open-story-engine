@@ -1,0 +1,26 @@
+{
+  "baseCommit": "09336ab74e3a83962da5f853c0d5e51420fd11ec",
+  "modifiedFileSha256": {
+    "AGENTS.md": "9fb2bc5fa7df97e664c39e2efb5c944eabf01de334f877b638f4c46b05567727",
+    "docs/post-report-directions-2026-09-29.md": "1219f82edf486211834e0fb71af1e80580e3869c8e4c15a845b46ab1eb9e7b28",
+    "docs/product-direction.md": "1894044f7215b73bb4ca7140f10c31a09b0f628cea08f1307116a2966ebe433b",
+    "open_story_engine/api_journey.py": "b5e43a3f5c9823a02a2808df40d964deb812a91fa853dee4eb1211ec28b6d0d7",
+    "open_story_engine/api_models.py": "d183e1a6b47726f6c5fd5786d4bbfef55003e0b2130224da6ce12c2651d94ae0",
+    "open_story_engine/api_narrative.py": "3fd1a783ca18752d2707e73700d69c34fd3e1fd435f106630e10da20c9a5fe72",
+    "open_story_engine/api_play.py": "1f027780cb1d12bd573f5b73b29e0ca2f00515a99db650ccff4bb5595d9d41b1",
+    "open_story_engine/cocreation.py": "dfd0e0009463a7f9f96da5e7fb69f2efc8a486a6d49d5b703aff167df8863441",
+    "open_story_engine/context_bundle.py": "2baeb8b064466a763c2c8078df8461d6e8305e3d5cc8ae48bf8e8dc8d33fb2cc",
+    "open_story_engine/context_turn.py": "f0c6bed274b14f151318f3166ae1ad6f2fd02cb88619d5d3cfe6e82c33a4b6e6",
+    "open_story_engine/narrative_delivery.py": "eb791121aa0ec56bd2eff4f3db5a158efd66679aaf45b2c86283f73f54fc93c8",
+    "open_story_engine/prompts/reader/choices.md": "f07dd8910fc1c606a3991f930c01c1d5cdaff27ebbc00b654271433fd2ae839d",
+    "open_story_engine/prompts/reader/context_plan.md": "0b158177915b6276610b5c5312b479f0e3349cd3b3f4a75365e50d594d914364",
+    "open_story_engine/prompts/reader/context_system.md": "4ffc501493bbf502c7699a7c7395139ade7c2d67b5e1d17fd1f7f84e9816cba8",
+    "open_story_engine/prompts/reader/state_extract.md": "2d752e4330615ccba4a77e1f33e4b287286a9cbe153689d413ff603565f483df",
+    "open_story_engine/reader_choices.py": "a732e2581ba5ed42bc3c9c0bfecf77825e236024f9766c4f99427a93da4085b7",
+    "web/src/api/types.ts": "2ab14088fff49b577c90a52229e632c85a3e3cc0ce0c16d5023f6b9cc61e34e7",
+    "open_story_engine/story_journey.py": "5f2a03c161f307e6dd1903b7d849973b28fb832b8701a5df8f33bff35d1a6ca4",
+    "tests_api/test_story_journey.py": "22ac310d4d7251aad11aefc7f126ae08340354ecae52aa1a6feaf21d8c3042be",
+    "docs/story-journey-length-2026-09-29.md": "06a66be671441b5d1e279ab643f69e238de9cee861ebba4604cbc8af02441361"
+  },
+  "note": "未提交工作区。API 608 项通过后只补全终局输出示例，最终 51 项相关测试通过；真实第 23 回合使用最终代码和提示，并返回与正文绑定的终局。核心 663 项为前期全量，后续改动已在相关测试与 API 回归中验证。"
+}

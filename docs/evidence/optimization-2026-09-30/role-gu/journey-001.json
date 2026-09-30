@@ -1,0 +1,209 @@
+{
+  "branch_id": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+  "threads": [
+    {
+      "id": "opening-thread-1",
+      "title": "木牌刻痕里为何有金屑",
+      "status": "open",
+      "source": "opening",
+      "openedBranchId": null,
+      "causeBranchId": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+      "reason": "顾长离已向陆照临说明金屑疑点，陆照临认为刻规矩的人手上不会有金粉，但来源仍未查明。",
+      "evidence": "“你看这里。”你把木牌递到陆照临面前，没有绕弯子，“刻痕里的泥不干净，混着金屑。我刮了一粒下来，包在纸里。”\n\n陆照临没有立刻接木牌，先低头看了两眼，才伸手托住牌角。他翻到背面，又翻回正面，拇指在“青露草”三个字上蹭了一下，像在确认什么。\n\n“金屑。”他重复了一遍，声音不高，“刻规矩的人，手上不会有金粉。”",
+      "priority": "normal",
+      "recoveryWindow": "mid"
+    },
+    {
+      "id": "opening-thread-2",
+      "title": "如何完成第一场外门试炼",
+      "status": "open",
+      "source": "opening",
+      "openedBranchId": null,
+      "causeBranchId": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+      "reason": "钟声已响，试炼正式开始，顾长离与陆照临正沿石径往后坡药圃走。",
+      "evidence": "钟声就在这时响了。\n\n第一声撞在石壁上，余音还没散，第二声已经追上来。场边的执事抬起手，朝后坡方向一挥，人群便像被风吹开的草籽一样散出去。你和陆照临几乎同时迈步，沿着石径往后坡走。药圃的竹篱已经在望，篱外一条白线横在草叶间，被晨露浸得发亮。",
+      "priority": "high",
+      "recoveryWindow": "immediate"
+    }
+  ],
+  "goals": [
+    {
+      "id": "opening-goal-1",
+      "title": "木牌刻痕里为何有金屑",
+      "status": "active",
+      "characterId": "character_e663361ab1c7",
+      "dependencies": [],
+      "source": "player_branch",
+      "evidence": "“你看这里。”你把木牌递到陆照临面前，没有绕弯子，“刻痕里的泥不干净，混着金屑。我刮了一粒下来，包在纸里。”\n\n陆照临没有立刻接木牌，先低头看了两眼，才伸手托住牌角。他翻到背面，又翻回正面，拇指在“青露草”三个字上蹭了一下，像在确认什么。\n\n“金屑。”他重复了一遍，声音不高，“刻规矩的人，手上不会有金粉。”",
+      "causeBranchId": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+      "reason": "顾长离已把金屑疑点告知陆照临，但金屑来源仍未查明。",
+      "successor": ""
+    },
+    {
+      "id": "opening-goal-2",
+      "title": "如何完成第一场外门试炼",
+      "status": "active",
+      "characterId": "character_e663361ab1c7",
+      "dependencies": [],
+      "source": "player_branch",
+      "evidence": "钟声就在这时响了。\n\n第一声撞在石壁上，余音还没散，第二声已经追上来。场边的执事抬起手，朝后坡方向一挥，人群便像被风吹开的草籽一样散出去。你和陆照临几乎同时迈步，沿着石径往后坡走。药圃的竹篱已经在望，篱外一条白线横在草叶间，被晨露浸得发亮。",
+      "causeBranchId": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+      "reason": "钟声已响，试炼正式开始，顾长离与陆照临沿石径往后坡药圃走。",
+      "successor": ""
+    }
+  ],
+  "playthrough_length": {
+    "target_minutes": 150,
+    "typical_minutes": [
+      120,
+      180
+    ],
+    "target_cjk": 30000,
+    "consumed_cjk": 866,
+    "completed_turns": 1,
+    "estimate_only": true
+  },
+  "ledger_coverage": {
+    "goals": "recorded",
+    "threads": "recorded"
+  },
+  "role_name": "顾长离",
+  "goal": "木牌刻痕里为何有金屑；如何完成第一场外门试炼",
+  "progress": null,
+  "progress_label": "本路线历程",
+  "choices_made": 1,
+  "milestones": [],
+  "current_task": "木牌刻痕里为何有金屑",
+  "status": "active",
+  "feedback": [
+    "顾长离把木牌刻痕里的金屑指给陆照临看，并说明自己刮下一粒包在纸里。陆照临看过木牌后说刻规矩的人手上不会有金粉。顾长离将纸包折好收进贴身衣袋，提出同行条件：不越白线、不争抢、不伤人。陆照临答应同行，但声明自己只为过试炼，不会陪她查金屑、也不陪她靠近白线。钟声响起，执事挥手放行，两人沿石径往后坡药圃走去，白线已在望。",
+    "来到石径"
+  ],
+  "clues": [
+    "你已看过木牌三遍，刮出一粒金屑并包进纸里。",
+    "试炼要求日落前取回青露草，另有白线、禁止争抢伤人和进入封闭区域的规定。",
+    "你听过北河城，刚与陆照临互通姓名。"
+  ],
+  "people": [
+    {
+      "id": "character_ae4cb42b9b49",
+      "name": "陆照临",
+      "is_player": false,
+      "first_page": 1,
+      "last_page": 2,
+      "identity": "身份随剧情逐渐明确",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_ecb1fbac-8dfc-4368-970e-af37f2ca5b7c",
+        "page": 1,
+        "quote": "有人问你是否认识这块木头。你回了一句反问，才报上自己的名字：顾长离。他叫陆照临。你听过北河城，却不认识他；这只是第一次互通姓名，他为何来到这里，你还不知道。",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": "/images/taixu-lu-zhaolin-v1.png",
+        "source": "published",
+        "fallback_key": "person-6"
+      },
+      "status": {
+        "code": "unknown",
+        "label": "状态未确认",
+        "permanence": null,
+        "evidence": null
+      }
+    },
+    {
+      "id": "character_e663361ab1c7",
+      "name": "顾长离",
+      "is_player": true,
+      "first_page": 1,
+      "last_page": 2,
+      "identity": "玄霄宗的新弟子，观察细致，话语冷淡。第一次外门试炼将开始，你却先发现了木牌上的…",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_ecb1fbac-8dfc-4368-970e-af37f2ca5b7c",
+        "page": 1,
+        "quote": "你把木牌翻到背面。日落前取回青露草，越过白线便取消资格——规矩刻得清楚，刻痕里的黑泥却夹着一点金屑。你已刮下一粒，用纸包好。",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": "/images/taixu-gu-changli-v1.png",
+        "source": "published",
+        "fallback_key": "person-8"
+      },
+      "status": {
+        "code": "unknown",
+        "label": "状态未确认",
+        "permanence": null,
+        "evidence": null
+      }
+    },
+    {
+      "id": "character_lu_zhaolin",
+      "name": "陆照临",
+      "is_player": false,
+      "first_page": 1,
+      "last_page": 2,
+      "identity": "身份随剧情逐渐明确",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_ecb1fbac-8dfc-4368-970e-af37f2ca5b7c",
+        "page": 1,
+        "quote": "有人问你是否认识这块木头。你回了一句反问，才报上自己的名字：顾长离。他叫陆照临。你听过北河城，却不认识他；这只是第一次互通姓名，他为何来到这里，你还不知道。",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": null,
+        "source": "preset",
+        "fallback_key": "person-7"
+      },
+      "status": {
+        "code": "unknown",
+        "label": "状态未确认",
+        "permanence": null,
+        "evidence": null
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source": "character_e663361ab1c7",
+      "target": "character_lu_zhaolin",
+      "label": "刚认识姓名",
+      "evidence": "刚认识姓名，没有共同调查或过命交情。",
+      "page": 1,
+      "origin": "opening"
+    }
+  ],
+  "recap": [
+    {
+      "branch_id": "branch_6cad56a2-25df-43de-94c0-e42452a26d51",
+      "action": "我向陆照临说明木牌上的疑点，把纸包收好，问他愿不愿意在不越过白线、不争抢伤人的前提下同行参加试炼；听取他的答复，再一起等钟响。",
+      "effects": [
+        "顾长离把木牌刻痕里的金屑指给陆照临看，并说明自己刮下一粒包在纸里。陆照临看过木牌后说刻规矩的人手上不会有金粉。顾长离将纸包折好收进贴身衣袋，提出同行条件：不越白线、不争抢、不伤人。陆照临答应同行，但声明自己只为过试炼，不会陪她查金屑、也不陪她靠近白线。钟声响起，执事挥手放行，两人沿石径往后坡药圃走去，白线已在望。",
+        "来到石径",
+        "新增目标：木牌刻痕里为何有金屑",
+        "新增目标：如何完成第一场外门试炼"
+      ]
+    }
+  ],
+  "lineage": [
+    "branch_ecb1fbac-8dfc-4368-970e-af37f2ca5b7c",
+    "branch_6cad56a2-25df-43de-94c0-e42452a26d51"
+  ],
+  "route_health": {
+    "signals": [],
+    "review_recommended": false,
+    "window": 3,
+    "unchanged_state_turns": 0,
+    "repeated_action_turns": 1,
+    "source_progress_streak": 1,
+    "closure_readiness": "needs_explanation",
+    "closure_outstanding_count": 4,
+    "ending_written": false,
+    "note": "停滞信号与收束清单仅作路线诊断；不表示应强制结束，也不表示自然结局已写成。"
+  },
+  "location": "石径"
+}

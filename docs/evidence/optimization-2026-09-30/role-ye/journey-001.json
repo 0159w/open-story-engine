@@ -1,0 +1,239 @@
+{
+  "branch_id": "branch_9252d7e6-bbb2-463f-b257-e8057995c2ae",
+  "threads": [
+    {
+      "id": "opening-thread-1",
+      "title": "沈砚秋删去陆沉舟记录的责任",
+      "status": "open",
+      "source": "opening",
+      "openedBranchId": null,
+      "causeBranchId": "branch_9252d7e6-bbb2-463f-b257-e8057995c2ae",
+      "reason": "沈砚秋已当众说明删改内容与依据并出示原件，但责任认定与处理尚未完成。",
+      "evidence": "“第一处。”她将最上面一页摊平，手指点在一行被墨涂去的字迹旁，“《太虚遗录》卷三‘外门录’中，原有‘陆沉舟’三字，注‘天门初开时执灯者’。我删去此名，改注为‘佚名’。”\n\n她抬眼看向你，又看向长老席。\n\n“依据是当年执事堂旧例：凡未入祖师殿正册者，不得以本名载入外门录。陆沉舟之名不在正册，我便按例删改。”\n\n一位长老当即开口：“旧例确有这一条。但正册为何没有他？”\n\n沈砚秋没有接这句，只将第二页原件推出来。那页上有一道明显的撕痕，缺了右下角。\n\n“第二处。《太虚遗录》卷五‘天门记’中，有一段关于最初残印出山的记载。原文写‘残印自陆氏出’，我改为‘残印自外门出’。依据是执事堂收到的一封无名笺，笺上说陆氏之名不宜与天门并载，以免后人追索。”\n\n“无名笺还在吗？”你问。\n\n“在。”她从布囊最底层抽出一张折痕深重的短笺，递到石案中央。笺上字迹潦草，没有落款，也没有印鉴。你伸手翻看，纸是寻常竹纸，墨色已旧，确实无法从笺本身判断出自谁手。\n\n“第三处。”沈砚秋的声音低了些，“卷七‘山门录’中，陆照临的名字旁原有小注‘曾执残印归山’。我删去小注，只留姓名。依据是……我自己的判断。当时我以为，残印归山一事若与陆照临并载，会让人以为宗门早知残印来历而未报。”\n\n殿中有人轻轻吸了口气。这一条，她承认没有旧例可依。\n\n你没有立刻回应，只将三页原件与《太虚遗录》对应处并排。卷三那行涂改后的“佚名”与原件上被墨盖住的“陆沉舟”三字，在光下能看出墨层厚薄不同——原件墨色沉入纸纹，涂改处浮在表面。卷五的“外门出”与原件“陆氏出”笔画走向一致，确系同一底本。卷七的小注位置留有一道极细的刮痕，纸面比其他地方薄。\n\n这些，是当场能看见的。\n\n“卷三、卷五的删改，与原件对照可确认。”你说，“卷七小注被刮去，痕迹可确认，但刮去的内容只能依据沈执事口述，原件上已无字可验。”\n\n沈砚秋点头：“是。卷七那一页，我手里没有留下未刮的底本。”\n\n长老席上有人低声议论。先前开口的那位长老又问：“无名笺上说的‘陆氏’，与陆照临、陆沉舟是否同族，笺中未提。这条待查。”\n\n“待查。”你应道。\n\n沈砚秋将布囊中剩余几页也取了出来，一共七页，其中三页有删改痕迹，两页是誊抄副本，两页是空白旧纸。她逐页说明来源：三页删改原件来自执事堂旧档匣，两页誊抄副本是她当年为备查另录，空白旧纸是同一批档纸的余页。\n\n“誊抄副本与原件是否一致？”你问。\n\n“卷三、卷五一致。卷七副本上，小注仍在。”她将卷七副本推过来。果然，副本上“曾执残印归山”六字清晰可辨，墨色与正文一致，但副本纸边有裁切痕迹，无法确定裁自何处。\n\n你让人取来纸笔，将当场可核实的内容逐条录下：卷三原件有“陆沉舟”三字被涂改，卷五原件有“陆氏出”被改为“外门出”，卷七原件小注被刮去、副本存有原文，无名笺无落款无印鉴。每录一条，你便让沈砚秋确认，再让 nearest 的长老过目。\n\n沈砚秋站在石案旁，没有坐下。她的手指始终按在布囊边缘，指节发白。等到最后一条录完，她才开口：“掌门，卷七小注是我判断失误。当时我以为不载更妥，如今看，是我替宗门做了不该由我做的决定。”",
+      "priority": "high",
+      "recoveryWindow": "near"
+    },
+    {
+      "id": "opening-thread-2",
+      "title": "玄霄宗是否承认旧档案的错误",
+      "status": "open",
+      "source": "opening",
+      "openedBranchId": null,
+      "causeBranchId": "branch_9252d7e6-bbb2-463f-b257-e8057995c2ae",
+      "reason": "掌门已启动当众对照与记录，但宗门是否正式承认错误尚未决定。",
+      "evidence": "你让人取来纸笔，将当场可核实的内容逐条录下：卷三原件有“陆沉舟”三字被涂改，卷五原件有“陆氏出”被改为“外门出”，卷七原件小注被刮去、副本存有原文，无名笺无落款无印鉴。每录一条，你便让沈砚秋确认，再让 nearest 的长老过目。\n\n沈砚秋站在石案旁，没有坐下。她的手指始终按在布囊边缘，指节发白。等到最后一条录完，她才开口：“掌门，卷七小注是我判断失误。当时我以为不载更妥，如今看，是我替宗门做了不该由我做的决定。”\n\n她没有说“我认罪”，也没有说“我没错”。只把这一句放在众人面前。\n\n殿外山风又起，吹得石案上的纸页微微翻动。你按住那张无名笺，抬头看向长老席。\n\n“今日记下的，是能对照的。不能对照的，标待查。”你说，“至于这些删改该算什么，等查完再说。”\n\n长老们没有立刻应声。先前那位长老看了看原件，又看了看沈砚秋，最终只点了一下头。沈砚秋将七页原件收回布囊，却没有系紧袋口，仿佛在等下一句话。",
+      "priority": "high",
+      "recoveryWindow": "near"
+    }
+  ],
+  "goals": [
+    {
+      "id": "opening-goal-1",
+      "title": "沈砚秋删去陆沉舟记录的责任",
+      "status": "active",
+      "characterId": "character_2cf2b083593b",
+      "dependencies": [],
+      "source": "opening",
+      "evidence": "你坐在祖师殿前听见对旧档案的追问，掌门身份要求你先面对被删去的名字。",
+      "causeBranchId": null
+    },
+    {
+      "id": "opening-goal-2",
+      "title": "玄霄宗是否承认旧档案的错误",
+      "status": "active",
+      "characterId": "character_2cf2b083593b",
+      "dependencies": [],
+      "source": "opening",
+      "evidence": "你坐在祖师殿前听见对旧档案的追问，掌门身份要求你先面对被删去的名字。",
+      "causeBranchId": null
+    }
+  ],
+  "playthrough_length": {
+    "target_minutes": 150,
+    "typical_minutes": [
+      120,
+      180
+    ],
+    "target_cjk": 30000,
+    "consumed_cjk": 1636,
+    "completed_turns": 1,
+    "estimate_only": true
+  },
+  "ledger_coverage": {
+    "goals": "recorded",
+    "threads": "recorded"
+  },
+  "role_name": "叶青冥",
+  "goal": "沈砚秋删去陆沉舟记录的责任；玄霄宗是否承认旧档案的错误",
+  "progress": null,
+  "progress_label": "本路线历程",
+  "choices_made": 1,
+  "milestones": [],
+  "current_task": "沈砚秋删去陆沉舟记录的责任",
+  "status": "active",
+  "feedback": [
+    "叶青冥以掌门身份当众要求沈砚秋逐项说明删改内容与依据，并取出仍持有的原件对照。沈砚秋出示七页旧纸，说明卷三删去“陆沉舟”改注“佚名”、卷五将“残印自陆氏出”改为“外门出”、卷七刮去陆照临旁小注；卷三、卷五与原件对照可确认，卷七刮痕可确认但内容仅凭口述，无名笺无落款无印鉴。叶青冥命人逐条录下可核实内容，无法核实者标待查，",
+    "来到石案旁"
+  ],
+  "clues": [
+    "玄霄宗山门外站满了要求说法的人。",
+    "宗门最初的残印、最早的天门记录和陆照临的名字都曾从山门中走出去。",
+    "沈砚秋已经捧着《太虚遗录》进入祖师殿，并承认删去旧记录。"
+  ],
+  "people": [
+    {
+      "id": "character_aa4580d38571",
+      "name": "沈砚秋",
+      "is_player": false,
+      "first_page": 1,
+      "last_page": 2,
+      "identity": "身份随剧情逐渐明确",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_54db609a-165d-41ed-8763-59eafa413b63",
+        "page": 1,
+        "quote": "沈砚秋捧着《太虚遗录》走进来，承认自己曾删去旧记录。你知道掌门的第一句话会决定众人是否把责难继续推给一个人，也决定宗门是否承认自己曾经参与过错误。",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": "/images/taixu-shen-yanqiu-v1.png",
+        "source": "published",
+        "fallback_key": "person-1"
+      },
+      "status": {
+        "code": "unknown",
+        "label": "状态未确认",
+        "permanence": null,
+        "evidence": null
+      }
+    },
+    {
+      "id": "character_2cf2b083593b",
+      "name": "叶青冥",
+      "is_player": true,
+      "first_page": 1,
+      "last_page": 2,
+      "identity": "玄霄宗掌门，肩负宗门秩序与传承。面对旧事的追问，他必须以掌门身份作出回应",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_54db609a-165d-41ed-8763-59eafa413b63",
+        "page": 1,
+        "quote": "你坐在祖师殿前最高的石阶上，手边放着断剑。山门外的人要求玄霄宗交代最初的残印、天门记录和陆照临的名字从何处走出；殿中的长老仍想用一套统一档案重新建立秩序。",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": "/images/taixu-ye-qingming-v1.png",
+        "source": "published",
+        "fallback_key": "person-5"
+      },
+      "status": {
+        "code": "unknown",
+        "label": "状态未确认",
+        "permanence": null,
+        "evidence": null
+      }
+    },
+    {
+      "id": "character_shen_yanqiu",
+      "name": "沈砚秋",
+      "is_player": false,
+      "first_page": 1,
+      "last_page": 2,
+      "identity": "身份随剧情逐渐明确",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_54db609a-165d-41ed-8763-59eafa413b63",
+        "page": 1,
+        "quote": "沈砚秋捧着《太虚遗录》走进来，承认自己曾删去旧记录。你知道掌门的第一句话会决定众人是否把责难继续推给一个人，也决定宗门是否承认自己曾经参与过错误。",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": null,
+        "source": "preset",
+        "fallback_key": "person-2"
+      },
+      "status": {
+        "code": "unknown",
+        "label": "状态未确认",
+        "permanence": null,
+        "evidence": null
+      }
+    },
+    {
+      "id": "character_elder_group",
+      "name": "长老",
+      "is_player": false,
+      "first_page": 2,
+      "last_page": 2,
+      "identity": "身份随剧情逐渐明确",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_9252d7e6-bbb2-463f-b257-e8057995c2ae",
+        "page": 2,
+        "quote": "长老们没有立刻应声。先前那位长老看了看原件，又看了看沈砚秋，最终只点了一下头。沈砚秋将七页原件收回布囊，却没有系紧袋口，仿佛在等下一句话。",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": null,
+        "source": "preset",
+        "fallback_key": "person-5"
+      },
+      "status": {
+        "code": "unknown",
+        "label": "状态未确认",
+        "permanence": null,
+        "evidence": null
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source": "character_2cf2b083593b",
+      "target": "character_shen_yanqiu",
+      "label": "玄霄宗执事",
+      "evidence": "玄霄宗执事，正被追问删去陆沉舟记录的责任。",
+      "page": 1,
+      "origin": "opening"
+    },
+    {
+      "source": "character_2cf2b083593b",
+      "target": "character_elder_group",
+      "label": "相遇",
+      "evidence": "她抬眼看向你，又看向长老席",
+      "page": 2
+    }
+  ],
+  "recap": [
+    {
+      "branch_id": "branch_9252d7e6-bbb2-463f-b257-e8057995c2ae",
+      "action": "我让沈砚秋当众说明她删改了哪些记录、依据是什么，并取出还在手上的原件逐项对照；只记录能当场核实的内容，不替任何人认罪。",
+      "effects": [
+        "叶青冥以掌门身份当众要求沈砚秋逐项说明删改内容与依据，并取出仍持有的原件对照。沈砚秋出示七页旧纸，说明卷三删去“陆沉舟”改注“佚名”、卷五将“残印自陆氏出”改为“外门出”、卷七刮去陆照临旁小注；卷三、卷五与原件对照可确认，卷七刮痕可确认但内容仅凭口述，无名笺无落款无印鉴。叶青冥命人逐条录下可核实内容，无法核实者标待查，",
+        "来到石案旁",
+        "新增目标：沈砚秋删去陆沉舟记录的责任",
+        "新增目标：玄霄宗是否承认旧档案的错误"
+      ]
+    }
+  ],
+  "lineage": [
+    "branch_54db609a-165d-41ed-8763-59eafa413b63",
+    "branch_9252d7e6-bbb2-463f-b257-e8057995c2ae"
+  ],
+  "route_health": {
+    "signals": [],
+    "review_recommended": false,
+    "window": 3,
+    "unchanged_state_turns": 0,
+    "repeated_action_turns": 1,
+    "source_progress_streak": 1,
+    "closure_readiness": "needs_explanation",
+    "closure_outstanding_count": 4,
+    "ending_written": false,
+    "note": "停滞信号与收束清单仅作路线诊断；不表示应强制结束，也不表示自然结局已写成。"
+  },
+  "location": "石案旁"
+}

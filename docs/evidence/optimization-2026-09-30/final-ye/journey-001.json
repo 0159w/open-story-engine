@@ -1,0 +1,210 @@
+{
+  "branch_id": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+  "threads": [
+    {
+      "id": "opening-thread-1",
+      "title": "沈砚秋删去陆沉舟记录的责任",
+      "status": "open",
+      "source": "opening",
+      "openedBranchId": null,
+      "causeBranchId": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+      "reason": "叶青冥已将记录交出，但沈砚秋删改旧记录的责任尚未实际查清或处置。",
+      "evidence": "“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。",
+      "priority": "high",
+      "recoveryWindow": "near"
+    },
+    {
+      "id": "opening-thread-2",
+      "title": "玄霄宗是否承认旧档案的错误",
+      "status": "open",
+      "source": "opening",
+      "openedBranchId": null,
+      "causeBranchId": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+      "reason": "叶青冥当众承认自己参与错误，但宗门是否正式承认、如何回应山门外质问，仍待长老会与沈砚秋处理。",
+      "evidence": "“我知道。”你看着他，“最初的残印、最早的天门记录、陆照临的名字，都曾从玄霄宗走出去。这些决定里有我一份。我不再以掌门身份查下去，是因为掌门这个位置本身，就是当年那些决定的一部分。”\n\n你转向沈砚秋。她抬着头，眼眶发红，却没有躲开你的目光。\n\n“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。\n\n“掌门之位空着，由长老会暂理宗门日常。”你继续说，“山门外的人要问什么，你们答什么。答不出的，就记下来，别再用一套统一档案把名字盖过去。”",
+      "priority": "high",
+      "recoveryWindow": "near"
+    }
+  ],
+  "goals": [
+    {
+      "id": "opening-goal-1",
+      "title": "沈砚秋删去陆沉舟记录的责任",
+      "status": "transformed",
+      "characterId": "character_2cf2b083593b",
+      "dependencies": [],
+      "source": "player_branch",
+      "evidence": "“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。",
+      "causeBranchId": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+      "reason": "叶青冥将旧案记录与原件交出，不再以掌门身份主导追查，该目标转为由沈砚秋与长老共同查证。",
+      "successor": "new-1"
+    },
+    {
+      "id": "opening-goal-2",
+      "title": "玄霄宗是否承认旧档案的错误",
+      "status": "transformed",
+      "characterId": "character_2cf2b083593b",
+      "dependencies": [],
+      "source": "player_branch",
+      "evidence": "“我知道。”你看着他，“最初的残印、最早的天门记录、陆照临的名字，都曾从玄霄宗走出去。这些决定里有我一份。我不再以掌门身份查下去，是因为掌门这个位置本身，就是当年那些决定的一部分。”\n\n你转向沈砚秋。她抬着头，眼眶发红，却没有躲开你的目光。\n\n“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。\n\n“掌门之位空着，由长老会暂理宗门日常。”你继续说，“山门外的人要问什么，你们答什么。答不出的，就记下来，别再用一套统一档案把名字盖过去。”",
+      "causeBranchId": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+      "reason": "叶青冥当众承认宗门与自己曾参与错误，但将是否正式承认与如何查证交由长老会与沈砚秋处理。",
+      "successor": "new-2"
+    },
+    {
+      "id": "goal-5aebc94c06f7babf",
+      "title": "new-1",
+      "status": "active",
+      "dependencies": [],
+      "reason": "叶青冥将旧案记录与原件交出，不再以掌门身份主导追查，该目标转为由沈砚秋与长老共同查证。",
+      "evidence": "“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。",
+      "successor": "new-1",
+      "characterId": "character_2cf2b083593b",
+      "source": "player_branch",
+      "causeBranchId": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+      "previousGoalId": "opening-goal-1"
+    },
+    {
+      "id": "goal-26d4c7110d5c6dad",
+      "title": "new-2",
+      "status": "active",
+      "dependencies": [],
+      "reason": "叶青冥当众承认宗门与自己曾参与错误，但将是否正式承认与如何查证交由长老会与沈砚秋处理。",
+      "evidence": "“我知道。”你看着他，“最初的残印、最早的天门记录、陆照临的名字，都曾从玄霄宗走出去。这些决定里有我一份。我不再以掌门身份查下去，是因为掌门这个位置本身，就是当年那些决定的一部分。”\n\n你转向沈砚秋。她抬着头，眼眶发红，却没有躲开你的目光。\n\n“《太虚遗录》和现有的旧案记录、原件，我不带走，也不销毁。”你说，“交给沈砚秋与诸位长老共同保管、共同查证。谁删过什么，谁签过什么，都摆到明面上来。查证的结果，不必再经掌门一人点头。”\n\n沈砚秋的嘴唇动了动，像要说什么，最后只是深深一揖，把《太虚遗录》抱得更稳。几位长老交换着眼色，有人皱眉，有人沉默，先前那位站起来的长老缓缓坐了回去，没有立刻应声，也没有阻拦。\n\n“掌门之位空着，由长老会暂理宗门日常。”你继续说，“山门外的人要问什么，你们答什么。答不出的，就记下来，别再用一套统一档案把名字盖过去。”",
+      "successor": "new-2",
+      "characterId": "character_2cf2b083593b",
+      "source": "player_branch",
+      "causeBranchId": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+      "previousGoalId": "opening-goal-2"
+    }
+  ],
+  "playthrough_length": {
+    "target_minutes": 150,
+    "typical_minutes": [
+      120,
+      180
+    ],
+    "target_cjk": 30000,
+    "consumed_cjk": 936,
+    "completed_turns": 1,
+    "estimate_only": true
+  },
+  "ledger_coverage": {
+    "goals": "recorded",
+    "threads": "recorded"
+  },
+  "role_name": "叶青冥",
+  "goal": "new-1；new-2",
+  "progress": null,
+  "progress_label": "本路线历程",
+  "choices_made": 1,
+  "milestones": [],
+  "current_task": "new-1",
+  "status": "active",
+  "feedback": [
+    "叶青冥在祖师殿前当众宣布辞去玄霄宗掌门之位，承认最初的残印、天门记录与陆照临之名都曾从玄霄宗走出，其中也有自己一份责任。他将《太虚遗录》及旧案记录、原件交由沈砚秋与长老共同保管查证，不再以掌门身份主导调查；掌门之位暂由长老会代理，山门外来人的质问由宗门自行回应。随后他未取断剑，独自走下石阶，离开山门，自称去做个普通人。",
+    "来到通往山下的路"
+  ],
+  "clues": [
+    "玄霄宗山门外站满了要求说法的人。",
+    "宗门最初的残印、最早的天门记录和陆照临的名字都曾从山门中走出去。",
+    "沈砚秋已经捧着《太虚遗录》进入祖师殿，并承认删去旧记录。"
+  ],
+  "people": [
+    {
+      "id": "character_aa4580d38571",
+      "name": "沈砚秋",
+      "is_player": false,
+      "first_page": 1,
+      "last_page": 2,
+      "identity": "身份随剧情逐渐明确",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_e2b93d9e-afe5-4cf9-8c97-8902b7cf4560",
+        "page": 1,
+        "quote": "沈砚秋捧着《太虚遗录》走进来，承认自己曾删去旧记录。你知道掌门的第一句话会决定众人是否把责难继续推给一个人，也决定宗门是否承认自己曾经参与过错误。",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": "/images/taixu-shen-yanqiu-v1.png",
+        "source": "published",
+        "fallback_key": "person-1"
+      },
+      "status": {
+        "code": "unknown",
+        "label": "状态未确认",
+        "permanence": null,
+        "evidence": null
+      }
+    },
+    {
+      "id": "character_2cf2b083593b",
+      "name": "叶青冥",
+      "is_player": true,
+      "first_page": 1,
+      "last_page": 2,
+      "identity": "玄霄宗掌门，肩负宗门秩序与传承。面对旧事的追问，他必须以掌门身份作出回应",
+      "summary": "立场与经历，随着你的探索逐渐明晰。",
+      "summarized": false,
+      "name_evidence": {
+        "branch_id": "branch_e2b93d9e-afe5-4cf9-8c97-8902b7cf4560",
+        "page": 1,
+        "quote": "你坐在祖师殿前最高的石阶上，手边放着断剑。山门外的人要求玄霄宗交代最初的残印、天门记录和陆照临的名字从何处走出；殿中的长老仍想用一套统一档案重新建立秩序。",
+        "source": "narrative"
+      },
+      "portrait": {
+        "url": "/images/taixu-ye-qingming-v1.png",
+        "source": "published",
+        "fallback_key": "person-5"
+      },
+      "status": {
+        "code": "unknown",
+        "label": "状态未确认",
+        "permanence": null,
+        "evidence": null
+      }
+    }
+  ],
+  "relationships": [
+    {
+      "source": "character_2cf2b083593b",
+      "target": "character_aa4580d38571",
+      "label": "玄霄宗执事",
+      "evidence": "玄霄宗执事，正被追问删去陆沉舟记录的责任。",
+      "page": 1,
+      "origin": "opening"
+    }
+  ],
+  "recap": [
+    {
+      "branch_id": "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1",
+      "action": "我当众宣布辞去掌门之位，承担过去决定的责任，将现有旧案记录和原件交由沈砚秋与长老共同保管查证。我独自下山做普通人，不再以掌门身份继续旧案调查。",
+      "effects": [
+        "叶青冥在祖师殿前当众宣布辞去玄霄宗掌门之位，承认最初的残印、天门记录与陆照临之名都曾从玄霄宗走出，其中也有自己一份责任。他将《太虚遗录》及旧案记录、原件交由沈砚秋与长老共同保管查证，不再以掌门身份主导调查；掌门之位暂由长老会代理，山门外来人的质问由宗门自行回应。随后他未取断剑，独自走下石阶，离开山门，自称去做个普通人。",
+        "来到通往山下的路",
+        "目标已转化：沈砚秋删去陆沉舟记录的责任",
+        "目标已转化：玄霄宗是否承认旧档案的错误",
+        "新增目标：new-1",
+        "新增目标：new-2"
+      ]
+    }
+  ],
+  "lineage": [
+    "branch_e2b93d9e-afe5-4cf9-8c97-8902b7cf4560",
+    "branch_c4ef2ca8-b974-4222-91da-51e2f57f20b1"
+  ],
+  "route_health": {
+    "signals": [],
+    "review_recommended": false,
+    "window": 3,
+    "unchanged_state_turns": 0,
+    "repeated_action_turns": 1,
+    "source_progress_streak": 1,
+    "closure_readiness": "needs_explanation",
+    "closure_outstanding_count": 4,
+    "ending_written": false,
+    "note": "停滞信号与收束清单仅作路线诊断；不表示应强制结束，也不表示自然结局已写成。"
+  },
+  "location": "通往山下的路"
+}
